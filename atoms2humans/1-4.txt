@@ -1,0 +1,147 @@
+1.4 The Order of Order 1. 4
+How Order Forms
+Dr. Dan Moore and Dr. Brian Tonks, Geology & Physics Departments, BYU-Idaho
+
+Look deep into nature, and then you will understand everything better. —Albert Einstein
+Learning Objectives:
+● Understand and be able to identify each of the following: order, disorder, emergent order, agent-
+designed construc on, and lawful self-assembly.
+● Understand how agent-designed assembly produces order and how lawful self-assembly produces
+order.
+● Evaluate examples of ordered systems and identify how the order arose—through agent-designed
+assembly or through lawfully self-assembly.
+
+Having completed a brief introduc on to truth, we turn now to a second central ques on: how
+order emerges in nature. Order is a patterned arrangement of component parts, disorder is a
+random distribu on or chao c mixture of those parts, and emergent order is order that
+spontaneously self-assembles without the interven on of an agent. No doubt you have no ced
+that much of the matter in nature is organized and found in ‘clumps’—in objects like cell
+phones, cats, and planets. Moreover, these organized clumps are generally separated by spaces
+containing less and less-well-organized matter—like the air between your cell phone and cat or
+the mostly-empty space between planets. As you’ll recall, science is the natural human ac vity
+of recognizing and interpre ng patterns—and the clumpiness and order in nature represent
+fundamentally important natural patterns.
+Have you ever wondered where this order comes from?
+In some cases, order forms where agents design and construct it, using component parts like
+bolts and sheet metal that cannot act for themselves. The order found in automobiles arises in
+this way: designers establish the pattern that builders use to assemble the car from fabricated
+parts made of metal, rubber, glass, etc. We refer to this kind of order and the processes that
+produce it as agent-designed assembly. Although humans commonly act as agents in producing
+order, all organisms that inten onally construct patterns likewise act as agents. For example,
+birds build nests and bees build honeycomb. In each case, the animal places ‘unacting parts’
+(like twigs and wax) according to a pattern (the nest or honeycomb).
+Most people understand how agent-designed assembly produces order because that’s the way
+humans create order. Many religious fundamentalists believe that this is the main or only way
+that ordered systems form. However, order also arises naturally from lawful interactions
+between component parts that act for themselves without the interven on of an agent. The
+
+2 between component parts that act for themselves without the interven on of an agent. The
+organized ﬂow of water in a river forms in this way, as do the ordered orbits of planetary bodies
+in our Solar System. In both cases, lawful interactions between components parts cause order
+to emerge from disorder without the interven on of an agent. We refer to this kind of order
+and the processes that produce it as lawful self-assembly.
+Most people are familiar with lawfully-assembled order. atter all, pre y much everyone knows
+that rain forms pools of water because of lawful interactions between rainwater and gravity
+(curvature of space me)—and not because agents build each pool by manipula ng bits of
+water. Strangely, familiarity with lawfully-self-assembled order does not always translate into
+recogni on that lawful self-assembly produces the order found in nature.
+Interes ngly, organisms can act both as agents that assemble patterns or they can be parts in
+lawfully-self-assembled patterns. When humans or termites build houses, they act as agents. In
+contrast, when hungry people spontaneously form a line at the serving table atter the readiness
+of the meal is announced, humans act as parts in the self-assembly of the line. Other examples
+of organisms acting as parts in spontaneously-assembled patterns include a school of ﬁsh that
+forms a pattern to avoid a predator or a group of ﬂying birds that form a pattern to use less
+energy.
+To distinguish between patterns produced by organism-as-agent and organism-as-part, focus on
+what the organism is doing. Agent-assembled patterns result when organisms place ‘parts that
+cannot act for themselves’ according to a pattern, and self-assembled patterns emerge when
+organisms ‘act for themselves’ according to rules. Thus, when beavers build dams they act as
+agents, but when individual coral polyps posi on themselves relative to other members of the
+colony they act as parts in the lawfully-assembled pattern we call coral.
+Signiﬁcantly, self-assembled systems can function during assembly, but agent-assembled
+systems typically cannot. For example, cars aren’t fully functional un l atter every part has been
+placed in its assigned location and connected together according to the design, but streams act
+to move water at all scales—from the smallest rivulet to largest river.
+
+Examples of Order E x a m p l e s o f O r d e r
+
+Now that you understand some basic aspects of how order forms, explore the examples of
+order illustrated in Figure 1.6—a house, chair, and crystal. Take a moment to think deeply about
+each example, and then use the ques ons below to determine whether the order in each
+system self-assembles or is assembled by an agent.
+1. What parts form the ordered pattern?
+2. How do the parts interact? Can they act for themselves or must they be acted upon? Is an
+agent involved in design or assembly?
+3. Can the ordered system fulﬁll its use, function, or purpose at each stage of construc on, or
+only atter full assembly?
+4. Did agent-designed assembly or lawful self-assembly produce the order?
+
+3
+
+Figure 1.6. Images illustrating the order that comprises a house, a chair, and sugar crystals
+grown on a s ck. (Images from Wikimedia)
+atter you answer the ques ons for each example, check your understanding using the answers
+on the last page of this chapter.
+
+How Order Forms H o w O r d e r F o r m s
+
+The systems described above exemplify diﬀerent ways that order can arise from disorder
+(chaos). Interes ngly, some ordered patterns can form via agent-designed assembly or lawful
+self-assembly. A ‘Sierpinski Triangle’ (Figure 1.7) is one such pattern.
+
+Figure 1.7. Le : A pattern known to mathema cians as a ‘Sierpinski triangle’. Middle: The
+starting condi ons for ‘The Chaos Game’. Right: The pattern produced by following the rules of
+‘the game’. (Author illustration; le and right images from Wikimedia)
+For example, there are two ways to form a Sierpinski triangle by agent-designed assembly—
+using a ‘blueprint’ and by following instruc ons. To produce a Sierpinski triangle using a
+blueprint, simply draw the le most pattern (’blueprint’) in Figure 1.7 on a blank sheet of paper.
+You can also create this same pattern by following these instruc ons: on a blank sheet of paper,
+draw an upward-poin ng triangle; then, place dots midway between each point and draw lines
+between the dots; ﬁnally, repeat the dot-and-line step for each upward-poin ng triangle inside
+the original triangle.
+Most people ﬁnd it surprising that the ordered pattern of a Sierpinski Triangle can also form via
+lawful self-assembly—by following the rules (laws) of ‘The Chaos Game’. If you’re interested,
+
+4 lawful self-assembly—by following the rules (laws) of ‘The Chaos Game’. If you’re interested,
+give it a try. The ‘game’ begins with the setup shown at middle in Figure 1.7. (Incidentally, it
+doesn’t matter where you place the starting gray dot.) ‘The game’ is played by repea ng these
+two steps:
+1. Roll your die to identify one of a black labeled dots in Figure 1.7. (For example, if you roll a
+‘3’ use the dot labeled ‘3-4’.)
+2. Draw a dot halfway between the last dot you drew (the gray dot, if you’re just starting) and
+the dot iden ﬁed by your roll of the die.
+atter repea ng these steps several hundred mes, the complex Sierpinski Triangle at right in
+Figure 1.7 begins to emerge. Then, the fully pattern emerges atter ~10,000 iterations.
+Remarkably, no matter how many dots are added, the Sierpinski-Triangle pattern persists—and
+the open spaces never ﬁll. If you don’t believe this, search the Internet for “the Chaos Game”.
+There are several videos and simulations that illustrate the process.
+Whether it’s a Sierpinski Triangle or birds ﬂying in a ‘V’ pattern, order emerges spontaneously
+in law-based systems. This counterintui ve reality is the central message of lawful self-
+assembly. Before proceeding, take a moment to consider your present perspective about what
+produces the order found in physical systems like crystals, humans, and stars. Does an agent or
+agents generate the order found in these and other natural systems, or do lawful interactions
+cause ordered patterns to emerge spontaneously? This important ques on will guide the
+remainder of our journey together.
+
+5
+Answers
+Constructing a House and Assembling a Chair
+1. Houses are built from various types of lumber, cement or stone, wiring, rooﬁng, etc., and
+chairs like the one shown are assembled from prebuilt parts.
+2. The parts of a house or chair can do nothing themselves. Agents must design and build
+them.
+3. Par ally assembled structures like wiring or arm rests cannot ﬁll their function un l
+complete.
+4. The order represented by the house and chair are examples of agent-designed assembly in
+which the designer created a blueprint or instruc ons that the builders followed.
+Forming Candy Crystals
+1. Sugar crystals are built from sugar molecules.
+2. The molecules interact lawfully through collisions and bonding. These interactions do not
+involve an agent.
+3. Par ally assembled sugar crystals retain all the a ributes and functions of fully-developed
+crystals.
+4. The order represented by the sugar crystals is an example of lawful self-assembly. The
+crystalline order emerges spontaneously without the interven on of an agent. (To be fair, in
+this example an agent mixed the ingredients, but this need not be. Crystals such as
+snowﬂakes, hard water deposits, and quartz form spontaneously in nature without the
+involvement of agents.)

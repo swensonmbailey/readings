@@ -1,0 +1,246 @@
+1.3 Line Upon Line 1. 3 L i n e U p o n L i n e
+The Development of Science and Scien ﬁc Ideas
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+No lie can live forever. —Thomas Carlisle
+
+Learning Objectives:
+● Understand and be able to identify each of the following: how falsiﬁcation is used in science, the
+meaning/u lity of falsiﬁed scien ﬁc theories, and how new scien ﬁc theories emerge from earlier
+theories.
+● Illustrate how scien ﬁc theory succession occurs using the transi on from Earth- to Sun-centered
+theories of the Universe and the transi on from Newton’s Theory of Gravitation to Einstein’s
+Theory of Relativity.
+
+Science as a path to truth emerged slowly from a foundation laid in ancient Greece. These early
+thinkers used pure rational thought—reasoned knowledge—to explore reality. They were
+deeply commi ed to the underpinning that humanity is capable of understanding nature, but
+they lacked key aspects of science. Greek philosophers like Plato believed that the senses
+(observations) could not be trusted, that rational thought was the only test of truth about
+nature—because the Greeks believed that their gods rou nely used supernatural powers and
+deceived mortals.
+Despite this limi ng perspective, Plato’s student Aristotle made important progress in eleva ng
+the importance of objective observations—but his commitment to observations as a test for
+truth was inconsistent. Further progress was made as Christianity infused Western Civilization.
+These Christians believed that God created nature and that, as a being of truth, God could not
+lie or deceive. During the Renaissance, this trust grew into a deepened commitment to
+objective observations. In this way, scien ﬁc observations became an important tool in the
+search for truth.
+Today, humanity recognizes the limitations of scien ﬁc underpinnings, but early Greek thinkers
+rigidly considered many underpinnings as unassailable. For example, Plato argued that celes al
+objects like the Sun, Moon, and planets could only move in perfect circles because they were
+perfect objects. Likewise, ancient Greeks rigidly accepted some explanatory models as true—so
+long as they were logically consistent. Despite the tremendous accomplishments of these early
+philosophers, they failed to consistently use observational tests and to appropriately consider
+the limits of underpinnings and explanations. These shortcomings blocked their search for truth
+and weakened their ability to generate practical applications of their explanatory models.
+
+2
+During the Renaissance, modern science emerged as humanity began to place observational
+tes ng in its proper place as the arbiter of truth about how nature works. As science developed,
+humanity was able to approach underpinnings and explanatory models less rigidly and
+recognize practical applications that improve the human experience—such as scien ﬁc
+medicine and modern transportation.
+The development of humanity’s ideas about the Universe beau fully illustrates the emergence
+of modern science and powerfully exempliﬁes the self-correcting nature of scien ﬁc knowledge
+—which results from a commitment to observation as arbiter of truth about the physical world.
+We begin with Aristotle’s no ons about nature, and then track that forward through the ideas
+of Copernicus and Newton to the implications of Einstein’s famous ‘relativity’.
+
+From Reasoned to Discovered Truths
+
+Aristotle’s Universe divided nature into a corrup ble earthly realm made of earth, water, air,
+and ﬁre and an unchanging heavenly sphere composed of quintessence. This model contained
+explanatory power but rigidly embraced gross inaccuracies and produced many logical-but-false
+conclusions. For instance, it asserted that Earth is stationary at the center of the Universe,
+because it is made of the heaviest element. During the Middle Ages, dogma c adherence to
+Aristotelian explanations s ﬂed human progress—including the rejec on of Aristarchus’ more
+accurate Sun-centered model of the Universe.
+Although the Aristotelian Universe seems silly to the modern mind, it provided rational
+explanations for aspects of nature that humanity had observed but could not explain naturally
+—things like rain falling from the sky. Despite these successes, Aristotelian explanations failed
+to accurately describe aspects of nature like the forward mo on of thrown objects and the
+orbits of planets. Sadly, instead of accep ng the inaccuracies and developing better models, the
+ancients and their successors clung tenaciously to their beloved underpinnings and created
+convoluted modiﬁcations that ‘preserved’ false explanations.
+Following the fall of the Roman Empire in the 4th century AD, many Greek and Roman ideas
+were lost to Western Civilization. Then, from ~1000-1400 AD European scholars rediscovered
+these ideas in Arabic libraries, translated them into La n, and began to reintegrate the
+a tudes, assump ons, and explanations of classical an quity into Western Civilization. In areas
+such as governance and natural ‘science’ the ideas of Plato and Aristotle were par cularly
+inﬂuen al.
+This integration, which included the fusion of the Christian plan of salvation and the
+Aristotlelian Universe, exempliﬁed the Western expectation of consistency—the no on that all
+aspects of the Western worldview should comprise a harmonious whole. At the me, many
+non-Western socie es had no such expectation. The integration strategically located humanity
+on Earth’s surface, between the perfect and unchanging home of God in the heavens and the
+disorderly and hellish abode of Satan in Earth’s interior. In this model, righteous souls
+accumulated ‘quintessence’ during life, which carried them into the heavens when they died—
+
+3
+accumulated ‘quintessence’ during life, which carried them into the heavens when they died—
+and disobedient individuals accumulated ‘earth’ during life and sank to join the devil when they
+died.
+In this way, the plan of salvation became inextricably connected to false ideas about nature—
+like the false no on that Earth lies at the center of the Universe. This unfortunate fusion of
+spiritual worldview with falsehoods about the physical world ini ated the common Western
+no on of warring science and religion. For, as humanity began discovering truths about nature,
+dogma c Middle-Age religionists sought to defend spiritual truths using erroneous ideas about
+the physical world. In so doing, they worked vigorously to repress developing scien ﬁc ideas,
+which were true.
+Unfortunately, many modern religionists blindly persevere in this eﬀort by seeking to defend
+important spiritual truths using false no ons about nature. This eﬀort is doomed, for nothing
+good comes of protecting truth with error. Sadly, scien ﬁc dogma sts have returned the favor
+over the centuries, by trying to use true no ons about nature as clubs with which to bludgeon
+spiritual no ons like God’s existence or life’s purpose. This eﬀort is likewise doomed. As you can
+see, the so-called ba le between science and religion is a struggle between scien ﬁc and
+religious dogma sts, not between discovered and revealed knowledge. Lamentably, many well-
+inten oned people are seduced by the siren songs of scien ﬁc and religious fundamentalists.
+Now, let’s return to the development of scien ﬁc ideas. Despite its inaccuracy, the Aristotelian
+model of the Universe was not replaced un l humanity developed a reliable path to discovered
+knowledge in the 1700s, nearly two millennia atter Aristotle died. This path, known today as
+‘science’, uses objective observations and empirical tes ng to identify false explanations of
+nature.
+Some of the individuals that helped develop scien ﬁc explanations of the Universe are shown
+in Figure 1.4. Copernicus, true Renaissance man, was trained in law and medicine, proﬁcient in
+music, active as an administrator of his Catholic parish, and the most inﬂuen al astronomer of
+his generation. Copernicus, who considered Aristotle’s Earth-centered no ons ‘oﬀensive to
+common sense’, used mathema cal arguments to develop a Sun-centered model of the
+Universe. Knowing that the dogma c religionists of his day would punish him for opposing an
+Earth-centered Universe, Copernicus’ Sun-centered model was not published un l just before
+his death. The improved accuracy of his method caused astronomers to adopt his mathema cal
+method as a ‘useful but not real’ tool.
+Before long, the growing importance of objective observation as tests for truth and the work of
+astronomers like Tycho Brahe, Johannes Kepler, and Galileo Galilee grew support for the Sun-
+center Copernican Universe. For example, Tycho’s 1572 observations of comets and a new star
+demonstrated that the heavens change, which falsiﬁed the Aristotelian asser on that the
+heavens were eternally unchanging. Later, Johannes Kepler used Tycho’s observations to
+demonstrate that planets follow oval (ellip cal) paths, not circular paths—which falsiﬁed
+another cherished Greek underpinning. With several dogmas falsiﬁed, humanity began to
+wonder if Greek-philosophy-infused Christian dogmas might be wrong about other things.
+
+4
+
+Figure 1.4. Important individuals in the discovery of progressively more accurate models of the
+Universe. (Author illustration, images from Wikimedia).
+Galileo, o en considered the father of modern science, was among the ﬁrst to make
+astronomical observations using a telescope. His observations of mountains on the Moon,
+changing sunspots, the phases of Venus, and four moons orbi ng Jupiter strengthened the
+growing realization that the Aristotelian worldview was false. What’s more, Galileo’s
+observations of moving objects falsiﬁed the Aristotelian no on that heavier objects fall faster
+than light objects. Galileo’s keen intellect approached the study of mo on by simplifying the
+complexity of moving objects. This approach introduced a new scien ﬁc underpinning called
+reduc onism that strengthened humanity’s ability to learn about natural processes and laid the
+foundation for the work of Isaac Newton.
+Galileo was an aggressive advocate of the Sun-centered Theory of the Universe. As a result,
+The Inquisi on censured him, forced him to recant, and placed him under house arrest for the
+rest of his life. Although this episode has been interpreted in many ways, it certainly
+strengthened an increasingly chilly relationship between science and religion. The work of
+Galileo and predecessors caused many to begin examining the underpinnings humanity used to
+interpret the natural world.
+These and other inspired discoveries began, line upon line, to remove the shackles of
+dogma sm with which Western Civilization was bound and to identify the principles required to
+discover truths about the natural world. This reexamination of underpinnings culminated in the
+work of Sir Isaac Newton, who used key insights to synthesize the work of earlier thinkers. For
+example, Newton formulated laws of mo on and gravitation and a Theory of Gravity. As the
+ﬁrst to explain how Sun-centered planetary systems form, Newton completed the Copernican
+revolu on. Moreover, he established modern science by enshrining observation as the arbiter
+of truth about the natural world.
+In the centuries following Newton, his explanations were tested in as many ways as humanity
+could devise. The numerous conﬁrmations of predicted observations produced extremely high
+conﬁdence that Newton’s ideas were true. Then, in the early 1900s Albert Einstein
+
+5 conﬁdence that Newton’s ideas were true. Then, in the early 1900s Albert Einstein
+demonstrated that Newton’s Theory of Gravity was false, that gravitational forces do not exist.
+Astoundingly, Einstein demonstrated that what we think of as gravity does not result from
+invisible a ractive forces, but from something altogether diﬀerent.
+
+Theory Succession: From Newton to Einstein 
+
+Newton’s Theory of Gravity is tremendously successful at describing how objects move
+in many situations. In fact, for more than two centuries humanity used the very best
+instruments in the most clever ways to try to falsify the Theory of Gravity. We tested the theory
+over and over and over again, in every imaginable way. But humanity could not ﬁnd a situation
+that wasn’t accurately described by Newton's Theory of Gravity. The theory worked to explain
+how planets move and objects fall—every single me. Astonishingly, Gravity Theory allowed
+humanity to predict and observe a never-before-seen planet, Neptune. Following so many
+conﬁrmations, humanity's conﬁdence in the validity of this Theory was incredibly high—for
+only very true explanations can so consistently describe things ‘as they are’.
+At the me, humanity rightly considered that the Theory of Gravity was true. How true?
+True enough to correctly explain all the relevant aspects of nature that humanity had observed
+to that point. However—despite centuries of stupendous explanatory success—gravitational
+forces are not real, and Einstein’s work proved it. If it seems confusing that the Theory of
+Gravity can be both 'false' and 'true', don't be too alarmed—you're in good company. Much of
+humanity has yet to master the ideas required to resolve this apparent conundrum.
+If you don’t take the opportunity to understand this, you will struggle to interact productively
+with the scien ﬁc ideas that permeate your life.
+So, what is gravity? To visualize gravity, imagine you swing a ball-on-a-string overhead. When
+you do, the string keeps the ball from ﬂying away. Make sense? Now, similar to the string,
+gravitational forces e planets like Earth to stars like the Sun. So, gravity—the central idea in
+Newton's Theory of Gravity—is an unseen force that pulls objects together. For example,
+dropped objects fall because Earth's gravitational force pulls on them. This is how humanity
+explained the mo on of dropped, thrown, and orbi ng objects from the late 1600s through the
+early 1900s—and it's the idea that most people s ll use to explain these things. But the idea is
+false.
+Observations sugges ng that gravitational forces don’t exist began appearing in the mid-1800s.
+Mercury provided one such example. Try as they might, humanity could not explain Mercury’s
+orbit using gravitational forces. Then, in the early 1900s Albert Einstein iden ﬁed important
+groups of observations that he proposed could not be explained by Newton's Theory of Gravity.
+Eventually, Einstein’s work proved that gravitational forces do not exist. In doing so, Einstein
+demonstrated the limits of applicability of Newton's Theory. In addi on, Einstein developed a
+new theory. This new theory was able to explain all the observations—those that gravity could
+explain and those it could not.
+
+6
+So, what happened to gravity? Humanity replaced this incredibly useful preparatory truth with
+a more-true explanation of how things move called the Theory of Relativity. In this way, limited
+preparatory knowledge, that for a me validly explained all human observations, was replaced
+by more-true preparatory knowledge. Remarkably, recognizing the limits of a preparatory truth
+like gravity doesn’t destroy its u lity. Thus, despite being false, gravity will forever be a valid
+descrip on of the physical world—but only in those areas of nature that it accurately describes.
+In this way, preparatory truths form useful approximations to absolute truths.
+This changing character of scien ﬁc explanations frustrates some. Inexperienced truth seekers
+some mes expect the whole truth 'right now!', and dogma c fundamentalists believe they
+already 'pre y much have the whole truth'. These individuals some mes hold perspectives like
+this, "Those darned scien sts claim to be so certain about everything, but they're always
+changing their minds. I see right through their charade. They use their popularity, pres ge, and
+so-called 'certainty' to foist falsehoods—the philosophies of men—on the unsuspecting, to
+diminish faith, and to carry out Satan's work. Well, I won't be fooled!!!" Perhaps you know
+someone who sees science in this light.
+In contrast, experienced scholarly disciples are not surprised when scien ﬁc explanations
+change, such as when a scien ﬁc theory is falsiﬁed and succeeded by a more-true scien ﬁc
+theory. In fact, they expect this to happen because they recognize that all knowledge—
+discovered, revealed, and reasoned—accumulates 'line upon line, precept upon precept, ... un l
+the perfect day'. In addi on, scholarly disciples do not equate ‘philosophies of men’ with
+scien ﬁc theories. Instead, they recognize that ‘philosophies of men’ are reasoned ideas that
+lack the correspondence with reality that characterizes discovered truths. Importantly, if you
+want all the truth ‘right now!’, prefer to falsely classify discovered knowledge as ‘the
+philosophies of men’, or want to consider the truth you have as 'pre y much all you need',
+searching for truth may be the wrong endeavor for you.
+Notably, remaining deeply commi ed to and defending already-discovered explanations while
+simultaneously searching for more-true replacements produces a dynamic tension that
+characterizes scholarly disciples. Living in this frame of mind tempts some to throw up their
+hands and exclaim, "This is all just way too hard and frustrating. I'll wait un l God sets these
+faithless scien sts straight." A ractive as it seems to some, this approach is deeply ﬂawed.
+Those who choose to ignore the 'lines' God gives us now will likely ﬁnd themselves unprepared
+to understand or acknowledge future revelations and inspired discoveries. Now, lest the bar to
+scholarly discipleship appear una ainably high, we remind that approach,
+desire, and progress are essen al, but accomplishment and location on the path that leads to
+truth are not.
+At this point people are usually anxious to learn how objects actually fall and move. Although
+the full explanation requires years of training, the basic no ons of relativity are within the reach
+of all. The core idea of the Theory of Relativity can be expressed in this simple sentence: Matter
+tells space me how to curve and curved space me tells matter how to move. Read that
+sentence again, and then study Figure 1.5—which illustrates how matter (mass) alters
+
+7 sentence again, and then study Figure 1.5—which illustrates how matter (mass) alters
+space me. As you can see, an object placed on the dimpled grid would ‘fall towards’ or orbit
+the Sun or Earth.
+So, what humanity thought were gravitational forces were in fact the product of curved
+space me. That is, warped space me causes dropped objects to ‘fall’ and orbit. It's true—at
+least far more true than gravity. Like Gravity Theory, the Theory of Relatively could one day be
+replaced by a more-true explanation, but for now it’s the truest explanation humanity has—and
+everyone who cares about truth is really happy to have it.
+
+Figure 1.5. Image illustrating how the Sun and Earth ‘stretch’ or ‘curve’ a grid represen ng two
+dimensions of space me. (Author illustration)
