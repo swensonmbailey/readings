@@ -1,0 +1,292 @@
+1.5 Organizing Order 1. 5 
+How Lawful Self-Assembly Creates Order in Nature
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+Let us permit nature to have her way. She understands her business be er than we do. —Michel
+de Montaigne
+It turns out that an eerie type of chaos can lurk just behind a facade of order—and yet, deep
+inside the chaos lurks an even eerier type of order. ―Douglas R. Hofstadter
+Learning objectives:
+● Understand and be able to identify each of the following: system, system state, parts of a system,
+governing processes, transitions between system states, pushes, and responses. Also, understand
+the role of energy in emergent order in natural systems.
+● Be able to analyze the development of a natural system in terms of a series of system states
+separated by transitions.
+● Understand that God’s Words & Works provide consistent witnesses regarding the origin of order in
+nature.
+
+Order—the patterned arrangement of component parts—dominates some por ons of nature
+while chaos characterizes other areas. Agent-designed order is conceived in minds, assembled
+by agents, and accounts for all human-built order, including the ordered patterns that comprise
+cakes and computers. In contrast, self-assembled order emerges spontaneously through lawful
+interac ons between component parts and produces the order found in natural system like
+con nents and chimpanzees. Most of us understand agent-designed order well because we
+con nuously create in this way. Below, we will help build your intuition of self-assembled order.
+
+Lawful Self Assembly
+If you want to understand a sporing event like a football (soccer) match, it helps to learn about
+each part of the game (the ball, players, goal, and referees), the rules that govern the
+interac ons between the parts, and the purpose of the contest (to put the ball in the goal).
+Understanding the nature and development of ordered systems is no diﬀerent. When studying
+order in nature, we must accurately describe the system we’re studying, the parts that
+comprise the system, the governing processes that cause the parts to interact, and the state of
+the system that results from those interac ons (Figure 1.8).
+The state of a system describes its condition or mode, which can be ordered or disordered.
+Chaos exists in both disordered and ordered states. In disordered states, the chaos dominates.
+In ordered states, ﬁne-scale chaos can make systems unpredictable. As systems change, they
+
+2
+In ordered states, ﬁne-scale chaos can make systems unpredictable. As systems change, they
+can transition from one state to another.
+
+Figure 1.8. Conceptual illustration of a system comprised of interacing component parts.
+Systems, the por on of nature being inves gated, are separated from their surroundings (the
+rest of the Universe) by boundaries. (Adapted from Wikimedia)
+A football (soccer) match illustrates how these conven ons allow us to formally analyze
+systems. In this example, the system boundary is the outer edge of the playing ﬁeld; the parts
+are the players on each team, ball, goals, coaches, referees, and ﬁeld lines; and the governing
+processes are the rules of the game. During the many possible game states—for example, the
+‘before game’, ‘normal play’, and ‘penalty kick’ states—the parts of the system interact in
+dis nct ways. These interac ons are fueled by the ﬂow of energy through the system—as
+illustrated in Figure 1.9 (le ). In the match, interac ons are fueled by the food consumed and
+oxygen breathed by the par cipants.
+
+Figure 1.9. Le . Illustration showing how the ﬂow of energy through the a system can drive
+interac ons that produce ordered states. When energy ﬂow stops, order typically disintegrates
+into a disordered state. Middle. Illustration showing how governing processes cause
+incremental changes (black lines) that can can alter the state of the system. Right. Illustration
+showing how systems can respond to external pushes by accentuaing or oppose the eﬀects of
+the push (green and red lines). (Author illustrations)
+The ﬂow of energy through systems is essen al in establishing and maintaining ordered states.
+Without this ﬂow, disordered states usually result. Inside systems, governing processes can
+
+3
+Without this ﬂow, disordered states usually result. Inside systems, governing processes can
+cause conditions to gradually change, as illustrated in Figure 1.9 (middle). Far from a transition,
+even large changes don’t always aﬀect the state of the system. In contrast, even very small
+changes near a transition can produce a new state. In the football example, the passage of
+numerous seconds during the ‘normal play’ state of a match has little eﬀect on that state, but
+the passage of the last second ends the match and transitions the system to the ‘a er game’
+state.
+Systems experience the eﬀects of external processes as pushes. Figure 1.9 (right) shows how
+systems react when pushed. We refer to these reac ons as responses or feedbacks, and we call
+responses that accentuate pushes posi ve responses and responses that oppose pushes
+negative responses. Negative responses usually act to preserve system states and posi ve
+responses typically move systems toward transitions to new states. In our football example, a
+change in weather or an energe c crowd are good examples of pushes that would the system
+to respond.
+Analyzing nature systematically allows humanity to critically discover how natural systems
+func on. Below, we illustrate this powerful approach using Table 1.1 to analyze systems
+composed of geese, ice, and oil.
+Table 1.1 A simple template for analyzing natural systems.
+
+Geese. Figure 1.10 shows disordered and ordered states of Canada Geese. Give these two
+states some thought. Also, imagine how a predator approaching the ﬁeld of feeding geese could
+cause a change in state. Finally, consider how the ordered V-shape emerges once the geese take
+ﬂight. Use Table 1.1 and a piece of scratch paper to analyze this system. Then, compare your
+answers to those found in Table 1.2 below.
+
+Figure 1.10. Photos illustraing a transition between chaotically distributed Canada Geese and
+ordered geese ﬂying in V-shaped pattern. (Author illustration, images from Wikimedia)
+
+4
+
+Ice. As you know, when gaseous or liquid water cools it can form solid ordered crystals of ice.
+Figure 1.11 shows water in disordered and ordered states—as steam and ice. As above, use
+Table 1.1 and a piece of scratch paper to analyze this system. Then, compare your answers to
+those found in Table 1.2 below.
+
+Figure 1.11. Photos illustraing a transition between chaotically distributed water molecules
+(steam) and an ordered ice crystal. (Author illustration, images from Wikimedia)
+Oil. When heat is applied to disordered ﬂuids like oil, ordered cellular patterns can emerge. You
+can observe these when slowly boiling thick liquids in shallow pans. These patterns consist of
+ﬂow (convec on) cells that form as hot low-density liquid rises in the center of each cell,
+spreads out on the surface, cools, densiﬁes, and then sinks. Figure 1.12 shows two shallow
+pools of oil in glass dishes and illustrates the ﬂow that produces convec on cells. Once again,
+use Table 1.1 and a piece of scratch paper to analyze this system. Then, compare your answers
+to those found in Table 1.2 below.
+
+Figure 1.12. Images illustraing a transition between chaotically distributed oil molecules (le )
+and ordered ﬂow (convec on) cells (middle). The image at right illustrates in cross sec on how
+ﬂow cells form. (Author illustration, images modiﬁed from Wikimedia)
+How did you do? The point of this ac vity was not to get the ‘right answers’. Instead, it was to
+provide you with several opportuni es to think deeply about how ordered states self-assemble
+from disordered states.
+
+5
+
+As we’ll discover later, many ordered states persist because natural processes oppose each
+other. Said diﬀerently, order o en emerges in systems that contain complementary negative
+responses—in which the eﬀect of one process opposes a second process and vice-versa. For
+example, the ordered state of oil above persists as cooling from above opposes heaing from
+below. Likewise, the natural state called a star persists as the inward pull of gravity balances the
+opposing outward ‘force’ of mo on.
+Interesingly, an ancient prophet understood aspects of this principle (2 Nephi 2). He taught
+that ‘law’ and ‘opposition in all things’ are essen al for ‘creation’ and ‘existence’. He described
+that opposing laws form the foundation of ‘The Creation’ by which ‘God created all things in
+the Heavens and Earth, including every living thing’. This prophet further taught that opposing
+processes produce all states—including life and death, that ‘God creates things to act’
+(governing processes and agents) and ‘things to be acted upon’ (system parts) and that the very
+‘purpose of life and creation’ relies on opposing processes. These teachings provide an
+excellent example of the compa bility of revealed and discovered truths. In this case, both
+witness that the states of natural systems result from natural law (governing processes).
+Our hope for you is that you are beginning to see how lawful self-assembly produces order in
+natural systems. Many ﬁnd it astounding that ordered systems as diﬀerent as ﬂocks of geese,
+crystals, and stars share so much in common and can be analyzed using a similar tool set. Of
+course, the tools we use represent a much simpliﬁed version of those used by professionals in
+ﬁelds like physics, gene cs, and evolu onary biology to study the spontaneous emergence of
+order. Simpliﬁed though they be, the tools we’ll use represent a 'template of thought' that can
+transform your understanding of nature and bless other areas of your life. We hope you choose
+to develop this powerful perspec ve.
+Answers A n s w e r s
+Table 1.2 Completed template for analyzing disordered and ordered states of geese, water, and
+oil.
+
+6
+Reconciling Lawful Self-Assembly with God's Words 
+
+Having now introduced basic aspects of truth and order, we’re ready to inves gate what God’s
+Works and God’s Words indicate regarding The Ongoing Creation of Nature. As we’ll see in the
+rest of this book, God’s Works ﬁrmly witness that the order humanity observes in natural
+systems spontaneously emerges through lawful interac ons of component parts. However,
+many people interpret God’s Words to indicate the opposite—that God created nature through
+agent-designed assembly, that God spoke, and the order in nature appeared.
+The apparent contradic ons between these witnesses lie at the core of supposed conﬂict
+between religion and science. If these contradic ons are real, religion and science are locked in
+irreconcilable conﬂict. Signiﬁcantly, those that believe in an unerringly truthful Creator who
+authored wri en scripture and every aspect of nature, recognize that real conﬂict between
+God’s Words and Works cannot exist, because both record the same creative events.
+Before proceeding, we invite you to take a moment to assess your own perspec ves on these
+important issues. If you currently lean towards ‘creation by obeyed verbalization or ritual’, you’ll
+love the traditional interpretations of the Creation scriptures found below (emphases added),
+which seem to clearly indicate that God speaks words or performs rituals that, in fairly short
+order, cause ma er to produce ordered systems such as mountains and monkeys.
+● “In the beginning was the word, and the word was with God, and the Word was God." (John
+1)
+● “In the beginning God created the heaven and the earth. … And God said … God made …
+God said … God called …” (Genesis 1)
+● “…I will show thee the workmanship of mine hands… I created these things … the heaven
+and the Earth…. And I, God, said … called … made … saw …. I, God, ended my work … I, the
+Lord God made the heaven and the earth … every plant … animal … all the children of men
+….” (Moses 1-4)
+● “…at the beginning … Gods organized and formed the heavens and the Earth … and Gods
+said … called … ordered … organized … watched … prepared … formed … counseled together
+… saw that they were obeyed…”. (Abraham 4)
+On the surface, these verses seem crystal clear: God creates by agent-designed assembly.
+Proponents of this view usually envision that The Creation happened quickly a few thousand
+years ago by direct interven on of God in a 'poof' or series of ‘poofs’. (To be clear, we're using
+'poof' descrip vely, not pejoratively.) These individuals rarely accept that we live in The
+Creation today. Instead, they believe that The Creation was a drastically diﬀerent period in the
+past. As a result, these individuals usually reject connec ons between the processes that
+created nature originally and the processes that presently create and develop natural systems
+such as stars, planets, and species. What’s more, these individuals o en believe that natural
+order cannot arise spontaneously because they believe that only an agent-Creator (not physical
+processes) can form natural order.
+
+7
+During the Renaissance humanity began discovering that lawful self-assembly forms the
+physical world. These discoveries caused religious fundamentalists to begin searching for
+aspects of nature that cannot be explained by natural processes (laws)—an endeavor known
+as ‘natural theology’. Through me, humanity has discovered ever-more aspects of nature that
+clearly form and develop according to natural law. This has le ever-smaller ‘gaps’ in which an
+agent-Creator could operate. For this reason, the God of natural theology has become known
+as the ‘God of the Gaps’.
+The problem with literal ‘creation by obeyed command’ is that it is wholly inconsistent with
+‘nature as it is and was’. That is, it directly contradicts the witness of God's Works. And that’s a
+big problem if you, like us, believe that ‘truth is knowledge of things (like nature) as they were,
+are, and will be’.
+Given these problems and apparent contradic ons, how should scholarly disciples proceed?
+Should we toss observations of nature and proceed as fundamentalist religionists? Should we
+instead throw out these verses of scripture and proceed as scien ﬁc fundamentalists? Both of
+these approaches are unpalatable to scholarly disciples, who consider both God's
+Words and God's Works as faithful records of The Creation. Thankfully, ways to reconcile these
+witnesses appear as we recognize that wri en scripture is pregnant with teachings that equate
+God’s Words or Commands with His Law. For example (emphases added):
+● When giving His laws, the Ten Commandments, to Moses, “God spake all these words…”
+(Exodus 20).
+● “the law … and conditions … were ins tuted before the foundations of the Earth … mine
+house is a house of order. I appoint … by law … [and] my word … is my law…” (D&C 132).
+The simple calculus that equates God’s Word and God’s Law provides a powerful perspec ve
+that can resolve the apparent contradic ons between scien ﬁc and religious interpretations of
+The Creation. Consider, for example, the eﬀects of replacing 'word' with ‘law’ in the earlier
+verses of scripture:
+● ‘In the beginning was the law, and the law was with God, and the law was God.’ (John 1)
+● ‘In the beginning God used law to create the heaven and the earth … and law made …’
+(Genesis 1)
+● ‘I will show thee the workmanship of mine hands … that I used law to make … the heaven
+and the earth … every plant … animal … all the children of men ….’ (Moses 1-4)
+● ‘… at the beginning … Gods … counseled together … and through law … ordered … organized
+… prepared … and formed the heavens and the Earth … and Gods … saw that ma er obeyed
+law ….’ (Abraham 4)
+If the above readings of these verses seems like cleverly-disguised sophistry aimed to trick you,
+consider these suppor ve verses of wri en scripture (emphases added):
+● ‘There is a law given unto all things, by which they func on. Their behaviors are ﬁxed … by
+
+8 ● ‘There is a law given unto all things, by which they func on. Their behaviors are ﬁxed … by
+the law by which all things are governed, even the power of God. All systems have a
+law given … there are many systems … unto every system is given a law. U nto every
+law there are certain bounds … and conditions [and these govern the transitions between
+system states]’ (D&C 88)
+● ‘… all truth or law is independent in that system in which God has placed it, to act for
+itself … otherwise there is no existence …’ (D&C 93)
+● ‘I, the Lord, am bound … by law, irrevocably decreed … before the foundations of this world
+… if law could … be destroyed, God would cease to be God …; ‘and if God changeth ... he
+would cease to be God’ (D&C 82 and 130, Alma 42, Mormon 9)
+Equaing God's Word and Law emphatically reconciles the witnesses of both God's Words
+(wri en scripture) and God's Works (natural scripture) regarding the origins and development
+of nature. So, if gods create through natural law, does that make the ‘creation by obeyed
+verbalization or ritual’ interpretation false? Well, yes and no. It certainly makes literal ‘creation
+by spoken command’ false in any ul mate sense. However, ﬁgurative ‘creation by spoken
+command’ remains true because it validly explains God’s relationship to nature and accurately
+describes the power of God’s knowledge. Interesingly, these may have been the very no ons
+that God was trying to teach us in wri en scripture.
+An additional scriptural equivalence—The Father = The Son (John 10, John 14, Ma hew 11,
+and Mosiah 15)—provides us with an interesing template for understanding the equivalence
+we just explored. In wri en scripture, The Father speaks as if He were The Son, and vice versa.
+In addition, we’re taught that meeing The Son is equivalent to meeing The Father. Using the
+same pattern of subs tu on from the ‘Father equals Son’ equation with our creation-related
+equivalence (namely, God's Words = Laws = Knowledge = Power) makes the following
+statements about The Ongoing Creation equivalent:
+● God spoke, ma er obeyed, and nature emerged. (This statement describes the literal
+witness of God's Words and provides an excellent ﬁgurative explanation of God’s
+relationship to nature.)
+● God created the physical world by the power of law. Or, God, through law, created the
+physical world. (These statements employ the ‘God’s Words are His Law are His Power’
+equation found in wri en scripture).
+● Law created the physical Universe. Or, natural processes created the physical world. (These
+statements describe the literal witness of God's Works, natural scripture).
+Now, read the statements in reverse, from bo om to top. In response to the bo ommost
+statement, most religious fundamentalists would burst from their pulpits to proclaim,
+“Blasphemy! You are dead wrong! God created nature!” Likewise, in response to the
+uppermost statement, most scien ﬁc fundamentalist would explode from their laboratories to
+proclaim, “Stupidity! You are dead wrong! Natural processes produce nature!” Our witness is
+this: Yep, you're both right—except for the stupidity, blasphemy, and ‘dead wrong’ parts. In
+other words, we witness that the problem with these extreme perspec ves results from
+dogmatically overvaluing favored preparatory knowledge and, as a result, undervaluing
+
+9 dogmatically overvaluing favored preparatory knowledge and, as a result, undervaluing
+complementary preparatory knowledge.
+Do you, like us, believe that God's Words and God's Works are both faithful records of The
+Ongoing Creation and, as such, must tell the same Creation Story (albeit with diﬀerent
+purposes)? In addition, do you ﬁnd the conciliatory power of this creation-related equivalence
+(God's Words = Laws = Knowledge = Power) as beautifully simple as we do?
+
+A Final Word
+
+If at some point during our exploration you’ve felt a acked, that was not our inten on. To be
+clear, we are not trying to force our perspec ves upon you. Instead, we're trying to share
+perspec ves that we've found powerfully produc ve. As we see it, our responsibility is to share
+what we consider good fruit and your responsibility is to determine the degree to which it is
+sweet or ro en. Finding truth is an individual responsibility, and so we wish you happy
+evaluation along your con nued journey towards truth.
+At this point along that journey, we encourage you to take a moment to consider your present
+approach to evaluaing the u lity and truthfulness of human explanations (interpretations). Has
+it changed since we began our travels together? Have you experienced a strengthening or
+shi ing of your perspec ves regarding the nature, reliability, and meaning of observations and
+interpretations, of natural and wri en scripture, of scien ﬁc hypotheses and theories, of …? It
+is our sincere desire that you've found a gem, or seven, amongst the ideas we've shared, and
+we hope that you carry these gems—or improved versions of them—with you into the
+millennia that lie ahead.
+Having established an introductory foundation, we now proceed to explore the witness of
+nature regarding the development of the Universe, Earth, and Life. Are you excited to begin?
+We are.
