@@ -1,0 +1,200 @@
+
+2.3 A Star Is Born 2. 3 
+How Nature Produces Order in Stars
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+Nature is pleased with simplicity. And nature is no dummy. —Isaac Newton
+Learning Objectives:
+● Understand and be able to identify each of the following: normal stars, mini stars, nebulae,
+globules, proplyds, and nuclear fusion.
+● Analyze the birth of stars in terms of governing processes and system states separated by
+transitions; speciﬁcally, how gravity and fusion produce the normal star state from a globule in a
+nebula.
+● Describe how a change in one of the following proper es of a normal star will aﬀect the other
+proper es: mass/gravity, fusion rate, true brightness, and temperature (all of which are
+propor onal to each other); and life me (which is inversely propor onal to the other proper es).
+
+The enormous and enormously hot sphere of glowing ma er shown in Figure 2.25 is the Sun.
+Did you know that the Sun is a normal star? Stars present humanity with many interesting and
+important ques ons to explore. These include: Are stars eternal or do they form, change
+through me, and eventually ‘die’? Do stars result from natural or supernatural processes?
+When and how did our star form? Do stars and planets form together or separately? How
+certain is humanity’s scientific understanding of stars? In addition to being fascinating in their
+own right, the answers to these ques ons can help us understand how order forms in nature.
+
+Figure 2.25. Photograph showing the dynamic surface of our normal star, the Sun. (NASA)
+
+2
+
+Forming Stars from Nebulae 
+
+On human mescales, stars take ativery long me to form. For this reason humanity has never
+observed the en re birth process of a star. Instead, humanity has observed numerous stars at
+diﬀerent stages of formation and development. Based on these observations and our
+understanding of the laws that govern nature, humanity has developed an extensively-tested
+scientific explanation that describes how stars and planets form. This scientific theory (nebular
+theory) successfully explains the observed a ributes of nebulae; normal, giant, and mini stars;
+and planets.
+From Nebula to Proplyd
+Nebulae are huge, highly disordered, thin clouds of mostly hydrogen (92%) and helium (8%) gas,
+plus a li le rock, metal, and ice dust. written scripture refers to nebulae as ‘ma er
+unorganized’. In contrast to chaotic nebulae, stars are highly ordered systems. The ma er in
+them is concentrated and layered. Stars are born in nebulae. So, how does stellar order emerge
+from nebular chaos?
+Inside nebulae, two processes oppose each other: gravity and gas pressure. The curvature of
+space me produces gravity, which is strongest where ma er is most densely concentrated. In
+contrast, gas pressure results from the mo on-induced collisions of gas par cles. Gas pressure
+strengthens as temperature increases. Gravity increases the density and temperature of
+nebulae as it pulls ma er together, and gas pressure lowers nebular density and temperature as
+it pushes ma er apart. In the absence of gas pressure nebular collapse would proceed with
+li le resistance. What’s more, in the absence of gravity gas pressure would disperse nebulae.
+The ‘tug of war’ between gravity and mo on (gas pressure) governs the formation,
+development, and death of stars. Compe on between these governing processes can be
+dynamic. When one process dominates, nebulae can contract or expand for a me. However,
+one-sided dominance rapidly wanes because the dominating processes increases the strength
+of the opposing process. In this way, mo on provides the ‘ying’ to gravity’s ‘yang’, and vice-
+versa. When imbalanced, lawful interactions between gravity and mo on can cause ordered
+stars to lapse into chaotic transitions. In contrast, balanced interactions produce long stages in
+which li le appears to change. For example, the ‘normal star’ stage is a period when vigorous
+ac vity between strenuously opposed gravity and mo on produces li le moment-to-moment
+change.
+Cool nebulae make ideal stellar nurseries because the gas pressure in them is low. Gravitational
+collapse inside such nebulae begins when suﬃciently dense regions develop. Within a
+collapsing nebula, inward-pulling gravity overpowers outward-pushing gas pressure because the
+increasing density produced by the collapse continuously strengthens gravity. In this way,
+collapse increases density, which increases gravity, which increases density,… in a self-sustaining
+cascade that continuously shrinks each collapsing por on of the nebula. Individual nebulae can
+
+3
+cascade that continuously shrinks each collapsing por on of the nebula. Individual nebulae can
+contain thousands of these collapsing globules. Each globule can produce a solar system.
+Although uniform globules collapse to form only a central star, most collapsing globules are
+clumpy. In these globules, gravitational pull causes the shrinking globule to spin. This rotation
+accelerates as collapse proceeds, just like a ﬁgure skater that pulls limbs inward. Spinning
+globules eventually ﬂa en into a central bulge and surrounding disk, much like a blob of pizza
+dough ﬂa ens when spun overhead. Eventually, the central bulge becomes a star, and planets
+form in the surrounding protoplanetary disk (proplyd for short). More on planet formation
+later. Figure 2.26 shows a collapsing globule and the proplyd it produces.
+
+Figure 2.26. Cartoons showing the early stages of solar system formation—in which a proplyd
+forms from a collapsing globule. Most of the material in the proplyd becomes part of the
+growing central star. Proplyd collapse and mo on produce the polar ou low jets. (Author
+illustration)
+Fusion Fuels Stars and Makes New Ma er
+During the extended period of gravitational dominance that drives globule collapse, ever
+increasing density produces ever higher pressures and temperatures. This causes atomic nuclei
+to collide with increasing energy, and these collisions increasingly resist gravitational collapse.
+When rising temperatures at the dense center of the globule reach ~15 million degrees,
+collisions become suﬃciently intense to overcome proton-proton repulsion, and nuclear
+par cles fuse. This process, called nuclear fusion, forms elements with heavier nuclei by joining
+lighter nuclei.
+In the cores of normal stars, individual protons of hydrogen nuclei combine to form helium
+nuclei. In this process ~1% of the ma er (m, mass) becomes a tremendous amount of energy
+(E). Einstein’s famous equation, E=mc 2, expresses this conversion (c is the speed of light and c 2
+is about 10 billion). This equation is an incredibly concise and quan tatively precise way to
+communicate these truths: energy and mass (ma er) are diﬀerent forms of the same thing,
+ma er is tremendously condensed energy, and converting even minuscule amounts of mass
+produces huge amounts of energy.
+The energy produced during fusion fuels stars like our Sun. In case you’re interested, the
+energy that produces sunlight takes ~100,000 years to reach the Sun’s surface and another 8.3
+minutes to reach your skin. So the next me you no ce the Sun, contemplate that journey and
+consider expressing gra tude for the annihilated ma er that produces its light. Energy from the
+
+4 consider expressing gra tude for the annihilated ma er that produces its light. Energy from the
+Sun has played an essen al role in Earth’s habitability since our solar system formed ~4.5 billion
+years ago, and thankfully the Sun has suﬃcient nuclear fuel to con nue warming Earth’s surface
+for another ~5 billion years.
+Inside the Forming Star
+Those things aside, let’s deepen our understanding of star formation by focusing once again on
+the collapsing proplyd. Recall that gravitational collapse inside the central bulge produces the
+ever-higher temperatures and pressures that eventually fuse atomic nuclei. The ini ation of
+fusion marks the beginning of the transition that produces a normal star. If the central bulge is
+too small and cold to initiate fusion, no star forms. Instead, the collapsing bulge produces a
+brown dwarf, a kind of huge Jupiter.
+In bulges that produce stars, the energy released by early fusion rapidly increases gas pressure
+in the core. This causes the star to expand explosively. As this expansion proceeds, decreasing
+temperature and gas pressure cause fusion to cease. Eventually, diminishing temperature and
+gas pressure allow collapse to begin again, which repeats the earlier steps. In this way,
+opposition between gravity and fusion-generated gas pressure produce ever-dampening
+sequences of collapse, fusion, expansion, cooling, collapse, and so on. Eventually, balance
+develops between gravity and gas pressure and the chaotic transition initiated by fusion gives
+way to a new, stable state. We call this state a normal star.
+Of course, other factors such as the in-falling of ma er from the nebula aﬀect this process. Even
+so, opposition between gravity and fusion ensure eventual stability. Did you catch that
+important idea? Opposition between gravity and fusion-fueled gas pressure ensure that,
+eventually, a stable normal star will emerge from the cyclic instabilities associated with star
+birth. Said another way, gravity and fusion govern the production of the ordered normal-star
+state from the disordered globule state. Said a fourth way, natural processes cause ordered stars
+to spontaneously emerge from chaotic nebula.
+This reality is also expressed in written scripture. Said an ancient prophet, ‘there can be no
+creation—no stars, no Earth, no humans—without lawful opposition’ (2 Nephi 2). And so it is.
+As we con nue our journey together, we’ll discover that lawful self-assembly produces all
+ordered natural states—from dogs to diamonds and planets to primates. Before proceeding, we
+invite you to pause and ponder this profound perspective.
+How Normal Stars Form and Develop
+So, now you know: all normal stars, including the Sun, are continuous nuclear explosions
+contained by the balanced inward pull of gravity. What’s more, collapsing globules become
+normal stars when stellar fusion stabilizes and die when lack of fuel causes fusion to cease.
+Figure 2.27 illustrates the sequence of states and transitions that produce normal stars from
+nebulae. Relative to the life mes of normal stars (which extend from a few hundred thousand
+to trillions of years), the transition from disordered nebulae to ordered normal stars is relatively
+
+5 to trillions of years), the transition from disordered nebulae to ordered normal stars is relatively
+short. On average, the transition from globule collapse to stable hydrogen fusion occupies just
+~0.1% of a star’s life me.
+
+Figure 2.27. Illustrations showing the states (images) and transitions (arrows) that produce
+normal stars from nebulae. (Author illustration; nebula and Sun images from NASA)
+Mass Determines Behavior
+The amount of ma er in stars determines most stellar characteristics, including the nature and
+magnitude of opposing forces during star birth, life, and ‘death’. For example, mass increases
+‘gravitational pull’ (space me curvature), which increases the rates of stellar fusion and fuel
+consump on, which in turn produces ho er stars that live shorter ‘lives’. For these reasons,
+high-mass stars are ho er, more blue, and live shorter lives than their low-mass counterparts,
+which are cooler, more red, and live longer lives.
+To those unfamiliar with stars, this inverse relationship between mass and life me can appear
+counterintui ve. For example, intuition can suggest that massive stars should live longer lives
+because they have more fuel. Understanding that massive stars burn fuel much faster than low-
+mass stars resolves this apparent discrepancy.
+Mass also aﬀects the size and brightness of normal stars. Both size and brightness result from
+emergent balances between energy produced in stellar cores and energy radiated from stellar
+surfaces. When radiated energy exceeds fusion, stars shrink and dim. Conversely, when interior
+energy exceeds radiated energy, rising temperature causes stars to expand and brighten. For
+this reason, high-mass stars are brighter and larger than low-mass stars.
+As you can see, mass determines the nature of normal stars by controlling the dynamic
+equilibrium between gravity and gas pressure.
+
+Observational Evidence 
+
+Humanity’s ever-expanding ability to make telescopic and other observations provide numerous
+opportunities to test humanity’s scientific understanding of star formation and development.
+Signiﬁcantly, these observational tests have been able to falsify nebular theory. As a result,
+humanity has tremendous conﬁdence in the theory. Said diﬀerently, although there are many
+details to explore, the basic processes that create stars and planets are ﬁrmly established.
+
+6
+Figure 2.28 shows two nebulae where stars and their planetary systems are currently forming.
+The Orion Nebula lies ~1350 light years from Earth, is ~25 light years across, and represents the
+largest nearby star-forming region. Importantly, nebular theory predicted the shapes, ages, and
+other characteristics of Orion’s proplyds long before humanity could photograph them. In
+addition to their beauty, recognize that these images are actual photographs of stars and solar
+systems in the process of forming.
+The Eagle Nebula lies ~7000 light years from Earth and likewise contains thousands of forming
+solar systems. Energe c, newly-formed stars have blown away much of the original gas.
+However, in places like the ‘Pillars of Creation’, newly forming solar systems protect spires of
+gas in much the same way as a shadow protects frost from the Sun.
+
+Figure 2.28. Upper. Photographs of nebulae and proplyds. (NASA)
+Isn’t it amazing to live when humanity is able to directly observe the formation of new stars,
+planets, and species?! (More on planets and species later.) Right now, in The Ongoing Creation
+in which we live, God is ‘pouring out knowledge about the physical world’, including through
+those who dedicate their lives to studying ‘things above the Earth and beneath the Earth’
+(Daniel 12, John 16, D&C 88).
+Before proceeding, consider what learning about stars has taught you about science. Do you
+believe that scientific discoveries are inspired? Do you believe that science is moving humanity
+towards an ever-more-correct understanding of how nature formed, developed, and functions?
+How would you characterize your perspective? Are you eagerly commi ed to scientific
+discoveries? interested but distrus ul? purposefully indiﬀerent? disdainfully dismissive? or
+something else entirely? Typically, your a tude as a disciple toward scientific scholarship is a
+keen indicator of your commitment to using physical reality (observation) as an essen al test
+for explanations of nature (interpretation).

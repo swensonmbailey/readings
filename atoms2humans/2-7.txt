@@ -1,0 +1,213 @@
+
+2.2 Brighter & Brighter, Un l The Perfect Day 2. 2 
+What Light Can Teach Us and How We Learn It
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+Twinkle, twinkle li le star, how I wonder what you are. —Nursery rhyme
+
+Learning Objectives:
+● Understand and be able to identify each of the following: wavelength, amplitude, color, brightness,
+spectrum (continuous, emission, absorp on), position of astronomical objects, parallax, Doppler
+eﬀect, and blueshi and redshi .
+● Understand what the distance of an object indicates about the age of the light observed by
+humanity.
+● Illustrate how important scientific interpretations about the universe, stars, etc. derive from
+scientific observations of the position, color, spectrum and brightness of astronomical objects using
+the following examples:
+○ How astronomers interpret stellar temperatures from observations of star color.
+○ How astronomers interpret distances to astronomical objects from observations of
+parallax and by comparing the true and apparent brightness of an object.
+○ How astronomers interpret the elemental composition of astronomical objects from
+observations of their spectra.
+○ How astronomers interpret the mo on of astronomical objects (away from, towards, or
+rotation) from observations of the blue-shi or red-shi of their spectra.
+
+Earlier, we encouraged you to distinguish between observations and interpretations. This
+chapter will help, by answering this ques on: How do scien sts use observations to explain
+objects like stars?
+As you know, the Universe consists of gas, dust, nebulae, stars, planets, and galaxies. Most of
+these are too far away for humanity to visit. So, how does humanity study these distant ordered
+systems? Light! Instead of us going to them, we use the light that comes from them to us. This
+light brings humanity invaluable information. But what is light?
+
+Important Proper es of Light 
+
+Light is a self-propagating electromagne c wave (Figure 2.16) that travels at a constant speed
+through space (at 300,000 km/s or ~670 million mph). Energy distinguishes diﬀerent ‘types’ of
+light (Figure 2.17). The energy of light relates to its wavelength—the distance between the tops
+of waves (Figures 2.16 and 2.17). For example, visible light has intermediate energy and
+wavelength (Figure 2.17).
+
+2
+
+Figure 2.16. Illustration showing how light self-propagates, as a changing magne c ﬁeld
+generates a changing electric ﬁeld and vice-versa. (Wikimedia)
+Ma er can emit, absorb, or reﬂect light. The brightness of this light depends on its intensity
+(energy per unit area), wave height height (amplitude), or abundance of light waves. In
+contrast, the color of material objects results from the wavelengths of light they emit or reﬂect.
+The light given oﬀ by most objects is a mixture of diﬀerent wavelengths (colors). For example,
+white light consists of all wavelengths of visible light (Figure 2.17-2.18). In contrast, colored
+light consists of mostly speciﬁc wavelengths, like those corresponding to the color green.
+
+Figure 2.17. The full electromagne c spectrum, with each type of light labeled. (Modiﬁed from
+Shu erstock)
+When the component wavelengths of light separate, they produce spectra—a kind of ‘rainbow’.
+Figure 2.18 shows the three types of spectra. Continuous spectra consist of all colors, without
+any breaks. Hot objects like light bulbs produce continuous spectra. Absorp on spectra are
+continuous spectra from which speciﬁc wavelengths of light have been par ally or completely
+removed by absorp on. Stars produce absorp on spectra. Emission spectra consist only of light
+at speciﬁc wavelengths. Hot nebulae produce emission spectra. Emission and absorp on
+spectra are complementary. The dark lines in absorp on spectra are equivalent to the bright
+lines in emission spectra.
+
+3
+
+Figure 2.18. Illustrations of spectra. Le : Image showing white light separating inside a prism to
+produce a spectrum, the colored waves at right. Right: The three types of spectra. (Author
+illustration, images modiﬁed from Wikimedia)
+Observing Distant Objects
+Before proceeding, take a moment to study the image of the night sky in Figure 2.19. As you
+do, consider what a ributes distinguish one object from another. Interestingly, just four
+a ributes distinguish these distant luminous objects—color, position, apparent brightness, and
+spectrum. Below, we provide examples that illustrate how humanity uses these observations to
+learn about distant objects.
+
+Figure 2.19. A Hubble Telescope photo of the night sky. (NASA)
+
+Observing Color, Interpreting Temperature 
+
+If you had to choose, which would you rather touch, the steel where it is black in Figure 2.20 or
+the part that is yellow-orange? If you chose black, you likely understand the that the colors
+represent diﬀerent temperatures—black is coolest, then red, orange, and yellow.
+
+4
+
+Figure 2.20. Hot steel, showing the relationship between temperature and color. (Wikimedia)
+Stars, like steel, are made of ma er, and all hot ma er glows. Hot objects glow with shorter
+wavelength light. For example, a warm object may glow dominantly in the infrared, whereas
+ho er objects glow in higher energy visible or ultraviolet light. Astronomers rou nely use color
+(spectrum) to interpret the surface temperature of stars. On the ‘cool’ end, the surfaces of red
+stars are only ~6000 °F. Orange, yellow, and white stars have progressively ho er temperatures.
+The ho est stars are blue. Their surfaces are commonly ~70,000 °F and can reach ~400,000 °F.
+What’s more, some mini stars have ini al surface temperatures of a trillion degrees. Thus, even
+‘cool’ stars have hot surfaces, and the exterior of the ho est stars are unimaginably toasty.
+
+Observing and Interpreting Position and Brightness 
+
+When you ﬂip the switch, light seems to ﬁll the room instantaneously. This is nearly true
+because light travels really fast. In fact, several billionths of a second pass as the light travels
+from the bulb to your eyes. Because light travels so far so fast, it provides a useful method for
+measuring the stupendously large distances between objects in the Universe. So, instead of
+describing the distances between two objects in miles (or km), humanity has learned to use the
+amount of me required for light to travel that distance.
+Using this method to measure distances from Earth, it is 8.3 light minutes to the Sun, ~4 light
+years to the nearest stars, and ~2.5 million light years to the nearest large galaxy (Andromeda).
+Of course, this means that the light we see from the Sun le its surface 8.3 minutes ago. As a
+result, ground-based humans can never see what is happening on the Sun or any other object in
+space ‘right now’. What we see always shows past events.
+In this way, the distance to an object determines the age of the light we observe. In other
+words, the greater the distance to the object, the farther in its past we observe the object. For
+example, the light we observe from a galaxy that is 200 million light years away shows us that
+galaxy as it was 200 million years ago when the light we see le the galaxy. Said diﬀerently, we
+cannot see objects as they are now. Rather, we see them as they were when the light was
+emi ed. This is a powerfully cool reality, for it allows humanity to use our sense of sight to
+directly observe some past events.
+Now, let’s learn how humanity uses position and brightness to determine the distances to
+objects.
+
+5
+Observing Position, Interpreting Distance
+To understand on way that astronomers use position to interpret distance, perform this
+experiment:
+● Look at a distant object with one eye shut, and then place your thumb at arms length
+directly under the object you selected.
+● Then, switch eyes and no ce that your thumb appeared to move. This apparent movement
+is called parallax.
+● Now, pull your thumb closer, repeat the experiment, and no ce that the parallax is larger
+than before.
+This experiment illustrates that the distance to nearby objects determines the observed
+parallax—the ‘degree of apparent shi ’ of objects viewed from diﬀerent perspectives. Figure
+2.21 illustrates how astronomers use parallax to measure the distances to stars.
+
+Figure 2.21. Illustration showing how a nearby red star appears to shi position (relative to
+distant blue, orange, and yellow stars) when viewed from diﬀerent perspectives—Earth’s
+location in January and July. This apparent shi (parallax) records the distance to red star.
+(Author illustration)
+Interestingly, the Sun-centered model of the Universe predicted that humanity should observe
+the parallax of stars. Although humanity began searching for parallax in the 1600s, it remained
+unobserved un l the early 1800s because early telescopes were too weak. In the intervening
+years, some used humanity’s inability to observe parallax as evidence that Earth did not orbit
+the Sun. This historical episode illustrates the importance of pa ence and wisdom as we search
+for truth.
+Today, modern instruments allows scien sts to measure parallax with incredible precision. For
+example, observing the smallest parallax humanity can observe is equivalent to observing the
+thickness of a hair from nearly 600 miles away.
+Observing Brightness, Interpreting Distance
+Useful as it is, parallax can only determine distances for objects within ~10,000 light years of
+
+6 Useful as it is, parallax can only determine distances for objects within ~10,000 light years of
+Earth, which isn’t very far. Thankfully, brightness measurements can be used to determine the
+distance to even very far oﬀ objects. These measurements rely on so-called standard candles,
+objects that shine with known true brightness (the actual brightness or luminosity of a star).
+Figure 2.22 illustrates how the apparent brightness of an object (the brightness we observe
+from Earth) diminishes as distance grows. This relationship—the apparent dimming of objects
+with distance—is described by a precise mathema cal relation. Astronomers use this equation
+to determine the distances to ‘standard candles’ like Type-1A supernovae or Cepheid variable
+stars .
+
+Figure 2.22. Illustration showing the relationship between true and apparent brightness. All the
+stars and candles in the image have the same true brightness, but the distant objects appear
+dimmer. (Author illustration)
+Once again we see how primary observations (in this case apparent brightness) produce
+knowledge of a ributes (like distance) that we cannot measure directly. Approaches such as
+these allow humanity to learn about distant objects that are too far away to visit. What’s more,
+knowledge of these a ributes provides humanity with the information needed to develop
+detailed explanations (scientific hypotheses and theories) for how these distant objects form,
+function, and develop. Doing astronomy involves some pre y cool detective work, doesn’t it?!
+
+Observing and Interpreting Spectra 
+
+Like brightnesses, spectra contain abundant information. In the early 1800s, humanity began
+productively using continuous, emission, and absorp on spectra (Figure 2.18) to learn about
+the nature of distant objects. As you already know, the colors (continuous spectra) of hot
+objects records their surface temperatures. In addition, emission and absorp on spectra can
+record both the composition and mo on of far-away objects.
+Observing Spectra, Interpreting Composition
+Have you ever seen the color of a stove ﬂame change from blue to yellow when ma er from a
+boiling pot fell into the ﬂame? Situations like this illustrate a simple truth—light can record
+composition. Ma er interacts with light through its electrons, and each type of atom (element)
+has a unique set of electrons. Thus, when the electrons in an element emit or absorb light, they
+
+7 has a unique set of electrons. Thus, when the electrons in an element emit or absorb light, they
+do so at unique wavelengths. These spectral lines identify the element that produced them. As
+a result, light emi ed or absorbed by atoms in objects iden ﬁes the composition of those
+objects, as illustrated in Figure 2.23. Incredible as it may seem, light from across the Universe
+records the types and abundances of atoms with which it interacted.
+
+Figure 2.23. Illustration showing how spectral lines record composition. (Author illustration,
+spectra from Wikimedia)
+Observing Spectra, Interpreting Mo on
+In addition to recording composition, spectra can record mo on. Have you listened as a train or
+ambulance approached and then passed you? If so, recall that the pitch (wavelength of sound)
+lowered as it passed. This shi in pitch is known as the Doppler eﬀect. It records the vehicle’s
+speed and direction of movement. In the same way, wavelength shi s in spectral lines record
+the mo on of stars and galaxies. Pre y incredible, isn’t it? The light that travels from distant
+objects carries with it information about their mo on.
+
+Figure 2.24. Illustration showing how spectral lines record the mo on (direction and speed) of
+distant objects. Le : Image and explanation of the Doppler eﬀect of moving light sources.
+Right: Hydrogen emission spectra from objects that are stationary (top), receding (redshi ed),
+and approaching (blueshi ed) relative to Earth. (Author illustration, images from Wikimedia)
+Figure 2.24 illustrates how relative mo on causes spectral wavelengths to shi . No ce how
+
+8 Figure 2.24 illustrates how relative mo on causes spectral wavelengths to shi . No ce how
+approaching light sources shorten wavelengths, shi ing them towards the blue (shorter
+wavelength) end of the visible spectrum. Likewise, recognize that retreating objects shi
+wavelengths towards the red end of the spectrum. These shi s are known as blueshi and
+redshi , respectively.
+
+Would you ever have imagined that light could be used to learn so many, many things about
+distant objects such as stars and galaxies? Remarkably, we've only barely scratched the surface.
+As we move forward, we'll explore what humanity has learned about how ordered systems such
+as stars and planets form, function, and develop. We encourage you to remember that the
+explanations we’ll encounter are based on abundant observations.
