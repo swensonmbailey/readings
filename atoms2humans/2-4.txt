@@ -1,0 +1,241 @@
+2.4 Dancing With The Stars!
+Transitions in The Life Cycles Of Stars
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+We are to admit no more causes of natural things than such as are both true and suﬃcient to
+explain their appearances. —Isaac Newton
+
+Learning Objec ves:
+● Understand and be able to iden fy each of the following: low-mass stars (<8 mes the Sun’s mass),
+intermediate-mass stars (8-20 mes the Sun’s mass), high-mass stars (>20 mes the Sun’s mass),
+white dwarf stars, neutron stars, black holes, radioac ve isotopes, stable isotopes, and half-lives.
+● Describe the roles of gravity and gas pressure (from fusion or collapse) in the stability of normal
+stars and in the transitions between normal, giant, and mini stars. Also, describe the response of
+stars (e.g., a temperature or size change) to the exhaus on of a fuel supply (ﬁrst hydrogen fuel, then
+helium fuel, …).
+● Describe the states and transitions that comprise the life cycle of low-, intermediate- and high-mass
+stars using terms such as gravity, fusion, size (diameter), temperature, gas pressure, balance,
+collapse, and expansion. Also, understand where most heavy elements form.
+
+To better understand how humanity discovered the life cycles of stars, imagine you’re an alien
+tasked with determining the life cycle of humans. You bring with you the advanced knowledge
+and instruments of your civilization, but you must complete the task in one day without
+communicating with a human. Since one day doesn’t allow you to observe even a small fraction
+of one human life cycle, what will you do? How will you complete your task? Give it some
+thought before proceeding.
+One approach would be to make observations of trends in human a ributes—like height,
+weight, and time on task. If you collected such data, observations would demonstrate that
+humans spend ~1/3 of their time unconscious, ~1/3 working, and ~1/8 preparing and
+consuming nourishment. You would also discover that small beings called ‘babies’ can do little
+themselves and large ‘adults’ are fully independent. In addition, you could use height-weight
+correlations to determine that the smallest humans (‘babies’) make up 2% of humanity,
+‘toddlers’ 4%, ‘children’ 7%, ‘teenagers’ 7%, and ‘adults’ comprise 80% of humans. Combining
+these and other data, you could determine that humans are born as small dependent ‘babies’
+and grow through other stages to ‘adulthood’ where their independence peaks, as illustrated in
+Figure 2.29.
+Interestingly, humanity is in the same situation as the hypothe cal alien. Human history is far
+too short to observe even the smallest por on of a star’s life cycle. However, like the imagined
+
+2
+too short to observe even the smallest por on of a star’s life cycle. However, like the imagined
+alien, humanity has been able to determine the life cycles of stars by observing the a ributes of
+numerous stars. Two stellar a ributes—surface temperature and brightness (luminosity)—
+played essen al roles in helping humanity discover how stars form, develop, and ‘die’. In the
+early 1900s astronomers used these a ributes to discover that all stars pass through similar
+states and transitions, as illustrated by the arrows in Figure 2.30.
+
+Figure 2.29. Illustrations showing the life cycles of humans and stars. (modiﬁed from
+Wikimedia).
+
+Figure 2.30. The so-called ‘H-R diagram’ of surface temperature versus brightness (luminosity).
+Arrows show the life cycle of a low-mass star like the Sun. (Modiﬁed from Wikimedia)
+
+Life Cycles of Stars
+
+Recall that normal stars begin as cool nebulae and become normal stars when fusion of
+hydrogen in their cores stabilizes. When normal stars run out of hydrogen fuel in their cores,
+they pass through a transition and become giant stars, which fuse hydrogen outside their cores.
+Depending on their mass, giant stars can pass through additional transitions. Each of these
+transitions results from exhaus on of a successively heavier fuel source. Then when fusion
+ﬁnally ceases in their cores, giant stars pass through the ﬁnal transition (‘death’) and become
+
+3
+ﬁnally ceases in their cores, giant stars pass through the ﬁnal transition (‘death’) and become
+mini stars and nebulae.
+Figure 2.31 illustrates the enduring states and rapid transitions that comprise stellar life cycles.
+As you can see, stars of diﬀerent mass follow somewhat diﬀerent developmental paths. For
+example, low-mass stars like the Sun form white dwarfs while high-mass stars produce black
+holes. Despite these diﬀerences, all stars form from and produce nebulae. This process is known
+as the gas-star-gas cycle. The atoms inside you and the objects around you have been through
+this process many mes. Truly, your body is made of ‘star stuﬀ’.
+
+Figure 2.31. The states and transitions that comprise the life cycles of stars, according to their
+masses. Take note of the mass range that determines the life cycles of low-, intermediate-, and
+high-mass stars. (Adapted from Earth Blog)
+As for normal stars, balance between gravity and opposing processes like gas pressure produces
+the stability that characterizes the giant and mini star states. Likewise, transitions between
+these states result when signiﬁcant imbalances develop. During transitions where outward-
+pushing forces dominate gravity, stars expand or explode. In contrast, stars collapse during
+transition dominated by gravity. The increasing temperature and pressure that accompanies
+star collapse can produce the conditions necessary to fuse heavier elements. When collapse
+can no longer ini ate fusion, giant stars become mini stars (and nebulae).
+Nearly all stars (~99%) have low masses (up to ~8 solar masses). Like our Sun, these lightweight
+stars form slowly, live long lives, and die in relatively quiescent transitions that produce nebulae
+and white dwarfs. Figure 2.32 uses our star to illustrate the life cycles of low-mass stars. The
+Sun formed from a collapsing globule ~4.57 billion years ago, and it contains suﬃcient hydrogen
+fuel to persist as a normal star for another ~5.4 billions years. When it runs out of fuel, it will
+
+4
+fuel to persist as a normal star for another ~5.4 billions years. When it runs out of fuel, it will
+spend ~120 million years as a giant star, and then it will become a nebula with a central white
+dwarf.
+
+Figure 2.32. The life cycle of our star, the Sun. (Wikimedia)
+In contrast, heavyweight stars form quickly, live short lives, and die in huge explosions called
+supernovae. The short energe c lives of these stars produce strong ‘winds’ that disperse the
+nebulae that form around them. In addition, supernovae produce neutron stars and black
+holes, which are some of the most bizarre objects in the Universe.
+
+Giant Stars
+
+Giant stars are 10-100 mes wider and have cooler, redder surfaces than normal stars.
+Importantly, giant stars are the nurseries of nearly all heavy atoms. These stars fuse hydrogen
+to helium in a shell outside their cores and can fuse helium and other heavy elements in their
+cores and inner shells.
+Forming Giant Stars
+All stars result from transitions that involve collapse. For example, collapsing globules form
+normal stars, shrinking normal stars produce giant stars, and collapsing giant stars make mini
+stars. As normal stars age, slowly diminishing gas pressure causes them to shrink. In response,
+rising temperature and fusion rate increase stellar temperature and brightness. Today, for
+example, the Sun is ~30% brighter than when it formed.
+Near the end of their lives, the cores of normal stars become choked with fused helium. These
+inert helium cores cool and shrink as hydrogen fusion ceases. In turn, interior pressures and
+temperatures increase. Giant stars emerge from these transitions when rising temperature
+ignites hydrogen fusion in shell around the core.
+Star Death, ReDeath, and Final Death
+So, giant stars are born when normal stars die. What’s more, giant stars can experience many
+such deaths themselves, as they exhaust successive fuel sources. The ﬁnal death of a giant star
+occurs when core fusion ceases. During giant star states, low-mass stars like Aldebaran produce
+only light elements, while massive stars like Antares produce heavier elements (Figures
+2.30-31).
+
+5
+
+Stars persist in the giant star state for ~10% of their total ‘lifespan’. In giant stars with many
+transitions, the periods between transitions progressively shorten. For example, a normal star
+25 mes more massive than the Sun fuses hydrogen in its core for ~2.5 million years. Then
+during the giant star stage the star burns heavier elements in its core and shells. Speciﬁcally, it
+fuses helium and hydrogen for a few hundred thousand years; carbon, helium, and hydrogen for
+a few hundred years; oxygen and lighter elements for a few years; neon and light elements for
+about a year; and silicon and lighter elements for about one day. Silicon fusion produces iron.
+But iron fusion consumes instead of produces energy, so the produc on of iron halts stellar
+fusion.
+In this way, high-mass giant stars generate the elements from helium to iron. Near the end of
+their lives, fusion in massive giant stars occurs in shells that surround a growing inert core of
+iron. Once silicon fusion ceases, the star dies—explosively.
+
+Final Death
+
+The matter in normal stars is ghtly packed and strongly held. In contrast, giant stars are so
+large that they hold onto surface matter very weakly. As a result, stars gently shed at least half
+of their matter (mass) during the giant star state. This matter slowly produces nebulae. For low-
+mass stars, this gentle shedding con nues through the ﬁnal death of the star. In this way, low-
+mass stars gently transition into central white dwarfs and surrounding nebulae. In contrast,
+intermediate- and high-mass stars go out with a bang. During these supernovae, previously-
+shed nebulae are swept up by catastrophic explosions.
+Hot glowing nebulae can be hauntingly beau ful, as illustrated in Figure 2.33. The intricate
+shapes of speciﬁc nebulae result from the events that produced them. At the center of each
+nebula lies a mini star.
+
+Figure 2.33. Photos of nebulae and mini stars produced as giant stars died. The central ny dot
+at the center of the Ring Nebula is a white dwarf. The Sun will look something like this ~5 billion
+years from now. (NASA)
+Humanity has directly observed several dozen supernovae since the ﬁrst recorded event in 185
+
+6 Humanity has directly observed several dozen supernovae since the ﬁrst recorded event in 185
+AD. For example, in 1054 Chinese and Native American observers recorded the supernova that
+produced the Crab Nebula and central neutron star (Figure 2.5). Of course, the actual explosion
+occurred in 5,469 BC (because the Crab Nebula lies 6,523 light years from Earth). Since that
+me, the Crab Nebula has expanded by ~400 km/s (~900 mi/hr). Today the nebula is ~6 light
+years across.
+
+Mini Stars
+
+Mini stars emerge from the cores of giant stars. This transition happens relatively smoothly for
+low-mass stars and explosively for intermediate- and high-mass stars. When the inert iron cores
+of massive stars reach cri cal mass (~1.4 solar masses), the core and interior layers collapse
+catastrophically to form an incompressible core made of neutrons. Eventually, the collapsing
+outer layers collide with the incompressible core. Depending on mass, this collision turns the
+core into a neutron star or black hole. Outside the core, the rebounding outer layers ignite to
+form an explosion of mind-boggling violence. Supernovae are the largest ‘atomic bombs’
+imaginable. They are the most extreme explosions in the Universe, and they last less than a
+second.
+Supernovae produce temperatures up to about one billion degrees and release vast quan es
+of energy. In fact, supernovae usually release more energy than that released during the en re
+life time of stars. The energy of supernovae produces stupendously violent nuclear collisions.
+These collisions generate all the elements heavier than iron that exist in nature. Without
+supernovae elements like lead, pla num, and gold would not exist.
+Atom-forming processes inside stars and supernovae produce nuclei with many combinations
+of protons and neutrons. Each combination is called an isotope. Some combinations are
+unstable and others are stable. Unstable isotopes spontaneously break apart in a process called
+radioac ve decay. When radioac ve isotopes decay they eventually produce stable isotopes,
+which do not decay.
+Radioac ve decay is a lawful process that can record the passage of me. Highly unstable
+radioac ve isotopes decay quickly, while less unstable isotopes decay slowly. The rate of
+radioac ve decay is o en expressed as a half-life, the time required for half the radioac ve
+atoms in a specimen to decay. (More about radioac ve decay later.)
+As we’ll discover later, most hydrogen and helium formed with the Universe. Later, numerous
+generations of stars produced the rest of elements. For these reasons, atoms represent
+important chapters of natural scripture. From these chapters, those with eyes to see can learn
+important truths about the history of the ongoing creation of nature.
+White Dwarf Stars
+White dwarfs are the carbon-rich cores of low-mass stars (up to ~8 solar masses). These mini
+stars are excep onally dense. Although their mass is similar to that of the Sun, their volume is
+
+7
+stars are excep onally dense. Although their mass is similar to that of the Sun, their volume is
+similar to that of Earth. Thus, a tennis-ball-sized chunk of white dwarf matter would weigh as
+much as ~30 cars.
+New white dwarfs can be ho er than 100,000 degrees and glow blue-white. However, they are
+not very bright because they are so small. Over me, white dwarfs cool, change color, and
+eventually stop glowing altogether. In this sense, white dwarfs are like the dying embers of a
+ﬁre, they glow but do not burn.
+Neutron Stars
+When stars with intermediate-masses (~8-20 solar masses) ‘go supernova’, they produce
+neutron stars and nebulae. These explosions not only blow material away from the star, they
+also blow it into the star. These extreme implosions ‘squish’ the empty space from atoms,
+making neutron stars about as wide as a city (~10 miles across) and a billion mes more dense
+than white dwarfs. Expressed another way, the density of neutron stars is equivalent to
+squishing the matter from all the people on Earth into a small marble.
+The discovery of neutron stars is an excellent example of the predic ve power of scien ﬁc
+theories. Astronomers predicted the existence of neutron stars in the early 1930s. However, it
+took more than three decades of telescope improvements before humanity ﬁrst observed a
+neutron star. Today, after more than half a century of additional observations, the existence of
+neutron stars remains unfalsiﬁed.
+Are you impressed that scien ﬁc theories can accurately predict never-before-observed aspects
+of nature solely because the theory says they should exist? The observed predic ons of
+scien ﬁc theories signiﬁcantly increase humanity’s conﬁdence in the validity of these theories
+because true predic ons are a hallmark of true explanations.
+Black Holes
+The implosions produced during the supernovae of high-mass stars (greater than ~20 solar
+masses) overcome the extreme strength of neutrons. In the process, they produce the smallest,
+densest objects in the Universe. We call these stellar remnants black holes because not even
+light can escape the tremendously warped space time that surrounds them.
+Black holes can be diﬃcult to understand. To help, let’s compare space time to a trampoline that
+dimples when weighed down by a massive object like a steel sphere. In this 2D analogy, a black
+hole can be thought of as an ultra-dense object that curves trampoline so extremely that the
+sides of the depression touch, forming a sac-like container.
+Although it is impossible to use light to see inside black holes, we can use the external eﬀects of
+black holes to explore their nature—in the way that you could discover what’s inside a sealed
+paper sac by probing it from the outside. Figure 2.34 shows humanity’s ﬁrst photograph of a
+black hole. Incredible as it seems, mounting observations of black holes support their existence.
+
+8
+
+Figure 2.34. 2019 photograph of the super-massive black hole at the center of galaxy M87,
+surrounded by light produced by infalling gas. (NASA)
+As you have seen, the ordered nature and development of stars emerges spontaneously from
+lawful interactions between governing processes like gravity and gas pressure. Pre y cool, isn’t
+it?! What’s more, the development of stars forms an important waypoint on our journey From
+Atoms to Humans. For without stars the atoms needed to make your body and Earth would not
+exist.

@@ -1,0 +1,217 @@
+2.5 Round and Round The Mulberry Bush
+How Solar System Order Emerges
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+The Bible shows the way to go to heaven, not the way the heavens go. —Galileo Galilei
+
+Learning Objec ves:
+● Understand the meaning of accre on and illustrate how it builds planetary bodies (planets, moons,
+and planetesimals) from metal, rock, ice, and gas.
+● Describe the nature and origin of these types of order in the Solar System: 1) The concentration of
+matter in the Sun and planetary bodies; 2) The distribution of materials like rock, metal, and ice
+with distance from the Sun; 3) The direc ons of planetary orbit and spin; and 4) The clustered ages
+of the oldest solids in the Solar System.
+● Describe how our Planetary/Solar System formed from a nebula in terms of lawful self-assembly
+using terms such as nebula, orbit, gravity, temperature, gas, dust, rock, metal, ice, accre on,
+proplyd, planet, planetesimals, planetary body, ini al state, transition, and ﬁnal state.
+
+The Solar System includes all the planets, moons, asteroids, comets, dust, and gas that orbits
+our star, the Sun. Numerous ancient astronomically-aligned structures witness that humanity
+began exploring the Solar System long before the Space Age began in the mid-1900s. In
+addition to sa sfying curiosity, these cultures tracked objects across the night sky for navigation
+marking the ming of the seasons and social events. In the 1600s astronomers used the ﬁrst
+telescopes to observe night-sky objects that humans had never before seen, like Jupiter’s larger
+moons.
+Later, inspired discoveries helped humanity understand the natural processes that govern
+planetary motion. By the mid-1900s astronomers had developed a well-tested theory (nebular
+theory) for the formation of planets and planetary systems. However, un l robo c space probes
+were invented in the 1960s, detailed observations of most Solar System objects remained
+impossible. These spacecra greatly expanded human understanding of the Solar System.
+What’s more, modern telescopes can iden fy the a ributes of planets that orbit nearby stars.
+Using these data, humanity con nues to test nebular theory and to unravel the nature and
+history of planets and planetary systems.
+Like their central stars, the abundant order in planetary systems results from lawful interactions
+between component parts. This order includes important patterns in the composition, motion,
+and ages of planetary objects. Without this order our Solar System would be an uninhabitable
+cloud of gas and dust.
+
+2
+Our Ordered Solar System
+
+Matter in the Solar System is highly concentrated. Most of this matter is in the Sun (~99.9%),
+and essen ally all the rest resides in planetary bodies (Figure 2.35). Concentrating matter in
+this way leaves most of the Solar System empty. In fact, the space between planets is so vast
+and empty that traveling from Earth to Venus in a speeding car would take thousands of years,
+and during that journey you would encounter a trillion fewer atoms than are in your eyeball.
+
+Figure 2.35. Illustration of our Solar System’s star and major planetary bodies. Because the
+distances between these bodies are so great, it would be impossible to take an actual
+photograph of our Solar System that shows both its width and the planets. (Wikimedia)
+The Sun consists of 92% hydrogen and ~8% helium. It is a huge sphere of plasma, surrounded
+by a little gas. In contrast, planets, asteroids, and comets consist mostly of solids, liquids, and
+gases dominated by elements heavier than helium. The types of solids—rock, metal, and ice—
+and the relative abundance of gas vary with distance from the Sun. For example, the planetary
+bodies of the inner Solar System consist mostly of rock and metal, with relatively little liquid
+and gas. Figure 2.36 shows the terrestrial planet Mars, which has a metal core, rocky mantle
+and crust, polar ice, and thin atmosphere and plasma sheath.
+
+3
+
+Figure 2.36. Mars, showing its rocky surface, polar ice, and thin atmosphere. Note how ghtly
+planets concentrate matter. (NASA)
+In contrast, planetary bodies in the outer Solar System contain far greater propor ons of gas
+and ice. Gas giant planets like Jupiter and Saturn consist mostly of hydrogen and helium gas and
+have relatively small cores of rock and metal (Figure 2.37). Beyond the gas giants, the comets
+consist mostly of water, carbon dioxide, and similar ice. Comets contain minor dust and
+essen ally no liquid (Figure 2.38) .
+
+Figure 2.37. Jupiter, showing the famous ‘Great Red Spot’. (NASA)
+
+Figure 2.38. The 1997 passage of the comet Hale-Bopp. The ‘tails’ represent matter blasted
+from the comet’s surface. (Col Drusciè Observatory)
+
+4
+
+Ordered Motion
+Most planetary bodies in the Solar System orbit and spin in the same direc on, and most share
+the same orbital plane (Figure 2.39). In addition, most of the rotational motion (angular
+momentum) in the Solar System lies in planetary bodies rather than in the Sun, which contains
+most of the matter. In other words, the Sun rotates relatively slowly, but the planets orbit at
+tremendous speeds. For example, Mercury orbits the Sun at ~100,000 miles per hour, and its
+year lasts just 88 Earth days.
+
+Figure 2.39. Illustration showing the ordered orbits and spins of Solar System planets.
+(Wikimedia)
+Ordered Ages
+The ages of the oldest Solar System materials form another important pattern. Instead of
+having uniformly young or randomly distributed formation ages, all the oldest known materials
+formed during the same early period, ~4.5 billion years ago. These consistently ancient ages
+witness that the en re Solar System originated together, long ago.
+
+How Planets Form in Proplyds
+
+Many people interpret written scripture to mean that God creates like a chef in a kitchen,
+through agent-designed assembly. In contrast, natural scripture witnesses that God creates
+through natural processes. As already discussed, appropriately deep respect for both sources of
+truth can reconcile the apparent conﬂict.
+The natural processes that govern the formation of planets include gravity and motion. These
+processes produce collisions Inside proplyds that concentrate matter in a process called
+accre on. Signiﬁcantly, gravity and motion inside proplyds explain all the ordered planetary
+patterns described above.
+
+5
+
+Gravity and Motion
+As you already know, natural processes can produce order from chaos. Earlier, we explored how
+gravity and motion produce the ordered nature of stars. Gravity and motion also create the
+ordered nature of planets and their systems—as illustrated in Figure 2.40. However, in
+planetary systems gravity opposes orbital motion—not the chao c motion that produces gas
+pressure in stars.
+
+Figure 2.40. Illustration showing the main processes (colored lines), states (images), and
+transitions (gaps) that form planets in the disks of gas and dust that surround forming stars. In
+the proplyd image, note the central star, surrounding disk, wispy streams of infalling gas, and
+linear jets of ejected material. (Author illustration; nebula image from NASA, solar system
+diagram from Wikimedia)
+Recall that ﬂat proplyds form from rotating clumpy globules inside nebulae, in much the same
+way that globs of pizza dough ﬂa en when spun overhead. In the disk por on of proplyds, gas
+and dust rotate in one direc on around the center (Figure 2.36). This motion prevents gas and
+dust in the disk from joining the central star. What’s more, this shared orbital motion explains
+why solar systems are ‘ﬂat’ and contain planetary bodies that originally orbit and spin in the
+same direc on. Of course, subsequent gravitational interactions and collisions can alter the
+orbit and spin of planetary bodies.
+Accre on
+Nebulae and their collapsing globules consist mostly of hydrogen and helium gas. The
+remaining elements typically comprise less than 1% of nebulae. Of these, oxygen, carbon,
+nitrogen, silicon, magnesium, and iron are the most abundant. These elements are ~10 mes
+more abundant than elements like calcium, aluminum, sodium, potassium, and nickel, which in
+turn are more abundant than elements like aluminum and sulfur. The rest of the elements—
+including gold and uranium—are vanishingly rare.
+Oxygen, carbon, and nitrogen can combine with hydrogen and with each other to form
+molecules like water (H 2 O) and carbon dioxide (CO 2). At most temperatures, these elements
+and compounds form gases and liquids. They can only form solids (ices) where temperatures
+are very low. In contrast iron forms metal, and silicon, magnesium, and iron make rock. Rock
+
+6 are very low. In contrast iron forms metal, and silicon, magnesium, and iron make rock. Rock
+and metal exist as solids and liquids at very high temperatures.
+The gas and dust in nebulae are spread out. As globule collapse proceeds, gravity forces gas and
+dust into ever-smaller spaces, which increases temperature. This compression and heating
+accelerate as matter falling from the larger nebula con nues ‘slamming into’ the shrinking
+globule. These elevated temperatures vaporize most dust grains in proplyds, and for a time they
+prevent new ones from forming.
+Later, after the supply of material from the larger nebula slows and the proplyd stabilizes, the
+disk cools and new solid grains form. Of course, temperatures near the center of the disk
+remain relatively high. As a result, rock and metal solids form throughout the disk, but solid ices
+form only in the outer disk where temperatures are low. In our Solar System, the isotopic
+compositions of these ﬁrst solids indicate they formed 4.567 billion years ago, less than 30
+million years before Earth and the other planets formed.
+Today, planets made mostly of rock and metal lie near the sun, those with abundant gases lie
+further out, and those consisting mostly of ices occupy the farthest reaches of the Solar System.
+As you can see, this pattern results from the original distribution of solids in the cooling disk,
+rock and metal toward the center and ice toward the edge.
+As these small solid grains accumulated in the disk, gentle encounters allowed them to s ck
+together, in much the same way that ‘dust balls’ form behind cabinets or under your bed. As
+these ‘dust clumps’ grew, increasing ‘gravitational pull’ accelerated their growth. In me, small
+agglomerations grew into pebble-sized solids and then into ﬁst- and boulder-sized bodies—
+eventually producing small protoplanets. The process of forming ever-larger solid bodies by
+‘gravitational a raction’ and collision of smaller bodies is called accre on. The a ributes of
+planetary bodies in our Solar System witness they formed by accre on.
+Figure 2.41 illustrates the transition that produces planetary systems from proplyds. Accre on
+begins after cooling produces the ﬁrst solids, ramps up as larger bodies grow, and then slows
+when the intense ‘winds’ associated with star birth disperse most of the gas and dust that
+remains. In this way accre on concentrates matter into planetary bodies, and star birth clears
+the huge spaces between planets of intervening gas and dust—producing the Solar System we
+observe today.
+Although star and planet formation is long compared to blink-of-an-eye human life mes, solar
+systems form very quickly relative to the life mes of their stars and planets. In our Solar
+System, the Sun and all planetary bodies formed between 4.54 and 4.567 billion years ago. As
+you can see, this developmental period—just tens of millions of years long—is minuscule
+relative to the ~10-billion-year normal-star-life time and the essen ally eternal white-dwarf-
+life time of our solar system. Moreover, this narrow developmental period explains why the ages
+of the oldest materials in the Solar System—including those on Earth—cluster towards 4.54
+billion years old.
+
+7
+
+Figure 2.41. Cartoons showing the orbits of small grains inside a proplyd (le ) and the orbits of
+the planets formed by accre on (right). (Author illustration)
+The beau ful illustration in Figure 2.42 shows a planetary system in the process of forming. The
+scien ﬁc theory that explains how planets form from nebulae (nebular theory) explains much
+more than the ordered nature of matter, motions, and ages in our Solar System. For example, it
+explains how gas giants and rocky planets form. Speciﬁcally, abundant ice allows gas giants like
+Jupiter to quickly grow large, so large that they retain their primi ve hydrogen-helium
+atmospheres when the intense ‘star birth’ winds begin to blow. In contrast, the lack of ice
+causes rocky bodies like Earth to remain small during this period.
+
+Figure 2.42. Illustration of planets forming inside a proplyd. Note the ‘empty trackways’ where
+accre on is concentrating matter into planets. (Author illustration)
+Nebular theory also explains how planet-forming processes produced the miniature planetary
+systems that surround Jupiter and Saturn, how Jupiter’s gravitational inﬂuence prevented a
+planet from forming in the asteroid belt, why comets only rarely formed larger planetary
+bodies, and on and on and on. In fact, humanity has yet to make an observation that falsiﬁes
+nebular theory.
+You live in an exciting me. Humans today are able to test nebular theory with a rapidly
+growing set of new observations. These include numerous observations of other planetary
+systems, including many that are presently forming (Figure 2.43). What’s more, the evidence
+that you live in The Ongoing Creation of our own solar system is all around you. For example,
+the ‘shooting stars’ you see streaking across the night sky are sand-sized grain that are just now
+being accreted to Earth. Thankfully, modern accre on is vastly less energe c than it was 4.54
+billion years ago when Earth formed.
+
+8
+
+Figure 2.43. Photos of proplyds in which planets are presently forming. Note at right the ‘empty
+orbital rings’ where planets have ‘swept up’ disk matter around the young star TW Hydrae.
+(ESO)
+The success of nebular theory in describing the observed a ributes of solar systems
+demonstrates that the theory contains abundant truth. Like all scien ﬁc theories, it blesses
+humanity by bringing together many otherwise unrelated observations and by guiding new
+discoveries. Of course, if future observations demonstrate that nebular theory has limited
+explanatory power, it will s ll have been humanity’s shortest path to greater truth. For this
+reason, scholarly disciples hold nebular theory and other scien ﬁc theories in very high regard
+—not as absolute truths, but as diamonds in the rough that, through con nuous improvement
+and development, will one day produce gemstones in a crown of perfect knowledge.
+The formation of our Solar System represents another signiﬁcant waypoint in our journey From
+Atoms to Humans. after all, the formation of Earth provided the materials and processes that
+converted our long-uninhabitable planet into the comfy place that today we call home.
+

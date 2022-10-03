@@ -1,0 +1,657 @@
+Week4- Constitutional Development
+“I confess that there are several parts of the Constitution which I do not at present approve, but I am not sure I
+shall never approve them. For, having lived long, I have experienced many
+instances of being obliged, by better information or fuller consideration, to change
+opinions, even on important subjects, which I once thought right, but found to be
+otherwise. It is therefore that, the older I grow, the more apt I am to doubt my own
+judgment, and to pay more respect to the judgment of others… In these
+sentiments, sir, I agree to this Constitution, with all its faults, if they are such;
+because I think a general government necessary for us.”
+1
+- Benjamin Franklin
+“Wrong road”
+The American people constructed their respective state governments from their theory that smaller was better
+and a non-existent central government was best. Quickly, reality proved that some of their theories were based
+on flawed assumptions that could only be corrected by creating exactly what they fought against - a federal
+government. Benjamin Rush, a signer of the Declaration of Independence and a civic leader in Philadelphia,
+made an argument for a stronger national government by explaining:
+“We had just emerged from a corrupted monarchy. Although we understood perfectly the principles of
+liberty, yet most of us were ignorant of the forms and combinations of power in republics.”
+2
+It might be tempting to see this time period as a disastrous mistake. However, Elder Jeffrey R. Holland’s story
+about a “wrong road” might be a better way to look at this experience. Elder Holland and his son were visiting
+the Grand Canyon on an outing together many years ago. By the time they started back home, it was dusk and
+getting lost in the dark became a dangerous
+possibility. They came to a fork in the road and both
+Elder Holland and his son felt impressed to take the
+road on the left after praying about the decision.
+They drove a couple of hundred yards and quickly
+found it was a dead end. Elder Holland turned
+around, went back to the fork in the road and took
+the road on the right. His son, feeling a little
+confused, asked Elder Holland a sincere question
+about why they had a strong impression to go down
+the wrong road. Elder Holland replied:
+
+1
+Jonathan Elliott, ed., The Debates in the Several State Conventions on the Adoption of the Federal Constitution Held at Philadelphia, in
+1787; with a Diary of the Debates of the Congress of the Confederation; as Reported by James Madison, a Member, and Deputy from
+Virginia 5 (Philadelphia: J. B. Lippincott, 1876).
+1
+“The Lord has taught us an important lesson today. Because we were prompted to take the road to the
+left, we quickly discovered which one was the right one … [so we could turn around, and we could feel]
+perfectly confident we were headed in the right direction.”
+3
+The colonists were not prepared to accept a stronger national government at the time of their declaration of
+independence. Like in Elder Holland’s experience, maybe the American people needed to go down the “wrong
+road” by implementing the Articles of Confederation for a while in order to accept that a written constitution
+would have a more stabilizing influence between the states and more effectively secure the rights outlined in the
+Declaration of Independence.
+A Brief Overview
+I. Timeline of Events
+II. Revolution + Republics + Articles = Anarchy?
+III. Convention or Bust!
+IV. The Great Debates and Compromises
+V. The Miracle at Philadelphia
+VI. The Battle for Ratification
+I. Timeline of Events
+Sometimes, seeing events in a linear timeline helps to put these issues into context. Context can help us see
+how tensions began to form and build over time. We will not have time to discuss each of these events in depth
+nor can all the pivotal events that led to the formation of the U.S. Constitution fit in one page. However, it does
+help to see how history does not move as fast as our ability to turn pages while reading a book. For example, the
+first act of aggression from England that prompted the formation of a Continental Congress happened in
+September of 1774, but the formal declaration of independence did not occur until July of 1776.
+3 Matthew Holland, “Wrong Roads and Revelation”, Ensign, July 2005.
+2
+3
+II. Revolution + Republics + Articles = Anarchy?
+A. Revolution (1775 -1783)
+From the timeline above, we see that the American Revolutionary War started before the American
+Colonists formally declared independence or the Articles of Confederation were written and ratified by
+the states. George Washington had the difficult task of persuading men to serve in the Continental
+4
+Army because of monumental challenges in their path. Here is a list of some of their biggest issues they
+were facing besides enemy combatants:
+#1 - Money - payment -
+Worthless money: The Continental Congress printed Continental money, but people would not
+accept it as it was worthless. As officers tried to feed their soldiers, they complained, “the
+farmers would not sell and the millers would not grind for Continental money.”
+5
+Bankruptcy concerns: Those leaders trying to find ways to finance the war worried that the
+depreciation of the Continental money would make it impossible for them to continue on with
+the war. “Even a Failure cannot be more fatal than to remain in our present situation. In short
+some enter-prize must be undertaken in our present Circumstances or we must give up the
+cause.”
+6
+This caused General Washington to act quickly in an effort to shorten the duration of the war.
+#2 - Disease - Smallpox -
+Death by disease not war: A quote by John Adams perfectly explains the devastating effect the
+communicable disease, smallpox, had on the Continental Army. “Our misfortunes in Canada are
+enough to melt the heart of a stone. The smallpox,” mourned John Adams, “is ten times more
+terrible than Britons, Canadians and Indians, together.”
+7
+Inoculate or quarantine: The British soldiers were more immune as a whole because of the
+presence the disease already had in their country. However, it was not as prevalent on the
+American continent so it had the effect of killing 1 in every 3 people who contracted the disease.
+George Washington made the difficult decision to inoculate
+8 his soldiers to prevent a bigger
+more deadly outbreak and then those soldiers would have immunity. In many cases, they would
+inoculate soldiers by picking the scabs of those soldiers who had recently died from smallpox in
+order to expose themselves to the live organism. It was a success, with less than 1% of soldiers
+dying from the process.
+
+#3 - Supplies - food, clothes, etc. -
+No surplus to donate: “The household economy of early America was incapable of supplying
+Continental troops with clothing and shoes. …one ‘peaceable man’ watched American troops
+march by and observed ‘if the War is continued thro the Winter, the British troops will be scared
+at the sight of our Men, for as they had never fought with Naked Men.”
+9
+“The story of supply in the Continental army is a drab subject, much neglected in most histories
+of these events, but it had a drama of its own. The American Revolution was yet another
+instance of Rommel’s Law that battles are won or lost by the quartermasters
+10 before the first
+shot is fired.”
+11
+Each one of these three examples could have caused the American colonists to lose their war for
+independence.
+B. The New State Republics (1776-1787)
+Immediately following the Declaration of Independence, each of the thirteen original colonies decided to
+write state constitutions outlining a new form of government that would replace their colonial charters.
+Each of the states were to become a small republic based on democratic and republican principles so
+that the rights of the people would be protected. The forms of these governments were true to the
+spirit of the Revolution with most of the power vested in a legislative branch ideally designed to be the
+place where virtuous representatives made laws based on the virtuous will of the people. Fortunately,
+“all of the constitution makers acknowledged the almost sacred nature of writing constitutions and
+sharply differentiated that process from that of merely passing legislation.”
+12 Unfortunately, in many
+cases state constitutions failed to provide the peace and tranquility for which the people had hoped, as
+the individual legislatures of the various states were ill-prepared for government and were ripe for
+corruption and mismanagement.
+George Washington described the widespread problem thusly,
+“The inefficiency of state governments indicates we have errors to correct.”
+13
+James Wilson, another founder and signer of the Declaration feared that in the states,
+“The legislature is swallowing up all the other powers.”
+14
+James Madison called the atmosphere in many of the state legislatures as undependable and difficult to
+enforce. He said,
+
+“Revised laws have been altered, re-altered, made better, made worse; and kept in such a
+fluctuating position, that persons in civil commission scarce know what is law… [This is] the
+grievance complained of in all our republics.”
+15
+The colonists wanted to restore balance to their lives through their new state republics. Instead, they
+found themselves on a pendulum that had swung from one end, tyranny, or oppressive rule under King
+George III, to the other end, anarchy, with a lack of a strong central government and no effective rule of
+law. This atmosphere of anarchy developed because majority factions in the strong state legislatures
+dominated with no executive branch to either check the power of the legislatures or enforce state laws.
+(see graphic below)
+C. Articles and Anarchy (1781-1787)
+The Articles of Confederation created the first post-independence national government. Its problems were
+legion. The table included below gives a brief explanation of the weaknesses created by the Articles and the
+outcomes of those weaknesses. We will not be able to discuss all of these weaknesses, but we will address three
+main problems that were apparent from the beginning.
+
+#1 - One branch of government:
+First, the Articles of Confederation had just one branch of
+government - a legislature to make laws, but no executive
+or judiciary to carry out or apply them. Furthermore, the
+legislature poorly represented the people. Each of the 13
+states had just one vote despite population differences.
+To give you an idea of the population differences, the
+chart on the right comes from a 1909 report by the U.S.
+Department of Commerce and Labor.
+16
+In 1780, Virginia
+had a population of 520,000 versus Delaware with only
+37,000 people. It is understandable why the larger
+populated states, like Virginia, really did not think this
+was a fair arrangement.
+#2 - No power to raise money
+Second, under the Articles of Confederation, the
+government had no way to raise money. In general,
+governments obtain funds in three ways: taxing,
+
+borrowing, or printing. The Articles of Confederation empowered the government to do none of these.
+We read in the section above that this was an obstacle for the Continental Congress as they tried to find
+ways to fund the army during the American Revolution. Since Americans at the time were extremely
+fearful of taxation given their past experiences, only the states had the power to tax. The central
+government had no credit because foreign countries were wary of lending money to a country that had
+no way to pay back those debts. In addition, there was no uniform national currency, leaving states to
+print and coin their own money. If Congress wanted money they had to beg for it from the states and the
+states rarely obliged. Since all government action requires money, the Congress was powerless to act in
+any meaningful way.
+#3 - No authority to negotiate
+Third, the country didn’t have a foreign policy because it had no authority. Authority comes from a police
+force, the ability to raise money, and have the final word in disputes. The Articles did not give this
+authority to the Congress, but each state had its own foreign relations and trade agreements. The army
+they had cobbled together during the Revolution had dissolved once the war ended and, as the founding
+generation was fearful of a standing army, there was no military to speak of which rendered their
+treaties toothless.
+17 States were engaging in trade wars by slapping tariffs and trade restrictions on other
+states and squabbling over navigation rights of rivers and ports. On top of it all, there was no judicial
+branch to settle interstate disputes. The 13 states operated more like 13 different countries because of
+the lack of unity and structure.
+Clearly, the Articles were terribly inadequate for freedom and prosperity. The U.S. government after 1776 was
+insufficiently strong to protect rights through the rule of law. In fact, the Articles of Confederation led to close
+calls with the rule of will.
+In one of these instances, a Revolutionary War captain named Daniel Shays, who had sacrificed greatly for the
+cause of independence, understood the injustices of excessive taxation. Being away from his farm for the war
+took its toll and Shays, like many other farmers in Western Massachusetts, found himself heavily in debt.
+In this difficult situation, Massachusetts tax collectors showed up and demanded payment. Shays was irate. To
+him, this was completely backward: he shouldn’t be giving money to the government, he should be getting
+money from the government. They should be paying him for his service and sacrifices during the war, not taking
+money from him when he could least afford it because of that service.
+Shays had just finished fighting one war against unjust taxation and he had no problem fighting another one. He
+organized his neighbors into an armed mob and they ran the tax collectors off, marched on the courts that had
+ordered these collections, and overthrew the local government. They were heading to seize a weapons arsenal
+to do the same at the state level when the Massachusetts militia showed up and put down the uprising before it
+gained unstoppable momentum. In what is now called Shay's Rebellion, people lost their lives, liberties, and
+properties because the government lacked the power to protect them or to collect taxes to pay Revolutionary
+War veterans.
+17
+“Toothless” refers to a law (or rule) that has no effect because there is no enforcement. Here the Articles of Confederation created
+only a legislative branch. Therefore, the congress did not have a “police power” to enforce their laws whether it was by an executive
+branch or a judicial branch.
+
+These close calls made thoughtful Americans nervous. James Madison, in particular, realized that the
+government under the Articles was not strong enough to secure liberty. Americans had so despised the tyranny
+of King George that they had swung too far towards the other extreme of anarchy.
+III. Convention or Bust!
+Keeping up with the trend of 3s in this reading, there are three men in particular that were essential to making
+the Constitutional Convention happen: George Washington, James Madison, and Alexander Hamilton. In fact,
+one historian described it this way: “Among those who began early to work for reform three names stand out:
+Washington, Madison and Hamilton.”
+18 Each of these men had mounting concerns about the young nation
+falling to anarchy because of disunity. Madison and Washington exchanged letters during the time of Shays’
+Rebellion speaking to this worry.
+Madison wrote, “No morn ever dawned more favorable than ours did - and no day was ever more
+clouded than the present!”
+
+Washington responded, [The country appears] “fast verging to anarchy and confusion. What stronger
+evidence can be given of the want of energy in our governments than these disorders? Will not the wise
+and good strive hard to avert this evil?”
+
+Hamilton, as well, believed that a stronger central government was necessary to bring stability and
+peace to the fractured union because central governments were the institutions that had the authority
+to make trade policy. The increasing trade disputes with seaports and imported goods “persuaded
+Hamilton that unless a new federal government with a monopoly on customs revenues was established,
+disunion would surely ensue. As individual states developed interests in their own taxes, they would be
+less and less likely to sacrifice for the common good.”
+
+Recognizing the problems at hand and the threats to the American principles outlined in the Declaration of
+Independence, these men decided to organize an effort to amend the Articles of Confederation. Each of these
+men had a vital role to play in calling for and making the Constitutional convention a
+success.
+George Washington, the stabilizing factor:
+Madison persuaded Washington to come to the convention as the meeting’s
+president, just like Washington had done at the Mt. Vernon convention in 1785.
+Washington understood the implications of his presence and rose to the occasion.
+“Deeply aware of his symbolic role, he wore his military uniform when he
+accepted the meeting’s presidency on May 25, 1787, and he presided with
+
+the firm and quiet dignity of a judge, speaking rarely and keeping delegates in line.”
+
+Washington’s presence and comportment during the convention helped to inspire the delegates to
+imagine how an executive branch could exist in their new government. “Pierce Butler of South Carolina
+opined that they would not have made it so strong ‘had not many members cast their eyes toward
+General Washington as president and shaped their ideas of the powers to a president by their opinions
+of his Virtue.’”
+
+James Madison, the political philosopher:
+Madison formulated ideas through persistent reading, studying and personal
+observation. He spent time during the spring and summer of 1786 building up a
+knowledge for writing a constitution by having Thomas Jefferson send him books
+“by the hundreds from Europe - histories of confederations from ancient Greece to
+modern Switzerland in French and Latin as well as English, works of political theory
+from the Enlightenment and earlier.”
+24 Madison was more convinced from these
+studies and through his experience that “confederacies fail when they lack a
+strong central authority.”
+
+Once Hamilton proposed another convention for 1787, Madison began to lay the groundwork for his
+constitutional theory in his written analysis, “Vices of the Political System of the United States.” As he
+worked out his theories on paper, Madison presented a prepared agenda. This agenda, called the
+Virginia Plan, was really an outline of a new republican form of government and became the starting
+point for the delegates to debate. This is also one of the reasons why Madison is known as the “Father
+of the Constitution”.
+Alexander Hamilton, the visionary:
+Hamilton had a problem with the Articles of Confederation from the beginning
+because of its weak power to generate and collect money. “In 1780, far in advance
+of anyone else, he had recommended a convention to remedy the articles.”
+
+Hamilton described the country as a collection of “petty states … jarring, jealous
+and perverse,”
+27 and he understood that people were regionalistic, or loyal to their
+state, and feared those who were nationalistic, or loyal to their country. Hamilton’s
+vision was that the citizens could have both loyalty to their state and country
+through a stronger central government that allowed the citizens of the different
+states to have better trade relations with each other. His home state of New York
+was not the most populated state, as you see from the previous census chart
+above. However, New York had control over the best seaports and waterways for
+
+commerce and trade. It was going to be tough to persuade his own state to give up some power in order
+to obtain more peace and prosperity.
+Hamilton played two key pivotal roles at this time.
+#1 - In 1786, at the Annapolis convention, he engineered “the calling of a national convention to
+rewrite the Articles of Confederation.”
+
+In essence, Hamilton got the ball rolling.
+#2 - Starting in 1787, his “best-known contribution to the making of the Constitution [was] his
+co-authorship of The Federalist.”
+
+It was a series of articles written by John Jay, James Madison
+and Hamilton that “began as a propaganda tract, aimed only at winning the election for
+delegates to New York’s ratifying convention,” but quickly “evolved into the classic commentary
+upon the American federal system.”
+
+In May of 1787, representatives from the other colonies began arriving in Philadelphia. Some of them are
+well-known today (e.g. George Washington, Benjamin Franklin, and Alexander Hamilton), while others are not.
+But almost all of them were remarkable, wise men who made important contributions to the final version of the
+Constitution. Their average age was 42. Most had graduated from college and belonged to the elite professions
+in America (lawyers, planters, merchants, etc.). Eight had signed the Declaration of Independence and all had
+extensive political experience in their state governments and/or the Congress. In short, they were all
+well-equipped for the task at hand.
+A Written Constitution
+Those who gathered at the Constitutional Convention were in a unique position to create something
+revolutionary. Unlike the British form of government which had been developed over hundreds of years,
+this new Constitution would be a formal mechanism that explicitly described the forms, structures,
+powers, and relationships of government entities. These written words would define and constrain
+power, making it sufficient to protect the “general welfare” and provide for the “common defense,” but
+prohibit its actions outside those enumerated (or listed in the document) powers. Underlying its creation
+would be the focus on:
+● the rule of law,
+● the power of the people,
+● the consent of the governed in electing its representatives,
+● the fact that freedom is protected by placing limits on those in power
+One of the main lessons learned from the Articles of Confederation was that the United States needed a
+document that could "grow and develop to meet the changing needs of an advancing world."
+31 The
+Founders made this possible with the Constitution by instituting an easier amendment process
+compared to the Articles of Confederation. While it is still not a quick process, the difficulty is
+
+purposefully built into the Constitution so the document cannot be amended without the necessary
+debate and authority of the people.
+IV. The Great Debates and Compromises
+
+After arriving, the delegates immediately got down to business. First, they elected George Washington president
+of the convention. His leadership and celebrity during the Revolutionary War made this choice a foregone
+conclusion and the participants would keep him in mind as they designed the office of the President of the
+United States. Washington would say little during the Convention, but he gave a crucial calming, unifying
+presence to the proceedings.
+Next, Madison headed to the front of the hall to take notes. He knew future generations would be interested in
+the “intentions of the Founders” and only a meticulous record could provide that.
+Governor Randolph started the proceedings with an extremely controversial first motion: to do away with the
+Articles of Confederation entirely and replace them with Madison's plan for a new government. This was
+revolutionary. Many delegates protested that their states had given them instructions not to abolish the Articles
+and threatened to leave. As the convention went on, many would make good on that threat, but, to their credit,
+most of the delegates remained to at least see what Randolph had in mind. Randolph’s proposal kicked off the
+first of three major debates that defined the proceedings of the convention for the rest of the summer.
+Debate #1 - Large v. Small States
+The first debate was between the large states and the small states. This was the most protracted and
+contentious of all issues and took the majority of the summer to resolve. Remember that since 1776
+each of these states was like an independent country and intensely jealous of their autonomy. In 1786,
+you weren’t an American, but a Virginian, New Yorker, Georgian, and so on. The Articles of Confederation
+loosely bound these states, but this didn’t make these thirteen little nations into one big nation. The
+Congress had been a distant body that didn’t do much, which was a good thing in the minds of most
+because the tyranny of a distant, central government was what they had fought the Revolution to get
+away from. The small states were especially afraid of having their independence swallowed up by the
+larger states in a national government.
+All of the delegates agreed a stronger central government was needed, but the real issue was how to
+determine representation in that new government. Madison’s “Virginia Plan'' proposed a strong national
+government with three branches of government: a judicial branch, an executive branch, and a bicameral
+legislature, but also proposed that representation be based on population. This was anathema to the
+smaller states. Under the Articles, each state received one vote - no matter how large or small - and
+that’s why the smaller states liked it. This arrangement gave them comparatively more power: a small
+state would have 1/13th of the power even if they only had 1/100th of the population. To the large
+states, on the other hand, Madison’s proposal was better and more democratic. Why should a state with
+far more people have the same say in the national government as one with far fewer people?
+
+
+Although the delegates would eventually accept the basic structure of Madison’s plan, many couldn’t
+swallow the idea of a government in which representation was purely popular. Those from smaller states
+like New Jersey and Delaware knew that representation based on population alone would overwhelm
+and dilute their say in government, so William Paterson of New Jersey made a counter-proposal which
+we today call the “New Jersey Plan.” Paterson’s plan would strengthen the national government by giving
+it more power to tax and act, but would keep the one branch, one-state-one-vote system that had been
+in place under the Articles of Confederation.
+This heated debate about representation lasted all summer and almost killed the Convention. It was
+finally resolved with what we call “The Great Compromise,” aptly named because without the
+compromise there would have been no United States Constitution. The Great Compromise answered the
+question of state or population based representation with a system in which we could use both methods
+of representation in the legislature. Remember that Madison had proposed two houses of Congress, or a
+“bicameral legislature.” Why not have one of the houses represent according to population and the
+other represent each
+state equally? States
+would send
+representatives to the
+House of
+Representatives based
+on their population,
+but would each send
+the same number of
+representatives to the
+Senate (two) regardless
+of population. This
+proposal eventually
+satisfied the delegates
+from both the large
+and small states (see
+graph).
+The Great Compromise also applied to the selection of the president in what became the Electoral
+College. While we sometimes say that we vote for the president, in reality we vote as a state for electors
+who in turn vote for the president. How many electors each state receives is determined through a
+combination of state and popular representation. A state has electoral votes equal to the number of its
+Senators (state) and Representatives in the House (popular). So if a state’s population entitled them to
+three seats in the House of Representatives, then that state would have five electoral votes for president
+(3 Representatives + 2 Senators). So we see the Great Compromise at work in the selection of all three
+branches of government (albeit indirectly in the case of the judiciary). With this compromise, the
+Convention had overcome its greatest hurdle.
+Debate #2 - North v. South
+
+The second major debate at the Constitutional Convention was between the northern and southern
+states. The North-South split was easily the most important division in the history of our country and, of
+course, eventually led to civil war. Although this schism centered on slavery, it went beyond into larger
+cultural and economic questions. The North was commercial and industrial while the South was
+agricultural and plantation-based. The South had (and still has to a degree) a more communal social
+system based on kinship ties and honor, while the North had an individualistic culture based on contract.
+Delegates from the South understood that they could increase their power at the expense of the North
+by including slaves in the population count. Remember, a state’s say in the new government would be
+partly determined by the number of its people, so the South wanted to inflate its population numbers by
+including the slaves in the census. The northerners responded that the southerners couldn’t have it both
+ways: either the slaves were people entitled to rights and representation (in which case they shouldn't
+be slaves at all), or they shouldn’t be counted in the population. Those from the South would not budge
+on the issue and this put the Convention at another impasse.
+Most of the Founding Fathers were against slavery (even though many of them held slaves) and wanted
+to see it abolished. In fact, George Mason wouldn’t even sign the Constitution because it allowed the
+abominable institution to continue. But most of them felt that they could make a concession on slavery
+that would create a union now and leave it to later generations to do away with it. That is exactly what
+happened and we must give credit to the Founders for their foresight on this, even if we also condemn
+many of them as hypocritical slaveholders.
+
+The agreement they finally came to is called “The Three-Fifths Compromise” which was not a new idea.
+This compromise was proposed in 1783 to try and change the way taxes were calculated under the
+Articles of Confederation. The amendment did not pass because the Articles of Confederation required a
+unanimous vote and some of the
+southern states did not want their
+slave population counted towards
+their tax calculation. The southern
+states were now willing to make this
+compromise, but how does one count
+a 3/5ths vote? This sounds
+complicated, but it really meant that
+5 slaves equaled 3 votes. One could
+also look at this as a 60%
+compromise. Here is a graphic using
+Virginia as an example to help
+illustrate this idea.
+Some may think the Founders were racist in agreeing to a compromise that considered enslaved
+African-Americans as "less than a full person." However, the Three-Fifths Compromise may have allowed
+33
+It should be noted that many slaveholders were legally incapable of freeing their slaves either because the slaves were seen by banks as
+collateral for debt, because the slaves were entailed to an estate the current owner had no control over, or the local laws outright forbid
+the freeing of slaves. Some of the Founders tried to change these unjust laws in the colonies where they lived, with varying success.
+14
+for the eventual abolition of slavery. If the Founders had allowed the South to count each enslaved
+person towards representation, it would have given so much power to the South that Abraham Lincoln,
+the Great Emancipator, may not have been elected. Had the Founders not allowed any compromise at all
+on the slavery issue, they may not have been able to form the United States as we know it today. While it
+was and continues to be a contentious issue, we owe the union of the 13 states to the Three-Fifths
+Compromise.
+Debate #3 - Federal v. States
+The third and final major debate at the Convention was over the relationship between the states and the
+new Federal Government. Formal compromises resolved the first two debates, but this one was much
+trickier since it involved the question of “sovereignty.” We don’t use the word “sovereignty” much
+anymore, but it essentially answers the question, “Where does the buck stop?” When push comes to
+shove in government, who has the final say? Prior to 1787, state governments had clearly been
+sovereign and acted as their own little countries. Would they now surrender this sovereignty to the
+federal government under the new Constitution?
+Madison and others tried to placate the states by saying that both national and state governments would
+be sovereign under the new Constitution. But how could this be when sovereignty, by definition, is
+indivisible? The whole point of sovereignty is to locate the one final authority in government matters.
+They eventually found their way out of this dilemma with words rather than substance. They said that,
+unlike in a monarchy where the king sat atop the pyramid of authority, America would be a republic with
+the people on top; the people would be sovereign. So, no, we wouldn’t and couldn’t divide the
+sovereignty of the people - it was indivisible - but you could divide the representation of the sovereign
+people. States and the federal government could co-exist as two separate expressions of the sovereignty
+of the American people
+themselves.
+This was not a satisfactory
+answer. The Founders came
+up with a slogan “e pluribus
+unum” to describe the new
+nation: “out of many, one”.
+However, this debate is still
+with us. The federal
+government has steadily
+accrued more power since
+the founding, but states still
+claim prerogatives and the
+debate over what belongs in
+the state or federal sphere
+continues to this day.
+
+V. The Miracle at Philadelphia
+34
+After overcoming these three enormous hurdles, the Founders finally declared themselves satisfied with their
+handiwork and on September 17, 1787, came forward one by one to sign the Constitution. It had taken all
+summer, but they all realized they had accomplished something remarkable, even supernatural. Many referred
+to the Constitution as a “miracle.” Washington, for example, maintained for the rest of his life that God had been
+with them in the Convention as much as he had been with them on the battlefield. Why would he say that and
+why do we still speak of a “divinely inspired Constitution” today?
+Content
+First, the content of the Constitution was miraculous. It established a remarkable system of government
+(not “perfect,” but “more perfect” in the Founders’ words). This inspired document contains the most
+effective and appropriate means for dividing power that humans ever devised. The secret to freedom is
+the division of power, and our Constitution masterfully sets up a structure that balanced power which
+preserves liberty. It has weathered many storms and prevented the abuses of power that come when
+power remains unchecked.
+Success
+Second, the Constitution did nothing less than create the first and most enduring liberal democracy in
+history. America is not the only free country in the world today, but it has been the freest country over
+the course of the last three centuries. No other nation comes close to offering so much freedom to so
+many people for so long. France, Japan, and Germany, for example, are all exemplary free countries
+today, but were tyrannies as recently as 1945 or even 1989 in the case of East Germany. The
+Latin-American states never united as did the North American states and the differences are stark as we
+observe the cycle of tyranny and anarchy still playing out among many states south of the U.S. border
+today. Divided Europe, while currently stable and free, has been plagued by recurrent wars between
+themselves as well as civil wars. Who is to say this would not also have been the fate of America had not
+the Constitution bound the independent states together? Perhaps only divine inspiration can fully
+explain this success.
+Note also the elegance of the U.S. Constitution. It is as thin as a pamphlet and an educated person can
+read it thoroughly in less than an hour. Simplicity, clarity, and precision are political virtues and the
+Constitution has them. Contrast it with the European Union Constitution which is thousands of pages
+long and requires weeks of labor and a team of lawyers just to decipher it. The U.S. Constitution is direct
+enough to give us guidance, but open enough for flexibility in application.
+Participants
+Third, the participants themselves were miraculous. Thomas Jefferson once dubbed the Convention an
+“assembly of demi-gods” - the most gifted assemblage of political minds in history. Almost any one of
+the delegates would have been the greatest statesman of their time had they lived in any other age, and
+yet in Philadelphia in 1787 (with a much smaller population to draw from than today), there were 55.
+The likelihood of this much talent being in one place at one time in such a small country defies the laws
+
+
+of probability. Even secular historians are stumped by this “fantastic coincidence.” Once again,
+providential intervention may be the only adequate explanation.
+Compromises
+Fourth and finally, there were miracles in the compromises the delegates agreed to. The Spirit of the Lord
+is the spirit of goodwill, humility, and being willing to listen to and understand other viewpoints. Only
+such a spirit can account for the degree to which the delegates put aside narrow interests and prejudices
+to create the American nation. In fact, there was one moment in the convention when the fighting was
+particularly heated and Benjamin Franklin, who had been sitting quietly in the back, finally spoke up.
+Everyone calmed down, hushed, and listened as the sage of Philadelphia, the great Franklin, said, “[T]he
+longer I live, the more convincing proofs I see of this truth - that God Governs in the affairs of men. And
+if a sparrow cannot fall to the ground without his notice, is it probable that an empire can rise without
+his aid?” Even though they didn’t hire a chaplain to offer formal prayers in the Convention (they lacked
+funds to pay one) the advice was sound and heeded individually. Compromise came only after Franklin’s
+wise admonition.
+The following is a chart of the summary of differences between the Articles of Confederation and the US
+Constitution.
+Finally, as President of the convention, Washington sent Congress the final documents to start the ratification
+process that included a cover note that said,
+“Just as ‘individuals entering into society, must give up a share of liberty to preserve the rest, [so the
+states agreed to cede some] rights of their independent sovereignty to … provide for the interest and
+safety of all [in a] spirit of … mutual deference and concession.”
+
+
+VI. The Battle for Ratification
+After the signing of the Constitution in Philadelphia, each state held a special “ratifying convention.” The
+Constitution would only become the law of the land if the conventions of at least nine states approved. Many in
+the states, treasuring their autonomy, resisted ratification. Americans had just fought a war against a centralized
+government and were fearful of instituting another one. Furthermore, since the Constitution transferred power
+from state to national government, local politicians would have their own power weakened. Their self-interest
+was in opposition to ratification.
+So a debate broke out in the states
+between two opposing groups. Those
+who favored the ratification of the
+Constitution were called “Federalists”
+and those who opposed ratification,
+“Anti-Federalists.” To convince the
+American people to ratify the
+Constitution (especially those in swing
+states like New York), three gifted
+Federalist authors, Alexander Hamilton,
+James Madison, and John Jay, took up
+their pens and wrote a series of
+editorials promoting and defending the
+Constitution (see the graph on the
+right). Hamilton later collected and
+published these editorials as The
+Federalist Papers. Although their purpose was a rhetorical one, an unintended consequence of The Federalist
+Papers was to give the world one of the greatest works of political philosophy and the best first-hand explanation
+of the workings and design of the U.S. Constitution.
+Federalist Number 10
+One of the most famous of The Federalist Papers is Federalist Number 10. This essay, written by James Madison,
+tackles the concern about power congregating into the hands of one or a few groups, what he calls “factions,”
+rather than allowing many groups to check and balance each other.
+Today we sometimes think of factions as special interest groups. Citizens from many different walks of life have
+an interest in how the government operates: farmers, bankers, educators, people of many different religious
+persuasions, and more. People with similar goals and ideologies often organize into groups to promote their
+goals, and this is a vital part of how free governments work. However, if any one group were able to gain so
+much power that they were able to override the interests and rights of others, the free government could
+become a tyranny. Oppression by powerful groups had led to tyranny and the downfall of governments
+throughout history, and the Founders did not want this type of dangerous faction (or tyranny of the majority) to
+take control of the United States.
+
+The people had experienced these dangerous factions under their own state republic governments. State
+governments wanted to correct the error of having an oppressive executive branch by cutting it out altogether
+and making a very strong legislative branch. This overcorrection had the effect of concentrating power into one
+place, the legislative branch. This allowed for factions to grow more powerful. Therefore, the people feared
+factions and wanted to ban them by law. Madison is persuading the people to turn against that idea by
+explaining:
+“Liberty is to faction what air is to fire, an ailment without which it instantly expires. But it could not be
+less folly to abolish liberty, which is essential to political life, because it nourishes faction, than it would
+be to wish the annihilation of air, which is essential to animal life, because it imparts to fire its
+destructive agency.”
+
+Thankfully, James Madison had a solution to this problem and he discussed it in Federalist Number 10. He
+explained that although we can’t do away with factions, we can minimize the potential of tyrannical effects by
+multiplying the number of factions through a large republic. In a small republic, one faction could easily become
+a majority, get control over the government, and exercise tyrannical control over others, but in a large republic,
+the many factions would neutralize one another. The larger the republic, the harder it would be for one special
+interest group to gain majority power since each faction would be but one faction among many. In Madison’s
+words:
+“[T]he influence of factious leaders may kindle a flame within their particular States but will be unable to
+spread a general conflagration through the other States.”
+
+Political theorists had long assumed that a republic needed to be small so the representatives were local, known,
+visible, and more directly accountable to the people. These are all clear benefits of a small republic. But Madison
+showed that while a small republic had the advantage of keeping power closer to the people, it also had the
+disadvantage of making it possible for a single faction to dominate the government. In large republics, the
+factions compete and cancel each other out and can check and balance each other. According to Madison in
+Federalist Number 10, a large republic would be more stable and less susceptible to both tyranny and anarchy.
+To prove that Madison was correct on this point, we need look no further than our own U.S. history. In the 19th
+century American South, white Americans (the majority) voted to oppress black Americans through Jim Crow
+laws. This discirimination, legally upheld and enforced by the government, came about through the majority
+rule. In the “small republic” southern states, the white-supremacist faction outnumbered the African-Americans
+and could thereby democratically tyrannize them. But in the large republic of the United States, the
+white-supremacist faction was diluted and outnumbered by those who wanted more racial equality.
+We also see Madison’s wisdom on display in Church history. When the Latter-day Saints settled in Missouri, an
+anti-Mormon faction took control of the state government and elected Lilburn Boggs as governor. Boggs then
+proceeded to issue an “extermination order” against the Saints. This was a classic example of democratic
+
+tyranny. The anti-Mormon faction in Missouri was large and powerful enough to dominate politics. It was just
+such a “tyranny of the majority” that the Constitution was designed to prevent in the nation as a whole.
+We can see the wisdom of Federalist Number 10 by comparing the United States of North America to the divided
+countries of South America. After their revolutions against Spanish rule, Latin America remained fragmented into
+many small nations. As predicted in Federalist Number 10, these small republics have had the tendency to have
+issues with instability, military coups, corruption, and hyperinflation because their small size has made them
+susceptible to factional control.
+Finally, the Founders’ decision to institute the Electoral College as the means of electing the president of the
+United States is a manifestation of their concern about the tyranny of the majority. The Electoral College is a
+method of distributing the power and decision-making to the states so there is not a bare majority needed to
+elect the president, which would inevitably lead to the very “tyranny of the majority” that the Founders dreaded.
+The benefits of small and large republics find their manifestation in the divine principle of federalism which
+allows the United States to enjoy the benefits of both small republics (the states) and a large republic (the
+nation) in the same system. Throughout the nation’s history, this has been instrumental in combating the threat
+of factions.
+Federalist Number 10 and the rest of the 85 essays in the Federalist Papers are excellent illustrations of the
+wisdom and far-sightedness of the Founders of the United States.
+Ratification
+Thanks to the Federalist authors, the Constitution was ratified by the necessary number of states in 1788. In
+putting this document into place, the Founders gave life to the principles in the Declaration of Independence.
+The Declaration of Independence gives us our goals as a nation - the lofty principles of liberty, equality, and
+natural rights - while the Constitution gives us the mechanism of government with which to secure those goals.
+The Declaration contains the ends of government; the Constitution provides the means. The two primary
+documents of the Founding harmonize perfectly.
+We will dive deeper into the specifics and significance of the United States Constitution in our next lesson.
