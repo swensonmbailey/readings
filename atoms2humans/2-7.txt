@@ -1,0 +1,249 @@
+2.7 Before The Bang
+How Humanity Discovered The Big Bang
+Dr. Brian Tonks and Dr. Dan Moore, Physics and Geology Departments, BYU-Idaho
+
+The history of astronomy is a history of receding horizons. —Edwin Powell Hubble
+
+Learning Objectives:
+● Understand how Western Civilization perceived the Universe before Copernicus, between
+Copernicus and Newton, between Newton and Hubble, and today.
+● Describe what Hubble’s law is and whether it implies that galaxies are moving through the Universe
+or being carried by an expanding Universe.
+● Describe whether or not the concepts of ‘center’ and ‘edge’ apply to the Universe.
+
+The scientific theory that explains the nature and development of the Universe is called big
+bang theory. This theory proposes that the Universe began as an incredibly small, dense, hot
+en ty containing all energy, matter, and space me. Big bang theory does not propose that the
+Universe emerged from nothing. In fact, it is not a theory about the origin of the Universe. It is
+a theory about the development of the Universe. It explains how expansion, cooling, and
+complexifying produced the present Universe.
+Big bang theory, like other scientific theories, is a dynamically evolving explanation that
+develops as humanity makes new discoveries. To date, observations have failed to falsify this
+theory. Of course, new observations could do just that. That is, new observations could
+demonstrate the limits of its explanatory power and thereby disqualify it as a candidate for
+absolute truth. Today big bang theory is humanity’s leading explanation for the nature and
+development of the Universe.
+So, how did humanity discover the ‘Grand Stretch’ or ‘Great Expansion’ that we call the ‘Big
+Bang’?
+
+Universes of Misunderstanding
+
+Aristotle, who lived in 4th-century-BC Greece, developed an Earth-Centered Theory of the
+Universe. This Universe was ny, ﬁnite, unchanging, and eternal. During the Middle Ages, as
+Greek and Roman ideas mixed with Chris anity, the Earth-Centered Universe became
+unassailable religious dogma. This dogma c approach s ﬂed the search for truth. Nearly 2000
+years separate Aristotle’s proposal of an Earth-centered Universe from the eventual acceptance
+of a more-true, Sun-centered model in the 1600s and 1700s.
+
+2
+The eventual rejec on of Earth-centered falsehoods resulted largely from the work of
+Copernicus, a Polish astronomer in the 1500s. Copernicus developed his Sun-centered notions
+using celes al observations and mathema cs. He demonstrated that the Sun is a star, the
+distances to other stars are huge, and Earth orbits the Sun. Perhaps fearing backlash from
+religious authori es and a fundamentalist public, Copernicus waited un l the year of his death
+(1543) to publish his Sun-centered model of the Universe.
+Later, Isaac Newton vastly improved humanity’s concep on of the Universe. He also
+established the underpinnings of scientific inquiry. Based on his theory of gravity, Newton
+asserted that the Universe is inﬁnite and eternal, without edges in space or me. This model
+directly contradicts literal interpretations of Genesis, which clearly describes a beginning to the
+physical world. But the ever-devout Newton believed that Genesis referred just to our Solar
+System, not to the en re Universe. He also reasoned that a greater Universe indicated a greater
+Creator.
+Newton published his greatest work, Principia, in 1687. The truths it contains and the approach
+it espouses greatly accelerated discoveries of the natural world. It also allowed humanity to
+begin reaping the beneﬁts of scientific learning.
+Eventually, Chris anity dogma zed Newton’s ideas. Today, most people think of the Universe in
+much the same way Newton did. Even so, the Newtonian Universe is false—because it does not
+describe the Universe as it is, was, and will be. Figure 2.52 shows the distribu on of object
+positions and speeds predicted by a Newtonian Universe.
+
+Figure 2.52. Plot of object positions and veloci es in a Newtonian Universe. As we’ll discover,
+this distribu on does not match reality. (Wikimedia)
+
+It Started With A Bang?
+
+Newton’s ideas were wildly successful at explaining much of nature. However, during the 1800s
+problema c observations began iden fying the shortcomings of a Newtonian Universe. These
+observations included the darkness of the night sky, the orbit of Mercury, and the nature of
+light.
+
+3
+In the 1800s Heinrich Olbers realized that a dark night sky falsiﬁes Newton’s concept of an
+inﬁnite Universe. To understand the connec on, imagine a thick forest like the one illustrated in
+Figure 2.53. In such a forest, every line of sight ends in a tree. Like this, every line of sight in an
+inﬁnite Universe would end in a star. This would make the en re sky bright. Since the night sky
+is dark, the Universe is not inﬁnite. To be sure, the Universe is huge, but it is not inﬁnitely large.
+
+Figure 2.53. Image of a thick pine forest. Notice that every line of sight ends in a tree.
+(Wikimedia)
+Although Newton’s ideas had accurately described moving objects for nearly twoticenturies,
+astronomers in the 1800s recognized that they could not accurately describe the orbit of
+Mercury. Scien sts didn’t recognize it at the me, but the problem resulted from Newton’s
+ﬂawed concepts of ﬁxed time and constant space.
+In addition, observations related to electricity, magne sm, and light iden ﬁed ‘cracks’ in the
+Newtonian foundation. These discrepancies were resolved in the early 1900s by scien sts like
+Albert Einstein and Edwin Hubble. Their discoveries produced big bang theory, which was a
+huge step forward in humanity’s journey towards a more perfect understanding of the
+Universe.
+Albert’s Iconic Genius
+Albert Einstein is a fascinating ﬁgure. With good reason, he has captured humanity’s
+imagination. Recognized as gi ed from an early age, he was not par cularly successful early in
+life—in part because he responded poorly to rigid educational systems. atter completing his
+doctoral studies (but without earning a Ph.D.), Albert could not ﬁnd work. Eventually he began
+evaluating technical patents for the Swiss government in Bern (Figure 2.54).
+
+Figure 2.54. Einstein as a patent clerk in Bern, circa 1904. (Wikimedia)
+
+4
+In 1905 Einstein published four of the most important papers in the history of science. In one
+he presented the special theory of rela vity, which explores the consequences of a constant
+speed for light. Consequences indeed! Einstein’s special theory was the seed that grew into an
+en rely new, more-true understanding of the Universe.
+Whereas the Newtonian Universe was founded in absolute space and me, Einstein’s ideas
+require observers traveling at diﬀerent speeds to measure the same speed for light but
+measure diﬀerent distances and durations. In other words, special rela vely indicates that the
+speed of light is the unchanging en ty. Previously, humanity had falsely supposed that space
+and time are constant. This is false, but it is the way that most people con nue to think about
+space and me.
+Although mind-bendingly counterintui ve, it’s true. Numerous observations support the
+‘stretchiness’ of space and me. What’s more, you rely on it frequently. For example, every
+me you use the GPS device in your phone.
+Einstein was a masterful conceptual thinker with powerful theore cal ability. He o en used
+rela vely simple ‘thought experiments’ to great eﬀect and derived keen insight from seemingly
+mundane observations. He also used tremendously complex mathema cs with rela ve ease.
+Albert’s surprising discoveries made him famous, something he found both beneﬁcial and
+confounding.
+Einstein’s abili es allowed him to discover the more-true but tremendously-counterintui ve
+explanation of gravity we introduced earlier. His General Theory of Rela vity explains that
+gravity, the apparent a rac on of material objects, results from interactions between matter
+and space me. Namely, he determined that matter causes space time to curve and curved
+space time determines how matter moves.
+Explosive Consequences of Einstein’s Ideas
+Einstein’s General Theory of Rela vity accurately describes aspects of the nature that Newton’s
+ideas could not—including the orbit of Mercury, the absolute speed of light, and the
+stretchiness of space me. Since then, numerous tests have failed to falsify Einstein’s General
+Theory of Rela vity.
+This theory represents a triumph of human reasoning and discovery, and it has explosive
+implications for the nature of the Universe. Early explorations of General Rela vity Theory
+discovered that Einstein’s ideas suggest that the Universe is stretching or inﬂating. Then in 1927
+Belgian priest Georges Lemaitre recognized that forward expansion implies backwards
+contrac on. Projecting contrac on backwards in me, Lemaitre reasoned that the en re early
+Universe was once excep onally small, hot, and simple. Einstein was not a fan of the idea.
+Figure 2.55 shows Lemaitre and Einstein during a meeting in which Lemaitre convinced Einstein
+he was wrong. Isn’t it cool that a Catholic astronomer-priest played such an important role in
+the development of humanity’s understanding of the Universe?! We think so.
+
+5
+
+While these important discoveries were being made in Europe, American astronomers were
+also making progress. In 1929, based on earlier work by Vesto Slipher, American Edwin Hubble
+made the deﬁni ve observations that established the existence of galaxies beyond the Milky
+Way. The observations, which demonstrated that we live in an expanding Universe, were the
+last signiﬁcant step in the ini al development of big bang theory.
+
+Figure 2.55. Georges Lemaitre and Albert Einstein. (Wikimedia)
+Hubble’s Great Discovery
+Let’s look at Hubble’s discovery more closely. With his collaborators, Hubble used the Doppler
+shi of spectra to determine the mo on of 29 galaxies. He also es mated the distance to each
+galaxy. His data formed a very speciﬁc and reproducible pattern that today we call Hubble’s law.
+Hubble’s data, shown in Figure 2.56, are among the most important and ini ally-controversial
+observations in the history of scientific inquiry.
+
+Figure 2.56. A plot of galaxy distance versus speed (black dots). The line is Hubble’s Law, the
+observation that galac c speed (velocity) increases with distance. (OpenStax University Physics)
+
+A Universe of Truth A U n i v e r s e o f T r u t h
+
+Hubble’s law is important because it ‘nailed the coﬃn shut’ on the Newtonian Universe.
+Newton’s ideas predicted the Universe illustrated in Figure 2.52. But the actual Universe forms
+the very diﬀerent pattern shown in Figure 2.56. This diﬀerence deﬁni vely falsiﬁed the
+Newtonian Universe.
+Hubble’s law describes the relationship between distance and velocity for all distant galaxies. In
+par cular, it shows that galaxy speed increases with distance. As a result, Hubble’s law
+
+6
+par cular, it shows that galaxy speed increases with distance. As a result, Hubble’s law
+expresses a fundamental reality of the Universe. Namely, that the Universe has been expanding
+since it formed. We’ll use two analogies—a stretching ruler and an inﬂating balloon—to help
+you understand the implications of Hubble’s Law.
+A ‘Stretched Ruler’ Universe
+Imagine that you live in the galaxy at point ‘0’ on the ruler shown in Figure 2.57. Now, consider
+how the distances to other galaxies would change if the ruler was stretched to twice its width in
+one year. Unsurprisingly, the stretching causes the distances between galaxies to double. As a
+result, the nearest galaxy moved 1 m during the year (from 1 m away to 2 m away), the second
+galaxy moved 2 m in the year (from 2 to 4 m away), and so on.
+
+Figure 2.57. The ‘Stretched Ruler’ analogy. Le : Image showing a ruler before (top) and atter
+(bo om) being stretched to twice its length. Right: A plot of the ‘Hubble’s law of stretched
+rulers’. (Author illustration; ruler images modiﬁed from Fraknoi and others, OpenStax
+Astronomy)
+Can you see that the plots in Figures 2.56 and 2.57 are essen ally iden cal? This similarity
+helps us to conceptualize the following important implications of Hubble’s Law:
+● The expanding Universe carries galaxies with it as it expands, just like the ruler carried
+the ‘galaxies’ with it as it stretched. Said diﬀerently, galaxies are not moving through the
+Universe, they are carried by the Universe as it inﬂates. Thus, the ‘speeds’ of galaxies in
+Hubble’s Law represent how quickly the Universe is stretching, not how quickly galaxies
+are moving through the Universe. To be sure, galaxies do move through the Universe,
+but they do this slowly as ‘gravity’ pulls nearby galaxies together. This local mo on is not
+the cause of Hubble’s-law veloci es.
+● All distant galaxies in the Universe are being carried progressively farther away from
+each other, just like the galaxies a ached to the stretched ruler.
+● Observers in all galaxies would observe Hubble’s Law. In other words, Hubble’s Law
+does not imply that our galaxy lies at the center of the Universe. Instead, it implies that
+the en re Universe is expanding, causing distances between all galaxies to increase.
+As you can see, the stretched ruler analogy is adept at building intuition about the implications
+of Hubble’s Law. The inﬂating balloon analogy is similarly helpful, and it also clariﬁes the
+geometry of the Universe. In par cular, it helps us understand how everyday concepts like ‘the
+
+7
+geometry of the Universe. In par cular, it helps us understand how everyday concepts like ‘the
+center’ and ‘the edge’ do not apply to our Universe in the same way they apply to objects like
+balls.
+A ‘Stretched-Surface’ Universe
+The ‘inﬂating balloon’ analogy reduces our four-dimensional Universe to the two dimensions of
+a balloon’s surface. To appropriately understand this analogy, you must consider that nothing
+exists above or below the surface of the balloon. Said diﬀerently, you must imagine that
+individuals and objects in this ‘balloon universe’ are two-dimensional and exist en rely within
+the surface of the balloon. They can move in any direc on across the surface, but they cannot
+leave the surface. In the analogy, coins a ached to the surface of the balloon represent
+galaxies. So, imagine that you live in one of the ‘coin galaxies’ on the least-inﬂated balloon in
+Figure 2.58. Then observe what happens to the distances between the coin galaxies as the
+balloon inﬂates.
+
+Figure 2.58. Illustration showing coins a ached to an inﬂating party balloon. As the balloon
+expands, the stretching surface of the balloon increases the distances between ‘coin galaxies’.
+During stretching, the sizes of the coins remain unchanged, but the distances between them
+increase. (Author illustration)
+Can you see that inﬂation caused the distances between the galaxies to increase? Clearly, these
+distances did not increase because galaxies moved across the surface of the balloon. Instead,
+they increased because the surface of the balloon stretched. If we plo ed the distances and
+veloci es of the coins on the inﬂating balloon, we would once again create ‘Hubble’s law. This is
+true because the balloon stretched uniformly, causing the same same percent of stretching
+between all coin galaxies. As a result, short ini al distance increase less than large ini al
+distances, just like in Hubble’s Law.
+Now, try to iden fy the center or the edge to the surface of the balloon. In other words,
+iden fy when a s ck ﬁgure traveling across the surface would reach the edge or center of that
+surface. Counterintui ve as it may be, the con nuous surface of a balloon has noticenter and no
+edge. The same is true for the Universe, but in four dimensions instead of two. Said diﬀerently,
+our Universe does not exist inside something else, so it has no edge. Said a third way, the
+Universe encompasses all physical reality. This does not mean that other things could not exist.
+It means that anything ‘beyond’ our Universe is physically unknowable to us.
+Although the stretched ruler and inﬂating balloon analogies help us conceptualize important
+
+8 Although the stretched ruler and inﬂating balloon analogies help us conceptualize important
+aspects of the Universe, in the end they fall short. These intellectual ‘training wheels’ are only
+useful in helping us begin to think appropriately about the nature of the Universe, so don’t
+push the analogies too far. Also, don’t be too concerned if the Universe seems diﬃcult to
+understand. Thinking about the Universe stretches all human minds.
+
+Today, astronomers understand the Universe to be complex, dynamic, and huge (but ﬁnite).
+Even though the Newtonian Universe was falsiﬁed more than a century ago, it remains the
+model of the Universe that most people carry around in their heads. If you ﬁnd old preparatory
+truths s ﬂing and unsa sfying, now is a good time to upgrade your concep on of the Universe.
+As we con nue introducing you to more-correct preparatory truths about the Universe, we
+invite you to ‘follow in Einstein’s steps’ (Figure 2.59) by further developing your curiosity about
+and understanding of the natural world.
+
+Figure 2.59. The steps leading to Albert Einstein’s Bern apartment. Einstein walked these steps
+every day for several years while he developed the special theory of rela vity. (Author
+photograph)
