@@ -1,0 +1,294 @@
+3.1 Rough Stone Rolling
+Earth’s Dynamic Nature
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+Are these the end mes? Yes. And they have been this way since the beginning. Welcome to
+planet Earth, a wonderful but not en rely stable place to live. —Craig Childs
+Learning Objectives:
+● Understand and be able to identify each of the following: convection, tectonic plates, ocean basins,
+continents, tectonic plate boundaries, mountain belts, volcanic provinces, earthquakes,
+supercontinents, climate, greenhouse gases, the greenhouse eﬀect, weathering, and the
+Precambrian and Phanerozoic (which consists of the Paleozoic, Mesozoic and Cenozoic) me
+periods.
+● Brieﬂy describe the natural processes responsible for each type of Earth change: tectonic change,
+sea level change, climate change, surface change, biological change, and impact change. Also,
+understand the interrelatedness of these types of change.
+● Understand that the normal state for Earth is constant change.
+
+Craters form when solids orbiting the Sun collide with a planet. The Moon and Mercury remain
+heavily cratered from the bombardment that all planets received during their formation, and
+yet almost no craters are visible today on Earth. Why is that? Every year rivers carry billions of
+tons of sediment from mountains into the ocean basins, and yet mountains remain and oceans
+basins are not full of sediment. How can that be? Every year there are several million
+earthquakes. What causes them?
+The answers to ques ons like these rest on the single most important characteristic of our
+planet: Earth is active, dynamic, ‘alive’. In other words, Earth changes. For example, continents
+move, sea level rises and falls, climate changes, new species emerge, and old species go extinct.
+Understanding how the Earth changes is important. It enables society to locate the fuel and
+metals used by civilization and minimize pollu on and climate change. It also satisfies human
+curiosity and helps humanity avoid the nega ve eﬀects of dynamic Earth events like
+earthquakes and volcanic erup ons.
+Most Earth change results from processes driven by the slow release of Earth’s internal heat
+and energy from the Sun. The theory of plate tectonics explains how the release of internal
+heat causes solid rock deep inside Earth to ﬂow, which in turn drives abundant surface change.
+The development of plate tectonic theory provides an excellent example of how scientiﬁc
+explanations form.
+
+2
+The Development and Nature of Plate Tectonics
+In the 1600-1800s, naturalists like Francis Bacon and Benjamin Franklin proposed that the
+puzzle-piece-ﬁt of Africa and South America indicated they had once been united. At the me,
+hypotheses like these lacked testable explanations, and so they remained outside the purview
+of science.
+
+Figure 3.1. Le : Photos of Alfred Wegener in Antarc ca and Harry Hess as a captain during
+World War II. (Images from Wikimedia)
+Alfred Wegener (Figure 3.1) extended these earlier proposals by making speciﬁc predictions
+based on his ‘continental dri ’ hypothesis. For example, he correctly predicted the distribu on
+of ancient organisms shown in Figure 3.2. Unfortunately, Wegener’s notions were rejected
+because he could not explain how continents moved and because humanity knew little about
+key aspects of Earth like the ocean basins.
+
+Figure 3.2. Image showing the distribu ons of prominent fossil organisms in Southern Pangaea
+across continents that are now separated. (Image from Wikimedia)
+
+3
+
+This all changed very rapidly in the mid 1900s. During this me technological advances made it
+possible for humanity to observe the topography of ocean basins; Earth’s interior; and the ages,
+magne sm, and density of rocks. For example, during World War II ocean scientist Harry Hess
+(Figure 3.1) used sonar and other instruments on the ship he captained to begin mapping the
+seaﬂoor. Hess and others like him discovered many previously unobserved features of the
+ocean basins. These included deep trenches that parallel volcanic arcs, chains of ocean islands,
+and long ocean ridges. Based on these and other observations, Hess hypothesized that the
+seaﬂoor was a vast conveyor belt for oceanic crust. In other words, Hess proposed that new
+oceanic crust forms at ocean ridges, ages as it moves across the seaﬂoor, and then plunges into
+Earth’s interior at oceanic trenches.
+Hess’s ‘seaﬂoor spreading’ provided the mechanism that Wegener’s ‘continental dri ’ lacked.
+A er extensive tes ng, seaﬂoor spreading and associated hypotheses merged to form the
+theory of plate tectonics. Today, plate tectonics remains unfalsiﬁed and is one of humanity’s
+most extensively tested scientiﬁc theories. Figure 3.3 shows Earth’s major tectonic plates and
+the movement associated with each plate boundary.
+
+Figure 3.3. Le : Illustration showing rela ve motion across boundaries between Earth’s major
+tectonic plates. Right: Diagrams showing relation plate motion at divergent, convergent, and
+transform boundaries. (Author illustration; images from Wikimedia)
+
+How Earth Changes
+
+The theory of plate tectonics explains how the slow ﬂow of solid rock (convection) and Earth’s
+tectonic plates produce features like mountain belts and continents. Inside Earth, rock bodies of
+diﬀerent densi es drive convection. For example, cool dense rock near Earth’s surface can
+slowly sink into and through the mantle (Figure 3.4). Likewise, hot low-density rock inside Earth
+can slowly ﬂow upward (Figure 3.4). Thus, convection in the mantle involves both the in-fall of
+
+4
+can slowly ﬂow upward (Figure 3.4). Thus, convection in the mantle involves both the in-fall of
+
+rigid surface lithosphere and the rise of duc le mantle. These dominantly ver cal motions
+produce the horizontal plate motion we observe at the surface, as illustrated in Figures 3.3-3.4.
+The surface and interior motion of solid rock on Earth occurs slowly, about as fast as your ﬁnger
+nails grow (0.5-4 in or 1-10 cm per year).
+
+Figure 3.4. Cross-section illustrating the relationship between the surface movement of
+tectonic plates, the in-fall of rigid surface rock, and the rise of duc le mantle rock. Compare this
+cross section to the the map and cross sections of plate boundaries in Figure 3.3. Also, note
+that the near-surface areas with a red s ppled pa ern indicate where solid mantle par ally
+melts to form magma. This can rise into the crust, as shown. (Author illustration)
+Tectonic Change. Tectonic plates meet at narrow plate boundaries. Along these dynamic
+margins plates converge, diverge, or slide sideways past each other (Figure 3.3). Nearly all
+tectonic change occurs near plate boundaries. These changes include volcanic activity,
+earthquake-generating movement along faults, the formation and destruction of ocean basins,
+and the growth of continents.
+Most tectonic plates contain both the denser crust that forms ocean basins and the less-dense
+crust that forms continents. Below Earth’s rocky crust lie denser chemical layers, the rocky
+mantle and metallic core. Figure 3.5 iden ﬁes Earth’s chemical and physical layers, and
+
+Figure 3.5. Cross-sections showing Earth’s chemical and mechanical layers. Chemical layers:
+gray metallic core, green rocky mantle, and brown crust; dark brown is oceanic crust and light
+brown is continental crust. Physical layers: brown and lightest green rigid, rocky lithosphere;
+
+5
+brown is continental crust. Physical layers: brown and lightest green rigid, rocky lithosphere;
+light green duc le, rocky upper mantle; dark green rigidly duc le, rocky lower mantle; light gray
+liquid, metal outer core; and dark gray rigid, metal inner core. (Author illustrations)
+Although tectonic plates move slowly, their relentless motion can move continents great
+distances across Earth’s surface. Occasionally, tectonic motion causes most of Earth’s
+landmasses to merge, forming supercontinents like Pangaea and Rodinia. The movement of
+tectonic plates can also cause continents to split, as is happening in East Africa today. As plates
+move about, their interactions can produce upli ed bands of crust called mountain belts as
+well as volcanic provinces in which voluminous magmatterupts.
+Movement along plate boundaries is not con nuous. Instead, they move in ‘s ck-slip’ fashion.
+Stress builds up along the boundary during periods in which almost no motion occurs. Then in
+just a few moments, solid rock bodies break along faults, ‘slip’ rapidly past each other, and then
+become ‘stuck’ again. These rapid movements release tremendous amounts of stored energy in
+events called earthquakes. In addition to creating beau ful vistas and causing natural
+‘disasters’, tectonic processes aﬀect sea level, climate, and the distribu on of biological
+environments.
+Sea Level Change. The rise and fall of global sea level causes the oceans to spread over and
+retreat from the continents. This sea level change profoundly alters the nature of Earth’s
+surface through me. Changes in sea level result primarily from tectonic process that aﬀect the
+volume of the ocean basins and climate processes that aﬀect the volume of continental ice
+sheets. In par cular, global sea level rises when vigorous ocean-ridge activity raises the seaﬂoor
+or when warming climate returns water to the oceans from melting continental ice. Likewise,
+global sea level falls when low ocean-ridge activity increases the volume of ocean basins or
+when cooling climate progressively moves ocean water into expanding continental ice sheets.
+Climate Change. Climate is long-term average weather and can be characterized by a ributes
+like temperature and precipitation. Global climate, which averages climate across Earth, has
+varied greatly throughout Earth’s history. In fact, change is the normal state for global climate.
+Global climate change, which we’ll explore in more detail later, results from global variations in
+a ributes like the rates of mountain building and volcanism. Global climate change aﬀects the
+nature, abundance, and distribu on of living species.
+The global climate system is tremendously complex and involves the ﬂow of energy and matter
+between Earth’s various ‘spheres’—namely, the atmosphere, hydrosphere, ‘ice-sphere’
+(cryosphere), rocky Earth, and biosphere. The principal cause of global climate change is
+variation in the concentrations of atmospheric greenhouse gases. Greenhouse gases are near-
+surface atmospheric molecules like carbon dioxide that can warm Earth’s surface by trapping
+energy, a process referred to as the greenhouse eﬀect.
+Natural processes that move carbon between the atmosphere and solid Earth control the
+concentrations of atmospheric greenhouse gases, as illustrated in Figure 3.6. These processes
+include carbon sources like volcanoes and carbon sinks like the formation of carbon-bearing
+
+6 include carbon sources like volcanoes and carbon sinks like the formation of carbon-bearing
+rocks (such as limestone or coal). Moving carbon from solid Earth to the atmosphere warms
+global climate, and transferring carbon from the atmosphere into rock cools Earth.
+
+Figure 3.6. Illustration showing the large-scale controls of Earth’s climate system. Carbon (C)
+sources warm Earth (red arrow) and carbon sinks cool Earth (blue arrow). (Author illustration)
+Surface Change. Earth’s surface consists of environments such as beaches, streams, and lakes,
+as illustrated in Figure 3.7. Surface change is the shi ing of these surface environments and
+results from tectonic, climate, sea level, and biological change. These processes change the
+surface by exposing deep rock, shi ing depositional environments, and sotion. Features
+produced by surface change include eroded highlands, transported sediment, and sediment-
+ﬁlled basins.
+
+Figure 3.7. Surface environments that transport and capture sediment. (Adapted from
+Wikimedia)
+Biological Change. Earth’s biosphere consists of all living things, from abundant single-celled
+organisms to less abundant plants and animals. The biosphere con nuously interacts with other
+Earth systems. Biologic change is the shi in the characteris cs of populations that result when
+things like climate change. Biologic change produces features such as the appearance of new
+species (speciation), extinction of existing species, and alteration of Earth’s atmospheric
+composition. Geologists use past biologic change to deﬁne the dis nct periods of Earth’s history
+shown in Figure 3.8.
+
+7
+
+Figure 3.8. A simpliﬁed Geologic Timescale. (Author illustration)
+During the Hadean Eon, systems formed that eventually made Earth habitable. These include
+the rocky Earth, Moon, oceans, atmosphere, and magne c ﬁeld. At this me, Earth was hot and
+covered by a thick atmosphere lacking breathable oxygen. The early rock record suggest that no
+living things were able to persist in this environment. In the Precambrian Eon, single-celled life
+thrived, modern plate tectonics developed, oxygen levels in Earth’s atmosphere rose to modern
+levels, and the ﬁrst simple animals emerged. During the Paleozoic Era, Earth developed a
+modern atmosphere and complex animals and plants were abundant and ﬂourished. In the
+mostly warm Mesozoic Era mammals, dinosaurs, ﬂying rep les, and ﬂowering plants
+developed. Then during the Cenozoic mammals diversiﬁed and thrived; primates, grasses, and
+hominins (bipedal primates) developed; and Earth’s climate cooled. Together, the Paleozoic,
+Mesozoic, and Cenozoic form the Phanerozoic Eon.
+Impact Change. Impacts occur when Earth collides with other solids that orbit the Sun.
+Typically, these objects have orbited the Sun since the formation of our Solar System. Today,
+most impactors are small, like the sand-sized grains that produce ‘shooting stars’. When large
+objects collide with Earth they do great damage. For example, the last mountain-sized asteroid
+that struck Earth caused ~75% of species on Earth to become extinct, including all ﬂightless
+dinosaurs. Impacts rapidly change many aspects of Earth and produce features such as craters.
+Exploring Earth’s Past
+Our normal units for measuring me—seconds, days, years and centuries—are nearly useless
+when faced with the enormity of geological me. Humanity uses the shorthand notation of
+Table 3.1 and the geologic eras of Figure 3.8 to communicate geological me. Ensure that you
+can use this shorthand before proceeding. Use these phrases to prac ce: anatomically modern
+humans ﬁrst appeared ~300 kya; our species has prac ced se led agriculture for the last ~11.5
+ky; ﬂightless dinosaurs became extinct 66 Mya, at the end of the Mesozoic; and Earth formed
+~4.54 Bya.
+As we did when working to conceptualize the immensity of the Universe, we’ll use an analogy
+to develop our intuition of deep me. This analogy uses distance to illustrate me. Speciﬁcally,
+we’ll represent 80 years with one inch (2.54 cm). In other words he analogy, the length of your
+thumb above the knuckle will represent an average modern lifespan (~80 years). Using this
+analogy, we’ll proceed backwards from the present to the formation of the Universe.
+
+8
+Table 3.1. Deep me symbols
+
+Figure 3.9. Illustration of analogy distances related to the development of humans. The analogy
+centers on the BYU-Idaho Physical Sciences Building in Rexburg, Idaho. If the geography of
+southeast Idaho is unfamiliar to you, consider applying the scale distances to an area with
+which you are familiar. (Author illustration, basemap from Google Earth)
+Development of Humans. As you know, humans belong to groups of organisms known as
+mammals, primates, apes (hominids), and hominins (bipedal apes). Figure 3.9 shows analogy
+distances for several important events related to the development of humans. You might ﬁnd it
+interesting to think of some recent events in terms of generations. Using 20 years as a
+generation, ~100 generations have passed since Jesus Christ’s birth, ~600 generations have
+passed since humanity began farming and living in ci es, and ~2,000 human generations have
+passed since modern behaviors became widespread. Moreover, modern human bodies have
+existed for ~15,000 generations and there were ~26,000 Neanderthal generations, ~100,000
+Homo erectus generations, and ~250,000 Australopith generations. (More on these important
+and fascinating organisms later.)
+Development of Earth. Earth became habitable for animals and plants rather late in its
+development. Figure 3.10 shows analogy distances for several important events related to the
+development of Earth and Life. If you take the me, you can use the analogy to establish
+
+9
+development of Earth and Life. If you take the me, you can use the analogy to establish
+
+introductory intuition for magnitude of geological me. This intuition will become increasingly
+important as we proceed.If you’ll take the me,
+
+Figure 3.10. Illustration of analogy distances related to the development of Earth and Life.
+(Author illustration, base map from Google Earth)
+Development of the Universe, Earth, and Life. Earth has existed for about the last third of the
+history of the Universe. Figure 3.11 shows analogy distances for several important events
+related to the development of the Universe, Earth, and Life. Pause to study this ﬁgure before
+proceeding.
+
+Figure 3.11. Illustration of analogy distances related to the development of the Universe, Earth,
+and Life. (Author illustration, base map from Google Earth)
+
+10
+
+Earth Constantly Changes
+Earth’s dynamic nature ensures that Earth is constantly changing. In fact, even periods of
+rela ve steadiness involve signiﬁcant change. Said diﬀerently, periods of nearly constant Earth
+conditions typically result from balanced change between vigorously-active processes—not
+from a lack of change. To help you begin conceptualizing how much Earth has changed, let’s
+explore how Western North America has changed through me. We’ll focus on the area
+marked by the star in Figures 3.12-14.
+Tectonic change has produced volcanoes, mountain belts, and faults in Western North America
+numerous mes—most recently from the mid Mesozoic to today, as illustrated in Figure 3.12.
+These features are recorded by igneous rock bodies, numerous faults, and several miles of
+eroded rock.
+
+Figure 3.12. Paleogeographic map of a recent period when tectonic activity produced
+mountains, volcanoes, and faults in the starred area. Take a moment to identify changes in
+other areas. (Base map by Ron Blakey )
+In addition to producing mountains and volcanoes, tectonic change has moved the continents
+across the globe. This has taken the starred area into both equatorial and arc c regions.
+Tectonic movements also built at least ﬁve supercontinents. What’s more, climate and other
+change has caused oceans to cover Western North America many mes. Figure 3.13 shows a
+submerged period during middle Paleozoic and a me when the area was part of a
+supercontinent.
+
+Figure 3.13. Maps illustrating oceanic (le ) and supercontinental (right) periods in the
+development of Western North America. The organisms that thrived (and died) in these and
+similar seas are recorded by fossils. The illustrated supercontinent, Panno a, predated Pangea
+and came a er Rodinia. (Base maps by Ron Blakey)
+
+11
+
+Tectonic, climate, and sea level change have shi ed the depositional environments that cover
+Earth’s surface. Figure 3.14 illustrates a few of these changes. These include periods when
+Western North America contained thick ice sheets, Sahara-like deserts, and ocean shorelines.
+
+Figure 3.14. Periods when the starred area contained glacial ice sheets, a Sahara-like desert, a
+shoreline (beach), and deep seas. (Base maps by Ron Blakey)
+Of course, Western North America is not unique. Essen ally every continental location records
+a similarly diverse history. Said diﬀerently, locations across the Earth have experienced nearly
+every type of surface feature, usually many mes. So, think of a favorite area, and then
+recognize that that it has been covered by many diﬀerent environments—mountains, lakes,
+deserts, beaches, glaciers, swamps, oceans, and sotion. What’s more, Earth was nearly
+unrecognizable for most of its history. For example, Earth’s atmosphere was unbreathable for
+nearly 4 billion years (~86% of Earth history), the cores of the continents took nearly two billion
+years to form, and Earth’s en re surface was molten at least three mes.
+Without doubt, Earth change is real and really extensive. As we proceed, we’ll explore
+important changes in the development of our habitable home. For now, augment your physical
+intuition with this important reality: what is normal for Earth is constant change, not a set of
+average conditions—and certainly not average modern conditions.

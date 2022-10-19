@@ -1,0 +1,231 @@
+3.2 Elementary, My Dear Watson!
+What Earth Materials and Features Can Teach Us and How We
+Learn It
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+Earth is ancient now, but all knowledge is stored up in her. She keeps a record of everything that
+has happened since me began. … Through me, her secret codes have gradually been broken.
+Her mud and lava is a message from the past. Of me to come, she says much, but who listens?
+―Jeane e Winterson
+Learning Objectives:
+● Understand rela ve dating and how to use its principles to sequence events. Also, understand
+absolute dating and how humanity determines the ages of Earth events.
+● Illustrate how observations of the structure and composition of rocks allow humanity to interpret
+the sequence, age, and nature of Earth events—including past states of and processes that modify
+Earth materials.
+● identify the meaning of igneous, sedimentary, and metamorphic rocks, erosional surfaces, and
+faults/ lted sedimentary rocks.
+● identify a likely way a past Earth event would be recorded for modern observers.
+
+Many ideas about Earth that seem like ‘no-brainers’ to the modern mind took considerable
+me, eﬀort, courage, and genius to discover. Humanity understands so much about nature
+today that we o en look back and wonder how they believed what they did. For example, how
+could they have believed that the Earth was the center of the universe or that it was ﬂat? Why
+did they misunderstand so much? Were they stupid?
+No way! Their lack of understanding came from insuﬃcient access to information, false
+traditions, and diminished opportunity for innovation—not from weak intellects. Opportunity
+and focus facilitate discovery, and people cannot form correct ideas without the necessary
+observations. Moreover, the intellectual iner a of false traditions can form nearly impenetrable
+barriers, as can pressure to conform to social norms. What’s more, when cultures enforce false
+ideas by shaming, coercing, or death the production of new ideas slows and can cease. All these
+barriers have inhibited the discovery and acceptance of truth about Earth. Even today, these
+barriers impede the acceptance of truth in the lives of some individuals, groups, and cultures.
+As we explored the tremendous changes Earth has experienced since its formation, you no
+doubt wondered how we know so much about Earth’s past. A er all, Earth is ancient and
+humans did not observe most past events. Although it may surprise you, Earth materials record
+the sequence, age, and nature of past Earth events. For example, the relationships between
+
+2 the sequence, age, and nature of past Earth events. For example, the relationships between
+rock bodies record the sequence of Earth events, and the composition of materials can record
+the age of past events. In addition, the structure and composition of Earth materials records the
+nature of Earth events—as when we interpret ancient igneous rocks as recording the past
+intrusion or erup on of magma.
+
+Sequencing Earth Events
+
+Human a tudes towards Earth have changed through me. During the Middle Ages study of
+the Earth proceeded slowly in the West because people believed that nature was base and
+dark. These a tudes are portrayed in period stories like Little Red Riding Hood. Later, during
+the Roman c movement of the 1800s Western Civilization began to think of nature as
+ennobling, and humanity has only recently (in the 1970s!) began a empting to care for our
+planetary home.
+As a tudes and needs changed, humanity began searching for ways to understand Earth.
+During the Renaissance, wealthy natural philosophers and those engaged in Earth-related
+activi es like mining began to discover the origin and functioning of Earth. Unfortunately, the
+scholas c dogma sm and religious fundamentalism of the Middle Ages did not yield easily to
+their observations and discoveries. Even so, the light of discovery, facilitated by the principles of
+rela ve da ng, slowly began falsifying earlier notions. Sadly, some modern individuals choose
+to retain early false notions.
+
+Figure 3.15. Block diagram illustrating the relationships between the labeled rock bodies
+described in the table. The order of events, from oldest to youngest feature, is G, A, B, C, H, D,
+E, F. (Author illustration, image adapted from Wikimedia)
+As early naturalists observed Earth, they gradually began to recognize the pa erns summarized
+in the principles of rela ve da ng, a set of powerful scientiﬁc laws that allow humanity to
+determine the sequences of Earth events. For example, the principle of original horizontality
+states that sediments originally form in horizontal layers. Moreover, superposition indicates that
+older undisturbed sedimentary layers lie beneath younger layers, and lateral con nuity
+indicates that sedimentary layers separated by erosion were once con nuous.
+Danish naturalist Nicholas Steno developed the principles described above in the mid 1600s.
+
+3 Danish naturalist Nicholas Steno developed the principles described above in the mid 1600s.
+During the following century, naturalists discovered additional principles. For example, the
+principle of crosscuting relationships indicates that broken rock bodies are older than the
+features that cut across them, and the principle of inclusions indicates that materials inside a
+rock existed before the rock that contains them.
+Can you use the principles described above to sequence the events that produced the labeled
+rock bodies illustrated in Figure 3.15? If so, you understand them suﬃciently to proceed.
+William Smith discovered the last principle of rela ve dating in the late 1700s. Using this
+principle he created the ﬁrst modern geologic map in 1815. Sadly, other scientists were slow to
+acknowledge Smith’s contribu ons because he was not an aristocrat, and some treated him
+horribly. Eventually, they forced him into debtor’s prison and then into homelessness.
+Thankfully, a noble employer helped right those wrongs. Today, Smith is known for having
+produced ‘the map that changed the world’ and the principle of fossil succession, which
+indicates that fossil pa erns in successions of sedimentary layers are predictable across broad
+areas and some mes across Earth. These pa erns result from changes in the organisms that
+inhabited Earth through me and can be used to identify sedimentary layers of the same age.
+Together, the principles of rela ve dating allow humanity to determine the sequence of events
+that comprise the history of Earth, in individual areas and across the planet. During the 1800s
+and early 1900s humanity used these principles to correlate local histories from across the
+planet and produce the Geologic Time Scale of Figure 3.16, which outlines the history of events
+recorded by Earth. Today, the me scale con nues to be reﬁned as scientists make new
+discoveries.
+
+Figure 3.16. The Geologic Timescale and the eons, eras, periods, epochs, and ages that
+comprise it (Ma=Mya; from GSA). Compare to Figure 3.8.
+
+4
+Dating Earth Events 
+
+As humanity began to develop the principles of rela ve dating and to discover Earth’s extensive
+history, some religious thinkers were trying to establish Earth’s birth date. For example, in the
+1600s Archbishop James Usher used a few verses of Genesis and numerous assump ons to
+assert that Earth formed at nigh all the evening before Sunday, October 23, 4004 BC. Ussher’s
+chronology became widely accepted and appeared in the margins of several prin ngs of the
+King James Bible. Although a several-thousand-year-old Earth appealed to the dogma sts of
+that me (and sadly, to some today) the notion was quickly falsiﬁed by observations of Earth.
+Today, geologists use natural clocks to date Earth events. These clocks ‘start cking’ when an
+event occurs, accumulate ‘ cks’ at constant rate, and leave a record of the number of ‘ cks’
+that pass between the event and the present. Although many natural processes show the
+passage of me, only those few that ‘ ck’ at constant rate can be used as natural clocks.
+‘Growth Band Clocks’ rely on natural processes that deposit new layers of material at regular
+intervals. The annual layers formed in trees, animal shells, caves, and glacial lakes make
+excellent growth band clocks, as illustrated in Figure 3.17. These clocks provide excellent
+records of me, from today to nearly one million years ago. scientists test the validity of these
+clocks by comparing them to each other and by using mul ple clocks to date the same event.
+
+Figure 3.17. Photos of growth band clocks. The light colored layers form during the summer.
+(Author illustration, photos from Wikimedia)
+‘Age Markers’ are another tool used to help mark me. Rather than recording absolute ages,
+these important tool ‘mark’ regional or global horizons of equivalent me. In conjunction with
+other clocks, age markers allow humanity to bracket the age of materials they could not
+otherwise date. Useful age markers include regional layers of volcanic ash, speciﬁc fossils or
+fossil associations, and speciﬁc compositions of ice, sediment, or rock layers (Figure 3.18).
+
+5
+
+Figure 3.18. Images showing various age markers. Le : Volcanic ash layer in a glacial ice core
+and evolu on of Ammonoid shell shape through me. Right: Alternating of Earth’s magne c
+orientation through me (black is normal polarity; today at right) and plot of oxygen isotopes
+through me (red represents warmer climate; today at le ). (Author illustration, images
+modiﬁed from Wikimedia)
+Another important group of natural clocks relies on constantly occurring transitions between
+‘parent’ and ‘daughter’ components. These ‘Compositional Clocks’ allow scientists to calculate
+specimen (event) ages by measuring decay rates and observing the propor on of parent and
+daughter components. Examples of these clocks include the amino acid clock, luminescence
+clock, and radiometric dating (Figure 3.19). The ﬁrst clock dates the death of an organism using
+postmortem changes to amino acids, and the second clock dates mineral burial using
+accumulated radiation.
+
+Figure 3.19. Images related to compositional clocks. Le : Illustration of mirror-image amino
+acid molecules, which record the death of organisms. Middle: Photos of plain-light (top) and
+luminescing (bo om) quartz grains, which record how long sediment is buried. Right: An
+illustrated radioactive decay curve, which is used in dating the formation age of minerals and
+rocks. (Author illustration, le and right images from Wikimedia; middle from Ri enour)
+In contrast, radiometric dating typically measures material formation by observing the
+propor on of radioactive parent and stable daughter isotopes. Decay rates of diﬀerent isotopes
+vary from much less than a second to many billions of years. The constancy of individual decay
+rates makes radiometric dating the most accurate, reliable, and widely applicable da ng
+
+6 rates makes radiometric dating the most accurate, reliable, and widely applicable da ng
+method. scientists demonstrate the validity of measured ages by dating events with mul ple
+methods.
+All natural clocks—growth band, age markers, and compositional—consistently witness that
+Earth is profoundly ancient and has a complex, dynamic history.
+
+identifying the Nature of Earth Events
+
+In the 1700s a wealthy Sco sh physician named James Hu on developed a scientiﬁc
+underpinning called uniformitarianism that allows humanity to interpret the nature of past
+events. Hu on suggested that natural processes created rock bodies over vast periods of me.
+Some mes summarized as ‘the present is the key to the past’, uniformitarianism asserts that
+the laws (processes) governing nature have remained through me. Hu on’s asser on allows
+humanity to interpret the products of past events (rocks) by matching them with the products
+of processes that are happening today. For example, uniformitarianism indicates that ancient
+rock bodies with a ributes like those produced by modern volcanoes originated from an
+ancient volcano. Uniformitarianism has tremendous explanatory power.
+If you’re struggling to understand how uniformitarianism helps humanity interpret the natural
+world, consider it’s place in your life. You use it extensively, many mes each day. For example,
+think about how you would interpret the following situation: you are watching a recording of
+your family before you were born; you see them surrounding a screen, decked out in athle c
+apparel and screaming joyfully. Can you see that your interpretation that the ‘good’ team just
+scored or won is based on your observation of the celebration and your understanding of the
+association between celebrations and athle c events? In this and other ways, you use
+uniformitarianism whenever you interpret the past or present, make a decision, or plan for the
+future.
+Notably, natural processes are far more reliable than human behavior. Although
+people usually behave in certain ways, atoms, rocks, and planets always follow the natural laws
+that govern them. As such, our interpretations of molecules, mountains, and solar systems are
+very certain. Strangely, some modern people use uniformitarianism successfully in their own
+lives and accept its use in society (as in in solving crimes), but they believe that it cannot be
+used successfully to interpret Earth’s past.
+Humanity’s modern interpretations of past Earth events rely on observations of the structure
+and composition of Earth materials to interpret the processes that formed or modiﬁed those
+materials. The structure of Earth materials describes the geometric relationships between rock
+bodies and between their component parts. The composition of Earth Materials describes the
+types of materials that comprise the rock and their elemental and isotopic makeup. The
+processes that form or modify materials are the natural events that cause materials to
+originate and change from one state or conﬁguration to another.
+Geoscientists primarily use structure to determine the sequence of events and composition to
+
+7
+Geoscientists primarily use structure to determine the sequence of events and composition to
+identify preexisting states and the processes that modify materials. For example, natural
+processes like melting and solidiﬁcation result in solid mantle rock becoming magma and then
+forming a solidiﬁed lava ﬂow on the surface.
+Accurately interpreting the rock record requires extensive knowledge of Earth materials and the
+natural processes that modify them. That is not our goal here. Instead, we
+illustrate how humanity interprets Earth materials using these very basic natural pa erns:
+● Igneous Rocks and features (like lava ﬂows and volcanoes) form as magma (liquid rock, lava)
+solidiﬁes inside or on Earth’s surface. Magma forms inside Earth where tectonic processes
+par ally melt solid rock. As a result, igneous rocks record the presence of past magma/lava
+and the tectonic processes that produced it.
+● Sedimentary rocks and features (like shale, sandstone, limestone, and the structures they
+contain) form where sediment is deposited in par cular environments. These depositional
+environments, illustrated in Figure 3.7, include beaches, lakes, and dune ﬁelds. Each
+environment deposits sediments in unique ways. As such, sedimentary rocks record the
+type and nature of the sedimentary environment in which they formed.
+● Metamorphic rocks and features (like slate, schist, gneiss, and the structures they contain)
+form from other rocks that are subjected to elevated temperatures and pressures. On
+continents, metamorphism typically occurs as rock bodies are buried by the tectonic
+processes that form mountain belts. As a result, continental metamorphic rocks record how
+mountain belts and continental crust form and develop.
+● Erosional surfaces form in areas where surface rock bodies are removed by weathering and
+erosion. As such, erosional surfaces identify periods of ancient erosion.
+● Faults and lted sedimentary rocks form where tectonic processes produce stresses
+(pressures) that break and deform rock bodies. As a result, faults and lted sedimentary
+rocks record the tectonic causes of past deformational events.
+Using these and other materials and features, geologists can interpret rocks from a par cular
+me to create maps of Earth’s ancient surface, such as those in Figures 3.12-3.14.
+
+Can We Really Know?
+
+Although you may not realize it, nearly everything you do aﬃrms the reality of humanity’s
+ability to understand and interpret Earth’s history. For example, the iron in your car and the fuel
+used to propel it were both extracted from Earth. Finding and extracting resources like these
+requires that humanity understand the nature, governing processes, and history of Earth. The
+next me you drive a car or use a cell phone, consider that those activi es would be impossible
+if humanity did not understand how to learn about Earth.
+Are you starting to look at the rock bodies that surround you any diﬀerently? For example, have
+you begun to see how humanity can ‘read’ this important form of natural scripture? We hope
+so.
