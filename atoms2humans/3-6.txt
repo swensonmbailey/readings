@@ -1,0 +1,270 @@
+3.6 Where in The World is Carbon Sandiego?
+The Basic Nature of Earth’s Climate System
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+Our globe must be explained by the powers that are natural to the globe. —James Hution
+
+Learning Objecitves:
+● Understand and be able to identify each of the following: persistent climate states like runaway
+greenhouse, greenhouse, icehouse, and runaway icehouse states; climate transitions; Earth’s
+climate (carbon) thermostat and Earth’s climate system; carbon sources and sinks; and nega ve and
+posi ve climate responses.
+● Describe how the following natural processes aﬀect global climate: volcanic ac vity, forma on of
+carbon-bearing rocks, destruction of carbon-bearing rocks, and mountain building.
+● Understand the process(es) that prevent Earth from entering extreme climate states like the
+runaway greenhouse and runaway icehouse states. Also, describe the natural processes responsible
+for Earth’s transitions into and out of both Snowball Earth events.
+
+Life is everywhere—in the soil, deep underground, and in the oceans and atmosphere.
+Moreover, fossils record life’s persistence on Earth for at least 3.4 By, and possibly longer.
+Despite the stupendous abundance of life on Earth, it is the only place where we currently
+know life exists.
+So, what makes Earth special? Why has liquid water persisted on Earth for more than 4 billion
+years? Why is Earth a Goldilocks Planet—not too hot like Venus or too cold like Mars, but ‘just
+right’? Is Earth’s special status a supernatural ‘act of God’ or are there natural processes that
+maintain Earth’s climate within the narrow range required for the existence and persistence of
+life?
+
+Climate States
+
+Despite being ‘just right’, Earth’s climate history is far from sta c. Instead, Earth materials
+record essen ally constant climate change. What’s more, these records indicate that periods of
+relatively li le change result from balance between opposing changes. Thus, even periods of
+relatively constant climate involve constant change. In addition, Earth’s climate typically lies
+near the boundaries of habitability. Said diﬀerently, Earth’s climate usually experiences
+intermediate states only as it transition from a warm state to a cool state, or vice-versa.
+As you’ll recall, local climate is long term average weather, and global climate averages all local
+climates. Thus, persistent climate states are periods when global climate remains in one of the
+
+2 climates. Thus, persistent climate states are periods when global climate remains in one of the
+state illustrated in Figure 3.35. Greenhouse climate states occur when Earth climate is
+habitable but persistently warm, as during most of the Mesozoic period. In contrast, icehouse
+climate states occur when Earth climate is habitable but persistently cool, as during the last ~35
+My.
+The range of habitable temperatures for Earth—from the coldest habitable icehouse to ho est
+habitable greenhouse—is ~35 o F (~20 o C). This temperature range may seem small but recall
+that these are global temperatures, averaged over long periods. Imagine how the climate
+where you live would change if summers and winters averaged ~35 o F (~20 o C) cooler or
+warmer.
+
+Figure 3.35. Planetary climate states. Planetary habitability persists in the so-called ‘Goldilocks’
+zone. (Author illustra on)
+As men oned, Earth’s climate tends to persist near the extremes—near the upper boundary of
+the greenhouse state or the lower boundary of the icehouse state. If global temperatures
+become too hot, liquid water boils and becomes steam, and if climate is too cold, liquid water
+freezes and becomes ice. When essen ally all liquid water becomes steam or ice, a planet
+enters runaway climate states from which recovery can be impossible.
+Today, Venus is in the runaway greenhouse climate state. The surface water of Venus has
+resided in its atmosphere for a very long me, perhaps since its forma on. Through me, solar
+radia on has stripped the hydrogen from this atmospheric water, making it impossible for
+Venus to form oceans again. In contrast, Mars is in the runaway icehouse climate state.
+Essen ally all surface water on Mars is frozen and, like Venus, Mars has lost much of its water
+(hydrogen) to space. Although Mars may have passed through an earlier habitable period, both
+Venus and Mars are far from habitable today.
+Observa ons of planets inside and outside our Solar System indicate that planetary habitability
+is rare. Not only are most planets uninhabitable throughout their en re ‘life mes’, planets that
+
+3 is rare. Not only are most planets uninhabitable throughout their en re ‘life mes’, planets that
+pass through habitable periods do so brieﬂy relative to their lifespans. Even Earth—by far the
+most habitable known planet, has been habitable by animals for only the last ~14% of its
+history. Of course, a far larger propor on of planetary bodies are capable of sustaining single-
+celled life. Our solar system contains at least four such bodies. What’s more, Earth has
+supported single-celled life through at least 75% of its history.
+
+How To Build A Habitable Planet
+
+Although the systems, processes, and interactions that make a planet habitable are complex, an
+introductory understanding lies within the reach of everyone. Imagine, for example, ﬁnding
+comfort around a winter campﬁre with and without a blanket. Can you see that your level of
+comfort would vary with distance from the ﬁre, and that you could be comfortable farther out if
+covered by a blanket?
+As with ‘comfortable distances’ for campﬁres and people, so it is for the habitable zones of
+planets. This habitable zone is the range of distances from the central star that prevent
+planetary surface water from completely vaporizing or freezing. Planetary habitable zones lies
+closer in for cooler stars and farther out for ho er stars. Moreover, this distance is aﬀected by
+the thickness of a planet’s atmospheric ‘blanket’, because greenhouse gases such as methane,
+carbon dioxide, and water vapor trap heat near planetary surfaces. As such, the habitable zones
+of planets lie nearer stars for planets with weaker greenhouse atmospheres and farther out for
+those that strongly trap heat from sunlight.
+So, Earth’s modern habitability results from a combina on of factors. These include the Sun’s
+brightness, Earth’s orbital distance, and the nature and concentra on of atmospheric
+greenhouse gases. Today, Earth’s surface averages a habitable 60 o F (15 o C). But without
+greenhouse gases, Earth’s surface would be an uninhabitable 0 o F (-20 o C). These no ons—
+orbital distance and greenhouse eﬀect—also explain the uninhabitable character of Venus,
+Mars, and many other planetary bodies. For example, Venus’s thick greenhouse atmosphere
+produces scorching surface temperatures of 900 o F (480 o C), but the surface of Venus would be
+a manageable 70 o F (20 o C) without its atmosphere. On the other hand, a thicker greenhouse
+atmosphere would be needed to make Mars habitable. Today, the surface of Mars averages
+about -80 o F (-60 o C).
+Although a wonderful place to live today, Earth could become uninhabitable in relatively short
+order if the Sun’s brightness or Earth’s orbital a ributes changed dras cally. Fortunately, the
+Sun’s brightness change very slowly and Earth’s orbit changes cyclically. These orbital
+oscilla ons produce small but important ﬂuctua ons in Earth’s climate that we’ll discuss later.
+Unlike solar brightness and Earth’s orbit, natural processes like volcanoes (and human ac vi es
+like burning fuel) can warm or change global climate relatively quickly by altering greenhouse
+gases. Earth’s main greenhouse gases are methane (CH 4), water vapor, and carbon dioxide.
+Although methane likely modulated climate before the ﬁrst oxygen revolution, it is unstable in
+the modern atmosphere. Likewise, Earth’s oceans ensure that varia ons in atmospheric water
+
+4
+the modern atmosphere. Likewise, Earth’s oceans ensure that varia ons in atmospheric water
+vapor are small. In contrast, atmospheric CO 2 plays a supersized role in determining Earth’s
+climate state because the concentra on of atmospheric carbon dioxide can vary widely.
+In many ways, the natural processes that aﬀect atmospheric CO 2 act like a thermostat for Earth.
+In your home, the thermostat maintains temperature within a set range by engaging a heater or
+cooler. For example, the cooler removes heat when temperature rises above the set maximum,
+and the heater raises temperature when the house becomes too cold. In this way, your home’s
+thermostat ensures that the temperature never becomes ‘uninhabitable’ (uncomfortable). As
+you’ll see below, this analogy provides keen insight into how natural processes have
+spontaneously maintained the habitability of Earth through the eons—keeping it in the
+Goldilocks zone, not too hot or cold …but ‘just right’.
+
+Earth’s Carbon Thermostat 
+
+Earth’s carbon thermostat is the set of natural processes that maintain planetary temperatures
+within a habitable range. As illustrated in Figure 3.36, some of these natural processes are
+carbon sources that move carbon from solid Earth to the atmosphere and warm climate.
+Others are carbon sinks that move carbon from the atmosphere to solid Earth and cool climate.
+These lawful processes comprise core components of Earth’s climate system.
+
+Figure 3.36. Cartoon showing how sources like volcanoes move carbon to the atmosphere from
+solid Earth and how sinks like burying carbon in rocks move carbon from the atmosphere to
+solid Earth. (Author illustra on)
+Although numerous natural processes act as carbon sources and sinks, the broad-scale
+groupings we present in Figure 3.36 are suﬃcient to illustrate the general character of Earth’s
+climate thermostat. Earth’s leading carbon sink is the forma on of C-bearing sediments/rocks.
+The carbon in these sediments typically comes from dead organisms. During life,
+photosynthe c organisms such as algae and plants use carbon dioxide from the atmosphere
+and hydrosphere to form their bodies. When these organisms die, their carbon-rich ssues and
+shells can be buried with and as sediment.
+Carbon-bearing sediments eventually form solid rock bodies like limestone, coal, and shale.
+Where carbon is suﬃciently abundant, these rock bodies provide sources of oil and natural gas.
+Earth forms carbon-bearing rocks most rapidly when surface temperatures are high, near the
+upper end of the greenhouse climate state. The forma on of carbon bearing sediments moves
+
+5 upper end of the greenhouse climate state. The forma on of carbon bearing sediments moves
+carbon from the atmosphere into solid Earth, which cools global climate.
+Incidentally, buried carbon can be thought of as fossilized atmospheric carbon dioxide. Kind of
+an interestingway to look at it, right? From this perspecitve, fossilized atmosphere forms the
+founda on of our modern, carbon-based society. We use this buried carbon for fuel, cement,
+asphalt, and plas cs. As is easy to see, these uses return carbon to the atmosphere very rapidly.
+Carbon-bearing rock bodies can remain isolated from the atmosphere inside Earth for long
+periods of me. Then, when tectonic processes expose these rock bodies at Earth’s surface,
+weathering slowly returns the carbon they contain to the atmosphere. Volcanoes also return
+carbon to the atmosphere, mostly in the form of carbon dioxide gas. When tectonic processes
+cause solid rock inside Earth to par ally melt, gaseous compounds stored in the mantle and
+crust dissolve into magma, move towards the surface, and eventually enter the atmosphere.
+The release of gases from magma is like ‘popping the top’ on a soda bo le. Removing the cap
+releases pressure and allows dissolved gases to ‘bubble out’. The expansion of these gases fuels
+volcanic erup ons.
+Thus, volcanoes move gaseous components like CO 2 from solid Earth to the atmosphere.
+Although well known, modern volcanoes like Mt. St. Helens, Vesuvius, or those in Hawaii
+represent only a small fraction of volcanism on Earth. Most volcanic erup ons (~90%) occur far
+from human eyes, along mid-ocean ridges deep under the oceans. Relative to early Earth,
+modern magma c ac vity is weak. Nevertheless, the release of modern magma c gases slowly
+con nues the process that originally produced most of Earth’s oceans and atmosphere.
+The tectonic engine that produces volcanoes also modulates most other carbon sources and
+sinks. The eﬀect of these sources and sinks on the atmosphere and climate can be visualized
+using a bathtub with faucets and drains, as illustrated in Figure 3.37. In such an atmospheric
+‘bathtub’, carbon sources are ‘faucets’ that add to the atmosphere, and carbon sinks are ‘drains’
+that remove atmospheric CO 2. Despite carbon dioxide’s supersized climate role, it is a minor
+component of the atmosphere.
+
+Figure 3.37. Cartoon showing how the relative strength and rates of Earth’s carbon sources and
+sinks control the concentra on of atmospheric CO 2. (Author illustra on)
+
+6
+
+When sources add carbon faster than sinks can remove it, atmospheric CO 2 rises and Earth
+warms. Likewise, when sinks remove carbon faster that sources add it, atmospheric CO 2 falls
+and Earth cools. Thus, Earth warms when volcanoes and weathering of buried carbon add CO 2
+faster than carbon burial can remove it, and Earth cools when the forma on of carbon-bearing
+rocks removes carbon faster than carbon sources produce it. The history of Earth’s climate
+consists of just these kinds of events.
+
+Climate Pushes and Responses
+
+As you now know, volcanoes and weathering carbon-bearing rocks push climate to warmer
+conditions, and the forma on of carbon-bearing rocks pushes climate towards cooler
+conditions. As pushes move climate in one direction or another, natural processes respond to
+these pushes by resistingor enhancing the original push. In these ways, Earth’s climate system
+consists of natural processes that complexly push and respond to global climate by changing the
+concentra ons of atmospheric greenhouse gases.
+In Earth’s climate system nega ve climate responses oppose pushes and counteract clima c
+eﬀects by reducing or reversing them. Said diﬀerently, if pushes move a system in one direction,
+nega ve responses move the system in the opposite direction. For example, if a push cools the
+atmosphere, a nega ve response slows cooling or warms global climate.
+In contrast, posi ve responses strengthen pushes. In other words, if a push moves a system in
+one direction, posi ve responses move the system further in the same direction. For example, if
+a push cools the atmosphere, a posi ve response further cools global climate. In Earth’s climate
+system posi ve climate responses amplify clima c eﬀects. Glacial ice nicely illustrates such
+posi ve climate responses. When pushes suﬃciently cool the atmosphere, glacial ice sheets can
+form and expand. As ice sheets expand they reﬂect additional sunlight, which further cool
+climate and generate even larger ice sheets. Such posi ve response cycles typically proceed for
+a time but are eventually slowed by a nega ve response. For example, atmospheric cooling
+progressive decreases water evapora on, which slows the buildup of ice.
+Earth’s complex climate system consists of many such interconnected cycles. Some of the
+natural processes that interact with or drive these cycles occur relatively quickly but most do
+not. For example, asteroid impacts produce geologically-instantaneous pushes, whereas
+tectonic pushes usually develop over millions of years. Like pushes, the rates of natural
+responses vary widely. Rapid responses closely track changing climate conditions, but slow
+responses lag far behind the eﬀects of climate pushes. Seasonal temperature varia ons provide
+an accessible small-scale example of such delayed responses. Although the Sun heats the
+northern hemisphere most around June 21st, the ho est period of northern summers occurs
+much later, about the third week of July.
+Another notable example involves modern burning of buried carbon. The human addition of
+
+7
+Another notable example involves modern burning of buried carbon. The human addition of
+atmospheric CO 2 is geologically instantaneous, but climate system reactions are not. So,
+problems that humanity can create in just a few decades take much longer for nature to solve.
+For example, atmospheric temperature responds immediately to human additions of CO 2, but
+removal of carbon by geologic burial takes place over hundreds of thousands to millions of
+years.
+
+How Habitability Persists
+
+We now know enough to brieﬂy describe how Earth’s climate systems spontaneously maintains
+planetary habitability. Despite numerous natural processes that push Earth towards runaway
+climate states, nega ve climate responses and opposing pushes prevent Earth’s surface water
+from completely solidifying or vaporizing. The arrows in Figure 3.38 illustrate these important
+rela onships.
+
+Figure 3.38. Diagram illustratinghow nega ve responses (upper return arrow) and opposing
+pushes (lowest arrow) protect our planet from climate pushes (central arrows) that would
+otherwise make Earth uninhabitable. (Author illustra on)
+Earth’s carbon sources push global climate towards the runaway greenhouse state. However,
+high temperatures at the hot end of habitability accelerate processes that remove atmospheric
+CO 2 and cool Earth. These processes include the forma on of carbon bearing rocks, which
+involves the weathering of igneous and metamorphic rocks. This nega ve climate response
+prevents Earth from becoming uninhabitably hot.
+At the cool end of habitability, things are diﬀerent because no similar nega ve climate response
+prevents carbon sinks from making Earth uninhabitably cold. Instead, as carbon sinks push
+Earth towards the runaway icehouse state, cooling climate slows carbon-sink processes. This
+diminishes the cooling power of carbon sinks. In eﬀect, extremely cold climate conditions on
+Earth ‘plug the CO 2 drains’ by dras cally slowing the forma on of carbon-bearing rocks (Figure
+3.37).
+
+8
+
+Although this does not prevent Earth from entering extreme icehouse conditions (like Snowball
+Earth episodes), it does set the stage for Earth’s recovery from all ice ages, extreme or not. With
+the ‘CO 2 drains plugged’, the episodic release of volcanic CO 2 provides the opposing push that
+eventually ends all ice ages and prevents Earth from staying uninhabitably cold.
+In these ways, natural processes lawfully maintain our planetary paradise. Said diﬀerently, just
+as opposing natural processes keep your body from expiring during life, so opposing natural
+processes spontaneously maintain Earth’s habitability. As men oned, our Goldilocks home has
+been habitable for single-celled organisms for at least 3.4 By but did not become habitable for
+animals un l ~650 Mya. The events that comprise our planet’s long and fascinatingclimate
+history form our planet’s very own ‘Goldilocks and the Three Climate States’ story—not too hot,
+not too cold, but just right.
+So, the next time Earth quakes, erupts, or storms, consider thanking her for being acitve.
+Viewed from this perspecitve, so-called natural ‘disasters’ are habitability in action. They
+represent humanity’s mortgage payment for our beau fully complex and complexly habitable
+home—Earth. What’s more, this perspecitve can meaningfully inform our sense of stewardship
+for our large round habita on. For example, humanity rou nely does things to Earth that
+almost no one would consider doing to their own brick-and-mortar home, let alone to the
+systems that keep that abode livable for present and future occupants. Before proceeding, we
+invite you to take a few moments to consider the important implica ons of this powerfully
+producitve perspecitve.
+

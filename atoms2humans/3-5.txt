@@ -1,0 +1,209 @@
+3.5 A Breath of Fresh Air
+OxygenatingEarth
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+The history of any one part of the Earth, like the life of a soldier, consists of long periods of
+boredom and short periods of terror. —Derek V. Ager
+
+Learning Objecitves:
+● Describe the oxygen content and basic character of Earth’s atmosphere during these states and the
+transitions that separate them: State 1 - Oxygen Free (early Precambrian), 1st Transition (mid
+Precambrian), State 2 - Oxygen Poor (The Boring Billion, late Precambrian), 2nd Transition (late
+Precambrian), and Modern State - Oxygen-rich (Phanerozoic).
+● Describe how each transition cooled climate suﬃciently to produce a ‘Snowball Earth’ episode.
+
+Even though many take Earth’s modern habitability for granted, most are fascinated to discover
+the intricately lawful processes that made Earth habitable. A er all, who isn’t interested in what
+allows them to exist.
+When it comes to habitability, Earth’s atmosphere takes center stage. Not only does it hold life-
+giving oxygen for animals like humans, but it plays a central role in Earth’s climate system.
+Interactions between Earth’s systems determine the abundance of atmospheric oxygen and
+carbon, as illustrated in Figure 3.31. We refer to interactions and processes that add material to
+the atmosphere as sources and those that remove material as sinks.
+
+Figure 3.31. Cartoon showing how interactions between systems change atmospheric
+composition by adding or removing molecules like free oxygen (O 2) and carbon dioxide (CO 2).
+(Author illustra on)
+The composition of Earth’s modern atmosphere is not normal for a terrestrial planet. If the
+atmosphere were in equilibrium with solid Earth, it would contain almost no free oxygen. It
+would also contain noxious gases such as methane, carbon monoxide, and carbon dioxide.
+
+2
+would also contain noxious gases such as methane, carbon monoxide, and carbon dioxide.
+Earth’s modern atmosphere lies far from equilibrium, in large part because living things
+constantly add free oxygen to the atmosphere. If these organisms stopped producing oxygen
+today, Earth’s atmosphere would become ‘unbreathable’ in just a few thousand years.
+Ancient Earth materials record that our modern oxygen-rich atmosphere developed from an
+oxygen-poor atmosphere, which itself developed from an oxygen-free state. Figure 3.32
+illustrates the dura ons and oxygen concentra ons of these three states and the two
+transitions that separate them. Each of these states persisted for a very long me. The ﬁrst
+state lasted ~2 By, the second ~1 By, and our modern state has existed since ~650 Mya or about
+the last 14% of Earth’s history. Moreover, the transitions that separate these atmospheric states
+were not rapid. The ﬁrst transition took ~600 My and the second ~200 My. Both of these
+transitions caused major changes in the types and abundance of living things. For example, the
+ﬁrst transition made much of Earth’s surface uninhabitable to certain single cell organisms
+(anaerobes), and the second transition coincides with the emergence of mul cellular animals.
+
+Figure 3.32. Plot of atmospheric oxygen levels through time showing major states and
+transitions. (Adapted from Wikimedia)
+
+State 1: An Oxygen-Free Atmosphere
+
+The founda ons of Earth’s present atmosphere emerged ~4.51 Bya from gases released during
+the giant Moon-forming impacts. Then, gases released by volcanic ac vity and impacts
+con nued to source our developing atmosphere. Thus, Earth’s present atmosphere and
+hydrosphere formed mostly from gases released from molten rock. What was the nature of this
+early atmosphere?
+Earth’s state 1 atmosphere was likely similar to the present atmospheres of Venus and Mars.
+These atmospheres consist mostly of CO 2 (~96%), with minor nitrogen (~3.5%) and argon (~1%)
+and trace amounts of other gases. They contain essen ally no free oxygen. The abundant and
+eﬀecitve greenhouse gases in Earth’s early atmosphere eﬃciently trapped heat from solar
+radia on. This heat kept Earth’s surface warm during the Sun’s early years when it produced
+about one-third less energy than today.
+Ini ally, Earth’s surface and atmosphere were too hot for oceans to form. During this period,
+
+3
+Ini ally, Earth’s surface and atmosphere were too hot for oceans to form. During this period,
+the oceans existed mostly as water vapor (steam) in the atmosphere. However, once Earth’s
+surface cooled below the boiling point of water, rain fell, and fell, and fell… for centuries,
+perhaps for millennia. Earth’s oceans formed as rainwater ﬂowed into and ﬁlled the ocean
+basins. Earth materials provide sugges ve evidence for liquid surface as early as ~4.4 Bya, but
+deﬁni ve evidence for oceans doesn’t appear un l ~3.7 Bya. These earliest oceanic sediments
+(from southeastern Greenland) contain chemical clues that may indicate the presence of life.
+But the earliest conclusive evidence for life appears ~3.43 Bya in what is now northwestern
+Australia. These fossils consist of layered sediment trapped by bacterial mats (like those shown
+in Figure 3.30). These organisms thrived on a planet without persistent free oxygen.
+
+Transition to the Second State: An Oxygen-Poor Atmosphere
+
+By ~3.4 Bya, single-celled organisms had begun harvestingsunlight to power their lives.
+However, modern oxygen-producing photosynthesis did not emerge un l two primi ve
+photosynthe c processes combined in cyanobacteria at ~2.7 Bya. These modern
+photosynthesizers used carbon dioxide and water to produce energy and make the materials
+that formed their single-celled bodies. In addition, they released a poisonous byproduct—the
+O 2 gas that caused Earth’s ﬁrst oxygen transition.
+Earth’s 1st Oxygen Transition is some mes referred to as the ‘Great Oxida on Event or ‘First
+Oxygen Revolution’. During this transition, newly-abundant oxygen producing organisms caused
+atmospheric free oxygen to rise to ~1% of modern levels. This transition occurred during the
+middle Precambrian and lasted ~600 million years.
+If you look closely at ‘pond scum’, you can observe the oxygen-ﬁlled bubbles produced by
+modern descendants of the early photosynthesizers (cyanobacteria) that produced Earth’s ﬁrst
+oxygen revolution. What’s more, descendants of these early photosynthesizers are found inside
+plant cells. In biology class you called these descendants ‘chloroplasts’. Did you know that, even
+today, chloroplasts use their own DNA to replicate independently inside their host plant cells?
+Clearly, humanity owes cyanobacteria two tremendous debts. Not only do they produce most
+of the oxygen we breath, but they also power plant cells. So, the next time you encounter ‘pond
+scum’, be sure to thank those organisms. Without them a breath would kill you and plants
+would not exist.
+Now, back to oxygen. The highly-reacitve oxygen (O 2) produced by photosynthesizers altered
+Earth’s surface, cooled the planet, and changed the history of life. Recall that most early
+organisms thrived in O 2-free environments. Thus, the genera on of free oxygen made vast
+regions of Earth’s surface uninhabitable to most early single-celled organisms. In this way, the
+Great Oxida on Event caused what is likely Earth’s largest mass ex nction. In the a ermath of
+this mass die-oﬀ, biological innova ons produced organisms that could tolerate oxygen poison
+—and later, produced organisms that thrived in oxygen-rich environments. These complex,
+single-celled oxygen lovers, known as eukaryotes, emerged by ~2.1 Bya. Notably, all animals and
+plants consist of eurkaryo c cells. This is why your body needs O 2 to survive.
+
+4
+In addition to irrevocably changing the trajectory of life, atmospheric free-oxygen changed
+Earth’s surface forever, both on land and in water. Early O 2 destabilized ‘reducers’ like iron,
+sulfur, and carbon that had been abundant at Earth’s surface for eons. As these reducers
+combined with oxygen, they formed solid sediments that were removed from Earth’s surface by
+burial, as illustrated in Figure 3.33. For example, dissolved iron had long been stable in Earth’s
+oceans, but reaction with oxygen caused oceanic iron to precipitate. These iron-oxide-rich
+sediments accumulated worldwide, producing the banded iron forma ons that are modern
+humanity’s main source of iron (Figure 3.33).
+
+Figure 3.33. Le : Cartoon illustratinghow reducers like iron reacted with O 2 and were buried as
+iron-oxide-rich sediment. Right: Photo of a head-sized slab of banded iron forma on (BIF).
+Without BIFs, our iron-based civiliza on could not exist. (Author illustra on and photograph)
+In addition to reactingwith iron and other reducers, O 2 reacted with atmospheric hydrogen
+(H 2), methane (CH 4), and ammonia (NH 4) gases. These reactions produced molecules like
+carbon dioxide (CO 2), nitrogen (N 2), and water (H 2 O). As a result, Earth’s ‘state 2’ atmosphere
+contained mostly nitrogen and carbon dioxide, with trace amounts of other gases like free
+oxygen.
+The oxida on of Earth’s atmosphere converted methane (CH 4) to carbon dioxide (CO 2). This
+cooled global climate cooled because carbon dioxide is a much weaker greenhouse gas than
+methane. This cooling was enhanced by the forma on of abundant carbon-bearing rock
+(limestone and black shale) during this transition. This tremendous cooling produced a rare
+Snowball Earth episode. Earth materials produced at this time record the presence of glaciers
+at sea level at the equator, indicatingthat most of Earth’s surface was covered by ice.
+Eventually, volcanic ac vity re-warmed Earth and ended this ‘snowball’ state—by adding carbon
+dioxide to the atmosphere.
+Later (by ~1.85 Bya) oxygen production by life and oxygen removal by oxida on and burial
+reached a balance. This allowed free oxygen to stabilize to ~1% of modern levels, which ended
+Earth’s ﬁrst oxygen transition and ini ated Earth’s state 2 atmosphere. We o en refer to this
+period as the ‘boring billion’ because Earth’s ‘state 2’ atmosphere changed very li le over the
+next ~1 By (Figure 3.32). During the boring billion, free-oxygen concentra ons were too low for
+oxygen-loving eukaryotes to build persistent colonies. However, the rise of atmospheric oxygen
+during Earth’s second oxygen revolution allowed these ‘persistent colonies of eukaryotes’ to
+begin thriving. You know these cooperatingeukaryo c colonies by another name—animals.
+
+5
+
+Transition To the Third State: A Modern Oxygen-Rich Atmosphere
+
+Earth’s modern atmosphere contains ~78% nitrogen and ~21% free oxygen, with trace amounts
+of other gases like carbon dioxide and water. This modern state atmosphere emerged from
+Earth’s 2nd Oxygen Transition, which lasted ~200 My (Figure 3.32). This transition resulted from
+a period in which tectonic and biological processes buried enormous quan es of biologic
+carbon, in the form of dead single-celled organisms.
+The shallow seas in which these microorganisms thrived surrounded por ons of a dividing
+supercon nent. The supercon nent Rodinia, which coalesced by ~1 Bya, began dividing ~750
+Mya. As Rodinia split apart, the global abundance of coastlines grew. Along these coastlines,
+river-delivered nutrients allowed oceanic microorganisms to thrive. When these organisms
+died, they were eﬃciently buried by sediment from the same rivers that had fueled their
+growth.
+Recall that photosynthe c cyanobacteria use the carbon in CO 2 and the hydrogen in H 2 O to
+build their bodies. In the process they release the O 2 gas that is poisonous to them. When
+cyanobacteria die, this process reverses—free oxygen reacts with their bodies to produce
+carbon dioxide and water. However, when burial occurs before reactingwith oxygen, levels of
+atmospheric oxygen and the amount of buried carbon rise.
+In this way, carbon burial acts as a kind of ‘atmospheric oxygen pump’. Thus, as carbon burial
+proliferated in the coastlines that surrounded ri ing Rodinia, global levels of free oxygen
+increased and the concentra on of atmospheric CO 2 fell. Rising oxygen produced our modern
+atmosphere and facilitated the emergence of animal life, and falling carbon dioxide plunged the
+planet into a vast global ice age, Earth second Snowball Earth episode. As before, carbon
+dioxide released by volcanoes eventually re-warmed the planet and ended the second snowball
+episode.
+
+Figure 3.34. Illustrated reconstruction of the early animal community known as the ‘Edicaran
+fauna’. Note the primi ve jellyﬁsh in the foreground. (Wikimedia)
+
+6
+
+As oxygen levels rose during the second transition, early animals like sponges and jellyﬁsh
+emerged from colonies of communicatingeukaryo c cells. The earliest animals did not have
+eﬃcient ways to circulate oxygen through their bodies. Instead, they relied on the slow
+movement (diﬀusion) of oxygen from seawater into their cells. However, as oxygen levels rose,
+more oxygen was available in seawater, and cells could incorporate this energy-giving substance
+more eﬃciently. As a result, increased oxygen levels allowed the development of larger, thicker
+bodies. The ﬁrst true community of animals appeared ~580 Mya, shortly a er Earth’s 2nd
+Oxygen Transition. Figure 3.34 shows these early animals.
+Compe on among the ﬁrst animals produced organisms with increasing complexity, including
+sensory organs like eyes and antennae. Then, ~543 Mya mul cellular organisms developed the
+ability to build hard parts using ma er extracted from seawater. This development allowed
+successive animal genera ons to develop defensive and oﬀensive body parts like shells and
+teeth. In addition, improved mechanisms for acquiring and moving oxygen (like gills and veins)
+played important roles in the development of early animal communi es. For example, larger
+mobile animals required ever more eﬃcient ways of acquiring, processing, and distribu ng
+oxygen.
+The ‘evolutionary arms race’ produced surviving genera ons of prey with be er camouﬂage,
+more rapid locomo on, and heavier armor. These developments were counteracted by
+successive genera ons of predators with stronger jaws, sharper teeth, and be er vision. More
+on the development of life later.
+As the discussion above illustrates, the rela onship between atmospheric oxygen and life is
+fascina ng. Did you know, for example, that although oxygen fuels animal life it also ensures
+animal death? Unfortunately, that is a story for another day. For now, remember to delay the
+death-inducing eﬀects of oxygen by consuming an oxidants …but don’t forget to breathe.
+In summary, the oxygen released by cyanobacteria produced Earth’s ﬁrst oxygen transition, and
+the burial of unoxidized carbon drove the second transition. Both of these transitions spawned
+global ice ages, and these Snowball Earth episodes ended when volcanic CO 2 re-warmed Earth.
+In these and so many other ways, the emergence of atmospheric O 2 beau fully illustrates this
+important principle: the development of life drama cally alters Earth and the development of
+Earth drama cally alters life. So interes ng, and so cool!
+Incidentally, so long as living things are present on Earth’s surface, free oxygen cannot rise
+above ~30%. This upper limit was reached once in Earth’s history, when the ﬁrst true forests
+emerged ~360 Mya. This episode, which we’ll discuss later, shows up as the large ‘hump’ on the
+right of Figure 3.32.

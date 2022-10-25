@@ -1,0 +1,223 @@
+3.4 A Rocky Start
+Forming Earth and Its Component Systems
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+The most erroneous stories are those we think we know best—and therefore never scrutinize or
+ques on. —Steven Jay Gould
+
+Learning Objecitves:
+● Understand and be able to identify each of the following: accre on, diﬀeren a on, meteorite,
+undiﬀerentiated meteorite, diﬀerentiated meteorite, iron meteorite, stony meteorite, stony-iron
+meteorite; and components of habitability—magnetic ﬁeld, rocky mantle and crust, liquid
+hydrosphere, gaseous atmosphere, biosphere, and Moon.
+● Describe how accre on and diﬀeren a on produced the components of habitability. Also, describe
+how each component supports habitability.
+
+News ﬂash: We live on a habitable planet. Many take this for granted. However, increasingly
+detailed study of solar systems suggests that planets where lawful processes produce and
+nurture complex life are relatively rare.
+What’s more, early Earth was a very diﬀerent place than our modern garden home, as
+illustrated in Figure 3.24. In fact, Earth has been habitable by animals for only the last ~14% of
+it’s existence. During Earth’s infancy, natural processes produced the founda ons of Earth’s
+habitability. These processes formed Earth’s magnetic ﬁeld, rocky mantle and crust, liquid
+hydrosphere, gaseous atmosphere, and moon. As we’ll discover, interactions between these
+component systems eventually made Earth habitable.
+
+Figure 3.24. Illustra on of the young molten Earth, and a photo of Earth today. (Wikimedia)
+
+2
+
+Early Solar System Solids
+
+Earlier we learned that our Solar System formed from a protoplanetary disk like the one in
+Figure 3.25. Our developing proplyd a racted ma er from the surrounding nebula. This ma er
+became superheated when it ‘struck’ our proplyd. This heatingvaporized most preexis ng
+solids and reset most radioacitve clocks. Subsequent cooling then allowed the ﬁrst solids in our
+Solar System to form (Figure 3.23). The ages of these materials indicate that our proplyd
+formed ~4.57 Bya.
+The Sun records the composition of our proplyd. Our proplyd consisted mostly of hydrogen and
+helium gas, plus minor amounts of numerous other elements and molecules. In the proplyd,
+heavy elements like iron, magnesium, and silicon combined with oxygen to form dust-sized
+grains of rock, and elements like iron and nickel formed small grains of metal. The warmest
+regions of the proplyd were near the growing star. Farther from the sun (beyond the frost line)
+the proplyd was cool enough for water, methane, and other molecules to form small ice grains.
+Thus, the proplyd consisted of gas and dust, with rock and metal dust distributed uniformly and
+ice dust concentrated beyond the frost line.
+
+Figure 3.25. Illustra on of our Solar System during the early proplyd stage. (Author illustra on)
+
+Accre on 
+
+Recall that accre on is the incremental growth process that produces planetary bodies by
+collision of orbitingsolids. Through accre on, dust in our proplyd formed larger objects—ﬁrst
+pebbles, then rocks and boulders, and eventually asteroids, planets, and comets. Figure 2.42
+illustrates the period when accre on produced planets in our Solar System.
+To date, humanity has been unable to falsify the scien ﬁc theory (nebular theory) that explains
+how planetary bodies in our Solar System formed. Why? Because this theory explains the
+
+3
+how planetary bodies in our Solar System formed. Why? Because this theory explains the
+characteris cs of our Solar System very well. Even so, humanity con nues to reﬁne our
+understanding by studying planetary systems near and far. In addition to the ordered a ributes
+we explored earlier, nebular theory explains the the origin of the gas giant planets and their
+moons, the development of comets and asteroids, and the cratered surfaces of airless inacitve
+bodies like the Moon and Mercury.
+These heavily cratered surfaces record the ﬁnal accre onary collisions that formed these
+bodies. In contrast, the lack of craters on bodies such as Earth and Venus record their con nual
+resurfacing by geologic ac vity. Although craters are rare on Earth today, they were common in
+its youth. At that me, Earth’s surface looked similar to the Moon’s surface today. Planetary
+bodies in our Solar System record collisions of all sizes. Several planetary bodies, including
+Earth, record colossal impacts between large bodies. Our Moon formed from such collisions.
+A er the planets formed, rates of collisions decreased over the next ~500 My as the planets
+swept up most of the solids near their orbits. Later gravita onal interactions (mostly with
+Jupiter) con nued sca ering debris into the paths of the planets. The process of accre on
+con nues today, but at tremendously low rate. Presently, Earth accretes only ~50,000 tons of
+new solid ma er each year. So the next time you see a ‘shootingstar’, remember that accre on
+is real and that you live in The Ongoing Crea on of Earth.
+In recent decades, humanity has developed the ability to observe planets around other stars. To
+date, astronomers have observed several thousand such planets, and with improved telescopes
+the number of will soon reach several hundred thousand. Observing the a ributes of these
+planetary systems allows humanity to test and further develop nebular theory. In the process,
+human understanding of how planetary systems form is progressing line upon line as we
+upgrade from preparatory truth to preparatory truth—just as it must if we are ever to have a
+perfect understanding of how planets and their systems form. Isn’t it cool that humanity
+understands so much about how solar systems and planets form, and that we’re on the verge of
+discovering so much more?!
+
+Diﬀeren a on
+
+As accre on progressed, planetary bodies formed from available solids. Inside the frost line,
+these bodies contained ﬁnely intermixed rock and metal. Farther out they consisted mostly of
+ices, with minor intermixed rock and metal. Where collisions and radioacitve decay provided
+suﬃcient heat (mostly near the Sun), dense metal inside primi ve planetesimals separated
+from less-dense rock in a process called diﬀeren a on.
+This density separa on or chemical ‘unmixing’ produced layered planetary bodies with metallic
+cores surrounded by rocky mantles and crusts, as illustrated in Figure 3.26. Where conditions
+were favorable, diﬀeren a on also produced solid ‘ice-spheres’ (cryospheres), liquid
+hydrospheres, and gaseous atmospheres. Far from the Sun, where comets formed,
+diﬀeren a on was relatively uncommon because heat from collisions and radioac vity were
+less abundant.
+
+4
+
+Figure 3.26. Cross-section of a diﬀerentiated planetary body—with a metallic core, rock mantle,
+and rocky crust. (Author illustra on)
+In the Asteroid Belt, Jupiter’s inﬂuence prevented planetesimals from forming a planet. As a
+result, the Asteroid Belt preserves the building blocks of planets, including both primi ve
+(undiﬀerentiated) and evolved (diﬀerentiated) planetary bodies. Through the eons,
+gravita onal interactions have caused rocks from the asteroid belt (and less commonly from
+other bodies like Moon and Mars) to collide with Earth. We call these space rocks meteorites.
+Basic meteorite types are shown in Figure 3.27. Undiﬀerentiated meteorites are space rocks
+composed of primi ve solids that formed in the early Solar System. They consist of ﬁnely
+intermixed rock and metal. In contrast, diﬀerentiated meteorites are space rocks that formed
+as part of the crust, mantle, or core of a planetary body. We refer to those that originated in a
+core as iron meteorites, those that formed at a core-mantle boundary as stony-iron
+meteorites, and those that formed in a mantle or crust as stony meteorites.
+
+Figure 3.27. Photos of thumb-to-hand-sized undiﬀerentiated and diﬀerentiated meteorites.
+Each of these meteorites fell to Earth a er being ejected from their parent asteroid by
+collisions. (Author photographs)
+Undiﬀerentiated meteorites are the most common type to collide with Earth today, likely
+because a relatively recent collision fragmented an undiﬀerentiated asteroid. Undiﬀerentiated
+planetesimals are the startingmaterial from which the layered (diﬀerentiated) planetesimals
+and planets formed. Diﬀerentiated meteorites record abundant informa on about their parent
+bodies. For example, iron meteorites indicate that they formed inside asteroids similar in size to
+those found in the Asteroid Belt today.
+
+5
+
+Forming the Components of Earth’s Habitability
+
+Earth—like Mercury, Venus, and Mars—is a fully diﬀerentiated planet. Diﬀeren a on is
+cri cally important to the habitability of Earth. Observa ons of planetary materials indicate that
+Earth’s layers (metallic core, rocky mantle and crust, liquid hydrosphere, and gaseous
+atmosphere) originated no later than the Moon-forming giant impact at ~4.51 Bya, about 30
+My a er Earth formed.
+Heat from accre on, radioac vity, diﬀeren a on, and the forma on of the Moon made early
+Earth incredibly hot. This heat generated at least three periods in which Earth’s surface
+consisted of a deep magma ocean (Figure 3.24). This ﬁery birth laid the founda on for Earth’s
+eventual habitability because it produced Earth’s component systems—its Moon, magnetic
+ﬁeld, rocky mantle and crust, solid ice-sphere (cryosphere), liquid hydrosphere, gaseous
+atmosphere, and biosphere. In me, energy from Earth’s interior and the Sun drove
+interactions between these systems. These interactions produced Earth’s climate system and
+made Earth habitable.
+Our Magnetic Field
+Earth’s core makes up more than half of its radius and consists mostly of iron and nickel (plus a
+few percent of light elements like silicon, carbon, and sulfur and small amounts of other metals
+like pla num and gold). The core contains a solid inner sphere surrounded by a thick layer of
+molten metal. These metallic layers and Earth’s spin produce a magnetic ﬁeld that surrounds
+our planet in a protecitve shield. Without this shield, solar radia on would strip away Earth’s
+atmosphere and make Earth uninhabitable. Incidentally, the auroras (the northern and
+southern lights) occur when intense solar radia on par ally penetrate Earth’s magnetic ﬁeld
+and collide with molecules in the upper atmosphere.
+So, if you’re a fan of science ﬁction and long to zip through the galaxy in a spaceship protected
+by an invisible force ﬁeld, you’re in luck. At this very moment, you’re traveling on spaceship
+Earth at immense speed through the Solar System and galaxy—all the while protected by
+Earth’s mostly-invisible magnetic ﬁeld. Reality is so cool, isn’t it?!
+Rocky Mantle and Crust
+Earth’s core is surrounded by two layers of solid rock, the crust and mantle. By volume, Earth is
+~1% crust, ~84% mantle, and ~15% core. Crustal rock is less dense than mantle rock, which is
+why the crust forms our planet’s surface. Figure 3.28 shows a piece of Earth’s primi ve crust.
+As you know, the slow ﬂow of solid rock drives tectonic changes like volcanoes, earthquakes,
+and plate mo on. Surface cooling and internal heat drive this slow convecitve ﬂow. Earth’s
+tectonically acitve crust and mantle support habitability by creatingcon nental and oceanic
+crust, forming mountain ranges and sedimentary basins, producing volcanoes, and modera ng
+
+6
+crust, forming mountain ranges and sedimentary basins, producing volcanoes, and modera ng
+Earth’s climate. More on this later.
+
+Figure 3.28. A palm-sized piece of ancient crust from northwestern Australia. (Author
+photograph)
+Hydrosphere and Atmosphere
+Outside the crust and mantle lie Earth’s least dense, outermost material layers—the
+hydrosphere and atmosphere. Although they represent a ny fraction of Earth’s mass, these
+layers play a supersized role in planetary habitability. For example, atmospheric carbon
+modulates Earth’s climate and liquid water is among the most important requirements for life.
+Can you think of other important functions? If not, stop breathing and you’ll quickly remember
+at least one more.
+The Moon
+Although our large Moon is not physically connected to Earth, its ‘gravita onal’ inﬂuence
+stabilizes Earth’s lt. In this way, the Moon protects Earth from the lt-altering gravita onal
+tugs of giant planets like Jupiter, which would otherwise dras cally diminish the habitability of
+Earth by cyclically producing huge seasonal varia ons in important climate variables like
+temperature.
+
+Figure 3.29. Early Earth and Moon shortly a er the giant impact. Note the arc of material from
+which the Moon is forming by accre on. (Author illustra on)
+
+7
+
+Figure 3.29 shows the Moon forming around Earth at ~4.51 Bya. The a ributes of Moon and
+Earth are best explained by giant impacts between early Earth and several large planetesimals.
+This ‘giant impact’ hypothesis was ﬁrst developed in the 1970s by William Hartmann and Don
+Davis following extensive study of the Moon and its materials. By the mid 1990s, compe ng
+hypotheses for the forma on of Moon had been falsiﬁed. Today, although there is much s ll to
+learn about the Moon, the giant impact explana on is a scien ﬁc theory because it has
+withstood all observa onal tests.
+Biosphere
+As we’ll discuss later, living things are complex organic systems that persist, act with purpose,
+reproduce, and evolve. A er Earth cooled suﬃciently, single-celled organisms like those in
+Figure 3.30 developed and dominated. Earth’s biosphere consists of all living things.
+
+Fig 3.30. Paintingof early Earth showing knobby bacterial pillars (stromatolites) along a shallow
+coastline (le ), and a palm-sized slice of Earth’s oldest known stromatolite fossil (from Strelley
+Pool, western Australia). The wavy layers of sediment in the ﬁst-sized stromatolite sample were
+trapped by bacterial mats 3.4 Bya. (Author illustra on and photograph)
+Many individuals consider the biosphere as a passenger on spaceship Earth, taking what it
+needs from Earth but having li le impact on the planet. Not true! The biosphere has had
+tremendous impact on Earth and has in turn been tremendously changed by it. For example, the
+atmospheric oxygen required by animals was ﬁrst produced by the biosphere (by single-celled
+photosynthe c organisms). The progressive emergence of modern levels of atmospheric
+oxygen, which revolutionized Earth, forms an important chapter in the development of Earth’s
+habitability.
+To summarize, planets like Earth form within protoplanetary disks as small solid par cles
+aggregate into larger bodies. Our Sun and its system of planets formed from a proplyd between
+~4.56 and ~4.54 Bya.
+
+8
+During and following the accre on of Earth, diﬀeren a on produced Earth’s component
+systems. In me, complex interactions between these systems made Earth habitable. So, if you
+haven’t expressed gra tude recently for Earth’s magnetic ﬁeld, mantle, crust, hydrosphere,
+atmosphere, or Moon, consider doing so now. Your existence on Earth would be impossible
+without them.
