@@ -1,0 +1,257 @@
+3.8 Modern Myopia 3. 8 
+Contextualizing Present Climate
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+We don’t inherit the Earth from our ancestors, we borrow it from our children. —Na ve
+American proverb
+
+Learning Objectives:
+● Understand and be able to dis nguish between each of the following: icehouse climate state, ice
+age, glacial period, and interglacial period. Iden fy the Earth processes that modulate the glacial
+and interglacial periods of ice ages. Also, iden fy whether Earth is presently in a glacial or an
+interglacial period of the modern ice age.
+● Understand the context for Earth’s present climate. Also, be able to contextualize modern human-
+induced climate change and describe how it will challenge human civilization.
+
+By now you know be er, but many people (especially Western Chris ans) think that Earth has
+‘pre y much always looked as it does today’. When they envision Earth’s past, they picture an
+Earth with contemporary con nents, mountains, shorelines, and climate. Of course, those
+seeking to understand Earth as it actually was, is, and will be recognize that this ‘sta c view’ of
+Earth is a gross distor on of truth.
+Even literalist readings of wri en scripture decry the falsity of this perspective. For example,
+wri en scripture clearly indicates that early Earth experienced periods when there were no
+con nents, oceans, plants, or animals. Despite this, some modern people uncri cally accept a
+sta c Earth. Sadly, these individuals ﬁnd it easy to imagine that they live on a ‘throw away
+Earth’ that emerged supernaturally a few years ago and will be modiﬁed supernaturally in the
+near future. Such a worldview makes it diﬃcult to be the careful, conscien ous stewards of
+Earth that wri en and natural scripture so clearly and powerfully urge.
+If you know a good person with such a worldview, don’t despair. There’s actually a really good
+reason why such an idea could sneak unbidden into human thinking. This myopic view is
+founded in the following very thin slice of reality: Earth has experienced excep onally little
+climate, coastline, or other change in the last 6-7 ky. To be sure, there have been natural
+devastations aplenty. But large-scale change of the kind we’ve been discussing? Not a s tch!
+This means that the en re wri en record—all of human history—postdates the most recent
+signiﬁcant Earth changes. Said diﬀerently, human civilization grew up during a brief period
+when Earth didn’t change much. Figures 3.46 and 3.47 illustrate this reality. Although false, can
+you see how the no on that Earth has ‘pre y much always been like it is today’ emerged?
+
+2
+
+Figure 3.46. Le : Sea level from 24 kya to present. (Wikimedia) Right: Eastern US shoreline at
+20 kya and from 7 kya to present. Note that sea level and shorelines changed dras cally from
+20-7 kya, but have remained nearly constant since that me. (Adapted from USGS)
+
+Figure 3.47. The temperature record from ~19 kya to present. Note that temperature has
+changed little since 10 kya. (NOAA)
+To illustrate the ‘thinness’ of this worldview, consider that the last ~10 ky represent just one-
+millionth of one percent of Earth’s history. What’s more, the most recent few thousand years
+could not be less representative of ‘normal’ Earth conditons. As you know, there is no one set
+of a ributes that are ‘normal’ because changing conditons are the norm for Earth.
+
+The Recent Development of Modern Climate 
+
+Earth’s present climate lies in an interglacial period of the modern ice age (Figure 3.40). Recall
+that icehouse states are periods when Earth is suﬃciently cool to produce substan al polar ice,
+but ice ages are more severe. During ice ages, there are typically substan al ice caps at both
+poles. Inside ice ages, cyclical clima c variations produced by variations in Earth’s orbit cause
+glaciers to expand during glacial periods and retreat during interglacial periods, as illustrated in
+Figure 3.48.
+
+3
+
+Figure 3.48. Maximum distribution of ice sheets during the modern interglacial period (Aug.
+2011; NASA) and during a recent glacial period (base map by Ron Blakey).
+To summarize, our modern verdant Earth lies in the Holocene Interglacial Period of the
+Pleistocene Ice Age, itself a part of the Late Cenozoic Icehouse Climate. Figure 3.49 shows the
+transitonal cooling that produced modern climate between ~50-35 Mya. As you know, this
+cooling resulted from enhanced mountain building, weathering, and carbon burial (Figure
+3.44). As Earth cooled through this transiton, the Antarc c ice sheet formed and expanded.
+
+Figure 3.49. Cenozoic global temperatures and climate states. Note the broad-scale cooling and
+the signiﬁcant small-scale variability. Also note the future modeled temperatures shown at
+right. (NOAA)
+By ~2.6 Mya, con nued cooling generated a northern ice cap (Figure 3.48). The growth of the
+northern ice cap marked the beginning of the Pleistocene Ice Age. Since that me, ocean
+sediments indicate there have been ~50 pairs of glacial-interglacial periods. As men oned,
+these cyclical periods of cooling and warming result from variations in Earth’s orbit.
+The most recent glacial period began ~115 kya, reached its maximum ~23 kya, and then
+transitoned to the modern (Holocene) interglacial period ~11.7 kya. During the last glacial
+period ice sheets extended south of the US-Canada border in North America; covered
+Scandinavia, most of England, and northern Russia in Eurasia; and blanketed Antarc ca and
+much of the Andes in the southern hemisphere (Figures 3.48). Figure 3.46 shows how sea level
+
+4 much of the Andes in the southern hemisphere (Figures 3.48). Figure 3.46 shows how sea level
+and shorelines changed as these glaciers retreated.
+The transitons between and durations of glacial and interglacial periods are not symmetrical.
+Instead, temperature falls slowly on the way into rela vely long-lived glacial periods, and then it
+transitons rapidly into short-lived interglacial periods. This forms a sawtooth-shaped
+temperature pa ern, as illustrated in the lower plots of Figure 3.50. Another important
+a ribute of the modern ice age involves the duration of glacial-interglacial pairs. These
+durations changed from ~41 to ~100 ky a er ~1 Mya. Signiﬁcantly, these durations match the
+periods of cyclical variations in Earth’s axis and orbital shape, as illustrated in Figure 3.50.
+Earth’s lt varies cyclically between 22.5° and 24.5° every ~41 ky because the Sun, Jupiter, and
+other planets tug on Earth’s equatorial bulge. Today, Earth’s lt (23.5°) lies between these
+extremes and is increasing (Figure 3.50). As you know, Earth’s lt determines the nature of its
+seasons, but you may not know that higher lt produces longer, more extreme seasons. Thus,
+during periods of high lt, polar winters are longer and Earth enters summers with more ice.
+This ice reﬂects more summer sunlight and causes ever-milder summers and ever-cooler
+winters. This positive response causes ice to advance year to year and can ini ate glacial
+periods.
+In additon, gravitational tugs from planets like Jupiter cyclically distort the shape of Earth’s
+orbit, which completes a cycle about every 100 ky (Figure 3.50). During mes when Earth’s
+orbit is mostly circular, Earth receives about the same amount of solar heatingthroughout the
+year. In contrast, periods of more-ellip cal orbits cause uneven solar hea ng. During these
+mes, Earth receives more solar heatingwhen near the Sun and less when far from the Sun.
+These lt and orbital shape cycles combine to cause cyclical variations in the time of year (place
+in Earth’s orbit) when seasons occur. The progressive movement of the seasons through Earth’s
+orbit (called precession) aﬀects the amount of seasonal sunlight received by Earth. This
+precession cycle lasts ~23 ky (Figure 3.50). In these ways, Earth’s seasons are most extreme
+when lt orbital non-circularity are high and winters happen farthest from the Sun. Moreover,
+extreme seasons favor the advance of glaciers and the ini ation of glacial periods.
+These orbital cycles were discovered in the 1920s by Serbian geophysicist Milu n Milanković.
+Collectively, these ‘Milankovitch’ cycles control the annual variations in solar heatingthat
+modulate global climate. Even so, sunlight alone is insuﬃcient to explain the amount of cooling
+and heatingassociated with transitons between glacial and interglacial periods. This should not
+surprise us. It simply means that other aspects of Earth’s complex climate system also play
+important roles. These include the carbon sources and sinks we’ve already discussed plus many
+other aspects of the climate system—like lags in climate response and the inﬂuence of ocean
+currents, biological produc vity, and long-term cloud cover. Expressed metaphorically,
+Milankovitch cycles appear to ‘conduct’ Earth’s climate ‘symphony’, but other natural processes
+produce most of the ‘music’.
+This pa ern—ampliﬁcation of Milankovitch-cycle heatingby other natural processes—appears
+
+5 This pa ern—ampliﬁcation of Milankovitch-cycle heatingby other natural processes—appears
+to produce the transitons between glacial and interglacial periods. Later, we’ll explore how
+these transiton and other climate change aﬀected the development of human bodies and
+behaviors. For example, we’ll discover that the climate warming and stabilization that produced
+the Holocene allowed humans in the Middle East to build the ﬁrst temples, domes cate the
+ﬁrst plants and animals, and construct the ﬁrst ci es.
+
+Figure 3.50. Upper Four Plots: Orbital cycles that modulate global temperature and glacial-
+interglacial cycles by aﬀectingseasonal variations in solar hea ng. Lower Two Plots: Sawtooth-
+shaped temperature variations of the most recent glacial-interglacial cycles as recorded in
+ocean sediments and glacial ice cores. (Adapted from Wikimedia)
+
+Climate In the Near Future 
+
+Modern climate change is a conten ous topic in some sectors of present society, and separa ng
+fact from ﬁction can be challenging for those who know little about Earth, climate systems, or
+how science develops explanations in which humanity can exercise conﬁdence. Questions such
+as the following burn bright in the minds of many: I hear so much about climate change, what is
+true and what is hyperbole? Should humanity be concerned? What should society do about our
+present situation? What should I do about it? Although the answers to some of these questions
+lie far outside our scope, the aspects of climate we’ve addressed can contextualize answers to
+these questions. We begin with simple, foundational truths that will allow us to explore
+anthropogenic climate change.
+Nearly everything you do and use requires energy, and most of that energy comes from burning
+fossil fuels like petroleum and coal. Burning these fuels moves carbon from solid Earth to the
+atmosphere much faster than natural systems can remove it. As a result, climate warms as
+atmospheric CO 2 levels rise.
+
+6
+
+Figure 3.51. Global average temperature since 2 kya. (Wikimedia)
+Humans began burning abundant fossil fuels at the start of the Industrial Revolution, in the late
+1700s. Natural records demonstrate that the concentration of atmospheric CO 2 from 10 kya to
+the Industrial Revolution was ~250 molecules per million (ppm). Today, CO 2 concentrations are
+well over 400 molecules per million, and they are rising. Figure 3.51 shows global temperatures
+since the birth of Christ, and Figure 3.52 shows that natural processes cannot themselves
+account for the observed warming of ~2 °F (>1 °C) . These and other observations strongly
+suggest that human burning of fossil fuels has increased atmospheric CO 2 and warmed global
+temperatures.
+
+Figure 3.52. Global observed surface temperatures since 1880 (top), and modeled climate
+contributions of natural and human processes (bo om). (USGCRP, Wikimedia)
+Having explored basic, well-established principles and observations, we’re ready to explore
+issues about which there is much disagreement and confusion among nonspecialists. For
+example, as global temperatures rise, will Earth and Life be okay? Yes, Earth will be ﬁne, but the
+answer for life is more complicated. Although life can thrive in warmer temperatures, the ability
+
+7 answer for life is more complicated. Although life can thrive in warmer temperatures, the ability
+of organisms to adapt is strongly dependent on the rate of climate change. It’s o en how
+quickly climate changes, not the change itself, that causes ex nction. Present rates of climate
+change are similar to those Earth experienced near the end of the Paleozoic when rapid carbon
+release from volcanoes and coal produced Earth’s largest animal ex nction. In short, signiﬁcant
+fractions of current biodiversity are in danger of going ex nct. It’s diﬃcult to overstate this
+conclusion.
+Well, how about humanity: Will we be okay? As for life, the answer dependstion what you mean
+by ‘okay’. Without question, humanity has the ability to greatly reduce our impact and to adapt
+—but both require desire, planning, eﬀort, sacriﬁce, and money…lots of money. Whether we
+choose to proactively reduce emissions or are forced to respond to the eﬀects of rising
+temperatures, it’s going to be really expensive.
+To get a sense of how present and future climate change will aﬀect humanity, let’s look to the
+past—to well-documented events in human history. Few historians disagree that climate
+change played signiﬁcant—even dominant—roles in the destabilization and eventual demise of
+many ancient peoples, including these:
+● The Akkadian Empire in the Middle East and the Old Kingdom in Egypt collapsed when
+climate dried ~4.2 kya.
+● The Maya civilization in Mesoamerica collapsed when climate dried in the 800s AD.
+● The Vikings le Greenland, peoples of the American Southwest le their ci es, and the
+Khmer civilization in southeast Asia collapsed during a period of cooling and drying known
+as ‘the little Ice Age’ (from 1300-1800s; Figure 3.51).
+Harvard Archaeologist Dr. Jason Ur has said “When we excavate the remains of past
+civilizations, we very rarely ﬁnd any evidence that they as a whole society made any a empts to
+change in the face of a drying climate, a warming atmosphere or other changes [….] I view this
+inﬂexibility as the real reason for collapse” (Source NASA). Additonal examples of groups
+aﬀected by climate change abound, including changes that destabilized socie es without
+causing their demise.
+Before proceeding, take a moment to correlate the ming of the events listed above with the
+temperature record in Figure 3.47. No ce that the examples provided above are all associated
+with very small climate change events. Also note that even modest projections of future
+temperature (Figure 3.49) represent rela vely large changes, and extreme projections involve
+rapid transiton to a greenhouse climate. Taking into account sound principles, observed reality,
+historical eﬀects and the like, it’s diﬃcult to make a valid case that human-induced climate
+change won’t signiﬁcantly aﬀect present human civilizations.
+The reality is that any signiﬁcant degree of climate change is bad for human civilization, no
+matter its cause. Thus far, humanity has treated Earth as if it never changes and will always
+freely provide the same amount of what we need. The moment we must pay for things we take
+for granted—like steady sea level or climate—life becomes very expensive, very rapidly. That
+
+8 for granted—like steady sea level or climate—life becomes very expensive, very rapidly. That
+expense will nega vely impact standard of living, and people get really grumpy, really quickly
+when their standard of living drops.
+Climate change is expensive because it requires socie es to adjust. For example, warming
+climate raises sea level and alters regional climates. So humanity will need to make
+stupendously expensive changes like moving coastal ci es. Unfortunately, most (all?)
+governments are unprepared to ﬁnance or carry out these kinds of ac vi es, and history is
+replete with examples of socie es being destabilized by much smaller issues. Sadly, such
+destabilization typically produces human conﬂict and abundant death.
+So, what should humanity do about all this? First, recall that deciding what humanity does
+requires individuals and socie es to make value judgments based on the best available scien ﬁc
+data. Said diﬀerently, any wise course of action must be consistent with scien ﬁc ﬁndings, but
+those ﬁndings alone cannot uniquely iden fy a course of action. Prudent paths forward likely
+involve signiﬁcantly reducing fossil fuel emissions and preparing for climate warming while
+trying to minimize impactstion standard of living.
+Reducing fossil fuel emissions requires increasing our reliance on other sources of energy. At
+present, nuclear power is the only source of energy that can replace carbon-based sources
+without decreasing standard of living. Of course, nuclear energy can (and should) be
+supplemented by renewable sources like solar, wind, and wave energy, but these sources alone
+are insuﬃcient to replace carbon-based sources.
+The degree to which humanity decides to approach climate change with wisdom will depend at
+least in part on you because global solutions to climate change will consist of international,
+national, regional, community, and individual solutions. As you make choices and vote on topics
+related to climate, recognize that these issues have become extremely poli cized and that there
+are many that would seek to deceive you. We strongly encourage you to develop an informed
+perspective using reputable sources of climate science and to be a wise steward of our
+habitable home. How you and your generation choose to handle human-induced climate
+change will impact the future.
+
+A Final Word
+
+As we complete our exploration of the formation, functioning, and history of Earth, we invite
+you to take a moment to assess what you have learned about our Goldilocks planet. Do you
+now see layers of rock as pages of natural scripture that tell the story of the Ongoing Creation
+of Earth to anyone with ‘ears to hear’? Have you come to know the Creator be er? Do you
+think about Earth’s habitability in the same way? Has apparent conﬂict between scien ﬁc and
+religious accounts of Creation diminished? Have your ideas about and commitment to human
+stewardship changed or been strengthened?
+We witness that natural processes and lawful interactions produced Earth and made it
+habitable. In other words, we assert that Earth formed and developed into our self-maintaining
+
+9
+habitable. In other words, we assert that Earth formed and developed into our self-maintaining
+habitable home through lawful self-assembly. What’s more, we aﬃrm that a self-assembled
+Earth is fully consistent with the asser on that God formed Earth.
+We hope you’ve enjoyed this important Earthly por on of our journey From Atoms to Humans.
+Having looked at the lawful origins of order in Earth, we now turn our focus to order in Life and
+the order in us.

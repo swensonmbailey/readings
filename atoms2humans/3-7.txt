@@ -1,0 +1,235 @@
+3.7 Our Goldilocks Home 3. 7
+Maintaining a Habitable Planet
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+Civilization exists by geological consent, subject to change without no ce. —Will Durant
+
+Learning Objective:
+● Describe the development of Earth’s climate (in terms of states, transitons, and speciﬁc carbon
+sources and sinks) from the mid-Paleozoic greenhouse, through the climate transiton that
+produced the late Paleozoic icehouse, then through the transiton that produced the Mesozoic
+greenhouse, and ﬁnally through the transiton that produced the modern Late Cenozoic icehouse.
+
+Today, Earth’s climate lies near the cold end of the icehouse state, but rock bodies across the
+planet record that Earth was in an extreme greenhouse state in the early Cenozoic. These
+extremely diﬀerent climates become readily apparent when comparing present organisms to
+those that inhabited western Wyoming during the 50-Mya extreme greenhouse. Today, the
+area is a cold high desert inhabited by organisms like sagebrush, juniper, rabbits and antelope.
+Earlier, this area was hot, humid, and hosted subtropical organisms, which were exquisitely
+preserved in the sedimentary time capsule of an ancient lake. Figure 3.39 shows a few of these
+fossilized organisms, which you can observed in the Visitor’s Center at Fossil Bu e National
+Monument.
+
+Figure 3.39. Photos of exquisitely preserved fossilized organisms that lived in the subtropical climate of
+western Wyoming ~50 Mya. The upper-right photo shows the cool dry climate of today, and the fossils
+demonstrate the earlier warm climate. (Author illustration, photos from NPS)
+
+2
+Palm trees and alligators live in Florida and Costa Rica today, not in Wyoming. In the last 50 My
+the la tude and elevation of western Wyoming have changed little, but its climate has changed
+a lot. What’s more, fossils clearly record that subtropical palm trees, alligators, and the like lived
+year-round in Antarc ca during the ho est parts of the early Cenozoic extreme greenhouse.
+Although astounding, it’s true. This early-Cenozoic extreme greenhouse climate event
+illustrates what can happen when carbon sources dominate carbon sinks.
+As illustrated in Figure 3.40, global climate tends towards the upper and lower limits of
+planetary habitability. At these extremes opposing processes dynamically maintain fairly
+constant climate, o en for rela vely long periods. Today, global climate lies at the cool end of
+habitability, in the icehouse state. Figure 3.41 shows the climate states we will use to explore
+how carbon-transfer events produced Earth’s recent climate history from the mid-Paleozoic to
+today. Our exploration will provide you with the opportunity to deepen your intuiton about the
+lawful nature of broad-scale transitons between greenhouse and icehouse climate states. Take
+a moment to correlate the events represented by the two ﬁgures.
+
+Figure 3.40. Broad-scale climate history of Earth. The ﬁgure also shows both the more-detailed
+and averaged (light gray) cooling paths that produced today’s icehouse Earth. Note that
+extreme climate states dominate Earth’s climate history. (Modiﬁed from Paleomap Project)
+
+Figure 3.41. Major climate transitons from the mid Paleozoic to today. (Author illustration,
+base maps by Ron Blakey)
+
+From Greenhouse to Icehouse in the Late Paleozoic 
+
+We begin our exploration of Earth’s recent climate history in the mid Paleozoic, with the
+emergence of the ﬁrst land plants. Observations suggest that the ﬁrst land plants descended
+from fresh-water algae. These plants were simple, like some modern mosses. As these plants
+
+3
+from fresh-water algae. These plants were simple, like some modern mosses. As these plants
+established a ﬁrm foothold on land, animals followed. The movement of plants and animals
+from ocean to land opened a new stage in the development of life. It also dras cally altered
+Earth’s climate state.
+Early plants were restricted to shorelines because their reproductive cells (spores) needed
+water. As plants began crowding Earth’s shorelines, compe on for sunlight selected for taller
+plants with broader crowns. Selective pressures also ins gated biological innovations such as
+strong roots, eﬀective vascular ssues, and supportive wood. These biological innovations
+produced Earth’s ﬁrst trees.
+In the wetland environments where early fern-like trees thrived, dead trees o en fell into
+standing water that contained little oxygen. Normally, the carbon in dead trees is oxidized and
+returns to the atmosphere as CO 2. However, the swampwater common in early forests limited
+oxygen’s access to much of the carbon in dead trees. As a result, thick deposits of carbon-rich
+tree matter accumulated in wetland forests. A er these deposits were buried, they formed
+abundant layers of coal and carbon-rich shale.
+In this way, forested swamplands promoted the burial of vast quan es of carbon during the
+late Paleozoic. How do you think this changed Earth’s climate. If you surmised that this event
+caused global climate to cool and transitoned Earth into an icehouse climate state, you’re right
+(see Figures 3.40-3.41). During this icehouse state, Earth experienced the fourth of its ﬁve large
+ice ages. (The ﬁrst two ice ages were the Snowball Earth events we discussed earlier, the third
+ended the early Paleozoic (Ordovician), and we inhabit the ﬁ h ice age; see Figure 3.40).
+
+Figure 3.42. Paintingof a late Paleozoic coastal swampland, showing an amphibian and two
+huge insects. (Author illustration)
+Not only did carbon burial during the late Paleozoic greatly reduce atmospheric carbon dioxide,
+it also caused atmospheric free oxygen to rise to the highest levels ever experienced on Earth
+(see the oxygen spike in Figure 3.32). Soot preserved in sedimentary deposits from this me
+indicate that these unusually high levels of free oxygen produced frequent and extensive ﬁres in
+these swampy forests. What’s more, fossils from this time indicated that insects reached their
+largest sizes. See, for example, the bird-sized dragonﬂy and alligator-sized millipede shown in
+Figure 3.42. The amphibian shown in this ﬁgure is a descendant of Earth’s ﬁrst amphibians. As
+
+4
+Figure 3.42. The amphibian shown in this ﬁgure is a descendant of Earth’s ﬁrst amphibians. As
+we’ll explore later, the abundant food and other selective pressures provided by early wetland
+forests eventually molded shoreline-adapted ﬁshes into Earth’s ﬁrst amphibians
+You might be interested to know that most of the coal that fueled humanity’s Industrial
+Revolution was deposited in the wetland forests of the mid-to-late Paleozoic (Carboniferous). In
+the centuries since the Industrial Revolution, humanity has con nued extractingenergy by
+burning carbon-based fuels like coal, oil, and natural gas. This has resulted in the extremely
+rapid return of this long-buried carbon to the atmosphere. More on modern climate warming
+later.
+More About Carbon Burial
+Carbon burial, which produced the icehouse state of the late Paleozoic, is Earth’s chief carbon
+sink. The removal of atmospheric carbon begins with weathering, the physical and chemical
+destruction of surface rocks. Weathering acts as both a carbon source and carbon sink. For
+example, the weathering of carbon-bearing rocks returns buried carbon to the atmosphere, and
+the weathering of igneous and metamorphic rocks removes atmospheric CO 2. During periods
+when global weathering rates are high, weathering typically removes much more carbon than it
+adds because igneous and metamorphic rocks are far more abundant that carbon-bearing
+sedimentary rocks.
+The weathering of igneous and metamorphic rock produces physical sediments (like sand and
+mud) and chemical sediments (like dissolved calcium and sodium). Both types of sediments
+bury carbon. Global weathering rates are highest during periods with hot humid climates,
+abundant mountain belts, and high biological produc vity.
+Physical burial removes atmospheric carbon when dead organic matter accumulates (as in the
+formation of coal) or when sediments bury organic material (as when sand or mud covers the
+dead, carbon-rich bodies of aqua c microorganisms). Once buried, elevated temperatures
+convert organic matter into coal, oil, and natural gas. This carbon typically remains buried for
+extended periods, un l tectonic processes expose it to weathering. At the surface, the carbon in
+rocks slowly reacts with oxygen and returns to the atmosphere as carbon dioxide.
+The chemical burial of carbon begins in the atmosphere, where carbon dioxide dissolves into
+rainwater. Incorporation of CO 2 makes rainwater slightly acidic, which accelerates weathering
+and liberates elements elements calcium from rocks. In the ocean, these elements combine
+with the dissolved carbon dioxide to form solid carbonate minerals like calcite. Although this
+can happen inorganically, life mediates the formation of most carbonate minerals today. Once
+buried, these minerals recrystallize to form solid carbonate rocks like limestone.
+Recall that the burial of carbon controls the upper temperature limit of Earth’s habitable zone.
+To illustrate this mechanism, consider that increasing atmospheric carbon dioxide raises global
+temperature. Rising temperatures accelerate biological ac vity and weathering rates, the
+essen al components of carbon burial. Thus, the removal of atmospheric carbon dioxide
+
+5 essen al components of carbon burial. Thus, the removal of atmospheric carbon dioxide
+increases as global temperatures rise. As you can see, this negative response to high surface
+temperatures cools Earth. In this way, the cooling response produced by carbon sinks prevents
+carbon sources from sending Earth into the runaway greenhouse state (Figure 3.38). Lawful
+interactions like these are responsible for maintaining the habitability of Earth.
+To close out our brief discussion of late Paleozoic climate cooling, we note the cooling caused
+by the assembly of Pangaea, Earth’s most well-known supercon nent. As the con nents
+collided, they formed large mountain belts like the Appalachians and Urals. The growth of these
+mountain ranges signiﬁcantly increased global weathering, the production of physical and
+chemical sediment, and carbon carbon burial. Interes ngly, Pangaea’s breakup also played an
+important role in Earth’s next climate state—the Mesozoic greenhouse.
+
+From Paleozoic Icehouse to Mesozoic Greenhouse 
+Near the end of the Paleozoic, massive outpourings of magma in volcanic provinces in China
+and then in Siberia sourced abundant atmospheric carbon. What’s more, the Siberian magma
+erupted through and liberated CO 2 from near-surface coal deposits. This ‘triple whammy’
+warmed global climate so rapidly that most populations of organisms went ex nct—they just
+could not adapt quickly enough. During this event—Earth’s largest mass ex nction of animals,
+~70% of terrestrial species and ~95% of marine species completely disappeared from Earth.
+This climate warming also ended the late Paleozoic icehouse climate and ini ated the Mesozoic
+greenhouse state. Later, magma c outpourings in the central Atlan c volcanic province ini ated
+the breakup of Pangaea and sustained the Mesozoic greenhouse climate. During this me,
+dinosaurs began dominatingterrestrial landscapes (Figure 3.43). Then, con nued ri ing of
+Pangaea formed the Atlan c ocean. The birth of the Atlan c produced a nearly-modern
+distribution of con nents and sourced the CO 2 that sustained a hot humid climate for most of
+the next 200 My (Figure 3.40).
+
+Figure 3.43. Paintingof predatory dinosaurs huntingfor prey in the hot humid forests of the
+late Mesozoic. (Author illustration)
+
+More About Volcanoes
+As you know, volcanic ac vity like that responsible for Earth’s Mesozoic greenhouse climate
+results from the slow ﬂow of solid rock into and in Earth’s mantle. What’s more, volcanic
+
+6 results from the slow ﬂow of solid rock into and in Earth’s mantle. What’s more, volcanic
+ac vity prevents Earth from persistingin an uninhabitably cold state. Even so, volcanic ac vity is
+not a response to cooling (or warming) at Earth’s surface. Said diﬀerently, conditons at Earth’s
+surface produce no short-term eﬀect on Earth’s tectonic engine. Thus, although volcanic ac vity
+warms climate, volcanoes do not respond to cool surface conditons. In this way, volcanic
+ac vity prevents Earth from remaining in the cold conditons that characterize the runaway
+icehouse state but not from existingat those conditons for a time (Figure 3.38).
+Most volcanic ac vity on Earth occurs at mid-ocean ridges. Thus, the rate of seaﬂoor spreading
+strongly aﬀects global climate. Ocean ridge volcanism is most active during the breakup of
+supercon nents and slows as supercon nents coalesce. On the ﬂipside, supercon nent
+formation builds mountain belts and increases weathering rates. Thus, global climate typically
+cools as supercon nents form and warms as they break up. This tectonic cycle, which builds
+and splits supercon nents about every 500 My, has an important broad-scale eﬀect on global
+climate.
+
+From Greenhouse to Icehouse in the Mid-Cenozoic
+Cenozoic mountain building ended the Mesozoic greenhouse. As the southern part of the
+supercon nent Pangaea split, Africa and India began moving northward. Then, a er ~50 Mya
+they began to collide with Eurasia. These tectonic movements, illustrated in Figure 3.44 formed
+a large east-west belt of mountains that extends from Spain to China and includes the
+Pyrenees, Alps, and Himalayas.
+
+Figure 3.44. From upper right: Paleogeographic maps that show the progressive movement of
+con nents from the latest Paleozoic to today. Note how Africa and India emerge from Pangaea,
+migrate northward, and collide with Eurasia. (Author illustration, base maps by Ron Blakey)
+As mountain ranges grew, intensiﬁed weathering and carbon burial cooled global climate.
+Beginning ~35 Mya, this cooling once again transitoned Earth between climate states, in this
+case from extreme greenhouse to cold icehouse. By 2.58 Mya, con nued cooling had ini ated
+Earth’s modern Ice Age, which we’ll explore in more detail later.
+A er the end-Mesozoic ex nction of ﬂightless dinosaurs, mammals radiated into vacated
+environmental niches. Earth’s subsequent transiton to cooler drier climates caused organisms
+
+7 environmental niches. Earth’s subsequent transiton to cooler drier climates caused organisms
+to further adapt. Figure 3.45 shows some of the resultingorganisms. By ~5 Mya, con nued
+cooling and drying caused forests to recede and Earth’s ﬁrst true grasslands to emerge.
+
+Figure 3.45. Paintingof a mid-Cenozoic ecosystem in the cool dry interior of North America.
+The grass-like plants are mostly sedges and bulrushes, not grasses. All the mammals shown are
+now ex nct. (Author illustration)
+More About Weathering
+Weathering, like that responsible for Earth’s modern icehouse climate, is the physical and
+chemical disintegration of rock at Earth’s surface. Weathering turns rock into sand, clay, and the
+dissolved matter carried by rivers to oceans. In this way, weathering supplies beaches and dune
+ﬁelds with sand, generates the mud that se les from s ll water, and makes the oceans ‘salty’.
+Where active, tectonic upli con nually ‘feeds’ ever-deeper rock into the ‘buzzsaw’ of surface
+weathering. In this way, rocks formed deep in the crust can be seen at Earth’s surface.
+The rate of weathering is highest in mountains and during periods of abundant atmospheric
+CO 2. In mountains, exposed rock, high precipitation, and freeze-thaw cycles accelerate
+weathering. In contrast, abundant CO 2 and associated warming accelerate weathering by
+increasing global rainfall, chemical reaction rates, and the acidity of water. These conditons
+make rock easier to dissolve. Although weathering both returns CO 2 to and removes CO 2 from
+the atmosphere, this important process typically buries far more carbon inside Earth than it
+releases to the atmosphere.
+
+Life Drives Climate and Climate Drives Life
+
+As you have seen from our brief introduction to Earth’s climate history, biological changes can
+tremendously aﬀect Earth’s atmosphere and climate. For example, the emergence of oxygen-
+generatingphotosynthesizers in the middle Precambrian produced both the ﬁrst atmospheric
+free oxygen and an extreme icehouse event. Also, the abundant burial of tree-carbon in the late
+Paleozoic produced both an icehouse climate and the highest-ever concentrations of
+atmospheric O 2.
+On the ﬂip side, clima c and other atmospheric changes can dras cally alter the nature and
+
+8 On the ﬂip side, clima c and other atmospheric changes can dras cally alter the nature and
+development of Earth life. For example, the emergence of abundant free oxygen and transiton
+from icehouse to greenhouse in the late Precambrian set the stage for the emergence of early
+simple animals. In additon, the drying and cooling of climate that shrank wetland forests in the
+late Paleozoic generated the selective pressures that produced early seed-bearing plants and
+the ﬁrst rep les, which could both survive far from water.
+Truly, climate change alters the trajectory of life, and biological change can alter Earth’s climate.
+Said metaphorically, Earth’s ‘biospheric dragon’ con nually ‘brings along’ the very clima c tail
+that it unceasingly ‘chases’.
