@@ -1,0 +1,187 @@
+
+
+4.2 Discoursing With Dinosaurs
+What Life Can Teach Us and How We Learn It
+Dr. Dan Moore and Dr. Alan Holyoak, Geology and Biology Departments, BYU-Idaho
+
+The facts of nature are what they are. ―Stephen Jay Gould
+
+Learning Objectives:
+● Understand how scien sts determine the sequence, age, and nature of biological events using
+observations of the structure and composition of biological materials and an understanding of
+biological processes. Also, understand how molecular clocks work.
+● Iden fy what biological materials like body parts, genes, fossils, and fossil traces record about
+present and past organisms.
+● Understand how rocks and fossils record information about the environmental conditions that
+existed when they formed.
+● Iden fy how a past biological event like ex nction or speciation might be recorded for modern
+observers.
+
+The history of Life on Earth consists of the events associated with the origin and development
+of all organisms. To understand this history, scien sts must establish the sequence, age, and
+nature of past biological events. Scien sts determine the sequence of biological events using
+the principles of relative dating, establish the age of a biological events using radiometric and
+molecular clocks, and discover the nature of biological events by interpreting the structure and
+composition of biological materials. Like the Universe and Earth, discovering how Life
+developed is both exciting and rewarding.
+
+Basic Biological Materials and Processes
+The bodies of all living things are made of the same biological molecules—carbohydrates, lipids,
+proteins, and nucleic acids (Figure 4.16). Of course, living things also use materials such as
+water, salts, and trace metals. Some biological materials can directly enter bodies and require
+li le processing. The remainder must be built by organisms. The diversity, composition, and
+structure of biological molecules are vital to the health and success of all living things.
+Carbohydrates like glucose and cellulose are used for energy and structural support. Lipids are
+made with the help of protein enzymes and can be used for long-term storage of excess energy
+(fats and oils), as structural components of cell membranes (phospholipids), protective
+materials (waxes), and as molecules that carry signals within and between cells (steroid
+hormones). Proteins are long strings of amino acids that fold into shapes that determine their
+function. These functions include facilitating chemical reactions and regulating gene expression.
+Nucleic acids, which include DNA and RNA, carry genetic instructions for making proteins.
+
+
+Figure 4.17 shows how genes produce proteins.
+
+Figure 4.16. Illustrations of basic types of biological molecules. Organisms use these molecules
+for energy, structure, signaling, information storage, and sotion. (Author illustration, images
+from Wikimedia)
+
+Figure 4.17. Le : Illustration of the protein synthesis process: 1- Gene transcription produces
+messenger-RNA (mRNA), with complementary ‘genetic le ers’ (nucleobases). 2- mRNA is
+modiﬁed before leaving the nucleus. 3- mRNA leaves the nucleus, enters the cytoplasm, and
+encounters a ribosome. 4- The ribosome translates mRNA by connecting each three-le er
+mRNA word (codon) with an amino acid. In this way successive ‘train cars’ of amino acids are
+connected to form a protein ‘train’. 5- Once produced, proteins fold into speciﬁc shapes. 6-
+Interactions atter translation determine the ﬁnal shapes of proteins. These shapes determine
+protein function. Right: Illustration of the universal genetic code (read from the inside, out)
+showing the ‘genetic words’ (codons) that correspond to par cular amino acids (outer circle).
+‘Start’ and ‘stop’ codons ini ate or end proteins. (Author illustration, images from Wikimedia)
+
+3
+As organisms grow and develop, the basic molecules of life self-assemble to produce larger-
+scale biological materials like ssues. Speciﬁc combinations of ssues make familiar body parts
+called organs. These include the heart, eyes, and bones.
+atter death, organisms can no longer maintain their bodies, which begin to decay. Body
+components like oils, sugars, and muscles readily decompose. Other components such as
+tendons, ligaments, bone, and wood take longer to break down. Biological materials that persist
+long enough to be buried in layers of sediment can become fossils. As such, durable materials
+such as shells and teeth most easily form fossils. Likewise, organisms that live where sediment
+is readily deposited (as on the ocean ﬂoor) are much more commonly preserved as fossils.
+Once buried, the long-term processes that form rock from sediment can produce fossils from
+biological remains. Fossilization can preserve many of the properties of the original organism.
+
+Interpreting Biological Materials
+
+Recall that understanding the history of life requires determining the sequence, age, and nature
+of biological events. This involves using an understanding of biological processes to interpret
+the structure and composition of biological materials. Scien sts use the principles of relative
+dating to determine the order in which things happened in Earth’s history, the patterns of fossil
+appearance and disappearance found in successive layers of sedimentary rock to discover the
+history of life and to correlate bodies of sedimentary rock separated by large distances, and
+radiometric (absolute) dating to determine the age of a past Earth and Life events. Using these
+approaches humanity has been able to discover how life developed through time.
+In addition to the fossil record, the genes of living organisms provide important information
+about the ming and nature of events in the history of life. For example, so-called molecular
+clocks measure the time elapsed since species diverged using the rate at which gene c
+diﬀerences appear. In this way, ages provided by molecular clocks represent the lengths of me
+(numbers of generations) that species have been reproductively isolated from each other. As an
+example, comparing human and ape DNA indicates that our last common ancestor lived ~7
+Mya.
+Humanity’s modern understanding of the nature of biological events results primarily from
+studying the structure and composition of biological materials. The structure of biological
+materials includes their shape and arrangement, which determines their function at all scales.
+The composition of biological materials includes the molecules, elements, and isotopes that
+comprise them and the relative abundances of characteris cs in populations and ecosystems.
+By understanding the natural processes that form and modify biological materials, scien sts can
+interpret the structure and composition of biological materials to understand the origins of
+those materials. Table 4.6 provides important examples of what humanity can learn from
+materials that record biological and climate events.
+Table 4.6. What Biological Materials Records
+
+4
+
+How Organisms Change through Time
+
+The properties of living and fossil organisms indicate that successive generations of a
+population changes when individuals with beneﬁcial a ributes survive to reproduce more
+commonly than their peers. Thus, diﬀeren al survival can cause successive generations of a
+population to change. These changes include variations in the way genes are used. For
+example, populations change when the duration or location of gene expression changes—
+without any change to the genes being expressed.
+In this way, signiﬁcant changes to bodies result from how genes are applied. Said another way,
+many diﬀerences between organisms do not require new genes. Instead, the changes result
+from diﬀerences in how the same genes are applied. For example, all organisms with bones
+produce their skeletal elements using the same (homologous) genetic toolkit. In these
+organisms, the diﬀerences in bone shape and size result from how bone-producing genes are
+used—not from new genes.
+Genetic mutations can also cause populations of organisms to change through time. These
+mutations result from natural processes such as radiation, gene sharing, and faulty replication.
+Although most mutations are detrimental and cause miscarriage or cancerous growth,
+mutations can also produce beneﬁcial a ributes. Mutations that are passed to successive
+generations cause populations to change through time.
+A prominent example of a deleterious human mutation is the single-gene c-le er dele on that
+broke the process that produces vitamin-C in primates. This damaging error was allowed to
+persist in early primate populations because, at the me, the abundant vitamin C provided by
+their fruity diets masked the genetic deﬁciency. By the time human ancestors le fruit-ﬁlled
+forests for emerging vitamin-C-deﬁcient grasslands, the genetic machinery that makes vitamin
+C was pervasively broken. In this same way, the eventually-deleterious mutations that lead to
+loss of sight and pigmentation in cave-dwelling organisms are masked. Outside the cave, these
+mutations are deleterious, but inside where there is no light sight and pigmentation do not
+improve survival. Thus, eventually-damaging mutations can creep into populations during
+periods when their eﬀects on reproduction are neutral.
+Some beneﬁcial mutations involve the duplication of en re genes or sets of genes. Mutations
+
+5 Some beneﬁcial mutations involve the duplication of en re genes or sets of genes. Mutations
+of this type have produced important plants like those from which we harvest wheat, potatoes,
+peanuts, and bananas. Duplications of this kind have also produced animals with repeated body
+segments—like the replicated thorax segments of millipedes and snakes.
+Interestingly, some mutations can be simultaneously beneﬁcial and detrimental. An example
+involves the single-gene c-le er subs tution that produces sickle cell anemia in humans. This
+mutation produces abnormally shaped red blood cells that have diminished capacity to carry
+oxygen and enhanced ability to resist malaria. These sickle-shaped cells are life-threating to
+individuals that only produce abnormal cells, but they are beneﬁcial to individuals that produce
+both normal and abnormal cells. Unsurprisingly, this mutation persists in human populations
+that have been constantly exposed to malaria.
+In short, the traits of populations change through time when the relative abundance of genes in
+populations shi . These shi s result from changes in how genes are used and from deleterious,
+neutral, and beneﬁcial mutations. Signiﬁcantly, without the ability to change across generations
+species would be unable to adapt to the constantly changing environments they inhabit, and
+they would eventually go ex nct. Thus, the abundance and diversity of present Earth life is a
+powerful witness to the reality of life’s ability to change through me, to evolve. Indeed, it is
+this very process—adaptation across generations—that has produced the unity and diversity of
+life.
+
+Learning from Ötzi
+
+Not only do observations of biological materials allow humanity to interpret broad-scale
+patterns in the history of life, they also allow us to learn a great deal about speciﬁc individual
+organisms. Ötzi the Iceman provides a fun example of the latter. Hikers found Ötzi in 1991 in
+glacial ice of the Italian Alps near the Austrian border—as illustrated in Figure 4.18.
+
+Figure 4.18. Top: Ötzi before he was removed from ice and the location of his discovery.
+Bo om: Some of the clothing and weapons found with him. (Author illustration, images from
+Wikimedia)
+
+6
+
+atter Ötzi’s discovery, oﬃcials carefully liberated his body and associated ar facts from the ice
+and moved him to a University in Italy where these materials were studied with great intensity
+by numerous scien sts from around the world. Table 4.7 lists what humanity has learned thus
+far about Ötzi (organized by observation type), and Figure 4.19 shows a reconstruction of this
+fascinating individual. Before proceeding, inves gate what what humanity has been able to
+learn about Ötzi from biological remains and ar facts.
+Table 4.7. What observations of Ötzi and associated ar facts have taught humanity.
+
+Figure 4.19. Reconstruction of Ötzi the Iceman. (Wikimedia)
+
+7
+
+As you can see, the a ributes of biological materials allow humanity to discover the nature of
+living and fossil organisms and to understand the development of life (illustrated in Figure 4.20).
+
+Figure 4.20. Illustration of the history of Earth life. (Wikimedia)
+As a last thought, recall that any true explanation of the development of Life must be consistent
+with observations of biological and Earth materials—all of which are important records of God’s
+creative works. If you ﬁnd that you react skep cally to scien ﬁc explanations of the history of
+life, we invite you to consider what leads you to mistrust the natural scripture upon which
+which these interpretations are founded.

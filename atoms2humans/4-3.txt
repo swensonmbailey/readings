@@ -1,0 +1,256 @@
+
+4.3 Here Today, Gone Tomorrow … But Still Here!
+How Bodies Con nuously Remake Themselves
+Dr. Dan Moore and Dr. Alan Holyoak, Geology and Biology Departments, BYU-Idaho
+
+Ignorance more frequently begets conﬁdence than does knowledge: it is those who know li le,
+and not those who know much, who so positively assert that this or that [mechanis c] problem
+will never be solved by science. —Charles Darwin
+
+Learning Objectives:
+● Understand and be able to iden fy each of the following: the stages or states of postnatal human
+development—infancy, childhood, adolescence, adulthood, and old age; the basic nature of each
+transition that separates these developmental stages; gene regulation, control genes, and gene c
+mutations.
+● Describe the role of gene regulation in the con nuous recreation of bodies, including in the
+ini ation and termination of the postnatal states of human development.
+● Describe how a cell knows when, where, and for how long to activate, enhance, repress, or
+deactivate par cular genes.
+● Explain how gene regulation can produce signiﬁcant diﬀerences between organisms like
+chimpanzees and humans that share much of their DNA.
+
+Our bodies are amazingly complex systems. Human adults consist of many trillions of cells—
+thousands of mes more cells than the number of humans on Earth. What’s more, these cells
+aren’t randomly arranged. Each is highly specialized and coordinates with its colleagues, near
+and far. Most people think about humans on an organismal level, but few view their body as the
+coordinated eﬀorts of trillions of individual organisms (cells). The view that bodies are colonies
+of cooperating organisms is a profoundly insigh ul way to think about bodies—in part because
+the key diﬀerence between single-celled and mul cellular organisms like you is the enhanced
+ability of your cells to persistently perform speciﬁc tasks. This specialization begins before
+you’re born and persists as your body con nuously recreates itself throughout your life.
+
+Prenatal Human Development
+Postnatal human development consists of the biological states known as infancy, childhood,
+adolescence, adulthood, and old age—which are outlined in Table 4.8. It also includes the
+transitions that separate these states. Postnatal development begins and ends with the
+transitions known as birth and death. The ideal ming for birth results from trade-oﬀs that
+maximize prenatal development and minimize death (from heads too large to pass through the
+birth canal). Interestingly, wonderful as modern Cesarean delivery is, it has allowed female hips
+in some human populations to evolve to smaller size—in a positive feedback that increases the
+
+2
+in some human populations to evolve to smaller size—in a positive feedback that increases the
+need for C-section deliveries.
+Table 4.8. States of postnatal human development
+
+atter birth, infants remain poorly developed and are en rely dependent upon others. For
+example, they can only see things that are about as far away as the face of someone holding
+them. Fascinatingly, have you ever no ced that, without any training, you place your face in this
+zone when you interact with infants—say, by trying to get them to smile?
+Relative to adults, babies have huge, weakly developed skulls. The propor onal sizes of infant
+body parts change as humans age, as illustrated in Figures 4.21. This kind of diﬀeren al growth
+demonstrates the plas city of bodies. When the so-called control genes that orchestrate body
+development misﬁre, anomalous growth occurs—producing individuals with atypical body sizes
+or propor ons (Figure 4.21) or broken body parts or processes.
+
+Figure 4.21. Le : Illustrations showing how development alters the relative sizes and shapes of
+body parts, including skulls. Right: Photo of Robert Wadlow standing with his 6- -tall (1.8 m)
+father. Robert was nearly 9 (2.7 m) tall, weighed almost 450 pounds (205 kg), and wore an 18-
+inch-long (0.5 m) shoe. Sadly, this gentle giant died at age 22. (Author illustration, images from
+Wikimedia)
+During childhood, body propor ons, abili es, and activities become signiﬁcantly more
+advanced and complex. Children learn to walk with conﬁdence, talk using complete sentences,
+climb, feed themselves, properly dispose of bodily waste, and sotion. Children also develop the
+ability to iden fy and respond to social cues and situations, develop their ﬁrst long-term
+memories, and begin their formal education. In addition, they improve overall body
+coordination and develop ﬁne motor skills. Childhood ends when puberty begins.
+
+3
+
+Puberty produces adolescent bodies capable of sexual reproduction. The physical, mental, and
+emotional changes produced during puberty result from a hormonal cascade (of estrogen,
+progesterone, and testosterone) ini ated by the release of a molecular signal (GnRH) from a
+small por on of the brain (the hypothalmus). Pubescent changes in females include widening
+the hips, enlarging the breasts, so ening the skin, growing pubic hair, and ini ating the
+menstrual cycle. Changes in males include maturation of the testes, production of sperm,
+growth of facial and pubic hair, deepening of the voice, and ini ation of bone and muscle
+growth.
+Adults have fully-mature bodies capable of successful reproduction. Even so, developmental
+maturation con nues into adulthood. For example, fully mature brains capable of peak
+coordination, emotional expression, reasoning, and action-consequence association typically
+emerge in the mid-20s. Before then, adolescents can be awkward, uncoordinated, and struggle
+to express emotion or an cipate the consequences of their actions.
+Early adulthood (mid-20s to 40s) is prime- time for childbearing and career development. It is
+also when adults are most likely to experience good health. Many people become less active in
+middle adulthood (~40s to 60s). This behavioral change slows metabolism and causes those
+that do not reduce calorie intake to gain weight. Weakening of vision (from hardening of the
+lenses) is also common in middle adulthood. Later (~50), women experience the end of
+reproductive ability (menopause). Then, as adults approach 60, skin begins to wrinkle and hair
+begins to lose pigmentation or fall out.
+Old age results from social and biological factors that cause the body and mind to weaken.
+Social causes include lifestyles that become increasingly sedentary and leisurely. Table 4.3.1
+lists important biological causes of aging, an area of ongoing research. Healthy lifestyles,
+medications, and medical treatments can reduce the accumulation of age-related physiological
+problems. Nevertheless, even healthy individuals with good access to medical care eventually
+accumulate age-related problems. When accumulating problems lead to loss of important body
+functions, death ensues.
+Table 4.9. Prominent causes of aging.
+
+4
+
+Age at death among seniors varies greatly and is believed to result from inheritance,
+environmental stresses, and lifestyle. While we cannot currently change our genetic code, we
+can exercise, eat well, and minimize exposure to environmental risks. Together with Star Trek
+Vulcans, we invite you to: “Live long and prosper!”
+
+How Bodies Con nuously Recreate Themselves
+
+As humans age, our bodies are con nuously recreated, as depicted in Figure 4.22. In fact,
+nearly every por on of adult bodies are rebuilt every decade, as shown by Table 4.10. This
+leads to an apparent paradox: it remains easy to recognize an adult friend following a decade or
+more of separation, atter essen ally all the visible matter that comprise their body have been
+replaced. The paradox resolves when we realize that it is the body pattern that we recognize as
+‘them’, not the matter that comprises that pattern.
+
+Figure 4.22. Conceptual image illustrating the transitory nature of body parts and bodies.
+(Wikimedia)
+Table 4.10. Lifespan of body parts
+
+This remarkably consistent appearance of bodies masks their tremendous plas city, which
+results from essen al life processes like those described in Table 4.11. These processes ensure
+that, barring uncorrected errors, a body’s recognizable pattern is perpetually recreated. The
+building and rebuilding of a body pattern is regulated by a special class of genes called control
+genes.
+Although most people understand that genes are instructions for building bodies, few people
+understand the role of these special genes in governing and coordinating biological activi es
+inside cells. Control genes accomplish this by causing other genes to turn on, ramp up, ramp
+down, or turn oﬀ. Understanding the nature and functioning of control genes is essen al to
+explaining how bodies form and persist. What’s more, abundant evidence suggest that bodies
+
+5 explaining how bodies form and persist. What’s more, abundant evidence suggest that bodies
+have formed this way throughout the history of Life, since the earliest living things emerged
+from lawfully self-assembling inorganic systems by 3.4 Bya.
+Table 4.11. Essen al life processes
+
+Gene Regulation
+
+Humanity ﬁrst discovered control genes several decades ago. This intensely important area of
+active research has and will con nue to beneﬁt the human family. For example, understanding
+gene regulation will allow humanity to regrow malformed, impaired, or damaged body parts.
+This reality seems less remarkable when we recall that every cell in a body contains all the
+instructions to make every part of that body. From this perspective, learning to repair or regrow
+body parts involves learning the sequences of genetic instructions that build those parts—in
+other words, learning where, when, for how long, and in what order to activate genes.
+Gene regulation consists of all the genes, signals, processes, and feedbacks that orchestrate the
+building and rebuilding of bodies. This regulatory system uses control genes and environmental
+cues to activate, enhance, repress, and deactivate genes. To do their jobs correctly, all
+specialized cells must activate par cular genes in speciﬁc sequences and deactivate other
+genes. For example, imagine how quickly death would ensue if specialized cells like those in the
+lung began performing another role, like producing bone.
+The basic aspects of gene regulation are illustrated in Figure 4.23. The protein ‘keys’ in the
+illustration modulate gene expression. In nature, many such keys act simultaneously to regulate
+genes. O en, the concentration of these protein signals acts to enhance or repress gene
+activation. In this way, specialized cells, ssues, organs, and bodies are ini ally built,
+con nuously rebuilt, and transformed during developmental transitions—in a complexly
+branching cascade of feedback-infused gene activation and deactivation. Indeed, gene
+regulation is right now remaking your body and keeping you alive. (We invite you to take a few
+moments to digest the important, italicized sentence above.)
+As you can see, gene regulation is a profoundly important process. It guides the single cell from
+which each body forms through an incredibly nuanced and complex developmental process
+during gestation and then shepherds the con nuous recreation of each body throughout life.
+As we’ll see, it also plays an essen al role in the adaptation of populations to their
+environments and, as such, in the development of life on Earth—from the very ﬁrst single-
+
+6 environments and, as such, in the development of life on Earth—from the very ﬁrst single-
+celled organisms to those we observe today, including humans.
+
+Figure 4.23. A highly simpliﬁed illustration showing how control-gene-produced protein keys
+guide cells to express speciﬁc genetic instructions at par cular locations and mes, in a
+complexly branching cascade of genetic events. In this way, control genes regulate the self-
+assembly and con nuous reassembly of bodies. (Author illustration, images from Wikimedia)
+
+Why are Organisms Diﬀerent?
+
+Clearly, changing where, when, and how long speciﬁc genes are expressed changes the forms
+and functions of body parts and bodies. Said another way, when expressed diﬀerently, iden cal
+genes can produce body parts that diﬀer in size, shape, and function. Thus, gene regulation is
+an important source of biological diversity. Earlier, we developed ativery basic understanding of
+how genetic changes (mutations) and interactions between populations and their environments
+(selective inheritance) can cause populations to change through time (to adapt, evolve). Now,
+we can add gene regulation to this list.
+To illustrate how the same genes can produce the bodies of diﬀerent species, we compare the
+body forms and genetic compositions of bonobos, chimpanzees, and humans. As you can see in
+Figure 4.24, chimp and bonobo bodies are nearly iden cal in both form and genetic makeup. In
+contrast, humans have quite diﬀerent bodies despite their tremendous genetic similarity (~99%
+iden cal) to chimps and bonobos.
+This apparently incongruous relationship between body form and genetic composition is
+resolved by this important truth: both genes and gene regulation cause diﬀerences in the
+characteris cs of bodies. Thus, bonobo and chimp bodies are essen ally iden cal because they
+have almost the exact same genes, and they use those genes in essen ally iden cal ways. In
+contrast, human bodies are diﬀerent because, despite having essen ally the same genes, those
+genes are used in diﬀerent ways. For example, human genes build larger heads with ﬂatter
+faces, more complex brains, skin with ﬁner hair and more sweat glands, and skeletons that are
+exquisitely-well-adapted to walking, running, and throwing.
+
+7
+
+As a result, most of the diﬀerences between human and chimp/bonobo bodies result from
+diﬀerences in where, when, and for how long iden cal genes are activated—not from using
+diﬀerent genes. Notably, the changes in gene application that enable some of the most
+remarkable human a ributes simultaneously diminish our abilities in other areas. For example,
+compared to bonobos and chimps, humans are weak and truly awful climbers.
+
+Figure 4.24. Comparisons of body form (top) and genetic composition (bo om) of bonobos,
+chimpanzees, and humans. Genes and gene regulation are nearly iden cal in chimpanzees and
+bonobos. In contrast, although human genes are ~98.8% iden cal to bonobos and chimps,
+human gene regulation is quite diﬀerent. The diﬀering a ributes of human bodies result from
+these small genetic diﬀerences and signiﬁcant regulatory diﬀerences. (Author produced
+illustration, bonobo/chimp image from National Geographic)
+This incredibly important idea is a main reason why life is so diﬀerently the same. Take a
+moment to let that sink in: many of the a ributes that make bodies diﬀerent result from
+variations in how iden cal/homologous genes are used. Knowing this profound reality will allow
+you to see through the surface diﬀerences that distinguish species to the shared genes and
+genetic processes that unite them. In addition, this truth explains why humans share so many
+(homologous) genes with organisms with such diﬀerent body forms. For example, our genes are
+~85% iden cal to mice, ~60% iden cal to ﬂies, and ~20% iden cal to yeast.
+Can you now see how variations in gene regulation produce most homologous features,
+including the mammalian forelimbs in Figure 4.4? The vast variation in mammal limbs results
+
+8 including the mammalian forelimbs in Figure 4.4? The vast variation in mammal limbs results
+from diﬀerences in where, when, and how long the same (homologous) limb-building genes are
+expressed in each organism. Of course, this remarkable reality extends beyond mammals and
+limbs. Consider the ﬁsh body illustrated in Figure 4.25. It contains the same parts as your body
+—brain, limbs, lungs, stomach, liver, eyes, gonads, and sotion. What’s more, these body parts all
+built using the same (homologous) genes in humans and ﬁshes. This explains why the bodies of
+lobe-ﬁn ﬁsh and human look so diﬀerent but share more than 70% of the same (homologous)
+genes.
+
+Figure 4.25. A lobe-ﬁn ﬁsh. (Wikimedia)
+The following analogy may help you more deeply understand how gene regulation produces
+rather diﬀerent-looking body parts using the same (homologous) genes. An orchestra can play
+many diﬀerent symphonies using the same instruments, as the conductor guides diﬀerent sets
+of instruments to play diﬀerent notes at-and-for diﬀerent mes. In the same way, control genes
+can guide the same genes to build many diﬀerent-looking bodies by expressing genes in
+diﬀerent locations at-and-for diﬀerent mes. As a result, diﬀerent bodies are built using many
+of the same genes.
+Incidentally, one of the barriers to understanding evolution for many people is the notion that
+most diﬀerences between organisms require new genes. This notion is false. Instead, most
+diﬀerences in body form and function result from small changes in the expression of the same
+(homologous) genes. (We invite you to pause and ponder this important, italicized sentence.)
+
+Figure 4.26. Illustration of a developing human. (Wikimedia)
+To close, we return to our original topic, human postnatal development (Figure 4.26). So, what
+controls the states and transitions that comprise the development of humans between birth
+and death? You guessed it: gene regulation. Expressed using the orchestra analogy, a human
+
+9
+and death? You guessed it: gene regulation. Expressed using the orchestra analogy, a human
+body is a beau ful symphony conducted by control genes and performed by genes. We invite
+you to take a moment occasionally to enjoy and express gra tude for the music.
+Earlier, we discovered that the order found in stars, galaxies, the Universe, and Earth results
+from natural processes interacting in complex ways. Can you begin to see that the order found
+in living things forms in the same way? Are you starting to see more clearly the stupendous
+explanatory power of descendancy and adaptation in explaining the a ributes of living things?
+Finally, can you see why the scriptural analogy of forming organisms by molding clay is such a
+symbolically accurate way to express how lawful molding of bodies through time produced all
+living things, ancient and modern?
