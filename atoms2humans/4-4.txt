@@ -1,0 +1,264 @@
+4.4 Self-Conducting Orchestras
+How Bodies Self-Assemble
+Dr. Dan Moore and Dr. Alan Holyoak, Geology and Biology Departments, BYU-Idaho
+
+Imagine a house coming together spontaneously from all the information contained in the bricks:
+that is how animal bodies are made. —Neil Shubin
+
+Learning Objectives:
+● Understand and be able to identify each of the following: stages or states of prenatal human
+development—pre-embryo, embryo, and fetus; the basic nature of each transi on that separates
+these developmental stages; body axes, body segments, and birth.
+● Brieﬂy describe how each cell in a developing organism or body part knows what to do in each
+moment—which genes to turn on or accentuate and which to inhibit or turn oﬀ. Speciﬁcally,
+understand how body geography forms and how cells know where, when, and how to develop a
+body part such as a limb or eye.
+● Understand how even small changes to the application of control genes (gene regulation) can cause
+signiﬁcant changes in the characteris cs of bodies. Also, describe how conﬁdent humanity should in
+our understanding of the basic processes by which a single cell becomes a complex body.
+
+If you found postnatal human development interesting, prenatal development will blow your
+mind. Before birth, a single cell develops into a complexly organized infant made of billions of
+specialized cells. If you’re one that struggles to understand how humans self-assembled from
+single cells over a period of ~3.5 billion years, consider that adult human bodies self-assemble
+in only ~25 years, and prenatal development occurs in just 9 months. From our perspective, it
+seems strange to easily accept that human adult bodies can form lawfully from a single cell in
+~25 years and then struggle to accept that human bodies can form lawfully from single cells in
+~3.5 By. More on this later.
+Scientific understanding of the development of individual organisms and of populations has
+grown rapidly in the last half-century. This acceleration has beentifacilitated by important
+discoveries that include breakthroughs in human understanding of genetics, embryology, and
+cellular communication.
+
+Bodies Consist of Communicating Cells
+
+All living things communicate. For example, infec ous bacteria in your body produce toxins that
+make you sick when the signals from their colleagues reach a par cular threshold. Although
+single-celled organisms communicate in rela vely simple ways, cellular specialization can
+emerge in bacterial colonies. In these colonies, specialized cells focus on speciﬁc tasks and rely
+
+2
+emerge in bacterial colonies. In these colonies, specialized cells focus on speciﬁc tasks and rely
+on colleagues for other functions. In this way, bacterial colonies can be thought of as simple
+transient bodies.
+The key diﬀerence between simple and complex bodies is the degree and persistence of cell
+specialization. For example, most cells in the adult bodies of humans and trees are so
+specialized that they die when separated from their colleagues. Interestingly, animals like
+sponges bridge the gap between simple and complex. Sponges clearly have bodies, but
+separated cells can also exist solo. What’s more, isolated cells can reassemble new bodies, as
+illustrated in Figure 4.27.
+
+Figure 4.27. Illustration showing how simple animals can exist as bodies or as single cells.
+Specialized cells in sponge bodies perform speciﬁc tasks like moving water, capturing food, and
+reproducing. When disassembled, these cells can exist alone, but they can also form new
+bodies. (Author illustration, images from Wikimedia)
+Importantly, the degree and persistence of cell specialization correlates directly with the
+complexity of cellular communication. Cells in simple organisms interact in uncomplicated ways,
+but the highly specialized cells that form complex bodies display intricately dependent
+communication and coordination. Even so, all cells communicate using signal molecules
+produced by genes.
+To coordinate behavior, cells must communicate location, ming, and instructions. Individual
+and overlapping concentration gradients of signal molecules typically identify the location of
+each cell, and changing concentrations of signal molecules generally establishes ming. What’s
+more, the very molecules that communicate location and ming also ac vate and deac vate
+genes—in the cascading progression of instructions that build and rebuild complex bodies like
+yours.
+Thus, signal molecules provide all the information each cell needs. They communication to each
+cell where it is, what to do, and when to do it. In these ways, cellular communication generates
+the coordination by which simple and complex bodies self-assemble.
+
+Prenatal Human Development
+
+Successfully producing a healthy infant requires near-perfect coordination of numerous
+intricate ac vi es. The orchestration of this complex symphony is based on the simple process
+that you already understand—the straigh orward ac vation and repression of genes. In this
+
+3
+that you already understand—the straigh orward ac vation and repression of genes. In this
+way, control genes guide the development of humans as they pass through each stage and
+transi on of prenatal development—pre-embryo, embryo, and fetus (Figure 4.27).
+
+Figure 4.28. Illustration showing the nature and ming of the major stages of prenatal human
+development. (Author illustration, images from Wikimedia)
+Human development begins at fertilization, when sperm and egg unite. The journey made by
+sperm is epic. To illustrate, let’s imagine the journey as an Olympic swim event. Before the
+gunshot (ejaculation), a billion swimmers line up at the downstream end of a 50-mile-long river.
+When the trigger is pulled, the swimmers dive in and race upstream towards the egg.
+Immediately, a third of the par cipants drown, because they can’t swim. What’s more, most
+remaining swimmers take the wrong path, stop when they confuse river-side for river-end, or
+die when they run out of energy.
+Amazingly, only a few hundred swimmers make it to the egg at the end of the 50-mile river, and
+they make that journey in just 30 minutes! However, arriving at the egg is not the end of the
+race, for upon arrival the swimmers discover that two locked cages protect the prize.
+Undaunted, the winner-sperm kicks the ﬁrst cage open and uses a chemical key (enzyme) to
+enter the second. Immediately a er this sperm enters, the egg builds a barrier that remaining
+sperm cannot penetrate. It’s a pre y incredible race, right?! So, the next time you’re feeling
+down, remember how special you are. A part of what made your body won a billion-swimmer
+race. Go you!
+From a mother’s perspective, the pregnancy that follows fertilization divides into three
+trimesters that each last ~3 months. The ﬁrst trimester consists mostly of the pre-embryo and
+embryo stages, and the fetus stage comprises the second and third trimesters.
+
+4
+fertilization ini ates the pre-embryo stage. In this stage cells divide, the body axes that deﬁne
+body geography emerge, and cells begin ﬁlling specialized functions (diﬀeren ating). Ini al
+divisions produce a solid ball of iden cal cells (morula), each capable of performing all cell
+functions. At this time, chemical cues allow surface cells to identify their posi on. These cues
+establish the ﬁrst bit of body geography (inside-outside) and cause the solid ball to form a cell
+mass inside a ﬂuid-ﬁlled ball. The ball will become the amnio c sac and related structures, and
+the internal cell mass will become a human body.
+Although simple, the transi on from solid to ﬂuid-ﬁlled ball illustrates how molecules ‘tell’ cells
+where they are located, what to do, and when to do it. As timen oned, the same molecular
+signals that indicate location and ming can also ac vate and deac vate the genetic
+instructions that carry out the next developmental step. What’s more, each step produces
+chemical signals that ini ate the next step—in the interactive cascade of gene expression that
+builds a body. As you can see, at its core the formation of complex bodies is a beau fully
+simple, eﬃcient process.
+Around week 2, the inner cell mass undergoes the developmental transi on (gastrulation) that
+ini ates the embryo stage. During this important transi on, the cell mass becomes three layers
+of ssue—an innermost layer (endoderm) that become the diges ve tract and associated
+organs; an outermost layer (ectoderm) that produce the skin, nervous system, and elements of
+the skeleton; and a middle layer (mesoderm) that generates pre y much everything else. If
+uncorrected errors occur during this transi on, the embryo spontaneously miscarries. Up to
+20% of pregnancies end in this way, o en without the mother even aware she was pregnant.
+During the embryo stage, the placenta grows, organs form in the ssue layers, and the growing
+embryo begins receiving nourishment through the placenta (Figure 4.28). This nourishment
+involves oxygen, dissolved nutrients, and other molecules moving from mother to embryo
+across a thin placental timembrane. In this way, alcohol or other harmful substances in the
+mothers body can move into the embryo and disrupt normal development. Of course,
+molecules also cross the timembrane from embryo to mother. In fact, ‘morning sickness’ par ally
+results from molecules that move from child to mother.
+In embryos, ac vated cascades of control genes ﬁnish establishing the main body axes—head
+to tail (anterior-posterior), back to belly (dorsal-ventral), and center to edge (medial-lateral).
+These signals also produce the body’s main segments (head, thorax, and abdomen) and
+subsegments. These subsegments develop where a segment-promoting signal released near
+the tail overlaps with and exceeds a segment-inhibiting signal released near the head.
+Elongation of the developing body causes this area of overlap to move tail-ward, forming new
+subsegments along the way. In addi on to forming subsegments, the body begins forming
+internal organs during this stage—beginning with the heart, diges ve tract, spine, and brain.
+In this way, rela ve concentrations of signal molecules indicate to cells in developing bodies
+exactly where they are located, what they must do, and when to do it. Note that there is no
+agent or central cell that directs body construction. Instead, independent cells responding to
+
+5
+agent or central cell that directs body construction. Instead, independent cells responding to
+chemical signals produce body parts by lawful self-assembly—in a cascading instruction tree of
+chemical signals ac vated and deac vated by control genes.
+Profoundly, the body parts of all organisms form in this way, producing much of the ‘unity of
+life’. Moreover, variations in the location and ming of regulatory signals account for variations
+in the size and shape of homologous body parts, in populations and across species. For
+example, the same processes that build diﬀerent sizes of human legs and necks build very short
+frog legs and necks and very long giraﬀe legs and necks.
+Around week 9, once all organs have begun developing, the embryo becomes a fetus. During
+the fetus stage, functioning organs and organ systems prepare for life outside the uterus,
+growth accelerates, and the fetus begins to look like a miniature human (Figure 4.28). Ideally,
+birth occurs when the fetus is fully developed.
+Truly, the processes that produce an infant from the fusion of egg and sperm represent a
+beau fully ﬁnely tuned biochemical symphony orchestrated by control genes. The signal
+molecule oxytocin provides a heart-warming example of the intricately interrelated nature of
+these developmental systems. Beau fully, oxytocin not only moves the fetus from a nurturing
+uterus into a cold hard world but simultaneously provides the helpless infant with a loving
+bonded caretaker. So cool!
+
+Do Control Genes Really Regulate the Formation of Bodies?
+
+Thus far, we’ve asserted that bodies form and continuously reform as control genes trigger the
+expression of other genes in a cascading symphony of cellular specialization and focused
+implementation. Like all scientific ideas, this explanation makes predictions that allow humanity
+to test its validity. For example, if this explanation is true, control genes should produce
+chemical signals that establish the geography of bodies and guide the development of body
+parts. Moreover, if true, humanity should be able to use this knowledge to manipulate the
+formation of bodies and body parts.
+Fruit ﬂies provide useful ways to test many biological explanations because they are proliﬁc
+reproducers and live short lives. Figure 4.29 shows the normal development of fruit ﬂies and
+illustrates the relationship between control genes and the development of body geography,
+segments, and parts.
+Interestingly, control genes in mother ﬂies establish body axes for oﬀspring by expressing signal
+proteins at each end of the eggs later fertilized by father ﬂies—as shown by the glowing
+molecules in the upper-right image of Figure 4.29. As eggs divide, the front-to-back and center-
+to-edge variations in the concentrations of the head-signaling (red) and tail-signaling (green)
+proteins indicate the location of each cell and set the stage for establishing the ﬁner-scale
+directionality of each body segment. As timen oned, developing human bodies use similar
+chemical signals to establish body geography.
+
+6
+Of course, the very molecules that establish body axes and segments also indicate what cells
+should do at each moment. For example, signal molecules provide the locations, ming, and
+instructions for building each component of each body segment—step by beau ful step, with
+each ini ated event providing the chemical cues for successive event cascades.
+
+Figure 4.29. Le : Normal development of fruit ﬂies (Drosophila timelanogaster). Upper-right:
+Illustrations showing the development of body geography and segments (le ) and photos
+showing the associated chemical signals (glowing proteins, right). Bo om: Illustrations
+correlating the control genes that determine body segments in adult and embryo. (Author
+illustration, images from Wikimedia)
+This ‘branching’ nature of body development makes it easy to make huge changes in a
+developing body by altering instruction cascades at rela vely high levels. For example, it is
+straigh orward to build eyes at essen ally any location on a body by inserting a single signal—
+the ‘build eye here’ signal—at that location during development. Figure 4.30 shows this and
+other examples of humanity’s ability to understand and control body development. Take a few
+moments to study this important ﬁgure.
+
+7
+
+Figure 4.30. Photos of adult ﬂies in which researchers have manipulated body development.
+Le -most Photo: Eyes placed on antennae, legs, and back by inserting the ‘build eye here’
+signal at those locations. Second Photo: Fly with normal eyes facing a ﬂy with no eyes. Eye
+formation turned oﬀ by removing the ‘build eye here’ signal. Third Photo: Fly with legs where
+antennae should be. This body formed a er replacing the ‘build antenna here’ signal with the
+‘build leg here’ signal. Last Photo: Fly with two thorax segments. This body formed a er
+inserting the ‘build thorax here’ signal into adjacent body segments. (Author illustration, images
+from Wikimedia)
+Limb development in chickens provides another interesting example of how the protein signals
+produced by control genes build body parts and bodies. Following expression of the ‘build limb
+here’ signal, control genes produce signals that establish limb geography and, as the instruction
+cascade proceeds, construct each part of the developing limb. Figure 4.31 illustrates what
+happens when the ‘build the back side of the limb here’ signal (shown in red) is moved to the
+front side of a developing limb. Unsurprisingly, the resulting limb forms a mirror image, with
+two ‘backsides’. Signiﬁcantly, this same kit of control genes build the limbs of all organisms with
+bony limbs, including yours. Of course, this is the genetic reason why these limbs are
+homologous (Figure 4.4).
+
+Figure 4.31. Illustration showing normal (top) and manipulated (bo om) development of
+chickentiforelimbs (wings). In the manipulated limb, the back side was built twice, by duplicating
+the signal (red) that builds that por on of the limb. (Author illustration, images from
+Wikimedia)
+To be clear, these changes in body form resulted from altering individual signals—making it
+
+8 To be clear, these changes in body form resulted from altering individual signals—making it
+clear that rela vely simple variations in the application of control genes can produce
+spectacular changes in body form, without the need for new genes. This incredible truth
+explains much of the history and diversity of life. It also explains why humans share such high
+percentages of genes with all living things. In addi on, it explains why the same (homologous)
+control genes turn on the corresponding segments and body parts of organisms—as illustrated
+in Figure 4.32.
+
+Figure 4.32. Illustration showing how the same (homologous) control genes establish
+corresponding body segments in simple and complex animals. This pa ern extends across all
+organisms. For example, your body shares hundreds of control genes with yeast, a single-celled
+eukaryote. (Author illustration, images from Wikimedia)
+Can you now see more clearly how seemingly huge changes in body shape can result from
+rela vely simple modiﬁcations of high-level control genes? For example, can you see how
+millipedes could develop from an ancestor with fewer body segments, how early snakes
+developed from lizard ancestors, how dolphins resulted from a land-dwelling mammal, and so
+on? Unsurprisingly, these and so many similar reali es are established in ‘the mouths of
+mul ple natural witnesses’—chief among them genetics, embryology, and the fossil record.
+Most people are astounded when ﬁrst exposed to the lawful nature of body development. In
+addi on, it can be surprising to consider how small changes in gene regulation can signiﬁcantly
+alter the size, shape, and function of body parts and bodies. Moreover, it is exciting to
+contemplate the numerous ways this knowledge will bless humanity—for example, by allowing
+us to repair or rebuild malformed or damaged body parts.
+At the beginning of this chapter we introduced the symmetrical character of human body
+development illustrated in Figure 4.33. The upper half of the diagram shows the development
+of an adult human body from a single cell in ~25 years. Essen ally everyone acknowledges that
+this process is lawful. The remainder of this book explores the lawful nature of the bo om half
+of this diagram—ﬁrst by exploring the natural processes that produce new species from existing
+species, and then by exploring the stages and transi ons that produced modern humans from
+Earth’s ﬁrst cells.
+
+9
+
+Figure 4.33. Illustration showing the lawful development of human bodies—via gene regulation
+over ~25 y and via lawful body molding over ~3.5 By. (Author illustration, images from
+Wikimedia)
+

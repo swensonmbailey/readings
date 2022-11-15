@@ -1,0 +1,282 @@
+4.5 Nurturing Nature
+Evolution as Observation and Theory
+Dr. Dan Moore and Dr. Alan Holyoak, Geology and Biology Departments, BYU-Idaho
+
+Nothing in biology makes sense except in the light of evolution. —Theodosius Dobzhansky
+
+Learning Objectives:
+● Understand and be able to identify each of the following: genes, biological evolution, population,
+species, microevolution, macroevolution, extinction, ar ﬁcial and natural selection, population
+isolation, speciation, and the theory of evolution.
+● Explain evolution as observation and theory, using the terms listed above.
+● Explain how microevolution can produce macroevolution, using the terms listed above.
+
+Before humanity learned to use ‘things as they are’ as the arbiter of truth about the physical
+world, the western world believed in ‘special creation’. This no on asserts that in the recent
+past God directly created every type of organism as separate, perfect, unchanging, and
+unchangeable en es. Although many aspects of this no on seemed to match wri en
+scripture, the idea directly contradicts natural scripture. Instead of the a ributes predicted by
+special creation, living en es are related, imperfect, and ever-changing. In the late 1700s,
+Georges Cuvier made the ﬁrst of numerous observations that falsify special creation by
+demonstrating the reality of extinction, the termination of en re groups of organisms.
+Unfortunately, more than a century passed before humanity discovered an explanation for the
+nature and development of living things capable of explaining life ‘as it is’. This revolution
+resulted from a fusion of key discoveries. These included Charles Darwin’s ~1860 hypothesis of
+evolution by natural selection, the ~1900 rediscovery of Gregor timendel’s work on inheritance,
+the early 1950s discovery of DNA as the molecular basis for inheritance, the establishment of
+the principles of ecology by the 1970s, and the ~1980s iden ﬁcation of the timechanisms by
+which gene regulation builds and rebuilds bodies.
+With the fusion of Darwin and timendel’s hypotheses in the early 1900s, humanity began in
+earnest to explore whether evolution could explain the a ributes of living things. Since that
+me, a network of discoveries has provided abundant and powerful tests of biological
+evolution. What’s more, the vigorous opposi on of religious fundamentalists has intensiﬁed
+scru ny of the scientific theory of evolution. As a result, the theory of evolution has been
+exposed to more strenuous and intensive testing than nearly any other scientific theory.
+Signiﬁcantly, the theory of evolution has withstood and been strengthened by this testing.
+Today, those who consider that truth is ‘knowledge of things as they were, are, and will be’
+
+2 Today, those who consider that truth is ‘knowledge of things as they were, are, and will be’
+acknowledge that the theory of evolution stands alone as humanity’s most successful tool for
+explaining the nature and development of life. Sadly, there is much confusion regarding the ‘e’
+word (evolution). For example, rela vely few people can accurately deﬁne biological evolution.
+
+What Is Evolution?
+
+Biological evolution, which we’ll simply call evolution, refers to changes in the rela ve
+abundance of characteris cs in a population or species from generation to generation. As you
+know, these changing characteris cs are coded for by genes (alleles), the basic units of heredity.
+So, evolution results when the propor on of genes (alleles) changes across generations. For our
+purposes, a population is a group of interbreeding organisms that live in the same place at the
+same time, and a species is a population that produces fer le oﬀspring. Even so, there is no
+deﬁni on of species that applies well in every situation, in part because the diﬀerences
+between ‘species’ is o en more gradational than discrete.
+Thus, evolution occurs when successive generations of interbreeding organisms change in any
+way—as when coloration or size changes in descendant populations. Large-scale evolutionary
+changes o en occur when a population splits and the isolated groups change suﬃciently that
+inter-group breeding becomes impossible. This forms two species from one. In these ways,
+evolution occurs both within and between species.
+Microevolution refers to evolution within a species, and macroevolution describes evolution
+between species. Macroevolution involves changes in the rela ve propor ons of species over
+rela vely long periods and includes the formation and extinction of species. Microevolution is
+observational, and macroevolution is a scientific explanation that is consistent with numerous
+observations. The theory of evolution encompasses both microevolution and macroevolution.
+Thus, the theory of evolution is the extensively tested scientific explanation that describes how
+the hereditable characteris cs of populations change through time, including how new species
+arise and existing species become extinct. The theory of evolution explains that the unity of life
+results from descendancy and the diversity of life results from adaptation. It further explains
+that accrued microevolutionary changes generate the adaptations that produce
+macroevolutionary change—as in the formation of new species.
+
+Microevolution
+
+Microevolution involves rela vely small, generation-to-generation shi s in characteris cs
+within a species, usually over short periods. Selection is the process by which traits that
+enhance survival and reproduction become more common in successive generations of a
+population. Thus, microevolution occurs when natural or ar ﬁcial factors cause selection. It also
+results from genetic innovation or dri , which we’ll explore later.
+Ar ﬁcial selection occurs when humans breed organisms like cows and corn for speciﬁc traits,
+like larger size. Similarly, natural selection occurs when environmental factors like climate
+
+3
+like larger size. Similarly, natural selection occurs when environmental factors like climate
+change select for or against speciﬁc traits. No matter its source, selection acts on variability in
+existing traits, does not require genetic innovation, and is an important cause of evolution.
+Examples of ar ﬁcial selection abound. Figure 4.34 shows the microevolutionary eﬀects of
+human breeding on maize and wolves. Humans began domes cating the grass plant teosinte by
+~9 kya in highlands southwest of timexico City. A teosinte ‘ear’ is about as long as your ﬁnger and
+has less than a dozen diﬃcult-to-digest kernels. In contrast, modern corn/maize has a 12-inch
+ear with hundreds of easily digestable kernels. Like maize, human selection of wolf a ributes
+has produced tremendous variabity. Modern dogs are so diverse that they stretch the biological
+species concept described above. For example, natural mating between a 3-foot-tall (1 m) Great
+Dane and a 6-inch-tall (15 cm) Chihuauhua is almost impossible. Wolf domes cation began in
+Siberia no later than ~15 kya.
+
+Figure 4.34. Examples of microevolution by ar ﬁcial selection in maize and wolf. As you can
+see, humans selected variants of corn that produced more food, and ar ﬁcial selections have
+produced tremendous variability in modern dogs. (Author illustration, images from Wikimedia)
+All populations display examples of microevolutionary change resulting from natural selection,
+as illustrated in Figure 4.35. A simple example involves the change in beak size in a population
+of seed-eating birds (Medium Ground Finches on the island of Daphne Major in the Galapagos
+Islands) before and a er the drought of 1976-1978. During the drought, researchers observed
+that plants with larger seeds became more abundant than those with smaller seeds (Figure
+4.35). As the availability of smaller seeds dropped, smaller-beaked birds in the population
+struggled to survive and reproduce. As a result, the drought caused beak size in the population
+to increase. Can you see how natural selection produces microevolution?
+Like ﬁnch beak size during a drought, the propor on of light- and dark-colored Pepper Moths in
+the Bri sh Isles changed when pollution altered individual ability to hide from natural
+predators. Before the industrial revolution of the late 1700s, light-colored moths comprised
+~99% of the local moth population because birds easily spo ed and ate dark-colored variants.
+As industrial ac vi es covered trees in soot, dark-colored moths were favored. By 1959, dark-
+colored moths comprised ~90% of the population. Then, a er environmental reforms in the
+1970s allowed trees to once again achieve their natural color, light-colored individuals once
+again rose to dominate the population. Thus, changing environmental condi ons selected body
+color in the moths and pushed the population ﬁrst one way and then back.
+
+4
+
+Figure 4.35. Examples of microevolution resulting from natural selection in Galapagos Finches,
+Bri sh Pepper Moths, and American Lampsilis mussels. (Author illustration; ﬁnch plot from
+Charles Mallory, U. of Miami; moth images from IUPUI Biology; and mussel image from
+USFWS)
+As a third example, microevolution in the freshwater Limpsilis mussel has molded the
+peripheral ssue into a ‘ﬁsh lure’. Note that what appears in Figure 4.35 to be a small ﬁsh, a
+favorite prey of bass, is a disguised extension of mussel ﬂesh that enhances mussel
+reproduction. If these mussels release their young directly into the rivers they inhabit, the
+larvae are washed out to sea, and the population would eventually die out. Instead, numerous
+generations of mussels have selected for individuals with ﬂeshy extensions that mimic bass
+food. Then, when a bass strikes, the mussel blasts a pulse of larvae directly into its mouth—
+where the larvae clamp onto whatever bit of bass they ﬁrst touch. Then, once developing
+mussels reach suﬃcient size, they release from the bass, ﬂoat to the river bo om, and begin
+living the ﬁlter-feeding lifestyle of adult mussels.
+As you can see, many examples of microevolution are observed scientific facts, and other
+examples involve scientific interpretation. Signiﬁcantly, microevolution produces the ‘lawful
+body molding’ that ensures that populations remain ﬁnely-tuned to their environments.
+Without microevolution, constantly changing environments species would go extinct. What’s
+more, microevolutionary adaptations produced many of the larger-scale macroevolutionary
+changes that characterize the history of Earth life and generated the diversity of life observed
+today. So beau ful, so cool, and so well-described by the scriptural analogy of forming
+organisms by molding clay!
+
+Macroevolution
+
+In contrast to microevolution, macroevolution refers to larger-scale changes between species
+over longer periods. Macroevolution occurs when the rela ve propor on of interacting species
+changes. These changes include rela vely small variations, such as when decreasing numbers of
+wolves increase deer abundance. They also include large changes to the composi on of an
+ecosystem, such as the rise and demise of species. Speciation is the origin of a new population
+of organisms with characteris cs that are persistently dis nct from other populations.
+Microevolution over long periods of time can produce new species.
+Macroevolution is more challenging to directly observe than microevolution because it typically
+
+5 Macroevolution is more challenging to directly observe than microevolution because it typically
+occurs over periods that extend far beyond human lifespans. As a result, macroevolutionary
+explanations involve more interpre on. Even so, some speciation events can be directly
+observed.
+For example, plants can form new species from one generation to the next—by duplicating
+chromosomes during sex cell formation (polyploidy) or by combining genomes from dis nct
+species (hybridization). In the laboratory, researchers have formed new species like the
+‘radicole’ (raddish + cabbage) in this way. What’s more, genetic studies indicate that ~80% of
+modern plant species formed in these ways—including many food plants like oats, co on,
+potatoes, wheat, and bananas. Humanity can also directly observe speciation in single-celled
+organisms like bacteria and short-lived animals like fruit ﬂies.
+In addi on to directly observing speciation, humanity has used an overwhelming body of
+empirical observations to test the validity of macroevolutionary interpretations like the
+emergence of new species from an existing species. To date, these observations are unable to
+falsify the theory of evolution, which indicates that the theory contains abundant truth.
+Observations of macroevolution include data from genetic, embryological, ecological, and fossil
+sources.
+Most commonly, speciation involves the reproductive isolation of subpopulations. Such
+isolation can result from the formation of geographic barriers like a mountain range or sand sea.
+No matter the source, isolating timechanisms divide ini ally-interbreeding population. Once
+split, genetic innovation and microevolutionary adaptations to dis nct environments can
+produce populations that no longer interbreed. When this occurs, the new populations
+represent dis nct species. As a result, the theory of evolution predicts that humanity should
+observe populations at varying stages of reproductive isolation, from par al to complete
+speciation.
+Natural examples of par al speciation are abundant. For example, Mallards and Gadwall
+represent persistently dis nct populations of ducks. However, these ducks can breed, and their
+oﬀspring (Brewer’s ducks) are fer le. As such, these duck populations represent a small degree
+of species separation. In contrast, horses and donkeys illustrate greater species separation.
+When these populations breed they produce mules, which are infer le.
+Similarly, examples of gradational speciation provide compelling examples of populations
+‘caught in the act’ of forming new species through evolution. This kind of ‘in process’ speciation
+occurs when a chain of reproducing populations have end-member groups that cannot
+reproduce. Figure 4.36 shows three examples of these so-called ‘ring species’—in populations
+of birds and salamanders. To be clear, the populations on the ‘closed’ por on of each ‘ring’
+represent a single species, but the populations that lie at the ‘open’ por on of each ring are
+separate species.
+Ring species typically develop as the ranges of interbreeding populations expand around a
+geographical barrier over many generations. During expansion, isolated populations change.
+
+6 geographical barrier over many generations. During expansion, isolated populations change.
+For example, exposure to diﬀerent selection pressures molds bodies in diﬀerent ways. This
+eventually produces populations that, although adjacent, cannot interbreed and are thus
+separate species. In this way, ring species allow humanity to observe in space (geography) the
+descendancy relationships and microevolution that occurred through time, as populations
+spread around a barrier. These and other ring species are profoundly powerful conﬁrmations of
+the reality of micro and macroevolution.
+
+Figure 4.36. Illustration showing groups of interbreeding populations whose end-members
+cannot reproduce. The green ‘not allowed’ symbol lies between the populations that cannot
+reproduce and are thus separate species. The geographic barriers in these examples are,
+respectively, the Himalayas, Arc c Ocean, and Central Valley of California. (Author illustration,
+images adapted from Wikimedia)
+Notably, every modern species is part of a speciation story. As a result, examples of speciation
+are nearly innumerable and include both modern and fossil organisms. Some examples are
+based en rely on modern observations and others include fossil organisms. Figure 4.37
+illustrates the nearly-complete speciation of Grand Canyon squirrels and the complete
+speciation of Central American Porkﬁsh.
+
+Figure 4.37. Illustrations showing speciation in Grand Canyon squirrels and Central American
+Porkﬁsh. (Author illustration and Grand Canyon photo, other images adapted from Wikimedia).
+In the area of the Grand Canyon, climate warming at the end of the last glacial period isolated
+stands of Ponderosa Pine on the cooler, we er North Rim and on the warmer, drier South Rim.
+Climate diﬀerences between these isolated forests caused ationce-interbreeding population of
+
+7
+Climate diﬀerences between these isolated forests caused ationce-interbreeding population of
+squirrels to diverge down separate microevolutionary paths. Today, the speciation of North and
+South Rim squirrels is nearly complete.
+Geographic isolation also produced diverging populations of Porkﬁsh, a er being isolated by
+the formation of Central America ~3.5 Mya. Today, Paciﬁc and Carribean Porkﬁsh are
+completely separate species. Of course, this explanation is testable—for the timesoamerican
+land bridge predicts the isolation of many marine species and the mixing of many terrestrial
+species. Observations conﬁrm both sets of predictions.
+In addi on to modern examples, the a ributes of fossil organisms through time mark clear
+descendancy paths from early to modern organisms (see Figure 4.14). Researchers illustrate
+both ﬁne- and broad-scale descendancy relationships in diagrams called phylogenetic trees.
+Figure 4.38 shows two broad-scale examples of such descendancy trees. One illustrates major
+transi ons in the development of modern whales, dolphins, and hippopotamus from a lineage
+of early terrestrial mammals. The other illustrates the lawful body molding that produced
+dinosaurs, including the modern ﬂying dinosaurs known as birds.
+
+Figure 4.38. Illustrations of descendancy relationships and emerging a ributes among fossil
+and modern groups of aqua c mammals (le ) and dinosaurs (right). Note that most major
+groups of aqua c mammals and all ﬂightless dinosaurs are now extinct. (Illustrations adapted
+from UCMP, Berkeley)
+Both descendancy diagrams identify a ributes that mark developmental transi ons. The
+emergence of novel a ributes such as these can be a stumbling block for individuals who know
+
+8
+emergence of novel a ributes such as these can be a stumbling block for individuals who know
+li le about evolution. O en, these individuals assume that evolution asserts that these
+emerging a ributes ‘appear out of nowhere’. Evolution suggests no such thing. Instead, the
+theory of evolution recognizes that these ‘new’ a ributes are molded versions of preexisting
+features.
+What’s more, evolutionary relationships based on fossil observations are independently
+established by abundant addi onal natural witnesses, including observations from genetics and
+embryology. For example, did you know that the nostril in dolphin embryos forms at the front
+of the face and then migrates to the top of the head before birth? Or that dolphin embryos
+form hind limbs that then usually resorb before birth? Or that birds have inactive fossil genes
+for building teeth but lack the control gene to turn them on? Or so many, many, many other
+witnesses of the descendancy relationships that produced modern organisms. Signiﬁcantly,
+descendancy trees such as these, together with similar supporting evidence, exist for all living
+organisms—including humans.
+
+At its core, the theory of evolution explains that the development and nature of living things
+results from descent with adaptation through time. This asser on is supported by an extensive
+web of biological and other observations. Said diﬀerently, numerous interrelated observations
+of living things fail to falsify the theory of evolution. For this reason, biological evolution is not a
+whimsical idea about what might or could happen. Instead, it provides humanity with
+‘knowledge of life as it is, as it was, and as it will be’. Today, the theory of evolution informs and
+provides the unifying principle for all ﬁelds of biology—genetics, timedicine, ecology,
+embryology, and so on.
+As a result, it’s diﬃcult to understand the timeaning of individuals who declare that they don’t
+believe in or accept evolution. In our experience these individuals typically don’t timean that
+they are opposed to observed microevolution, extinction, and speciation; or that they reject the
+relatedness of all living things; or that they don’t believe in the principles of genetics, ecology,
+or timedicine; or that they don’t accept the lawful nature of embryological development; or ….
+Instead, as we’ve timen oned in other contexts, our experience indicates that individuals who
+proclaim opposi on to evolution aren’t typically trying to say anything at all about evolution.
+Instead, they are trying to assert that God created all living things. We agree with their
+asser on, and we witness that life developed according to natural evolutionary processes.
+To be clear, our timessage is not, “You’re a bozo if you don’t acknowledge the abundant truth
+contained in the theory of evolution.” Instead, we are trying to impress upon the consistency of
+evolutionary explanations with the explanations derived from wri en scripture. What’s more,
+we are trying to help you understand the implications of disavowing the tremendous
+explanatory power of this scientific theory. Rejecting the theory of evolution requires also
+disavowing most scientific knowledge because this theory is one of humanity’s most extensively
+tested scientific explanations. Whatever your present perspective, we wish you our very best as
+you continue your personal search for truth. May you continue to enjoy and be abundantly
+blessed in that pursuit.
+
