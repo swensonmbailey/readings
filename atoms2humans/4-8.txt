@@ -1,0 +1,204 @@
+4.8 Fishing for Ancestors 4. 8 
+Molding Fish into Mammals
+Dr. Dan Moore and Dr. Brian Tonks, Geology and Physics Departments, BYU-Idaho
+
+We were not designed rationally, but are products of a convoluted history. —Neil Shubin
+
+Learning objectives:
+● Understand the basic nature of the following organisms and be able to iden fy the opportunities,
+obstacles, and adaptations that characterize the transitions between them: lobe-ﬁnned ﬁshes with
+lungs, amphibians, reptiles, and mammals.
+● Describe the parts in amphibians, reptiles, and mammals that are homologous to bone and teeth in
+ﬁshes. Also, describe the body parts in mammals, dinosaurs, and birds that are homologous to
+scales in reptiles.
+
+Complex ﬁshes with strong lobe ﬁns and lungs (see Figure 4.25) have all the body parts needed
+to produce amphibians, reptiles, dinosaurs, and mammals like humans. This is why humans
+share at least 70% of our genes with ﬁshes—and higher percentages with other, more closely
+related animal groups. Although our body parts are shaped somewhat diﬀerently, they are built
+with these shared genes. We’ve made this point now many mes, because it is so important in
+appreciating how diﬀerences in gene regulation build what look like quite diﬀerent bodies using
+homologous genes.
+Our path forward explores the important biological states that separate modern humans from
+complex ﬁshes. In addition, we will investigate the opportunities, obstacles, and adaptations
+associated with the transitions between these states. These transitions include those that
+produced amphibians, reptiles, mammals, primates, hominins like australopiths, Homo erectus,
+and anatomically modern Homo sapiens. What’s more, the transitions also include the cultural,
+agricultural, industrial, and information revolutions that produced modern humans and human
+socie es.
+
+Molding Complex Fish into Amphibians 
+
+As men oned, the limbs and lungs of ancient lobe-ﬁnned ﬁshes allowed them to successfully
+occupy shallow, obstacle-ridden swampwater containing li le oxygen. Through me, molding
+stronger limbs in some lineages allowed these ﬁshes to support increasing propor ons of their
+weight and, eventually, to survive on land. These ﬁshes became Earth’s ﬁrst amphibians.
+Amphibians are animals that cannot regulate their body temperature (cold blooded); have
+lungs, four strong limbs that allow them to move on land using sprawling postures, and
+
+2 lungs, four strong limbs that allow them to move on land using sprawling postures, and
+permeable skin that lacks scales and poorly retains moisture; lay eggs in water, like ﬁsh; begin
+life as ﬁsh (complete with gills, ﬁns, and tail) but undergo a metamorphosis during which their
+ﬁsh parts resorb and amphibian parts grow; and live semi-terrestrial lifestyles as adults.
+Amphibians—the ﬁrst true four-legged (tetrapod) animals on Earth—originated in the mid
+Paleozoic (~370 Mya). Modern examples of amphibians include frogs, salamanders, and newts.
+Many of the broad-scale transitions in the history of life resulted from adaptations that allowed
+organisms to ‘follow the food’—for example, from environments where compe on for food
+was ﬁerce into environments where there was rela vely li le compe on. In the early
+Paleozoic, early plants and insects moved from sea to land for the ﬁrst me. Reproduction
+restricted these plants and the trees that followed them to coastal wetlands. At this time in mid
+Paleozoic, Pangaea was forming, Earth’s climate was in the greenhouse state, sea level
+ﬂuctuations were common, and wetland forests abounded. The paucity of predators and
+abundance of insect and plant food in these swampy forests represented huge opportunities for
+the lobe-ﬁnned ﬁshes with lungs that inhabited shallow, near-shore environments.
+Like the opportunities, the obstacles associated with this transition were signiﬁcant. On land,
+aqua c animals cannot move eﬃciently or reproduce, and they dry out and struggle to extract
+suﬃcient oxygen from air. In addition, most aqua c organisms hear poorly. On land, even poor
+hearing provides tremendous advantage—for example, in ﬁnding prey, communica ng, and
+avoiding predators.
+As insect-ﬁlled forests expanded, body molding allowed groups of lobe-ﬁnned ﬁshes to ever-
+more-successfully occupy shorelines environments. Important adaptations included
+modiﬁcations to the skeleton and musculature that increased mobility, the loss of scales,
+improved breathing through lungs and permeable skin, and the molding of head elements into
+a primitive inner ear and voice box.
+Of course, lobe-ﬁnned ﬁshes didn’t develop these adaptations with the purpose of moving to
+land. Instead, the adaptations resulted from natural selection for attributes that allowed these
+organisms to succeed in the newly-formed, opportunity-rich environment produced by the
+emergence of shoreline forests. This is an important aspect of evolution. Organisms don’t
+acquire traits to succeed. Instead, lawful body molding in a par cular environment some times
+produces populations of organisms with attributes that happen to be advantageous in another
+environment.
+In this case, the attributes that allowed lobe-ﬁnned ﬁshes to successfully navigate near-shore,
+oxygen-poor, obstacle-laden environments also allowed them to move into opportunity-rich
+shoreline environments on land. Figure 4.49 illustrates the transition from complex ﬁshes with
+limbs and lungs to early amphibians, and Figure 4.42 illustrates the molding of a ﬁsh jaw bone
+into the inner ear bone of amphibians and reptiles.
+
+3
+
+Figure 4.49. Illustration showing the transition from bony ﬁshes with lungs to amphibians.
+(Author illustration; le image modiﬁed from Shu erstock; right images from Wikimedia.)
+As you know, lobe-ﬁnned ﬁshes possess the parts and pieces that comprise more evolved
+vertebrate bodies. For example, these ﬁshes have brains, hearts, lungs, blood vessels, mouths,
+jaws, teeth, stomachs, intes nes, backbones, limbs, skulls, ears, kidneys, gonads, eggs, sperm,
+DNA, mitochondria, and all the control and other genes to build and shape their body parts and
+bodies. Figure 4.50 uses limb bones to illustrate these pervasive homologies. No ce this
+important pa ern: the bones in mammal limbs result from reshaping, elimina ng, and
+duplicating existing body elements—not from forming all-new, unrelated body parts.
+
+Figure 4.50. Illustration of limb bones in organisms that record the transitions that produced
+mammals from primitive ﬁshes. Note the development of the vertebrate limb pa ern: one
+bone, two bones, small bones, aligned bones. (Author illustration, adapted from M. Tanaka)
+Remarkably, this eﬃcient process also formed ‘apparently new’ body parts. For example, the
+earliest lateral ﬁsh ﬁns resulted when the set of genes that controlled the formation of ‘spinal
+segments’ was duplicated and expressed along the sides of primitive ﬁshes. Thus even an ‘all
+new’ feature like lateral ﬁns resulted from duplicating and repurposing existing body elements.
+Such is the origin of most ‘new’ body elements in organisms. This pa ern underscores an
+important point we have reemphasize again: although many animal bodies—including human
+bodies—look quite diﬀerent from the bodies of lobe-ﬁnned ﬁshes and amphibians, they are
+
+4
+bodies—look quite diﬀerent from the bodies of lobe-ﬁnned ﬁshes and amphibians, they are
+built according to a homologous pa ern using homologous parts and processes.
+
+Molding Amphibians into reptiles 
+
+Early amphibians developed and diversiﬁed in the low-lying wetlands that were abundant
+during the late Paleozoic (Carboniferous). On land, they became the top terrestrial predators.
+The largest of these was ~30 (~9 m) long and had a crocodile-shaped body because it lived a
+‘crocodile lifestyle’. Once on land, amphibians faced a new set of opportunities and obstacles.
+These produced adaptations that eventually formed the ﬁrst reptiles.
+reptiles are cold-blooded animals that have sprawling postures; scales to protect their skin
+from drying out; and claws that help them interact with hard terrestrial environments. reptiles
+reproduce by laying encased eggs on land. Lizards, crocodiles, and turtles are modern examples
+of reptiles. Ex nct examples include Mesozoic pterosaurs, plesiosaurs, and mosasaurs.
+As the late Paleozoic Earth cooled and dried, intense selection in shrinking wetland forests
+produced the ﬁrst seed-bearing plants (gymnosperms). This innovation allowed plants to begin
+thriving in drier habitats far from standing water. Inland plants and insects provided a signiﬁcant
+opportunity for any amphibian population that could overcome the associated obstacles—such
+as weak skin that required frequent re-weting and gela nous eggs that quickly shriveled
+outside water.
+As plants and insects expanded into con nental interiors, body molding across numerous
+generations allowed groups of amphibians to take advantage of these untapped resources by
+adapting to progressively drier environments. These adaptations included modiﬁcations to skin
+and eggs. Through me, the skin in transitional populations developed hardened-protein
+coverings (scales and claws) that improved success in dry, light-saturated, abrasive
+environments. In addition, eggs developed durable coverings (shells) that protected developing
+embryos from desiccation, disease, and some predators.
+reptile scales consist mostly of hardened kera n, a protein that helps protect the skin of
+amphibians (and ﬁshes). As such, reptile scales and claws are homologous to ﬁsh and
+amphibian skin, but not to ﬁsh scales. Later, we’ll discover that the feathers, claws, and beaks
+(rhamphotheca) of dinosaurs and birds and the hair, claws, nails, and horns of mammals are
+homologous to reptile scales and claws.
+reptiles were the ﬁrst land vertebrates to develop adaptations that allowed them to reproduce
+in dry environments. Their modiﬁed (amnio c) eggs are full-service embryo incubation devices.
+The yolk provides food, the egg ‘white’ provides moisture, and the ssues (including the
+amnion) and a leathery or mineralized shell protect the embryo while allowing it to breathe, as
+illustrated in Figure 4.51. Interes ngly, reptile eggs did for animals what seeds did for plants.
+
+5
+
+Figure 4.51. Photos of ﬁsh, amphibian, and reptile eggs. (Fish image from Wikimedia; other
+images from Shu erstock)
+
+Molding reptiles Into Mammals 
+
+As reptiles moved into new terrestrial environments in the late Paleozoic, they diversiﬁed,
+outcompeted many amphibians, and became Earth’s top terrestrial predators. Despite their
+successes, reptiles move ineﬃciently and slowly, lose heat easily, cannot regulate their body
+temperature, hear poorly, can be vulnerable while incubating eggs, and process food
+ineﬀec vely because they have no lips and only cone-shaped teeth. These obstacles prevented
+reptiles from entering cold terrestrial environments and provided opportunities for the
+numerous eﬃciency-increasing innovations that eventually produced the ﬁrst mammals.
+Mammals are four-limbed animals that have fully-erect, non-sprawling postures; have large
+strong jaws, lips, and diﬀeren ated teeth; develop embryos inside their bodies and feed infants
+with milk; can regulate their body temperature and have hair; have three inner ear bones; and
+can inhabit essen ally all terrestrial landscapes.
+The transitions that produced amphibians and reptiles from their ancestors involved a few key
+innovations that emerged rela vely quickly. In contrast, the stepwise transitions that produced
+true mammals from reptiles involved many independent innovations and lasted nearly two
+hundred million years. As a result, transitional groups persisted for long periods alongside true
+reptiles. The le image in Figure 4.52 shows a confrontation between a scale-covered reptile
+and an early, mammal-like (transitional) reptile with hair and weakly-diﬀeren ated teeth.
+These adaptations included fully-upright postures that allowed eﬃcient and sustained rapid
+movement; hair (modiﬁed scales) that minimizes heat loss; the development of metabolic
+processes that regulate body temperature; the emergence of diﬀeren ated teeth—cutters,
+slicers, and grinders—and lips that improved food processing; the molding of additional skull
+bones to improve hearing and vocalization; the reten on of developing embryos inside the
+body; and extended care of infants, including feeding using molded sweat glands that excrete
+nutrient-rich ﬂuids (milk).
+
+6
+Notably, the specialized sweat glands that give mammals their name are homologous to those
+that ﬁsh and amphibians use to nourish their eggs. In humans and many other ‘later-stage’
+mammals, these glands are concentrated in nipple-topped breasts. Did you know that some
+male humans can produce milk and suckle infants? It’s rare, but male breasts and nipples are
+not yet completely ves gial.
+Signiﬁcantly, mammalian adaptations did not develop independently. For example, the energy
+required to be more mobile, regulate body temperature, and enhance infant care was provided
+by energy-saving and -enhancing adaptations like upright postures, hair, and improved food
+processing, hearing, and communication.
+The descendancy relationships between ﬁshes, amphibians, reptiles, and mammals discussed
+above produced the pervasive homologies that characterize vertebrate bodies. Table 4.12
+provides notable examples.
+Table 4.12. Vertebrate homologies.
+
+As an important aside, the branch of reptiles that produced dinosaurs included adaptations
+similar to mammals. For example, dinosaurs also developed upright postures capable of
+sustained rapid movement, feathers that reduce heat loss, and metabolism capable of
+regulating body temperature—but dinosaurs did not develop lips, highly diﬀeren ated teeth, or
+three inner-ear bones. They also con nued laying reptile-like eggs. The right images in Figure
+4.52 shows a confrontation between two dinosaurs.
+
+Figure 4.52. Illustrations showing terrestrial landscapes in the late Paleozoic (Permian; le ) and
+late Mesozoic (Cretaceous; right). (Author illustrations)
+
+7
+
+Above, we provide a high-level view of the complex transitions that produced amphibians from
+lobe-ﬁnned ﬁshes with lungs, reptiles from amphibians, and mammals from reptiles. Having
+explored these transitions, we invite you to take a moment to reﬂect on the importance of
+lawful body molding (Figure 4.39) in the development of life on Earth. As we proceed, we’ll
+con nue to take this same broad-scale approach, which emphasizes the opportunities,
+obstacles, and adaptations associated to explore successive transitions in the lawful
+organization of the human body.
