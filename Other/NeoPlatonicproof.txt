@@ -1,0 +1,667 @@
+Edward Feser has recently defended five arguments for the existence of the 
+God of (Thomistic) classical theism, each of which is divided into two stages. 
+Stage one concludes to a being which, in stage two, is argued to have an ap-
+propriate range of classical divine attributes.
+Feser’s second argument—the Neo-Platonic proof—reasons from com-
+posite beings to the existence an absolutely simple being. The general line of 
+argument traces back to the fifth of Plotinus’s Enneads, but it also enjoys a 
+family resemblance with other contemporary arguments.1
+ The primary focus 
+of this paper is stage one of this argument. Formally, it proceeds:1. The things of our experience are composite.
+2. A composite exists at any moment only insofar as its parts are 
+combined at that moment.
+3. This composition of parts requires a concurrent cause.
+4. So, any composite has a cause of its existence at any moment at which 
+it exists.
+5. So, each of the things of our experience has a cause at any moment at 
+which it exists.
+6. If the cause of a composite thing’s existence at any moment is itself 
+composite, then it will in turn require a cause of its own existence at 
+that moment.
+7. The regress of causes this entails is hierarchical in nature, and such a 
+regress must have a first member.
+8. Only something absolutely simple or noncomposite could be the first 
+member of such a series.
+9. So, the existence of each of the things of our experience presupposes 
+an absolutely simple or noncomposite cause.2
+In simpler terms, whatever has parts requires a concurrent, sustaining ef-
+ficient cause; chains of concurrent, sustaining efficient causation—because 
+they are ordered hierarchically (or per se3
+)—cannot descend infinitely; 
+hence, there exists an utterly non-composite first cause of the existence of 
+composite thingsMy aim in this paper is to critically appraise this Neo-Platonic argument. 
+I first discuss some necessary preliminaries in §2. Next, I argue in §3 that the 
+argument fails to establish the God of classical theism insofar as premise (3) 
+is appropriately regarded as unmotivated by detractors of classical theism. I 
+also address Feser’s inference to the mindedness of the absolutely simple being. 
+Finally, I argue in §4 that the argument is inimical to Trinitarianism on two 
+fronts. While the criticisms leveled in §4 do not constitute direct challenges to 
+the Neo-Platonic proof, they are significant insofar as they establish (if success-
+ful) tension between the Neo-Platonic proof and a core tenet of Christianity.
+Before turning to the preliminaries, it’s worth dwelling briefly on the sig-
+nificance and situatedness of this paper. There exists (as yet) no scholarly 
+evaluation of Feser’s Neo-Platonic proof in the literature.5
+ This dearth is sur-
+prising given the importance to classical theism of reasoning from composite 
+being to non-composite being.
+II. PRELIMINARIES
+Before tackling my criticisms of the Neo-Platonic proof, clarity on several 
+background concepts is necessary. 
+The first of these is classical theism. Classical theism—along with affirm-
+ing God’s essential moral perfection, omniscience, omnipotence, intelligence, 
+and so on—is committed to four core and distinctive theses: simplicity, im-
+mutability, timelessness, and impassibility.6
+ My investigation focuses espe-
+cially on the Doctrine of Divine Simplicity (DDS). According to DDS, God isutterly devoid of physical, metaphysical, and logical parts; God is identical to 
+his essence, existence, attributes, action, power, and so on.7
+This brings us to the second concept central to this investigation: part-
+hood. Within the classical theistic tradition, each of the following—when 
+distinct in a being—are typically understood as component parts: form and 
+matter, essence and existence, subject and accidents, individual and its es-
+sence, individual and its properties, act and potency, genus and specific dif-
+ference, and agent and the agent’s actions.8
+These examples of multiplicity that entail composition are helpful, but it’s 
+not clear that they facilitate a precise definition of parthood as understood 
+within classical theism. Fakhri usefully characterizes DDS as the thesis that 
+anything intrinsic to God is identical to God.9
+ Fakhri points out that this is 
+a straightforward entailment of absolute divine simplicity. More generally, 
+then, we can follow the classical theistic tradition in understanding a part of 
+S as some positive ontological item intrinsic to S but distinct from S.10
+This understanding of parts is in marked agreement with how DDS is tra-
+ditionally articulated. Augustine famously put it in The City of God that God 
+is what he has. And as Vallicella articulates it, “God is ontologically simple… 
+there is nothing intrinsic to God that is distinct from God.”11
+There are also straightforward paths from classical theism to this under-
+standing of parthood. As Katherin Rogers points out, for classical theism“whatever is not God is created by Him.”12 If there were something distinct 
+from God (i.e., something that is not God) intrinsic to God, then there would 
+thus be some portion of creation within God. This is flatly incompatible with 
+classical theism. (One reason for this is that creation is contingent, and thus if 
+some portion of creation were within God, there would be some contingency 
+within God. This is incompatible with classical theism’s commitment to the 
+absence of intrinsic, non-essential features or accidents in God.)
+The final concept crucial to this investigation is that of neo-classical theism.
+13
+Also known as modified classical theism, neo-classical theism affirms much 
+of classical theism: God is essentially morally perfect, creates and sustains the 
+world ex nihilo, exists of metaphysical necessity, and so on. But unlike classi-
+cal theism, it rejects and/or modifies one or more of simplicity, immutability, 
+timelessness, and impassibility. For our purposes, we will focus on neo-classical 
+theism’s denial of DDS. This version of neo-classical theism holds that God has 
+parts in the sense of items intrinsic to but distinct from God: multiple divine at-
+tributes (like omniscience, omnipotence, etc.), potential for accidental change, 
+and so on. For neo-classical theists, moreover, this multiplicity is not just on 
+the part of our predications of God (e.g., various predications of ‘omniscience’, 
+‘omnipotence’, and so on); the multiplicity is also on the side of God himself, 
+such that God—in extramental, extralinguistic reality—genuinely has some 
+positive ontological item(s) intrinsic to but distinct from himself.
+With the necessary preliminaries covered, we can turn to my first set of 
+criticisms of the Neo-Platonic proof.
+III. PREMISE THREE
+Premise three embodies what I will call the Neo-Platonic Causal Principle as 
+applied to composite objects (i.e., concrete objects with parts):
+Neo-Platonic Causal Principle (NPCP): Any composite object requires a 
+sustaining efficient cause of its existence—that is, a cause that concurrently combines the parts together to constitute the object at any moment at which 
+it exists.14
+Why should we believe NPCP?
+The central motivation seems to be a kind of explicability require-
+ment—that is, a requirement that the combination of parts (at any given mo-
+ment of a composite object’s existence) be explained. Feser proceeds through 
+candidate explanations (the whole itself, say, or one or more of its parts) and 
+finds them all wanting. Rejecting appeal to inexplicability or brute facts, the 
+only remaining explanation (according to Feser) would be some extrinsic 
+cause or principle that accounts for the unity of parts.
+In order to evaluate this central motivation, let’s proceed through Feser’s 
+reasons for ruling out various alternative explanations of the unity (at any giv-
+en moment) of a composite object. For ease of exposition, I’ve broken down 
+Feser’s reasoning into a series of four steps. Let’s consider these steps in turn.
+Step one is that all composites depend on their parts. Feser writes that 
+“a composite is less fundamental than its parts in the sense that its exist-
+ence presupposes that its parts exist and are put together in the right way.”15
+Moreover, argues Feser, “a composite depends on its parts not merely (and 
+indeed not necessarily always) in a temporal sense, but more fundamentally 
+(and always) in an atemporal sense.”16 At any given moment of a composite 
+object’s life, the object’s “existence will presuppose that its parts exist and are 
+put together in the right way at that moment.”17
+One worry thus far is that the mere fact that a given composite object 
+presupposes the existence and combination of its parts does not entail that it 
+depends (in some metaphysical or explanatory sense) on those parts. It only entails that the existence and combination of the parts is simply a necessary con-
+dition for the existence of the whole. But this only implies a kind of logical or 
+counterfactual dependence, not an explanatory or metaphysical dependence.18
+One way to see that logical dependence neither means nor entails explan-
+atory dependence is to consider that logical dependence can be symmetric, 
+whereas explanatory dependence is necessarily asymmetric. On certain plau-
+sible views in the philosophy of mathematics, in any world in which Socrates 
+exists, Socrates’s singleton set exists. Socrates therefore cannot exist without 
+his singleton set existing. But it is likewise the case (again, under plausible 
+views in the philosophy of mathematics) that singleton sets exist only in 
+worlds wherein their members exist. It would follow that Socrates’s singleton 
+set cannot exist without Socrates existing.19 Hence, there’s logical dependence 
+in both directions. But it’s also clear that the set is in some sense a derivative
+entity—it depends on the more fundamental reality of Socrates himself.
+Indeed, even in the case of the radically independent God of classical the-
+ism, there seem to be a whole host of necessary conditions or presuppositions 
+for his existence. For instance, God’s existing and being the way he is presup-
+poses the laws of identity and non-contradiction. And despite presupposing 
+these as necessary conditions, God is still not dependent on another for his 
+existence.
+Thus, logical dependence can be symmetric. But could explanatory de-
+pendence be symmetric? I don’t think so. A circle of causal or explanatory 
+dependence for existence seems metaphysically impossible. For if x causes or 
+explains the existence of y, and y causes or explains the existence of x, then 
+x is both prior to y (on account of x’s causing/explaining y’s existence) and 
+posterior to y (on account of y’s causing/explaining x’s existence). And that 
+seems absurd.
+But perhaps Feser’s thought is one about fundamentality or grounding: 
+wholes are dependent on their parts insofar as parts are more fundamental than and/or ground the existence of their wholes. But while this might be 
+true in some cases, it’s not clear that all cases of part-whole relationships fit 
+this schema (especially given the broad classical theistic understanding of 
+parts). It seems eminently plausible, for instance, that some wholes ground 
+(the existence and/or character of) their parts. As Baddorf writes:
+[I]t is far from obvious that the only kind of thing that could satisfactorily 
+explain compresence is an outside sufficient cause. … [The neo-classical 
+theistic] God’s tropes are dependent upon God. This suggests another 
+explanation for their compresence: they are compresent because they are 
+each grounded in God. This is not a causal explanation, but it is plausible 
+to think that it is an explanation nonetheless. … This conclusion can also 
+be supported by more general argument. It is plausible that tropes are 
+individuated by their bearers and so cannot exist without them. Or, similarly, 
+it is plausible to think that tropes cannot exist without their bearers since 
+they are merely ways their bearers are.20
+While Baddorf focuses solely on the distinction between God and his prop-
+erty instances, his central point is simply that it seems eminently plausible 
+that some wholes (e.g., the neo-classical God) ground their parts.
+What’s more, whole-to-part explanation or grounding is a very (broadly) 
+Aristotelian notion. Aristotelianism (broadly construed) conceives parts of 
+substances as in some sense less fundamental than the substances they com-
+pose, since their identities are intelligible only in light of the substances to 
+which they belong. (For instance, something’s being my heart seems to pre-
+suppose my existence as a whole, integrated substance.)
+Naturally, debates concerning divine aseity overlap quite heavily with the 
+considerations adduced above. According to divine aseity, God is “an abso-
+lutely independent being—a being that does not depend on anything else for 
+its existence.”21 One of the principal motivations for DDS derives from aseity. 
+If there were some item intrinsic to but distinct from God—that is, if God 
+had some part—then God would be dependent on something that is distinct 
+from God. As Aquinas writes, “every composite is posterior to its component 
+parts, and is dependent on them; but God is the first being.”22 One influential response to this line of reasoning derives from what Fowler calls the Doctrine 
+of Divine Priority (DDP): “For all x, if x is a proper part of God or x is a prop-
+erty of God, then x depends on God for its existence.”23 And since depend-
+ence is asymmetric, God does not depend on God’s parts. Like Baddorf, then, 
+Fowler offers whole-to-part grounding as a viable model for understanding 
+divine aseity and the independence of at least one whole (viz. God).
+But let’s not miss the forest for the trees. What matters for present pur-
+poses is that nothing in Feser’s Neo-Platonic proof—and, moreover, noth-
+ing Feser says on behalf of its premises—gives any reason for thinking that 
+whole-to-part explanations of the kind considered above are impossible (or 
+else insufficient to explain the compresence of an object’s parts).24 More pre-
+cisely, the live possibility (and, I would argue, plausibility) of whole-to-part 
+grounding renders Feser’s step one far from demonstrated. It is not at all clear 
+that any whole whatsoever (explanatorily or metaphysically) depends on its 
+parts, and there are plausible views in mereology and metaphysics according 
+to which this step comes out false. Nothing in Feser’s step justifies a denial of 
+these mereological and metaphysical positions.
+Let’s turn, then, to step two: wholes cannot cause the combination of their 
+parts. Feser writes the following in connection to a chair (the whole) and its 
+parts:
+How do the parts of a composite come together to form the whole? It can’t 
+be the composite itself that causes this to happen. … [A]t any particular 
+moment, the existence of the whole depends on the existence and proper 
+arrangement of the parts. And the chair as a whole can’t be the cause of those 
+parts existing, and being assembled in just the right way, at that moment. 
+We would in that case have an explanatory vicious circle, insofar as the 
+existence of the whole would depend on the existence and arrangement of the parts, and the existence and arrangement of the parts would depend on 
+the existence of the whole.25
+The problem with this step, though, is that even granting that wholes can-
+not efficiently cause the existence of their parts, this by no means entails that 
+wholes cannot explain their parts. We’ve already seen defensible views accord-
+ing to which wholes can non-causally explain (i.e., ground) their parts. And 
+because vicious explanatory circularity is impossible, it follows that in cases of 
+whole-to-part grounding, the parts do not explain the existence of the whole.
+Step three of Feser’s case for NPCP is that it’s clear that there are extrinsic 
+causal factors that sustain composite objects in existence:
+[T]he existence and arrangement of the chair’s parts at any moment does 
+not depend on the chair itself, but on myriad other factors. … The legs and 
+screws themselves exist at that moment because their respective molecules 
+exist and are combined in certain specific ways… Then there are other 
+factors, such as the temperature in the room in which the chair sits being 
+within the right range. … At any moment at which they exist, their parts 
+exist and are arranged in just the right way, and that is the case only because 
+various other factors exist and are combined in just the right way at that 
+moment. Composite things have causes…26
+There are several problems with this step. First, even if it’s true that macro-
+scopic physical objects clearly have such causes (in virtue of their situatedness 
+within a physical context wherein a host of purportedly external conditions 
+must be in place), it by no means follows from this that any composite object 
+whatsoever requires an efficient sustaining cause.
+Consider, for instance, the God of neo-classical theism. According to the 
+classical theistic understanding of parts, the neo-classical God is a composite 
+object. But it is not at all clear that there must be a sustaining efficient cause 
+of his existence. (Indeed, it’s not at all clear how there could be). He is not 
+situated within a physical context; he does not require a host of conditions to 
+be in place in order to exist (like temperature, pressure, etc.); he is a neces-
+sary being; and he causes the existence of every concrete object apart from 
+himself. Under such an understanding, it is simply metaphysically impossible
+for there to be a pre-existing context of concrete objects that causally sustain 
+the neo-classical God’s existence, since there being such a context already pre-supposes the neo-classical God’s free creative activity. Nothing Feser says in 
+any of the steps justifies a demand for a sustaining cause of the neo-classical 
+God’s existence.27
+Or consider a naturalistic view according to which there exist ultimate, 
+fundamental constituents of physical reality (whether they be particles (like 
+quarks), one or more quantum fields, superstrings, the universal wave-
+function, or whatever). Now, while these may be physically non-compos-
+ite—quarks and superstrings, for instance, are not (or would not be) built up 
+or constructed out of physical parts—they are nevertheless metaphysically
+composite under the classical theistic understanding of parthood articulat-
+ed in §2. What matters for present purposes is that no reason is given as to 
+why these (metaphysically) composite objects are likewise situated within a 
+physical context wherein a host of external sustaining causes must operate in 
+harmony in order for such objects to exist. It’s not at all clear why or how tem-
+perature, pressure, and the other factors cited are even relevant to the ground 
+layer of physical reality. After all, such a ground layer is precisely that which 
+ultimately accounts for how such physical contexts could even arise in the 
+first place—and so it would be absurd for there to be a more fundamental, 
+pre-existent physical context that sustains them in being.
+Now, one might at this juncture raise worries for this last example. Here 
+are two worries one might level. First, one might question whether there 
+even is such a fundamental, ultimate ground layer of physical reality. That’s 
+a good question, but it doesn’t adequately consider the dialectical context at 
+hand. Feser is aiming to give a positive demonstration of NPCP. One of the 
+approaches he takes to justifying this is step three (as I’ve outlined it), which 
+appeals to (purportedly) clear cases of composite objects’ being sustained in 
+being by a pre-existent physical context. But as I argued in the previous para-
+graph, one clear way to circumvent this justification is to hold that there is
+such a fundamental, ground layer to physical reality that provides a context for less fundamental physical realities but does not itself have some more fun-
+damental physical context. Given that this circumvents step three, it follows 
+that the success of step three as a justification for (or part of a justification for) 
+NPCP presupposes that there couldn’t be such a fundamental, ground layer as 
+I’ve described it. The onus of justification is therefore on Feser to justify why 
+there couldn’t be such a layer. Without such justification, step three rests on 
+an unjustified assumption.
+A second worry one might raise is that while there may not be a physical 
+sustaining cause for this ground layer of physical reality, there must never-
+theless be a non-physical cause sustaining it in being. But once again, this 
+misses the dialectical context at hand. For even if it’s true that a non-physical 
+sustaining cause is required, nothing in step three justifies this. Step three 
+simply adduces a broader physical context in which non-fundamental physi-
+cal objects are situated. But no reason (thus far) has been given as to why 
+there must exist a non-physical sustaining cause of this fundamental layer of 
+physical reality. This bridges nicely into step four, one wherein Feser aims to 
+do precisely that.
+In the fourth and final step, Feser extends his arguments concerning 
+physical composition to metaphysical composition:
+The point is just that what has been said here about ordinary physical parts 
+like chair legs and screws would be true also of metaphysical parts like form 
+and matter, if they exist. … For on the Aristotelian analysis, the form of 
+something like copper or a tree is, all by itself and apart from matter, a mere 
+abstraction rather than a concrete object. … But matter all by itself and 
+apart from any form is, for the Aristotelian, nothing but the potential to be 
+something. It is only actually some thing if it has the form of some particular 
+kind of thing. So, though form and matter are different, there is a sense in 
+which form depends on matter and matter depends on form. We would thus 
+have an explanatory vicious circle if there were not something outside them 
+which accounted for their combination.28
+Feser then goes on to apply the same reasoning to other (purported) forms 
+of metaphysical composition, like essence-existence composition. There are, 
+however, several problems with this fourth step. First, it’s quite dialectically limited insofar as it rests on contentious commitments to various kinds of 
+metaphysical parts.29
+Second, even granting such commitments, surely vicious explanatory 
+circles are metaphysically impossible regardless of whether there’s an extrin-
+sic cause accounting for the viciously intertwined things. As we saw earlier, 
+vicious explanatory circularity implies that x causes or grounds or explains 
+y while y causes or grounds or explains x. This is impossible regardless of 
+whether there is some z that accounts for both x and y, since the very fact of 
+the vicious circularity entails that x is both prior and posterior (i.e., not prior) 
+to y, which is absurd. If hylemorphism entails that two distinct things are vi-
+ciously intertwined—such that the existence of each explains the existence of 
+the other—then that would simply be a reductio of hylomorphism. Far from 
+demonstrating the need for an extrinsic sustaining cause of any composite 
+object, Feser’s step four seems to impute a metaphysical impossibility to com-
+posite (material) objects from the get-go.
+30
+Third, this hylemorphic argument, even if successful, would only show 
+that material objects require something apart from them to explain them. 
+It entails nothing about (say) the neo-classical God. And so it fails to justify 
+NPCP as applied to non-material composite things.31
+Fourth, there seem to be perfectly legitimate explanations of the combi-
+nation of parts that avoid vicious circularity but that don’t adduce extrinsic 
+sustaining efficient causes. For instance, there is the whole-to-part grounding that I covered earlier.32 Another seemingly legitimate candidate explanation 
+for the unity of an object’s parts is that it is metaphysically necessary that they 
+be so combined. If we take the ultimate reality (be it the neo-classical God or 
+some ground layer of physical reality) to be a necessary being, the unity of its 
+parts could easily be explained in terms of the metaphysical necessity of said 
+unity. Now, I’m not claiming that metaphysical necessity categorically pre-
+cludes any further explanation. Rather, I’m simply noting that metaphysical 
+necessity may plausibly itself constitute a kind of explanation for something’s 
+obtaining. Even if the reader disagrees with this, the point is that nothing 
+in Feser’s Neo-Platonic proof gives those who accept (or are neutral on) the 
+explanatory legitimacy (in principle) of metaphysical necessity any reason to 
+abandon their position.33
+A third seemingly legitimate candidate explanation is that the kind of thing 
+in question simply requires the obtaining of the explanandum. For instance, 
+perhaps the neo-classical theistic God’s essence simply requires existence, or 
+perhaps unlimited perfection requires existence. And the legitimacy of this 
+form of explanation seems eminently plausible. Consider the properties ‘being 
+triangular’ and ‘being trilateral’ (which are, again, parts according to the clas-
+sical theistic understanding of parthood). Why are these co-instantiated? Be-
+cause they are simply the kinds of properties that require co-instantiation. This 
+seems to be a perfectly legitimate explanation of their compresence or unity 
+in something. It does seem odd to demand some sort of concurrent sustaining 
+cause keeping the two properties together. And this plausibly generalizes to a 
+being whose parts are all the kinds of things that require their unity and co-
+instantiation. (This is compounded even further if there is a kind of intrinsic 
+intelligibility to the parts’ unity together: it is no coincidence, for instance, that 
+omnipotence, omniscience, and moral perfection are all compresent and uni-
+fied together in the neo-classical theistic God.)
+Here’s a fourth seemingly legitimate candidate explanation. It seems that 
+the neo-classical theist (if they’re unwilling to adopt any of the above expla-
+nations) could be well within their rights in holding that the unity of God’s 
+parts flows from one simple component of God. Perhaps pure perfection 
+is the root, the core, the fundamental aspect of God. From pure perfection 
+flows the purely positive great-making properties like omniscience, omnipo-
+tence, essential moral goodness, and so on. Pure perfection is like a spring 
+from which flow the individual perfections or great-making properties. In 
+this case, we have one ‘divine part’ (in the broad, classical theistic sense) that 
+explains the unity of God’s parts: all the distinct properties and powers flow 
+from or are explained by the simple property of sheer perfection. Once again, 
+we have an explanation of the unity of the parts here, but nothing outside of 
+or external to God is explaining or causing the unity.34
+Here’s a fifth seemingly legitimate explanation of the combination of a 
+(temporal) composite object O’s parts at non-first moments of its existence. 
+For O’s parts to fail to be combined at moment m despite being combined 
+from [m*, m), m* < m, is for some change to occur.35 But a change occurs 
+only if some factor causally induces said change. Hence, if no factor causally 
+induces a change, then the change won’t occur. Thus, if no factor causally 
+induces O’s parts to fail to be combined at m despite being combined from 
+[m*, m), then O’s parts are combined at m. Once we add that nothing came 
+along to causally induce this—that is, once we add that nothing came along 
+to destroy O (or O’s parts) or to separate O’s parts from m* to m—it simply 
+follows that O’s parts are combined at m. Here, we seem to have a perfectly 
+respectable, perfectly legitimate explanation of the combination of O’s parts 
+at m, and this explanation adduces facts outside of or extrinsic to O at m.
+There are many more legitimate explanations besides, but I shan’t ex-
+plore them for purposes of space. What matters here is that Feser’s arguments 
+for NPCP do nothing to address such alternative explanations. The central 
+takeaway of this section, then, is as follows. The detractor of classical the-
+ism—whether it be a neo-classical theist or a non-theist—need not appeal 
+to inexplicability or brute facts to account for unity. There are perfectly sensi-
+ble explanations that don’t adduce sustaining efficient causes. I conclude that 
+Feser’s third premise (i.e., NPCP) is not only unjustified but also dialectically ill-situated (insofar as detractors of classical theism have perfectly legitimate 
+alternative explanations of unity).
+III.1 Mindedness
+One final issue I wish to address in this section is Feser’s inference to the 
+mindedness of the absolutely simple being. Feser argues in premise twenty-
+two that “[e]verything is either a mind, or a mental content, or a material 
+entity, or an abstract entity.”36 From this it is concluded that the absolutely 
+simple being must be a mind.
+Curiously, though, Feser gives no justification for this premise but instead 
+cites Vallicella—who himself gives no justification for the claim.37 Indeed, 
+it seems eminently (epistemically) possible at least in principle that there be 
+a non-physical or non-material, non-mental concrete entity. Simply consid-
+er an impersonal principle from which all complexity and multiplicity de-
+rives—akin to Plotinus’s One (which, as we will see below, is prior in being to 
+Mind). In fact, we might plausibly take the Neo-Platonic proof (ignoring its 
+other problems) as an argument for this different category of thing.
+Plotinus himself decidedly rejected a view according to which the abso-
+lutely simple, radically independent One (which transcends all multiplicity, 
+qualification, and differentiation) is mental in the sense of something capable 
+of thought and understanding. As Gavrilyuk notes, for Plotinus “Mind (nous), 
+as the repository of the eternal Forms, represents a perfectly unified plurality, 
+rather than perfect simplicity. For this reason, the divine Nous must be the 
+second hypostasis, which derives from and is ontologically subordinate to the 
+One.”38 The One’s absolute simplicity prevents mentality, since mentality (for 
+Plotinus) requires at least the duality of the knower and the known, a duality 
+which emerges first in the Divine Mind (the Nous). This duality (multiplicity, 
+plurality) is foreign to the One.39
+This bridges nicely into the final problem for Feser’s inference to minded-
+ness: it’s not at all clear how mindedness could be compatible with absolute 
+simplicity. One problem derives from the (plausibly) necessary existence of 
+abstracta. We might plausibly think that some propositions (say) are neces-
+sarily true and hence necessarily exist (provided that x cannot be anything 
+(e.g., true, correspondent with reality, etc.) without existing).40 Or we might 
+follow realist intuitions about the necessary existence of numbers, universals, 
+or what have you.
+Trouble arises when we consider that (i) the existence of anything dis-
+tinct from God presupposes God’s free creative act and (ii) abstracta are dis-
+tinct from God. Point (i) is a core commitment of classical theism: God is the 
+sole ultimate reality from which all else derives its being. As Kerr points out, 
+God “is the unique subsisting source of being from which all existing things 
+come.”41 Moreover, God is free to create or refrain from creating.42 And point 
+(ii) seems evident: there’s a multiplicity of abstracta, but there isn’t a multi-
+plicity of God. God is not identical to the number two, nor is he identical to 
+the proposition that one and one make two, and nor is he identical to the 
+universal humanity.
+The result seems to be an inconsistent triad:
+1. Abstracta (or some subset thereof) exist necessarily.
+2. Abstracta are distinct from God.
+3. Anything distinct from God requires God’s free creative bestowal of 
+being—a bestowal God is free to give or not to give.
+For given (3), anything distinct from God is contingent (i.e., possibly absent 
+from reality)—it requires God’s creative actualization, something God is free 
+to perform or not perform. But given (1) and (2), that can’t be the case. To avoid the inconsistency, it seems that the classical theist must maintain one 
+or more of the following:
+4. Abstracta either exist contingently or do not exist at all.
+5. Abstracta are identical to God.
+6. Either God is necessitated or compelled to create something distinct 
+from himself, or there exist things distinct from God not resulting 
+from God’s creative actualization.
+None of (4)-(6) look very attractive for the classical theist, however. Claim 
+(4) denies plausible realist intuitions either about the existence of abstracta 
+or their necessary existence. Claim (5) seems clearly wrongheaded: surely 
+God cannot be identical to the number two and the number seven, since 
+two is even while seven is not even. God cannot be both even and not even.43
+Claim (6) also seems quite unappealing. Surely God couldn’t be necessitated 
+or compelled to create, and surely God must be fully provident and sovereign 
+over the existence of everything distinct from himself (which he wouldn’t be 
+if there existed necessary abstracta over which he has no control). We have 
+seen, moreover, that classical theism itself seems to commit to the denial of 
+(6).
+But perhaps there’s a via media: locate abstracta within the divine mind 
+as thoughts and concepts (or otherwise grounded in such things). This, how-
+ever, seems inconsistent with absolute simplicity. So long as such abstracta 
+are not identical to God, they will thereby be parts of God (per the classical 
+theistic understanding of parthood canvassed in §2). They will be positive 
+ontological items intrinsic to but distinct from God.
+Even if this latter point is denied, a plausible mereological principle sup-
+ports the same conclusion. This principle states that if x is intrinsic to y, and 
+x is composite, then y is thereby composite (i.e., not absolutely simple). The 
+principle is entailed by the classical theistic understanding of parthood. For 
+suppose x is composite and intrinsic to y. Now suppose, for reductio, that 
+y is non-composite. Well, since x is composite while y is non-composite, it 
+follows that x is distinct from y. So, x is intrinsic to y but distinct from y. But 
+that’s precisely the classical theistic understanding of parthood. Hence, y is composite after all. But we assumed y was non-composite. Contradiction. 
+Thus, the fact that x is composite and intrinsic to y entails that y is composite. 
+(Given, of course, the classical theistic understanding of parthood.)
+But according to the aforementioned via media, abstracta are intrinsic 
+to God. So, if abstracta are composite, it would follow that God is composite 
+(per the mereological principle).
+But it’s plausible that some abstracta are composite given the classical the-
+ist understanding of parthood. As we saw in §2, properties are explicitly con-
+ceived as parts. This is precisely why classical theists insist that God cannot 
+have a multiplicity of properties, as that would introduce composition into 
+God. But abstracta plausibly have a whole host of properties. For instance, 
+if we reject deflationism about truth and instead adopt a correspondence 
+theory according to which truth is a property of propositions, it follows that 
+propositions are composite things. They also have properties of aboutness 
+or representation, of correspondence, and so on. Or consider the number 
+two. Surely it has properties like being even, being prime, and so on. If these 
+(seemingly) common sense claims about abstracta are true, it follows that ab-
+stracta are composite things. And hence it follows—assuming that we locate 
+abstracta in some way or another in the divine intellect—that God is com-
+posite. (Moreover, classical theists typically wish to affirm that there can only 
+be one absolutely simple thing in principle—in which case, abstracta cannot 
+be simple but instead must be composite.)
+Not only does the Neo-Platonic proof not justify premise three, then, but 
+it also doesn’t deliver the mindedness of the absolutely simple being. And 
+not only that, but it seems to militate against the mindedness of such a being 
+(given other commitments of classical theism as well as certain core realist 
+intuitions). Next I turn to new problems for the Neo-Platonic proof from 
+Trinitarianism.
+IV. TRINITARIANISM
+Orthodox, conciliar Trinitarianism (henceforth ‘Trinitarianism’) has a vari-
+ety of core commitments. Mullins identifies at least four: (i) there are three 
+divine persons; (ii) the divine persons are not numerically identical to one another; (iii) the divine persons share the same divine essence; and (iv) the 
+divine persons are related so that there is only one God.44
+These core theses point to a distinction between person and nature. In 
+particular, (T3) requires that there is only one divine nature. By contrast, (T1) 
+requires that there are three persons. There is thus some distinction between 
+person and nature here.
+We need not get bogged down here in defining ‘person’ and ‘nature’, since 
+nothing in my arguments to come crucially hinges on such definitions. For 
+now, we can follow Timothy Pawl in understanding a person as a hypostasis 
+(supposit) of a rational nature.
+45 As for ‘nature’, we can understand it in terms 
+of something’s essence, the what-it-is-to-be that thing. In the context of Trini-
+tarianism and the Incarnation, it is not some abstract Platonic universal but 
+rather a concrete, immanent essence within something that makes it what it 
+is.46 In any case, it is important to keep this distinction between person and 
+nature in mind as we proceed.
+In the following sections, I will argue that the Neo-Platonic proof is in-
+imical to Trinitarianism on numerous fronts.
+VI.1 Uniqueness
+The first problem derives from Feser’s inference to the uniqueness of the ab-
+solutely simple being. Feser writes:
+For suppose there were two or more noncomposite or utterly simple causes 
+of things. Then there would have to be some feature the possession of which 
+distinguishes one of them from the other. Noncomposite or simple cause A 
+would differ from noncomposite or simple cause B insofar as A has feature F, 
+which B lacks, and B has feature G, which A lacks. But in that case neither A 
+nor B would really be simple or noncomposite after all. A would be a simple 
+or noncomposite cause plus F, and B would be a simple or noncomposite 
+cause plus G. F and G would be different parts, one of which each of these 
+causes has and the other of which it lacks.47
+The central premise employed here seems to be that for there to be two or 
+more x’s, there would have to be some feature in virtue of which they are 
+individuated. And since the possession of such a feature entails composition, 
+there could not in principle be two or more absolutely simple beings.
+But this line of reasoning seems incompatible with Trinitarianism. For the 
+exact same reasoning equally applies to there being two or more divine persons; 
+the need for some individuating feature to distinguish two or more x’s seems 
+a perfectly general one, applying to all x’s. The main reason favoring such a 
+demand seems to be explicability: if there were no feature that one of x1
+ or x2
+possesses that the other doesn’t, then (so the reasoning goes) the fact that x1
+ and 
+x2
+ are distinct is inexplicable. In other words, if x1
+ and x2
+ share all and only the 
+same features, then the non-identity between x1
+ and x2
+ would be inexplicable. 
+But this motivation seems entirely general, applying to any distinct items.
+And if that’s true, then it equally applies to divine persons. In order for 
+there to be more than one divine person, there would have to be some feature 
+that one had that the others lacked. But in that case—per Feser’s own reason-
+ing—the divine person would not be absolutely simple (and hence wouldn’t 
+be divine after all!).
+Moreover, Feser’s inference to uniqueness (which, as we’ve seen, seems 
+inimical to Trinitarianism) plays an essential role in his argument. For with-
+out uniqueness, we face the quantifier shift problem: merely from the fact 
+that each chain of causes-of-unity has a first non-composite member, it does 
+not follow that there is a single first member for all such chains. And without 
+uniqueness in place, the inferences to various other divine attributes are un-
+dercut. For instance, Feser’s inference to omnipotence presupposes that every 
+(possible) composite being must derive its being from the causal activity of 
+the single absolutely simple being—for only then is it true that such a being 
+is that from which all possible being (and all possible causal powers) derives.
+Let’s turn next to a second tension between the Neo-Platonic proof and 
+Trinitarianism.
+IV.2 NPCP and the Trinity
+Consider again NPCP’s primary motivation: explicability. More specifically, 
+the compresence of distinct elements together into a unified being demands 
+some explanation—and because the explanation cannot be in terms of the being itself or one of its parts, an extrinsic cause (so the argument goes) is 
+required.
+But the exact same motivation for demanding an extrinsic cause of the 
+unity of composite objects seems equally to apply to the multiplicity of di-
+vine persons unified in a single Godhead. In other words, there seems to be 
+no justification for NPCP that doesn’t also justify demanding a cause of any 
+Trinitarian being. There seems to be no non-question-begging, non-arbitrary, 
+principled way to delineate the demand for an extrinsic cause of unity in the 
+case of things that are composites of (say) distinct attributes, or of essence 
+and accident, or what have you (on the one hand) and things within which 
+there is a multiplicity of distinct persons and processions (on the other hand).
+Indeed, the fact of distinct x’s within a being—i.e., a multiplicity or dif-
+ferentiation among distinct ontological items—is precisely what requires an 
+extrinsic cause in Plotinus’s view. For Plotinus, the One’s simplicity is utterly 
+unqualified.48 At “Enn. 6.9.4 Plotinus observes that… the One transcends all 
+differentiations characteristic of being… Plotinian simplicity excludes any 
+multiplicity.”49 Anything apart from the One requires a cause for the unity 
+of its multiplicity, distinction, differentiation, and qualification. Hence, for 
+Plotinus, a differentiation or multiplicity of distinct divine persons would de-
+mand an extrinsic sustaining cause.
+Clearly the Trinitarian God cannot have an extrinsic sustaining cause of 
+its being. But what, then, could explain the unity of the distinct persons in 
+God? If the answer is that there’s no explanation, then that seems to be a per-
+fectly legitimate move for the detractor of the Neo-Platonic proof in explain-
+ing the most fundamental composite thing(s). If the answer is that it’s simply 
+metaphysically necessary that there be three distinct persons unified in one 
+God, then that also seems to be a perfectly legitimate move for the detractor 
+of the Neo-Platonic proof.
+Perhaps the explanation is in terms of one of those very divine persons 
+(the Father, say)? But once again this will undercut the Neo-Platonic proof. 
+For this explanation amounts to the proposal that one of the x1
+, x2
+, … xn
+ ex-
+plains the unity of those very x’s. But once this kind of explanation is granted, 
+then it seems that the unity of the fundamental composite object(s) could be explained in virtue of one (or more) of its parts. If one of those very x’s can ex-
+plain the unity of them all, then it seems this should equally be the case when 
+the ontological items in question (the x’s) are parts.
+50 And hence it would not 
+necessarily be the case that any composite object must be explained in terms 
+of some extrinsic sustaining cause.
+Perhaps there is some fourth thing, some fundamental aspect of God, that 
+explains or accounts for their unity? But (i) this is incompatible with DDS 
+(since this thing would be some positive ontological item within but distinct 
+from God himself), and (ii) this reduces to the answer in the previous para-
+graph, since there’s the further question of what explains the unity or togeth-
+erness or compresence of {Father, Son, Holy Spirit, this fourth fundamental 
+aspect of God}. And any explanation in terms of the final element in the set 
+is just to cite one of the very x’s among x1
+, x2
+, … xn
+ to account for their unity.
+Fundamentally, then, my challenge for the Trinitarian proponent of the 
+Neo-Platonic proof is as follows. When it comes to explaining to unity (to-
+getherness, conjoined-ness, compresence) of the distinct divine persons in 
+one being (the Godhead or G), the explanation is either (i) internal to G, 
+(ii) external to G, (iii) G itself, or else (iv) there is no explanation. But if the 
+explanation is internal to G, then something within a unified plurality can 
+explain the unity of said plurality—in which case, the same could apply to 
+the objects within NPCP’s domain of quantification, thereby undermining 
+NPCP’s demand for an outside explanation of such objects. If the explanation 
+is external to G, then there is something outside of or external to God which 
+explains something about God, which is obviously incompatible with classi-
+cal theism. If the explanation is G itself, then an object within which there is 
+a unified plurality can explain the unity of said plurality without recourse to 
+any external thing—in which case, the same could apply to the objects with-
+in NPCP’s domain of quantification, thereby undermining NPCP’s demand 
+for an outside explanation of such objects. Finally, if there is no explanation, 
+then once again the same could apply to the domain of NPCP, thereby under-
+mining it. Thus, either classical theism is false, or else NPCP (and, hence, the 
+Neo-Platonic proof itself) is undermined.
+In general, then, it seems that any proposal for explaining the unity of 
+the distinct Trinitarian persons will undercut NPCP and a fortiori the Neo-Platonic proof. Trinitarianism is therefore inimical to the Neo-Platonic proof 
+in yet another way.
+V. CONCLUSION
+We’ve canvassed a variety of responses to the Neo-Platonic proof in this ar-
+ticle. We found first that premise three is both unjustified and dialectically 
+ill-situated. We then found that the Neo-Platonic proof fails to deliver the 
+mindedness of the absolutely simple being and arguably militates against
+mindedness. We then examined two tensions between Trinitarianism and 
+the Neo-Platonic proof.
+There are, of course, other lines of response I haven’t explored in this 
+article. For instance, one might adduce configurational or existential iner-
+tia—the thesis that composites (or at least ultimate, fundamental compos-
+ites) retain their unity in the absence of both causal sustenance and causal 
+destruction—in response to the demand for a sustaining cause of composite 
+objects.51 Or one might challenge the constituent ontology underlying the 
+argument. Or one might challenge the argument’s reliance on the impossibil-
+ity of infinitely descending chains of hierarchical dependence. Or one might 
+challenge Feser’s stage two inferences and instead opt for a view on which 
+there is an absolutely simple, mindless, impersonal, universal principle or 
+source of all multiplicity. And so on.
+But concerning the lines of response I have explored, their aim is to serve
+debates about models of God and ultimate reality. They are meant to be tools
+that invite further inquiry. It is my hope that I have accomplished this task.52
