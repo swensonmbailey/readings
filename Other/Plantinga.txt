@@ -1,0 +1,743 @@
+PLANTINGA ON "FELIX CULPA":
+ANALYSIS AND CRITIQUE
+Marilyn McCord Adams
+In "Supralapsarianism, or 'O Felix Culpa,'" Alvin Plantinga turns from 
+defensive apologetics to the project of Christian explanation and offers a 
+supralapsarian theodicy: the reason God made us in a world like this is that 
+God wanted to create a world including the towering goods of Incarnation 
+and atonem ent-goods which are appropriate only in worlds containing a 
+sufficient amount of sin, suffering, and evil as well. Plantinga's approach 
+makes human agents and their sin, suffering and evil, instrumental means 
+to the end of God's cosmic aims. I press the objection that means/end con-
+ceptuality is inadequate to explain how God is loving and merciful (as op-
+posed to abusive) towards human sinners and sufferers. Plantinga's theo-
+dicy remains under-developed without an explanation of how Incarnation 
+and atonement benefit them.
+I. Free-Will Defender of the Faith
+In his early and middle years, Alvin Plantinga was a vigorous promoter 
+and practitioner of defensive apologetics, which assumes the truth of the 
+Christian faith and shoulders a limited burden of proof.1 On Plantinga's 
+construal, the task of the defensive apologist is neither to demonstrate the 
+truth of doctrinal tenets with arguments convincing to all reasonable per-
+sons, nor to furnish explanations that would help unbelievers understand 
+what Christians really mean in holding them. Rather, the assignment is to 
+rebut unbeliever's arguments against the reasonableness of Christianity, 
+and to do so with minimal philosophical and theological exposure.
+In his book The Nature of Necessity2 and many earlier and later articles, 
+Plantinga's attention was on the atheological argument from evil, which 
+forwards the following inconsistent triad:
+(I) God exists, and is omniscient, omnipotent, and perfectly good.
+(II) Evil exists.
+(III) If (I), then not-(II).
+Many atheologians insisted, (III) is a necessary truth, and concluded that 
+God and evil are logically incompossible. Moving at a high level of ab-
+straction, rebuttal takes the form of a credible rejection of (III). Plantinga 
+explains, what the defensive apologist needs to do is to identify an R
+which is logically possible, is logically compossible with (I) and entails (II). So far as this logical problem of evil is concerned, R need not be true or 
+even plausible either to believers or to unbelievers, so long as it meets the 
+formal requirements just laid down.
+Plantinga himself was especially concerned to revitalize the Free Will 
+Defense, by rebutting an objection to it by J.L. Mackie. If free will defenders 
+in effect proposed
+R1: God created a world with incompatibilist free creatures and al-
+lowed them unfettered exercize of their freedom; and some of them 
+sinned,
+Mackie in effect retorted that R1 is not logically compossible with (I), 
+because a world with sinless free creatures is logically possible. Omnip-
+otence can bring about anything that is logically possible, and perfect 
+goodness would prefer sinless to sinful free creatures. Therefore, if (I), 
+God would bring about a world with sinless free creatures instead.
+By way of rebuttal, Plantinga imbedded his distinctive Free Will Defense 
+within a possible worlds framework. God's creative activity is construed 
+in terms of Divine actualization of a possible world. Implicitly assuming 
+that Divine Goodness is to be defended in terms of the quality of the mega-
+states of affairs God actualizes, Plantinga agrees that Divine omniscience, 
+omnipotence, and perfect goodness entails that any world God actualizes 
+would be a very good world. To rebut Mackie's charge that any world God 
+actualized would have to contain only sinless free creatures, Plantinga 
+draws on a Molinist conception of incompatibilist freedom to argue for 
+the startling conclusion that there are some possible worlds that God can't 
+actualize. The reason is that for every possible incompatibilist free creature 
+S, considered as merely possible, there are not only necessary truths about 
+that creature's possible choices—e.g., Adam chooses to eat the apple in W, 
+Adam chooses not to eat the apple in W'. In addition, for every possible in-
+compatibilist free creature S, and for every circumstance C in which S could 
+be actualized, there are contingent truths about what that agent S would do 
+if actualized in C: e.g., Adam would choose to eat if actual in Eden, Adam 
+would not choose to eat if actual in Shangrila. These "counter-factuals of 
+freedom" are supposed—by Plantinga—to be true not only prior to and 
+independently of the actual existence and actual choices of the incompatibil-
+ist free creatures, but also prior to and independently of Divine choice. As 
+such, they are fates (although Plantinga does not use the term), which—like 
+necessary truths—God has to work with, and they restrict God's options. 
+God consults which choice patterns the fates make available and then actu-
+alizes free creatures in the state of affairs that will issue in scenarios congru-
+ent with Divine purposes. Where worlds containing incompatibilist free 
+creatures are concerned, which world is actual is a function of the state of 
+affairs God actualizes on God's own (of which state of affairs God strongly
+actualizes) and the fates (which God does not control), and so Plantinga 
+speaks of God's weakly actualizing the possible world as a whole.
+With this philosophical machinery in hand, Plantinga proposes that 
+it is logically possible that all possible incompatibilist free creatures are 
+transworld depraved: that no matter what circumstance God decided to 
+actualize them in, they would go wrong at least once. Plantinga's candi-
+date for R is some version of R2: God actualizes a very good world containing incompatibilist free 
+creatures each of whom goes wrong at least once—a world that 
+displays the most favorable balance of moral good over moral evil, 
+God can get.
+Plantinga insists, R2 is compatible with (I) and entails (II). The Free Will 
+Defense is triumphant after all!
+II. Felix Culpa! and Christian Understanding
+In his middle and more recent years, Plantinga has made room for the 
+complementary project of Christian understanding; in his "Supralapsari-
+anism, or 'O Felix Culpa,'" (I'll call it "Felix Culpa" for short), he ventures 
+from defense into theodicy.3 Cast in terms of his older framework, he is 
+now interested in identifying an R that not only has the requisite for-
+mal properties—of being logically possible, logically compossible with 
+(I), and entailing (II). He wants an R that will carry some explanatory 
+weight with Christians, that will help Christians to understand why an 
+omnipotent, omniscient, and perfectly good God—Plantinga now inter-
+prets, a God Who is loving and merciful4—would create us in a world 
+like this. To do this work, Plantinga's new R will have to be one that 
+Christians believe to be true, or at least plausible, a coherent and sugges-
+tive extension of the beliefs and understandings that they already hold. 
+As a by-product, the new R should help non-Christians understand one 
+way that Christians might coherently hold (I) to be logically compossible 
+with (II).
+In "Felix Culpa," Plantinga sticks to his possible worlds framework, 
+still characterizes Divine creation in terms of world actualization, still 
+sets Divine evaluative sights on mega states of affairs. As before, Plantin-
+ga holds fast to his Molinism, however contestible and widely contested 
+it has proved to be. (Certainly, I would contest it, but—like Plantinga—I 
+forego old and familiar disputes to focus on fresher things.) As before, 
+Plantinga concludes, it follows from (I) Divine omniscience, omnipo-
+tence, and perfect goodness that any world God actualizes would be a 
+very good world. Mega states of affairs have many good-making and/ 
+or bad-making features (beauty and happiness and justice and perfor-
+mance of duty versus pain and suffering and hatred and wrong-doing) 
+that most people—unbelievers as well as believers—would recognize as 
+such.5 In "Felix Culpa," however, Plantinga is especially eager to draw 
+attention to some Christian value-commitments that erstwhile (because 
+now deceased and—Christians believe—better informed) atheologians 
+like Mackie did not share: most notably, to the existence of God, to the 
+good that God is; and to the fact of the Incarnation and atonement.6 Fo-
+cussing first on the good that God is, and without putting too fine a point 
+on it, Plantinga speaks of Divine goodness as "unlimited" or "infinite" 
+or "incommensurate," which mean at least that the good that God is out-
+weighs any aggregate of merely created goods or evils.7 Plantinga goes 
+on to infer,
+Corollary 1: any world in which God exists is ipso facto a very good 
+world, whether or not it contains any creatures.8 
+nd since, necessarily, if God actualizes a world, God exists in that world,
+Corollary 2: any possible world that God could create is a very good 
+world.
+Further, since—many Christian philosophers would agree-(I) is a neces-
+sary truth—God's existence, omniscience, omnipotence, and perfect good-
+ness are necessary,
+Corollary 3: any possible world is a very good world.9
+The problem posed by evil for believing Christians is not that it disproves 
+the existence of God. Rather, given Corollaries 1-3, and given God's nec-
+essary existence, omniscience, omnipotence, and perfect goodness, the 
+problem is to understand how this can be a very good world given evils 
+in the amounts and of the kinds and with the distributions that we ac-
+tually experience. Put otherwise, the swamping effect of infinite Divine 
+goodness on global values, does not make what else the world contains 
+irrelevant for Christian understanding of how God can be good or loving 
+towards His personal creatures. For Plantinga, as for the great medieval 
+theologians, part of the explanation lies in God's posture towards the evils 
+and God's posture towards us! In "Felix Culpa," Plantinga does recognize 
+"imaginable or conceivable worlds" (presumably in the sense of being 
+worlds free from internal contradiction) that are so bad that God would
+not actualize them (e.g., worlds in which all sensient creatures experience 
+continual and unrelieved excruciating pain).10
+Turning to the "towering" goods of Incarnation and atonement, Plant-
+inga endorses
+The Strong Value Assumption: there is a level L of excellence or good-
+ness among possible worlds such that all the worlds at that level or 
+above contain Incarnation and atonement,
+which implies that any world at or above L is a highly eligible world. 
+Plantinga conducts his argument on the basis of the Strong Value assump-
+tion, but he thinks it would work as well on
+The Moderate Value Assumption: for families of possible worlds con-
+taining the same free creatures, the worlds in which those creatures 
+sin but are offered redemption through Incarnation and atonement 
+are better than the worlds in which those same free creatures are 
+sinless and need no redemption,
+which—he says—does not entail that every world with Incarnation and 
+atonement is better than every world without them, and does not entail 
+that there is a level L such that every world at or above it contains Incarna-
+tion and atonement.11 Suppose that the worlds in family F contain n free 
+creatures, while the worlds in family F* contain 10n free creatures. On the 
+Moderate Value Assumption, it is possible that the better F* worlds with 
+10n free creatures but no Incarnation and atonement, exceed the value 
+of any of the F worlds. Incarnation and atonement might trump within 
+families, without trumping tout court.
+Plantinga seems to over-reach himself when he suggests that his argu-
+ment requires only The Weak Value Assumption: some possible worlds of great value in-
+clude Incarnation and atonement.
+One problem is that the Weak Value Assumption not only differs from, but 
+is compatible with the following inversion of the Moderate Value Assump-
+tion: viz., that for every world in which creatures sin and are redeemed 
+through Incarnation and atonement, there is another even better world in 
+which those same free creatures exist but never sin at all. And, as we are 
+about to see, the argument that Plantinga actually gives turns on claiming 
+that within the relevant class of world options, sin, Incarnation, and atone-
+ment confer greater global value.12
+If the "very-goodness" contributed by the existence of God is a constant, 
+value comparisons among worlds will focus on the rest of what they in-
+clude. The Strong Value Assumption says that Incarnation and atonement 
+will get any world up to a level-L, which is greater than that of any world 
+that does not contain them, and every possible world that does contain 
+them is at level-L or above. So Plantinga's new candidate for R is
+R3: God creates a level-L or above world that contains the Incarnation 
+and atonement.13
+But Atonement is not appropriate apart from a sufficient amount of sin, 
+suffering, and evil. Felix culpa, because human sin is a necessary condition 
+for any possible world's being at level L or above. Plantinga contends, R3
+is itself logically possible, logically compossible with (I), and entails (II). 
+Moreover, R3 explains to Christians, in terms of characteristically Chris-
+tian beliefs and concepts, why God would create us in a world like this. 
+God creates us in a world with sin and suffering and evil, because God 
+wants to create a level-L or above world, one that contains Incarnation 
+and atonement! Plantinga concludes that this would constitute a success-
+ful theodicy.14
+III. Supra- vs Infralapsarianism
+Historically, the terminology 'supra-' vs 'infralapsarian' (above and be-
+low the fall, respectively) gets introduced into a debate about Divine 
+predestination. Which comes first? Does God first foresee Adam's fall 
+(human sin) and then (on the basis of that knowledge) divide Adam's 
+fallen race into those predestined to eternal blessedness in heaven and 
+those reprobated to suffer eternal torments in hell? Or does God first 
+partition the human race into the heaven-bound and the hell-bent, and 
+then furnish and withhold helps of grace so that individual human ca-
+reers are congruent with their pre-established destinies? Historically, the 
+issue is the ordering of foreseen sin and eternal destiny assignment. Appar-
+ently wishing to finesse the question of double predestination, Plantinga 
+reformulates the contrast as about the ordering of permission to sin and 
+decision to save:
+According to supralapsarianism, the decree to save some of the 
+fallen precedes the decree to permit sin; according to infralapsari-
+anism, it's the other way around.15
+Plantinga rightly reckons that the kind of priority in question is priority 
+of intention: the contrast is between ultimate ends (what is first intended) 
+and proximate ends or chosen means (what is intended for the sake of the 
+ultimate end). Plantinga concludes, according to R3, the supra's have it.16
+Even if Divine focus is global and what God chooses to actualize is a 
+possible world as a whole, Plantinga recognizes that certain good-making 
+and bad-making features within a world may furnish the reason for Divine 
+choice. Thus, in his earlier distinctive Free Will Defense, God's ultimate aim 
+is a very good world whose incompatibilist free creatures compile moral 
+records with the most favorable balance of moral goodness over moral evil 
+that the fates (the counterfactuals of freedom) allow.17 Incompatibilist free 
+creatures exercizing significant freedom to do right, is part of God's ulti-
+mate aim. Their each going wrong at least once is a regrettable price God 
+has to pay because of the way the fates fall out. "Felix culpa!" is not God's 
+reaction, because—early and middle Plantinga still concedes to Mackie, at 
+least for the sake of argument—God would actualize a world with sinless 
+free creatures if God could. Plantinga's earlier Free Will Defense does not 
+mention Incarnation and atonement at all, but relies on the "very goodness" 
+conferred on the world by free creatures' moral records; after all, he was do-
+ing defensive, minimal-exposure apologetics. Nevertheless, the reader is 
+left to think that the earlier Free Will Defense is infralapsarian.
+By contrast, Plantinga's analysis in "Felix Culpa" is supralapsarian. 
+God's ultimate aim is an L-level world, one that contains Incarnation and 
+atonement. Sin, suffering and evil are proximate ends or chosen means. 
+The decree to provide Incarnation and atonement and hence salvation is 
+prior to the decree to permit the fall into sin, not the other way around.18 
+Plantinga goes further to explain: if sin, suffering, and evil are necessary 
+for atonement, and Incarnation and atonement are necessary for a level-L
+world, then Christ's suffering will not be sufficient for a level-L world; 
+human suffering—he should have added, sin and evil—will be required 
+as well. He commends this as a perfectly good sense in which our suffer-
+ings fill up the sufferings of Christ (Col 1:24).19
+This contrast does not mean that Plantinga's two proposals are them-
+selves incompatible. The Free Will Defense is a piece of defensive apolo-
+getics, which aims to defend the logical compossibility of (I) and (II). R2
+is advanced, not as true or plausible, but as logically possible. By contrast, 
+"Felix Culpa" aims at theodicy, and its R3 is proposed as true. Since what 
+is at stake is the contingent ordering of Divine intentions, Infralapsarian-
+ism could be possible even if Supralapsarianism were true, indeed—as 
+Plantinga claims—a true theodicy. What would be incompatible with 
+Plantinga's "Felix Culpa" Supralapsarianism, would be to continue to 
+grant—with Mackie—that 'A perfectly good God would create a world 
+with sinless free creatures in preference to a world with sinful ones, if God 
+could' is a necessary truth, or—relative to the actual world—a truth at all.
+IV. Means and Ends
+Using or Abusing? Possible worlds are mega states of affairs. Possible worlds 
+approaches to the problem of evil easily slide into a consequentialist as-
+sumption: that because agents are to be evaluated in terms of the states of affairs they bring about, it is enough to defend Divine goodness by point-
+ing to the laudable overall qualities of the possible world God actualizes 
+(e.g., that it is the best of all possible worlds; that it is a world with the 
+most favorable balance of moral good over moral evil the fates allow; that 
+it exhibits maximum variety and maximum unity). Especially from a Chris-
+tian point of view, however, it is important to distinguish between what 
+I have called God's "global" goodness, or goodness at cosmos production, 
+from God's "person-oriented" goodness—to the individual persons God cre-
+ates. Certainly, the bible represents God as interested in cosmic excellence 
+(cf. Gen 1), but it also tells of God's love and mercy towards individual 
+created persons. Since positively valued organic wholes (such as many 
+possible worlds arguably are) can contain negatively valued parts that 
+enhance cosmic excellence, going for a high degree of cosmic excellence 
+would not guarantee individual personal well-being. Just as a blob of ugly 
+billious green might be necessary to produce Monet's exquisite design, so 
+horrendous suffering by created persons might be a necessary ingredient 
+in (a constitutive means to) the best of all possible worlds. Already Leibniz 
+was criticized: to represent God as someone Who would accept the Lis-
+bon earthquake as the price of getting the best of all possible worlds, is 
+to portray God as so focussed on maximizing world-excellence as not to 
+care much about the created persons God has made!20 But Plantinga's "Fe-
+lix Culpa" theodicy explicitly makes created sin, suffering, and evil to be 
+necessary Divinely chosen means to actualizing a level-L or above world 
+(God's ultimate aim). Plantinga even makes the unKantian observation that 
+"not all rational creatures are equal with respect to value, i.e., to the value 
+of the worlds in which they exist."21 Isn't Plantinga's God just using created 
+persons, treating them to their detriment as means to Divine cosmic ends? 
+However Plantinga may commend Divine excellence at world-making, 
+doesn't his theodicy undermine any claim that God is loving or merciful, 
+good-to the persons involved?
+Plantinga considers this objection, and has the courage of his convic-
+tions. His Moderate Value assumption would have God choosing between 
+two families of worlds that include exactly the same created persons: in 
+one family of worlds, the created persons are all sinless and free from 
+suffering and evil and so need no redemption; while in the other fam-
+ily of worlds, they sin, experience suffering and evil, and are rescued by 
+Incarnation and atonement. God actualizes those free creatures in careers 
+that include sin, suffering, and evil, when God could have spared them 
+such troubles. God doesn't, because God is using them and their suffer-
+ing—Plantinga should have added, sin and evil—as means to the Divine 
+cosmic end of actualizing a higher quality world.22
+Confronting the charge that it is morally objectionable (in any event, 
+incompatible with Divine goodness, love, and mercy) for God to use cre-
+ated persons, that this would be to treat them as means rather than ends, 
+Plantinga construes the issue as one of fairness or justice. His bold retort 
+is, "what's wrong with that?"23 It isn't always wrong for people to treat 
+one another as means: employers treat employees as means to the end of 
+getting the job done, and employees treat employers as means to the end 
+of earning a living. God is the owner of the world's vineyard. Why should 
+God not treat created persons as laborers?24
+Scanning for disanalogies that would motivate the objection, Plantinga 
+fixes on two. The first is the issue of "free and voluntary consent." To 
+many, it seems wrong to impose harms on persons without their free and 
+voluntary consent. Employers freely offer; employees freely take the job, 
+thereby "signing a consent form" for any hardships it involves. But
+God doesn't ask for our permission before creating us, before actu-
+alizing this world in which we are called upon to suffer. We don't 
+accept the suffering voluntarily; we don't get a choice . . . isn't that 
+somehow unfair?25
+Second, the employees get something out of the arrangment: wages. In the 
+"Felix Culpa" scenario as Plantinga has so far described it, God calls on us 
+to live out careers of sin, suffering, and evil, for the world's sake, for the 
+sake of Divine purposes. Nothing has yet been said about these careers ad-
+vancing the creatures' good or well-being—which is what person-centered 
+goodness, love or mercy toward individual creatures would require.26
+Consent, How Relevant? Plantinga is clear, God has no obligation not to 
+use us. God is entitled to do what God wants with what is God's own. 
+(With this claim, I, for one, would surely agree.) For Plantinga (as for me), 
+the issue is whether God would be unloving or unmerciful in actualizing 
+us in careers in which we live through significantly bad experiences that 
+do not benefit us, without our consent. Plantinga observes that—given 
+his Molinist, possible worlds framework for Divine decision making—it 
+is logically impossible for God to get our consent prior to Divine selec-
+tion of which world to actualize. In moral reasoning, what we do (e.g., 
+in medical ethics dilemmas) when the agent is unable to consent (as with 
+the comatose) is consider whether they would consent if they could. Since 
+God knows all of the counterfactuals of freedom, God would know the 
+answer to such questions. Still, the person's own preferences are not al-
+ways decisive even with those who love him/her. Sometimes a person is 
+unwilling only because of ignorance, but would consent if s/he knew all of 
+the relevant facts. It would not count against our goodness towards such 
+a person to override their refusal and proceed in such a case. Other times 
+a person is unwilling because of disordered affections. Plantinga mentions 
+the loving mothers who drag their eight year olds kicking and screaming 
+to piano lessons, because the children (whose agency is still immature) 
+don't know what's good for them. By the time we finish the list, it seems 
+that God is not unloving or unmerciful to act without our consent, be-
+cause what's relevant is not what we personally would agree to, but what 
+"an ideal consenter" with full knowledge and perfectly ordered affections 
+would choose. And God knows what that is, in advance of Divine deci-
+sions about which world to actualize.
+The question about consent arose from worries about God's person-
+centered goodness towards us in using us as means to getting a level-L 
+world. Plantinga's blunt "what's wrong with that?" response, his insis-
+tence that it is not always morally objectionable to use people as means, is 
+probably congruent with Kant's famous formulation of the maxim: "don't 
+treat people as means only and not as ends in themselves!" The Kantian point is that there are moral constraints on how we use each other and 
+for what ends we use each other. It is morally permissible to do so, only 
+in ways that respect the dignity and worth of one another's personhood. 
+Roughly speaking, that means employment, but not slavery; employment, 
+but for fair wages and under decent working conditions; employment that 
+does not set others to tasks that put them at avoidable, unacknowledged, 
+and/or uncompensated risk of great bodily harm, to tasks under condi-
+tions almost sure to make them morally worse, mentally deficient, and/or 
+to result in their psycho-spiritual undoing. It means that we are not mor-
+ally in the clear to hire the "hit" man to do our moral dirty work, nor to 
+put people under pressure to betray their deepest loyalties. In short, it is 
+not morally permissible to use one another in ways that are degrading or 
+depersonalizing.
+The further Kantian point is that moral permission is denied for this, 
+whether or not the person consents to being used in this way. Hearkening back 
+to Plantinga's own criteria, persons who consent to being used in ways 
+very likely to be degrading and depersonalizing, thereby furnish prima
+facie evidence that they do not really know what they are doing (they 
+are ignorant of some choice-relevant factors) and/or that that they are 
+"crazy" (more soberly, that their affections are disordered in some way). 
+Even if we agree that God is not subject to moral obligations not to use 
+us, how could God be loving and merciful towards persons that God uses 
+in such ways?
+Atonement, A Towering Valuable? Central to Plantinga's "Felix Culpa" 
+theodicy is his contention that Divine Incarnation and atonement are an 
+"unthinkably great," "towering and magnificent" good, an unrivalled 
+display of love.27 Evidently, Plantinga assumes that this judgment will 
+be uncontroversial among Christians, because he is content to speak of 
+Incarnation and atonement together and to leave the biblical language 
+through which he references them unanalyzed (apart from the Lutheran 
+interpretation that Christ on the cross experienced Himself as abandoned 
+by the Father).28 Since the very propriety of "Felix Culpa" Supralapsarian-
+ism turns on it, we should pause to examine it.
+In fact, as the great medieval theologians recognized, Incarnation and 
+atonement are logically independent: all agreed, it would have been meta-
+physically or logically possible for God to become Incarnate, even if crea-
+tures had never sinned; and Incarnation without atonement would still 
+have been cosmic excellence enhancing.29 Except for some nineteenth cen-
+tury kenotic views, the immeasurable value of the Incarnate One should 
+be easy to grant, because the Divine Word is no less God, despite Incarna-
+tion.30 In the middle ages, hypostatic union was viewed as a further valu-
+able, albeit the finite one of a created relation relating a created nature to 
+the Divine Word.31
+Atonement is more difficult, and here it helps to distinguish the ge-
+neric value of the act-type (truth-telling, almsgiving vs stealing, lying, 
+and cheating) from the value of the act-token. Good act tokens require the 
+performance of an action of a generically good act type by the right person 
+at the right time and place and in the right manner. Problems with the 
+act-types Plantinga's traditional language attributes to God the Father—a father's putting his son in the position of sacrificing his life for less re-
+lated and undeserving others; a person in authority requiring the inno-
+cent to suffer for the guilty—are ancient and honorable and often wrestled 
+with. They need not detain us here except to record that their positive 
+value has not seemed self-evident to Christians, but rather a candidate 
+for theological explanation of the sort that theodicy is supposed to pro-
+vide. The act-types attributed to the Son—voluntarily sacrificing oneself 
+for the good of others, voluntarily standing up for what is true and right 
+at whatever cost—are generically good. But for the token to be good, there 
+has to be a situation where such sacrifice is appropriate. Otherwise, the 
+deed will be foolish or quixotic. "Felix Culpa" Supralapsarianism adds 
+another act-type to the soteriological drama: deliberately putting some in 
+a position that will require rescue by others. Plantinga admits, this looks 
+like a generically bad, indeed psychologically perverse act type—like the 
+Munchausen Syndrome by Proxy,
+too much like a father who throws his children into the river so that
+he can then heroically rescue them, or a doctor who first spreads a
+horrifying disease so that he can then display enormous virtue in
+fighting it in heroic disregard of his own safety and fatigue.32
+Why is Plantinga's Supralapsarian "Felix Culpa" God not a cosmic child 
+abuser, however within Divine rights an obligationless God necessarily 
+remains?
+Compensating Benefits? Plantinga is not altogether insensitive to, but 
+clearly remains puzzled by objections to God's choosing us into careers 
+in which we suffer many and great ills for the world's sake, and for the 
+sake of God's cosmic, level-L or above, aspirations. Plantinga rejects as too 
+general Eleonore Stump's idea that a loving God (or parent) would impose 
+only those sufferings that were necessary for the sufferer's own good. Per-
+haps Plantinga is thinking that God is within Divine rights to cause us to 
+suffer for other reasons. Perhaps he also reckons (with Hick) that a little 
+altruism—e.g., suffering skinned knees or mumps or measles or lost soc-
+cer matches for the world's sake—might be good for our souls!33
+Where suffering is concerned, Plantinga does go further. Treading the 
+deep waters of the Pauline epistles, of Calvinist and other spiritual writers, 
+Plantinga brings out their proposals for how suffering can have instrumen-
+tal value for the sufferer. Not only does suffering offer Hicksian opportu-
+nities for character development. Not only is some suffering consequent 
+upon the instrumental value to us of natural regularities (as Swinburne 
+and Van Inwagen34 maintain). St. Paul suggests that our suffering is a soli-
+darity with Christ in His suffering, a way of coming to be more Christlike, 
+a means to attaining the resurrection from the dead (2 Cor 4:10-11,14; Phil 
+3:10-11) and to bearing an eternal weight of glory beyond the grave (2 
+Cor 4:17). Jonathan Edwards suggests that by virtue of our fall and subse-
+quent redemption we can achieve a level of intimacy with God that can't 
+be reached any other way, one that brings us into "the charmed circle" of 
+the Trinity itself. Julian of Norwich predicts that we will experience Divine 
+gratitude for our suffering.35
+On the strength of these testimonies, Plantinga ventures that such fu-
+ture benefits are so great, that a really mature Christian might welcome the 
+opportunity to suffer in advance (like the keen student who signs up for 
+grueling hours in the lab or library for the sake of intellectual discoveries; 
+or the eager athlete who subjects him/herself to punishing training rigors 
+in order to beat the record or win the race), while the rest of us sufferers 
+might be glad of it in retrospect (like the adult who is after all glad to have 
+had the piano lessons s/he resisted in childhood).36
+V. Wrecked and Ruined Agencies
+Damned or Damnable? The idea that really mature Christians would be 
+willing to sacrifice their own well-being for God's sake, is ancient and hon-
+orable and recurrent. In the midst of the 16th and 17th century pure love 
+controversy, Fenelon argued that if one's love for God were pure—if one 
+loved God with all one's heart, soul, strength, and mind—then one would 
+will only that God's will be done. Fenelon drew the conclusion that one 
+should be willing to be damned for the glory of God!
+Notable for present purposes is that Fenelon is talking about a special 
+case of agents with high levels of integrity, whose personality is so orga-
+nized around the love of God above all and for God's own sake, that they 
+would not draw back from any use God wanted to make of them. Fenelon 
+envisions consenting—like early Christian martyrs—to deprivations and 
+torments that do not violate the personal core, but leave loyalties and 
+commitments intact. Likewise notable is the fact that the Roman Catholic 
+church condemned Fenelon's conclusion, partly in the face of arguments 
+by Bossuet that loving God above all and for God's own sake would entail 
+a good and right desire for fellowship with God—which is the opposite 
+of damnation.37
+Plantinga's "Felix Culpa" is non-committal about double predestina-
+tion, except to identify it as one of the "sterner" forms of Calvinism.38 What 
+"Felix Culpa" Supralapsarian does commit him to is something at least as 
+daunting: Plantinga's "Felix Culpa" God calls on individual created per-
+sons to be or become agents who are not and cannot be pleasing to God 
+according to the criteria published by the bible and the Christian religion! 
+Remember, this time Plantinga is offering a theodicy, which is supposed to 
+explain to Christians, not just some evils or other, some sins or other, but 
+the kinds of evils and sins, the wrecked and ruined agents that we actually 
+find. Look around, read the papers, revisit the history books: Plantinga's 
+"Felix Culpa" God calls on many of us to be or become—whether or not 
+damned—damnable, for the sake of an level-L or above world.
+Although it is sin that atonement most obviously presupposes, Plant-
+inga gives the category of sinners short shrift, perhaps because he is still 
+thinking that sinning is their own incompatibilist free choice, and cre-
+ated incompatibilist free choices are not something God causes. Thus, 
+he re-emphasizes how it is not the capacity for some incompatibilist free 
+choices or other (e.g., to choose the blue pencil over the red one), but 
+for morally significant incompatibilist free choices that is so cosmic-value 
+enhancing. "[C]reatures that have a great deal of power, including power 
+to do both good and evil," to oppose God and obstruct Divine purposes, "are more valuable than creatures who are free, but whose power is lim-
+ited or meager."39
+This cuts no theodical ice, however, because Plantinga's "Felix Culpa" 
+Supralapsarianism has God decide on what careers incompatibilist free 
+creatures will have prior in the order of explanation to their existence. 
+Once again, for Plantinga, incompatibilist free creatures, considered as 
+merely possible, are not "truth-makers" for the counter-factuals of free-
+dom about them. On Plantinga's Strong Value assumption, God is aiming 
+for a level-L-or-above world. God consults the fates and identifies states 
+of affairs the strong actualization of which will achieve Divine purposes. 
+That individual created persons are sinners is predestined, because it is 
+settled by the fates and by Divine choice "before the foundation of the 
+earth." Plantinga's Moderate Value assumption explicitly has God choos-
+ing among alternative careers for the same individuals. On Plantinga's 
+"Felix Culpa" Supralapsarianism, God's choice of which state of affairs 
+to strongly actualize—without ever having to cause our choices—does us 
+out of sinless lives and chooses us into the agencies that we actually have. 
+Sober confrontation with these evokes the question, whether God has not 
+seriously harmed many of us thereby?
+Consider a category that cuts across sin and suffering: the category of 
+wrecked and ruined human agency—agency that is hardened and per-
+verted (Hitler, Stalin, and Pol Pot are only lurid examples), agency that is 
+biochemically twisted (serial killers, child sex murderers, schizophrenics), 
+agency that is biologically or psychologically too fragmented (whether by 
+autism or the traumas of child abuse and war) to be capable of whole-
+hearted commitment to anything. Plantinga's "Felix Culpa" God chose for 
+Pharaoh the career in which repeated heart-hardenings rain ruin on the 
+land of Egypt; for Judas, the career in which he betrays Christ; for the 
+Gospel Pharisees and Sadducees, the careers in which they betray their 
+deepest purpose by killing the Messiah Whose way they worked so scru-
+pulously to prepare. We know, in the bible Pharaoh's resistance advances 
+the cause of Israel's exodus and YHWH's glory; Judas and Jesus' estab-
+lishment enemies all forward the ever ironic plot towards crucifixion and 
+resurrection. But how does God, in assigning them such vocations, show 
+Godhead to be loving and merciful to them?
+If it is mysterious how excruciating back pain might prepare one for an 
+eternal weight of glory or make one better suited for Trinitarian intimacy 
+(I am not denying that it does), it is incredible that such wrecked and 
+ruined agency has instrumental value for the created agents themselves. 
+That's what we mean by 'wrecked' and 'ruined'! These are conditions that 
+do not advance, but drastically retard the soul-making process. Would 
+it be a sign of disordered affections, not to consent to becoming a God-
+hater, a people-hater, a mass murderer, a Christ-betrayer, a God-killer? 
+a person so shattered as to be incapable of the integrity God commands? 
+What more would a rational agent under the Rawlsian veil of ignorance 
+have to know, to decline the opportunity to be actualized in such a world? 
+Would not even a Christian of Fenelonian maturity balk at the idea of 
+owning such an agency, just so that God could actualize an L-level or 
+above world? Would not the double-bind—of God's commanding us to 
+be the opposite of what God has otherwise commanded—show that God does, after all, hate some of the people God has made? Nor would these 
+worries be alleviated by appeal to the fates, by the suggestion that maybe 
+the counter-factuals of freedom fall out in such a way that God could not 
+make us in better careers. For Divine love and mercy to created persons 
+is not adequately defended, much less explained, by the observation that 
+God couldn't do better for them. One has to argue in addition that the ca-
+reers they have are not so bad that—as Matthew says of Judas—it would 
+have been better for them never to have existed at all (Mt 26:24)!
+In "Felix Culpa," Plantinga does not make unmistakeably clear wheth-
+er he thinks Divine goodness-to (love and mercy towards) created per-
+sons is universal. Certainly, the ends of Incarnation and atonement most 
+easily rationalize a world that includes only sinners who get redeemed; 
+others would be a waste, so far as those ends are concerned, although the 
+fates might make strict economy de facto impossible. More to the point, 
+Plantinga's reticence about double predestination suggests that he is still 
+a minimal-exposurist who would like his "Felix Culpa" Supralapsarian-
+ism to be compatible with either option—universal salvation, or divided 
+destinies after all. To complete our analysis, we ought briefly to explore 
+(as Plantinga does not) whether what he does say suggests any ways to 
+develop his position to make that neutrality possible.
+Compensating Damages? Plantinga explained Divine goodness-to suffer-
+ers in terms of the instrumental value of their suffering in producing some 
+compensating benefit for them. If wreck and ruin have no instrumental 
+value for wrecked and ruined agents, compensating benefit would have to 
+be responsive and corrective and involve healing, a remolding and remak-
+ing of agency in radical ways. To be sure, this kind of Divine tampering 
+with created agency is something Free Will Defenders have usually seen 
+as a violation of the created agent's autonomy: God—they say—should 
+not reach in and turn the wills of those who reject God, even if that means 
+annihilation or eternal torment for them. Plantinga's own Free Will De-
+fense made no such protests about Divine interference, but rather spoke 
+abstractly of incompatibilist free creatures excercizing significant freedom 
+to compile moral track records. In any event, we have already seen how 
+Plantinga's "Felix Culpa" theodicy does not put a high priority on the 
+actual consent of created persons: what they would personally choose is 
+not decisive, but can be trumped by what an "ideal consenter" would 
+choose instead. Moreover, radical agency-healing would not have to be 
+"twinkling of an eye" instantaneous and hence introduce drastic psycho-
+spiritual discontinuities. It could involve a long therapeutic process, with 
+many opportunities for the agent to participate and learn to cooperate 
+along the way.
+Divine goodness-to actual wrecked or ruined agents surely will have to 
+involve healing transformation and conversion. But would this be enough 
+to save Divine love and mercy to wrecked and ruined agents, according to 
+Plantinga's "Felix Culpa" Supralapsarian plot? How should we assess the 
+attitude of a God Who predestines us to be ante-mortem Hitlers or child sex 
+murderers as a means to the end of an L-level world, but tries to make it up to 
+us by turning us into St. Francis or St. Clare in the life to come? Isn't this too 
+much like the wife-beater who jekyl-hydes between Monday-Wednesday Friday blows and Tuesday-Thursday-Saturday chocolates and roses? Would 
+Fenelonian heroes and heroines of faith be wrong to refuse such an offer?
+VI. Neglected Disvalues, Mistaken Connections
+The Meaning of Horrors. My worries about Plantinga's "Felix Culpa" theo-
+dicy can be focussed in another—coming from me, unsurprizing—way: it 
+shows an insufficient appreciation of the category of horrors. In my earlier 
+books and articles,40 I have defined "horrors" as "evils participating in the 
+doing or suffering of which constitutes prima facie reason to believe the 
+participant's life cannot be a great good to him/her on the whole and in the 
+end." Horrors are prima facie life ruinous, person destroying, because they 
+threaten to swallow up the positive meaning of the participant's life. Hor-
+rendous evils positively litter the actual world. Why God would make us 
+radically vulnerable to horrors in a world such as this, and how God can 
+be good to us even though we participate in them, are questions a credible 
+Christian theodicy must face.
+Any solution to the problem of horrors will have to argue that horrors 
+can be rightly recontextualized by relation to a great enough good. But 
+since what is at stake is personal meaning and the personal relationships 
+between God and human beings, not just any sort of connection between 
+the evil and the greater good will serve. Standard moves in formulating 
+and solving the philosophical problem of evil converge on instrumental 
+"means/end" conceptuality: they agree that an omniscient, omnipotent, 
+and perfectly good God would not cause or permit evils except as a neces-
+sary means to some greater good or to avoiding some worse evil. Plantin-
+ga's "Felix Culpa" theodicy applies this notion twiceover: human careers 
+of sin, suffering, and evil are instrumentally necessary (necessary means) 
+for God's chosen end; and human suffering is instrumentally necessary for 
+benefits for the sufferer her/himself.
+The trouble is that horrors do not have instrumental value for the 
+horror participant. Imposing prima facie personal ruin is not a way to be 
+good-to or to benefit anyone. Among human beings, it is morally wrong 
+to perpetrate horrors on one another as a means to the end of some collec-
+tive good. Even if God has no obligations to be good-to created persons, 
+God would still be unloving and unmerciful to any individuals whose 
+horror participation God embraced merely as a means to some cosmos-
+enhancing end.
+Plantinga's "Felix Culpa" Supralapsarian plot assigns a meaning to our 
+horrors that deepens the horror participant's problem by explaining that 
+God's attitude towards him/her is as bad or worse than s/he feared. Plant-
+inga's supplementary suggestion—that suffering has instrumental value 
+for the sufferer—is intended to meet this anxiety. Eleonore Stump has the 
+same intention when she assures us that God permits only such suffering 
+as is necessary for our own good. This idea brings horror participants to 
+the verge of despair: if I am by nature the kind of person who cannot be 
+benefited without being prima facie ruined, then I am a cursed kind of thing 
+indeed. Likewise, if I am the kind of thing that (in the phrase of Dallas 
+Willard) has to be tortured into beatitude. If human beings are the kind of 
+thing that cannot be prepared for glory, who cannot get a good view of the Trinity or enter into intimate fellowship with the Divine persons without 
+being prima facie ruined, then the question becomes urgent: doesn't God 
+prove unloving and unmerciful in creating human beings at all?
+My own conclusion is that means/end connections between greater 
+goods and the worst evils (the ones I have identified as horrors) do 
+not help the project of Christian theodicy. There need to be meaning-
+connections of another kind. Where horrors are concerned, it won't be 
+enough to suggest—as Plantinga does—that the greater good outweighs
+the evil either. For precisely because horrors threaten to take away the 
+possibility of positive personal meaning, they require recontextualizing 
+to confer some positive meaning upon them. Mere balancing off does 
+not do that: the sequencing of the unpleasant hour in the dentist's chair 
+and the ravishing concert in the evening, may add up to a good day; but 
+the goodness of the concert does not rub off on the experience with the 
+dentist to make it somehow good.
+Happily, there are other types of relations. In the apocalyptic theology 
+of the bible, the faithful are urged on to endure horrors because heav-
+enly bliss awaits them as a reward. In the book of Maccabees, the seven 
+brothers are publicly butchered and fried for refusing to eat pork, but they 
+remain confident that God will vindicate them in the resurrection. Jesus 
+endures the cross (a ritually cursed death that cuts Him off from the peo-
+ple of God and defeats His Messianic pretensions), despising the shame, 
+and God raises Him up! Here the point is not that humans are the kind of 
+thing that have to be prima facie ruined to be fit for heaven, but that hostile 
+conditions may impose horrors as the price of loyalty. The suffering has 
+positive meaning because it proves the martyr's loyalty and is recognized 
+and honored by God.
+Elsewhere, I have argued that what gives positive meaning to horror 
+participants' lives is that God's primary aim in creation is Divine solidarity 
+with us in a material world such as this. Divine identification with us in 
+horror participation (most notably, through Incarnation and crucifixion) 
+weaves up our horror participation into our overall—on the whole and 
+in the end—beatific relationship with God. This does not reduce to the 
+abuse of blows alternating with chocolate and roses for two reasons. First, 
+because—if God's creation of us in a world such as this does expose us 
+to horrors—God does not—like the spouse-beater—directly and deliber-
+ately perpetrate individual horrors. Second, because God shares the cost 
+by exposing Godself to horrors. God is no White House executive pushing 
+paper and making speeches; God is down in the trenches sharing the hor-
+rors with us! This does not make horror participation a necessary means 
+to beatific intimacy with God, because even those who escape individual 
+ante-mortem horror participation will likewise enter into a relationship 
+with God that is incommensurately good for them. Rather going to hell 
+and back with God is one shape that an overall beatific intimate relation-
+ship with God can take.41
+For Plantinga to work out his own version of what positive meaning 
+God could confer on human horror participation—whether as victims 
+or perpetrators, as wrecked and ruined agents—he would have to make 
+explicit what is involved in atonement and how it might remedy the hor-
+ror participants' condition. It would not be enough for him to join Hick and me in universalism (something he does not do in "Felix Culpa"). 
+A theodicy would need to sketch out how horror participants can still 
+be winners. By leaving horrors dangling, Platinga has not completed the 
+explanatory task.
+Ignorant Refusal, Compelling Consent. A "Felix Culpa" Supralapsarian 
+might protest that such explanations are unnecessary, because we would 
+consent to whatever God wanted if we were fully informed. What ac-
+counts for our refusal, our miscalculations of what might be reasonable to 
+accept, is ignorance of a special kind. Not ignorance of what it would be 
+like to be a wrecked and ruined agent. Some of us experience that from the 
+inside and know it all too well. Not propositional ignorance of what we 
+might read in textbooks. But experiential ignorance of the immeasurable 
+good that God is, a lack of knowledge of the sort St. Paul had when he was 
+caught up into the seventh heaven, the sort that Polycarp and Perpetua 
+and Felicity had that made it easy for them to consent to horrors in the 
+Roman arenas, all for Christ's sake. Their reports suggest that the bigness 
+of the Goodness is compelling; in the face of It, one would not be able to, 
+one would not want to deny God any request. (I, for one, do not doubt 
+that this is so.)
+From a Christian point of view, however, there could be more than one 
+explanation of this. It could be that vivid encounter with the bigness of the 
+Goodness carries the conviction that Plantinga more than once hints at in 
+his article and that I have urged in my books: that God would not subject 
+us to excruciating suffering, by extension that God would not call on us 
+to be wrecked and ruined agents, without compensating us for it, without 
+guaranteeing us a life that will be a great good to us on the whole and in 
+the end, not least because our horror participation will be defeated by 
+Christ and we will be drawn up into deep and satisfying intimacy with the 
+Trinity Itself. Julian of Norwich seems to take this sensibility away from 
+her "showings." Julian reckons that sin is the worst scourge with which 
+a soul can be afflicted; that in the life to come, past sins will be publicly 
+regarded as honorable battle scars. Insofar as wrecked and ruined agents 
+paid the biggest price for God's cosmic projects, God might make it up to 
+them by honoring them in heaven most of all.
+Alternatively, it could be that one vivid Judgment Day encounter would 
+be sufficient—despite our wrecked and ruined agencies—to convince us 
+of Divine majesty and authority, enough to make us feel honored to have 
+played any part in God's project, honored again to have had even a mo-
+mentary glimpse of Who and what God really is. Such a brief confronta-
+tion might be enough to compel our consent, quite apart from any hope 
+of future existence and/or improvement in our concrete well-being. Some 
+Calvinists might deem such a response appropriate. (I, for one, would not 
+wish to dispute it.) But if this were their whole story, it would give us a 
+stern form of Calvinism, indeed!
+Oxford University 
