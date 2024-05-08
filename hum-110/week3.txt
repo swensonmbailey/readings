@@ -1,0 +1,142 @@
+In the previous chapter we encountered different mediums that an artist can use to create a work of visual art. In this chapter we will introduce some of the elements of visual art, including things like line, color, texture, value, chiaroscuro, foreshortening, perspective, and form.
+
+Line Even though we seldom see an obvious line in nature (you would be surprised to see a bold line drawn around the person sitting next to you), humans seem to be able to easily abstract the appearance of things to a few simple lines. Our earliest attempts at drawing are of stick figures, and we easily recognize line drawings of familiar faces.
+
+linesPortrait
+Different lines evoke different images. A horizontal line is often used to depict rest or stability. We sleep horizontally, and when we see a tree or a fence post lying horizontally, we know it has fallen over and won't be going anywhere soon.Vertical lines, on the other hand, are full of potential energy: a standing tree could fall, and so could a standing human.Diagonal lines are the most active of all: when we see something on the diagonal, we can assume it is on the move. Compare, for instance, two famous statues of David: the first is by the 16th century artist Michelangelo, and the second is by Gian-Lorenzo Bernini, a sculptor from the 17th century.
+
+michelangeloDavid berniniDavid
+Michelangelo, David. Bernini, David
+
+In Michelangelo's work vertical lines give the young hero a powerful sense of potential but static energy. Michelangelo wants to show David's calmness born of his faith, but at the same time assure us that the young man is capable of feats of great strength. In Bernini's version, diagonal lines show David in mid-sling-swing. Bernini, who was influenced by theatre and opera, is clearly less interested in showing David as a man of faith than as a man of action.
+
+Straight lines are sometimes harsh, so artists need the opposite, something that is "soft." We call these lines curves, and like their straight cousins, they come in three varieties. Slow curves are broad, sweeping lines that go almost across the canvas and are associated with grace and elegance:
+
+slowCurve
+Quick curves are happy like smiley faces or bubbles:
+
+curveExamples
+S-curves are not only the most interesting but are considered, of all six types of lines, the most pleasing to the eye:
+
+sCurves
+Look at the painting below by the Renaissance artist Raphael and see how he uses lines and curves to organize and give emotional and visual interest to his work:
+
+schoolOfAthens
+Raphael, The School of Athens, from the Papal Apartments in the Vatican
+
+Color A perceptive artist can use color to create powerful emotional affects. Take a moment to study the color wheel:
+
+colorWheel
+Warmer-----------------------------Cooler
+
+Consider how you feel when surrounded by large areas of a certain color. Consider your bedroom all done in shades of red, or green, or yellow, or blue. Do you feel the difference between certain colors? Do they affect you? Because these feelings are physical as well as psychological they are the basis for much modern art. Your eye/brain combination responds first to colors on the left side of the chart, then right side. This is why all stop signs are red, that taillights are red, that anything that says "Watch Out!" is painted red.
+
+The middle colors on the wheel are neutral. You see both yellow and violet at the same moment. And we see greens and blues last. They are the least obtrusive of all. They seem to say, "Look at everything else first." This even affects how we dress ourselves. Blue is the easiest color to dress with, which is why jeans are blue. Almost any color goes well with blue. Reds are the most difficult to dress with (because they call attention to themselves more than any other color). What if jeans were a solid, bright red? Consider how difficult it would be to pick something to wear with such a color. It usually takes a good deal of confidence to show up in a red dress or shirt.
+
+These same principles apply in art: reds tend to stand out, to advance, while the blue side recedes. This optical fact allows the artist to have very large areas of blue balanced by a much smaller area of red. Accent colors are just that, a small splash of a warm color, surrounded by a large area of a cool color.
+
+There are three primary colors: red, yellow and blue, so-called because you cannot create them by mixing any other colors, yet all other colors are a mix of these three. If you want red (primary) you must start with red, but a green (secondary) can be created by a splash of blue (primary) and a touch of yellow (primary) added in. Secondary colors are one generation away from pure or primary colors.
+
+Complementary colors are found directly across from one another on the color chart, and consist of a primary and a secondary color, such as red and green or yellow and violet. Complementary colors make each other appear brighter. This is why red and green make Christmas, and why redheads look so smashing in green. Watch for how many products are marketed in boxes using complementary colors; once you start looking for them they will pop up everywhere.
+
+The last two colors to consider are black and white. In theory we can say that black is the presence of all color, and white is the absence of all color. This page is white (no color) until we add some ink (color). Light, however, is the exact opposite. Pure light is called "white" light and it contains all the colors of the rainbow. Indeed, the rainbow is nothing more than the taking of white light and breaking it up through many prisms (raindrops). Black is the complete absence of light. Just turn off the light switch and you've got black. Black and white, light and darkness are further used for their metaphorical power: God is light, light is knowledge; Satan is the Prince of Darkness, and takes away light and truth.
+
+Certain colors have specific symbolic connotations for various cultures. To an ancient Greek, purple was always associated with the gods and royalty (because it was made from that expensive ground-up seashell). Red symbolizes the blood of fallen patriots to a French citizen looking at the national tricolor, but it also indicates danger to a driver. To Renaissance artists this same red served as a representation of the passion of Christ, a symbol of his death and suffering.
+
+The 17th century painter Peter Paul Rubens used a great deal of red in The Stroke of the Lance to emphasize the violence of Christ's crucifixion, yet very little blood is actually shown. Instead the red cape of the Roman soldier and the red robe of John the Beloved flow like blood from Jesus' side, emphasizing the terror and grief of the scene:
+
+strokeOfTheLance
+Peter Paul Rubens, The Stroke of the Lance
+
+The Italian Renaissance painter Fra Angelico used color to help demonstrate the contrast between earth and heaven in his Annunciation. Notice how Mary is shown in rather drab tones, while Gabriel, the divine messenger has not only a colorful robe, but also dazzling rainbow-hued wings:
+
+fraAngelico
+Fra Angelico, Annunciation
+
+TEXTURE Sometimes it is not just the color of the paint that carries emotional impact, but the way the paint is applied. Texture is the visual appearance of a surface. In painting this can be smooth, rough, or anything in between. Some artists use gentle, even brushstrokes. Others slather on paint almost as if they were modeling in clay. The 19th century artist Vincent Van Gogh was famous for his dramatic brushstrokes and thick globs of paint. Among other things, this draws attention to the emotion and vigor of the artist during the painting process. (Of course this kind of thing is better observed on the original canvas than a print or electronic copy.)
+
+vanGogh
+Van Gogh, Self-portrait
+
+VALUE refers to the relative degree of light or darkness in a painting. This element is often important in setting a mood. Darkness can convey a feeling of gloom and despair, while light tones give a more pleasing feeling. One theorist created a "gray" scale of values ranging from a lowest level of 1 (black) to a high of 10 (pure white). This same gray scale is used in black and white photography by such greats as Ansel Adams.
+
+bridevallFalls
+Adams, Bridalveil Fall
+
+CHIAROSCURO is an Italian term meaning "light [chiaro] and shadow [oscuro]." It is reserved for paintings, because a painter's problem is how to depict a three-dimensional object on a flat, two-dimensional surface. The principle way to do this is by using lighter and darker paint to depict the play of light and shadow on the surface of the object. Notice, for example, how Raphael uses chiaroscuro to create an illusion of plump, round flesh on his famous cherubs:
+
+cherubs
+Raphael, Cherubs
+
+Chiaroscuro can also be used to direct the eye to the point the artist wants the beholder to notice, in the same way that lights in the theatre highlight the important action for the audience. Here is another David, this time by the 17th century painter Caravaggio:
+
+caravaggio
+Caravaggio, David Showing the Head of Goliath
+
+FORESHORTENING is another technique for making an object appear three-dimensional. It involves making the lines of an object shorter than normal to give the appearance of forward projection toward the viewer. Notice how the fingers of Mary's outstretched left hand in Leonardo's Virgin of the Rocks are shorter than those of her right. By foreshortening the fingers Leonardo has increased the three-dimensionality of the painting.
+
+virginOfTheRocks
+Leonardo, The Virgin of the Rocks
+
+PERSPECTIVE is the way in which painters are able to depict distance on a two-dimensional surface. There are two kinds of perspective, and they may be employed either separately or in combination. As the name implies, linear perspective shows distance through the use of lines. There are two governing principles in linear perspective. First, lines recede through space and eventually converge on a single vanishing point, the place where the eye ultimately rests:
+
+vanishingPoint
+Second, objects appear smaller over distance. We can see obvious examples of linear perspective in nature just by looking down a long street. The road appears to narrow to a single point, and objects become smaller over distance. A good theatrical designer can also use linear perspective to make a stage look larger than it really is.
+
+vanishingStreet
+Artists also employ aerial perspective. In nature, objects at a distance appear diluted in color and hazy; this is because the air between you and the distant object diffuses the color. When you stand on a beach looking out at the ocean, you will notice that the color of the sea at your feet is different than it is hundreds of yards away. Eventually, at the horizon the colors of sea and sky merge into a single hue. This is the same phenomenon that occurs when we look at mountains from a distance. A distant peak appears hazy and lighter in color than it would if you were at the base of the same mountain.
+
+When an artist employs aerial perspective he blends the background colors into a single hue at the horizon (the blending of colors is most easily accomplished with oils). He also changes the colors of similar objects over space. Finally, he paints objects in the foreground in much greater detail than those in the background. Study the distant mountains in the 19th century American painter Asher Brown Durand's Pastoral Landscape. Notice that they are a very light blue (hardly a mountain color) and are almost indistinct, compared with the bright colors and clear lines in the foreground. And yet these colors look perfectly correct to our eye.
+
+pastoralLandscape
+Asher Brown Durand, Pastoral Landscape, 1861
+
+FORM is a common thread throughout all the arts. Music is organized through time, as melodies repeat and contrast. The visual arts are formed in space. Painters and sculptors organize the elements of their work in variety of ways to bring a sense of order and continuity to the whole. By organizing the entire work, the artist is able to direct our eyes to specific points, to emphasize certain areas or objects more than others, or to create a specific emotional impact. In fact, we are so used to (and pleased by) a structured composition in paintings and photos that when we see a pleasing arrangement of objects in nature, we say that the view is picturesque.
+
+Often artists emphasize the emotional impact of a work by repeating certain shapes, colors, etc. Take a careful look at Gericault's huge Raft of the Medusa. Notice how the 19th century painter repeats the gesture of outstretched arms, some upward toward the distant ship on the horizon, others downward toward the sea. The contrasting directions help to divide the work into two distinct pyramids, the living and the dead, the hopeful and hopeless. This repetition gives the work rhythm and organization.
+
+raftOfTheMedusa
+Théodore Gericault, Raft of the Medusa
+
+Colors and shapes can also be used repetitively. In Goya's Executions of the Third of May, the evil of the executioners is heightened both through their darker hue and by the repeated stance. The order of the right side of the canvas is then juxtaposed against the disorder of the left side, as the victims prepare for death. Juxtaposition and contrast create visual interest as well as a sense of tension.
+
+executions
+Goya, Executions of the 3rd of May
+
+Balance One of the artist's most important concerns is to achieve a sense of balance in his artwork. Humans enjoy the order of a balanced composition, and consequently examine it longer and remember it better. Balance can be achieved through a number of organization patterns, such as vertical, horizontal, pyramidal, symmetrical, and radial.
+
+Vertical patterns emphasize a central upright figure. Statues of standing individuals like Michelangelo's David or Mahonri Young's statue of Joseph Smith on Temple Square use this pattern. The 19th century French painter Renoir uses a vertical pattern in his Girl with Watering Can. While other lines may be present in the work, it is the central vertical figure that captures the attention.
+
+girlwithWateringCan
+Renoir, Girl with Watering Can
+
+Horizontal patterns emphasize a line running from left to right across the work. The viewer's attention is directed toward the horizon. Landscapes and seascapes are usually done in this pattern. In the 19th century English painter Constable'sBrighton Beach we follow the horizon line across the painting.
+
+brightonBeach
+Constable, Brighton Beach
+
+One of the most interesting aspects of this horizontal construction is the placement of the horizon line. If you were painting a scene like Constable, where would you place the horizon line on the canvas? When most people take a landscape photograph they usually put the horizon line about halfway up. You'll notice that's not what Constable does. During the Renaissance, artists were drawn to an ancient Greek sense of proportion known as the Golden Section. It is sometimes described specifically as the ratio of 682: 318. Rather than frighten you too much with geometry, consider this: placement of a horizon at the center of a work tends to create a rather static, uninteresting view. Artists have developed a sort of shortcut for the Golden Section called the Rule of Thirds. Notice that the horizons are most often placed either at the top or bottom third of a work.
+
+Pyramidal patterns place the emphasis on a single triangular shape, usually at the center of the work, as seen in Resurrection by the Renaissance artist Piero della Francesca.
+
+resurrection
+Piero della Francesca, Resurrection
+
+The upward motion of the sides of the pyramid leads our eyes to the face of Christ while the size of the base gives it great stability. If the triangle were moved off to one side of the work, the entire composition would be weakened. Portraits like Leonardo's Mona Lisa follow this same pattern.
+
+monaLisa
+Leonardo da Vinci, Mona Lisa
+
+Symmetrical patterns emphasize the balance mentioned above. The two main parts of a work of art are not necessarily identical; but they are in balance. Leonardo's Last Supper is a famous example of symmetry. Notice that Christ is seated in the center, with six apostles on each side. The apostles on either side of Christ lean away from him, forming two upside-down triangles that set him distinctly apart from everyone else.
+
+lastSupper
+Leonardo, The Last Supper
+
+In a radial pattern, the major lines in a work seem to converge toward a central point, like the sun's rays. Look again at Goya's Third of May painting. The white shirt on the kneeling victim draws our eyes towards him as the central figure of the painting. Likewise, the lines in the painting-the guns of the executioners, the victim's own outstretched arms, the arms of the fallen victim below him-are arranged so as to point to him. This radial pattern not only creates form and order, but transports us to the center of the tragedy and creates a powerful empathy for its victims.
+
+executionsWRadials
+Goya's Third of May with radial lines
+
+It is important to note that not all visual art works will fall into one of these categories. Many times an artist will employ an asymmetrical (unbalanced) arrangement for increased effect. Other times, particularly in the 20th century, artists completely abandon the concept of structured compositions, favoring instead more random looking forms, insisting that much in life is without form and certainly without symmetry.
+
+A more realistic painting might avoid the clear outlines of a line drawing, but the artist nevertheless pays careful attention to the lines implied by the objects he paints. Lines come in six types. Three are straight: horizontal, vertical, diagonal; and three are curved: fast, slow, and S.
