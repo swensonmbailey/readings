@@ -1,0 +1,174 @@
+1
+Week 10 Reading
+Classical Music
+In the second half of the 18th century visual and literary artists sought to capture the
+ideals of the ancient Greeks and Romans. We call their art “Neo-Classical” because it
+consciously models Greek and Roman, or “Classical” art. But Greek and Roman music
+disappeared after the fall of Rome, and it was the 20th century before any actual written
+examples of Greek music was discovered and deciphered so that it could be played and
+heard. As we have seen, painters, sculptors, architects, authors, and playwrights could look
+at actual examples of their art that came from classical times and imitate it in their own
+work. But musicians could not. All that they could do was read about it and try to make
+their music do what the Greeks said theirs did. Hence we call music of this period not “NeoClassical,” but simply “Classical.”
+Nevertheless, just like other artists of the 18th century were influenced by Greek ideals of
+form and balance, so did musicians seek to emulate these ideals in their compositions. The
+gaudy ornamentation of the Baroque era was reduced to a few simple decorations. The
+complex polyphony of the Baroque became a less-dense, more homophonic style. The
+harmonies were simplified and the rate of chord change (called harmonic rhythm) was
+slowed down. Phrases tended to be of equal length. Everything became simpler and more
+straightforward. As the pendulum swung from the Dionysian Baroque to the Apollonian
+Classical, so did music shift away from dramatic expression toward an emphasis on form.
+By the end of the Baroque era, most operas began with a short instrumental work called an
+overture, or sinfonia. These sinfonias, or symphonies, grew into independent, multiplemovement works that became the most important genre of the Classical era. Most
+symphonies had four movements. The first movement was often the longest and most
+involved, and was usually in a form called sonata allegro (see below). The second
+movement was usually slow, and was often some form of theme and variations. The third
+movement was a three-part dance number, usually a minuet (a stately, formal dance) or a
+scherzo (a fast, light-hearted dance—scherzo is Italian for “joke”). The fourth movement
+was usually fast and light-hearted, and featured another sonata-allegro form or one of
+several other forms popular during the era.
+Symphonies were written for full orchestra, but there were smaller genres that featured
+these forms as well. Sonatas were written for solo instruments, chamber music (especially
+the string quartet) was popular, and the concerto flourished. Opera and other choral and
+vocal music was also popular in the day, and was influenced by the same forms and styles
+popular in instrumental music. The three most famous composers of the Classical period
+all worked and resided in Vienna, Austria: Joseph Haydn (1732-1809) wrote over 100
+symphonies and was considered the master of the genre. Wolfgang Amadeus Mozart
+(1756-1791) was best known for his piano concertos and operas. Ludwig van Beethoven
+(1770-1827) stretched the boundaries of the Classical style with his immense and complex
+symphonies, concertos, piano works, and chamber music. Haydn and Mozart were
+contemporaries and good friends who played together in a string quartet. As a young
+composer Beethoven left his native Bonn, Germany, to study with Mozart, but by the time
+he arrived in Vienna Mozart had died, so Beethoven studied with Haydn instead.
+2
+A good example of the theme and variations is found in the second movement of Haydn’s
+“Surprise” symphony. Haydn spent most of his long career in the employ of the Esterhazys,
+a Hungarian family that spent the most of their time in Vienna. The Esterhazys were avid
+lovers of music and employed one of the finest orchestras in Europe. Haydn always
+managed to stay true to the Classical forms, and yet each of his works are unique, creative,
+and filled with humor.
+Joseph Haydn
+Haydn was always aware of the limitations of his audience, and he knew that after a long
+and complex first movement, people’s attention started to wander in the slower, more
+peaceful second movement. This piece is Haydn’s joke on them. But it is also a fine
+example of his consummate mastery of the theme and variation technique. The trick is to
+keep the tune apparent so everyone can hear it each time it is repeated, but not to let it get
+repetitive or boring.
+LISTEN TO HAYDN, SYMPHONY #94 in G Major (SURPRISE),
+SECOND MOVEMENT
+https://www.youtube.com/watch?v=u6IUKNWo-Ww
+3
+The tune is a simple parallel period: one phrase asks the question, then another gives the
+answer. The first phrase is played then repeated (#1) at a softer volume (surprise!), then
+the second phrase (#2) is also played twice. Notice that everything is simple, uniform, and
+balanced. The first variation (#3) starts with the surprise, then adds a countermelody in the
+violins.
+Now at this point if this were all that Haydn was going to do things would get boring fast.
+So he shakes things up. The second variation (#4) begins in a grumbly minor key, then
+apologizes with a timid major that nevertheless moves us to a different key. The second
+half of the variation (#5) is wandering a long way from home. The lower strings keep
+puttering away at the theme, but the higher instruments play an agitated countermelody.
+But it all ends happily, and the first phrase of the third variation (#6) is back in a cheerful
+major, played by a jaunty oboe, who simply adds more notes to the main theme. The rest
+of the variation is played by the violins with a tender woodwind accompaniment (#7).
+Brass and percussion dominate the first phrase of the fourth variation (#8), and what was
+tender and gentle is now sweeping and grand. For the next two phrases it’s just strings
+again, playing a lyric tune that follows the harmony, but not the exact melody, of the main
+theme. For the last phrase the brass and percussion come back and the variation ends with
+power.
+When all the variations are over, Haydn tacks on a tail, or coda (#9) to sum up the
+movement. First it is grand, then mysterious, but finally simple and sweet.
+All great musical compositions (and all great artworks for that matter) have a distinct
+form. If you understand the form, it’s much easier to know what’s going on in the piece.
+Otherwise you perceive only a random succession of pretty tunes. The most important form
+of the Classical Era is the sonata allegro, or simply, sonata form. It gets its name because
+it was developed in the fast movements of solo works for piano called sonatas.
+Nevertheless, the form can be observed in all types of music in the Classical and Romantic
+eras, and still remains a popular form in art music today.
+Sonata form is a kind of heroic journey in three parts. The journey is created by a sense of
+departure and a return. A group of melodies, or themes, create a home. This is called the
+exposition, because here the themes are exposed. Usually each theme is played several
+times to create a sense of familiarity. The exposition starts in the tonic key and then makes
+a transition to the dominant for the next couple of themes. Already we have begun our
+journey. After the exposition, the themes are changed, or developed, and wander through
+various keys. This part is called the development. In the end there is a return, or
+recapitulation, of the home themes. The recapitulation is enough like the beginning to
+sound familiar, but altered in some important ways. To wrap things up, the composer
+usually writes a short conclusion, called a coda, the Italian word for “tail.”
+4
+The journey thus takes us from home to a place where the themes wander and are changed.
+When we come home, we have the peaceful sense of the familiar, and yet it is different.
+Think of Frodo Baggins in the Lord of the Rings. He starts at home, in the Shire, a place of
+warm familiarity and comfort. Then he goes on a great journey and has terrible and
+wonderful adventures. In the end he comes home again. But somehow things are not what
+they were. Frodo has changed, and the Shire will never quite be the same again.
+We can get a good introduction to sonata form at its most basic by listening to the first
+movement of Mozart’s Piano Sonata #1 in C Major. Mozart was one of the great musical
+geniuses of all time. At the age when most of us were in grade school, Mozart was touring
+Europe, performing for popes and kings. In the same way that Michelangelo was able to
+hold a three-dimensional image in his mind while he worked his marble, so Mozart could
+conceive of an entire symphony in his mind, working out all the details before he
+committed any notes to paper. He was also one of the most inventive melodists of all time,
+and his pieces sparkle with a plethora of charming tunes.
+5
+Wolfgang Amadeus Mozart
+LISTEN TO MOZART, PIANO SONATA #1 in C Major,
+FIRST MOVEMENT
+https://www.youtube.com/watch?v=G6S5A4ZGa88
+With the first theme (#1) Mozart outlines the chords of the tonic key. This theme is a
+question-and-answer parallel period. Mozart then writes a series of scales, finally ending
+up on one that adds notes not in the key (#2) and takes us to the dominant. While Theme 1
+went up, Theme 2 (#3) goes down. It ends with a bubbling concluding tune (#4) that will
+become important later on.
+This is all there is to the Exposition. Mozart then repeats it verbatim, just so you can get to
+know the tunes better. We again hear Theme 1 (#5), the key change (#6), Theme 2 (#7),
+and the concluding tune (#8).
+Then Mozart launches us into the Development (#9) which wanders through a series of
+minor keys. It is interesting that the tune Mozart chooses to develop is the little concluding
+tune from the Exposition.
+The Development only lasts a few bars, and Mozart slides happily back to the home major
+key for the Recapitulation (#10). And yet things have changed. In order to keep from
+changing keys again, Mozart has to rewrite the transition (#11) from Theme 1 to Theme 2.
+When Theme 2 comes in (#12), it is still in the tonic key, as is the little concluding tune
+(#13).
+6
+If it’s good once, it’s even better twice, so Mozart goes back to the Development and
+repeats it and the Recapitulation verbatim. This will give you a good chance to see if you
+can hear the parts of the form by yourself. Because Mozart wrote such a good concluding
+tune for the Exposition/Recapitulation, there is no need for a coda at the end.
+The Classical Period was not all sweetness and light, however. Mozart’s Symphony #40
+is an example of a darker and more complex type of journey.
+LISTEN TO MOZART, SYMPHONY #40,
+FIRST MOVEMENT
+https://www.youtube.com/watch?v=63cQVE7lee8
+This being the first movement of a symphony, we expect it to be in sonata form, and it is.
+But from the first notes of the first theme, a brooding, sighing, melancholy tune, we can
+tell we are in for a different kind of experience. Mozart wrote this symphony the last year
+of his tragically short life (he lived to be only thirty-five years old), and it carries the weight
+of a good deal of human suffering. For one thing we are now in a minor key. For another,
+the theme is built upon a simple three-note motive, or basic musical idea, that Mozart will
+repeat insistently throughout the movement, almost like a desperate thought that he cannot
+get out of his mind, or a left-over feeling from a bad dream that refuses to go away in the
+morning.
+As with the C Major Piano Sonata, the first theme (#1) modulates to a new key, this time
+to the relative major. The second theme (#2) is more hopeful, like the sun trying to break
+through the clouds. But the three-note motive returns (#3), echoing through the woodwinds
+until it nags the strings into building a third theme (#4) out of the same motive. The third
+theme ends in the major, but a single chord (#5) brings us right back to minor, and the
+exposition repeats.
+After the second time through the exposition, Mozart writes a more complex transition (#6)
+to take us to an even more distant key for the development (#7). This too is built singlemindedly on the haunting first theme. This time the wandering is much more intricate, and
+much farther afield, than in our Piano Sonata. Mozart even writes a fugue-like counterpoint
+on the theme (#8) as it is shared amongst the string sections. But soon the theme has
+exhausted itself (#9), and all that is left is the little three-note motive, repeated over and
+over again. It rises up one last time in a tragic forte (#10), but the energy is quickly
+dissipated, leaving the motive gasping for life. Just as it is about to disappear altogether,
+the main theme rises again from the ashes in recapitulation (#11).
+As in the exposition, the first theme begins a transition modulation (#12), but this time
+something seems to go wrong, and the first intimations of major are quickly catapulted
+back into minor (#13). There is more anguished fugal development (#14), and when the
+music finally settles down to the second theme, it is still in the minor (#15). What was once
+bright and optimistic is now solemn and gloomy. When the three-note motive comes back
+7
+again (#16), it has an aura of fate about it. The final coda (#17) is alternately frightening
+and resigned.
