@@ -1,0 +1,750 @@
+The English Romantic poet William Wordsworth wrote that good poetry is "the spontaneous overflow of powerful feelings." For a poem to be of value, he said, the poet had to be "possessed of more than usual organic sensibility [who has] also thought long and deeply." We would expect this emphasis on emotion from a Romantic, but Wordsworth also stressed the importance of meter and structure. While the Romantic poet felt deeply, she was still greatly concerned with the details of composition, of translating emotions into poetic form.
+
+To fully appreciate a Romantic poem, therefore, we need to be able to understand both its expression and construction; we should strive to discover the feelings that the poet seeks to inspire, and at the same time observe the form and elements of the poem. Thus we will need to know a little about the poetic medium, in the same way we have studied mediums of the musical and visual arts.
+
+Let us begin with a short example:
+
+Alfred, Lord Tennyson (1809-1892) The Eagle
+
+He clasps the crag with crooked hands;
+
+Close to the sun in lonely lands,
+
+Ringed with the azure world, he stands.
+
+The wrinkled sea beneath him crawls;
+
+He watches from his mountain walls,
+
+And like a thunderbolt he falls.
+
+Alfred, Lord Tennyson
+
+Alfred, Lord Tennyson
+
+No problem discovering the subject of the poem: the title is a dead giveaway. But Tennyson chooses to describe the eagle in poetic language instead of prose. We can compare it to a dictionary definition from Merriam-Webster online:
+
+Definition of Eagle:
+
+any of various large diurnal birds of prey (family Accipitridae) noted for their strength, size, keenness of vision, and powers of flight
+a: the eagle-bearing standard of the ancient Romans; b: one of a pair of eagle-bearing silver insignia of rank worn by a military colonel or a navy captain
+a gold coin of the United States bearing an eagle on the reverse and usually having a value of ten dollars
+a golf score of two strokes less than par on a hole - compare birdie
+The dictionary definition isn't very poetic; in fact, we use the word "prosaic" to mean "uninspired," or "lacking imagination." So what's the difference? The first thing you might notice is the music of Tennyson's words—the meter and rhyme. He has chosen words so that they fit into his metrical pattern and rhyme scheme. But also note that he his words provoke powerful emotional responses: "clasp," "crooked," "lonely," "azure," "wrinkled," "thunderbolt." We therefore see in Tennyson's poem both form and expression at work. We also see that the same words are used to accomplish both ends—Tennyson describes the eagle as having "crooked hands." "Hands" not only rhymes, but summons up a different emotional response than "claws" or "talons," making the eagle seem more human and thus more sympathetic.
+
+Poetry generally falls into a number of sub-categories, including lyric, dramatic, and narrative. Lyric poetry consists of the thoughts and emotions of a single author, and is usually short. Dramatic poetry introduces conflict into a situation or into the life of a character or narrator, and, again, length is variable. Narrative poetry tells (narrates) a story, and can be any length. There are a vast variety of types of poetry, largely determined by form, tone, and subject matter.
+
+Very simply put, a lyric poem is a short poem that represents the thoughts and feelings of a single narrator on some topic. The lyric poem is by far the most common genre of poetry. Here is a lyric poem by Wordsworth:
+
+William Wordsworth (1770-1850) The Daffodils
+
+I wander'd lonely as as a cloud
+
+That floats on high o'er vales and hills,
+
+When all at once I saw a crowd,
+
+A host of golden daffodils,
+
+Beside the lake, beneath the trees,
+
+Fluttering and dancing in the breeze.
+
+ 
+
+Continuous as the stars that shine
+
+And twinkle on the Milky Way,
+
+They stretch'd in never-ending line
+
+Along the margin of the bay:
+
+Ten thousand saw I at a glance,
+
+Tossing their heads in sprightly dance.
+
+ 
+
+The waves beside them danced, but they
+
+Outdid the sparkling waves in glee: --
+
+A poet could not but be gay
+
+In such a jocund company!
+
+I gazed, and gazed, but little thought
+
+What wealth the show to me had brought.
+
+ 
+
+For oft, when on my couch I lie
+
+In vacant or in pensive mood,
+
+They flash upon that inward eye
+
+Which is the bliss of solitude;
+
+And then my heart with pleasure fills,
+
+And dances with the daffodils.
+
+Portrait of William Wordsworth
+
+William Wordsworth
+
+This poem is relatively short and represents the thoughts or feelings of a single narrator. It is a beautiful tribute to the simple joys of nature. Notice that the poet says that he is lonely as a cloud. Lonely can mean both "alone" and "lonesome." Which of the two do you think Wordsworth means? The truth is, poetry is best if some of the words can mean several things at once. Prose tries to use words in such a way that they have a precise meaning, and there is usually one word for every meaning. Poetry tries to squeeze as much meaning out of each word as possible. In good prose ambiguity (more than one meaning for a word) is usually a bad thing; in poetry, it is lifeblood.
+
+Like lyric poetry, dramatic poetry presents the speech of a narrator or character. However, in a dramatic monologue we usually catch this character in action as he or she speaks to a frequently unnamed but understood second party. It's almost as if we ripped the speaker off the stage or out of a novel and stuck their speech into a poem. The most fascinating aspect of a dramatic monologue is what the narrator reveals (frequently unintentionally) about himself. In this dramatic monologue by Robert Browning, an apparently murderous duke talks blithely about his bygone duchess:
+
+Robert Browning (1812-1889) My Last Duchess
+
+That's my last duchess painted on the wall,
+
+Looking as if she were alive. I call
+
+That piece a wonder, now: Frà Pandolf's hands
+
+Worked busily a day, and there she stands.
+
+Will't please you sit and look at her? I said
+
+"Frà Pandolf" by design, for never read
+
+Strangers like you that pictured countenance,
+
+The depth and passion of its earnest glance,
+
+But to myself they turned (since none puts by
+
+The curtain I have drawn for you, but I)
+
+And seemed as they would ask me, if they durst,
+
+How such a glance came there; so, not the first
+
+Are you to turn and ask thus. Sir, 'twas not
+
+Her husband's presence only, called that spot
+
+Of joy into the Duchess' cheek: perhaps
+
+Frà Pandolf chanced to say "Her mantle laps
+
+Over my lady's wrist too much," or "Paint
+
+Must never hope to reproduce the faint
+
+Half-flush that dies along her throat": such stuff
+
+Was courtesy, she thought, and cause enough
+
+For calling up that spot of joy. She had
+
+A heart how shall I say? too soon made glad,
+
+Too easily impressed; she liked whate'er
+
+She looked on, and her looks went everywhere.
+
+Sir, 'twas all one! My favor at her breast,
+
+The dropping of the daylight in the West,
+
+The bough of cherries some officious fool
+
+Broke in the orchard for her, the white mule
+
+She rode with round the terrace all and each
+
+Would draw from her alike the approving speech,
+
+Or blush, at least. She thanked men good! but thanked
+
+Somehow I know not how as if she ranked
+
+My gift of a nine-hundred-years-old name
+
+With anybody's gift. Who'd stoop to blame
+
+This sort of trifling? Even had you skill
+
+In speech which I have not to make your will
+
+Quite clear to such an one, and say, "Just this
+
+Or that in you disgusts me; here you miss,
+
+Or there exceed the mark" and if she let
+
+Herself be lessoned so, nor plainly set
+
+Her wits to yours, forsooth, and make excuse,
+
+E'en then would be some stooping; and I choose
+
+Never to stoop. Oh sir, she smiled, no doubt,
+
+Whene'er I passed her; but who passed without
+
+Much the same smile? This grew; I gave commands;
+
+Then all smiles stopped together. There she stands
+
+As if alive. Will't please you rise? We'll meet
+
+The company below, then. I repeat,
+
+The Count your master's known munificence
+
+Is ample warrant that no just pretense
+
+Of mine for dowry will be disallowed;
+
+Though his fair daughter's self, as I avowed
+
+At starting, is my object. Nay we'll go
+
+Together down, sir. Notice Neptune, though,
+
+Taming a sea-horse, thought a rarity,
+
+Which Claus of Innsbruck cast in bronze for me!
+
+Portrait of Robert Browning
+
+Robert Browning
+
+As you remember, artists of the Romantic age often showed nostalgia for the past. An elegy is a type of lyric poem that focuses on a bygone golden age, and laments the passing of all that was once great. Here is a famous example:
+
+Percy Bysshe Shelley (1792-1822) Ozymandias
+
+I met a traveller from an antique land
+
+Who said: "Two vast and trunkless legs of stone
+
+Stand in the desert. Near them on the sand,
+
+Half sunk, a shattered visage lies, whose frown
+
+And wrinkled lip and sneer of cold command
+
+Tell that its sculptor well those passions read
+
+Which yet survive, stamped on these lifeless things,
+
+The hand that mocked them and the heart that fed.
+
+ 
+
+And on the pedestal these words appear:
+
+'My name is Ozymandias, King of Kings:
+
+Look on my works, ye mighty, and despair!'
+
+Nothing beside remains. Round the decay
+
+Of that colossal wreck, boundless and bare,
+
+The lone and level sands stretch far away".
+
+Portrait of Percy Bysshe Shelley
+
+Percy Bysshe Shelley
+
+Figurative language is language that means something beyond its denotation (dictionary definition), and is heavy with connotation (the meanings words acquire in their association with things.) For example, the word "eagle" denotes a large diurnal bird of prey. But its connotation includes freedom, majesty, patriotism, nationalism, and many other things. In the following poem, Emily Dickinson compares reading to travel, and uses words that denote modes of travel but connote exotic, far-away places. Comparing a frigate to a book is a kind of simile, a device where the poet compares one thing to another.
+
+Emily Dickinson 1830-1886 There Is No Frigate Like a Book
+
+There is no frigate like a book
+
+To take us lands away,
+
+Nor any coursers like a page
+
+Of prancing poetry.
+
+This traverse may the poorest take
+
+Without oppress of toll;
+
+How frugal is the chariot
+
+That bears a human soul!
+
+Portrait of Emily Dickinson
+
+Emily Dickinson
+
+A frigate is an old, three-masted sailing ship. Dickinson uses it to summon up a bygone era of adventure; likewise with words like "coursers" and "chariots." The connotation of the word is as important as its denotation.
+
+Walt Whitman wrote O Captain! My Captain! after Lincoln was assassinated just one week after the end of the Civil War. Here the poet employs an extended metaphor, likening the Union to a ship victorious in battle, and Lincoln to her captain, who paid for the victory with his life:
+
+Walt Whitman (1819-1892) O Captain! My Captain!
+
+O Captain! my Captain! our fearful trip is done,
+
+The ship has weather'd every rack, the prize we sought is won,
+
+The port is near, the bells I hear, the people all exulting,
+
+While follow eyes the steady keel, the vessel grim and daring;
+
+But O heart! heart! heart!
+
+O the bleeding drops of red,
+
+Where on the deck my Captain lies,
+
+Fallen cold and dead.
+
+ 
+
+O Captain! my Captain! rise up and hear the bells;
+
+Rise up-for you the flag is flung-for you the bugle trills,
+
+For you bouquets and ribbon'd wreaths-for you the shores a-crowding,
+
+For you they call, the swaying mass, their eager faces turning;
+
+Here Captain! dear father!
+
+The arm beneath your head!
+
+It is some dream that on the deck,
+
+You've fallen cold and dead.
+
+ 
+
+My Captain does not answer, his lips are pale and still,
+
+My father does not feel my arm, he has no pulse nor will,
+
+The ship is anchor'd safe and sound, its voyage closed and done,
+
+From fearful trip the victor ship comes in with object won;
+
+Exult O shores, and ring O bells!
+
+But I with mournful tread,
+
+Walk the deck my Captain lies,
+
+Fallen cold and dead.
+
+Portrait of Walt Whitman
+
+Walt Whitman
+
+Rhyme can be defined as words having similar sounds. You are probably most familiar with end rhyme, where the last syllables of a phrase sound the same. When words look like they should rhyme but don't, we call it sight rhyme (rough-through, love-move), and when the rhyme is close we call it near rhyme or slant rhyme (end-fiend, groaned-crooned). Another kind of rhyme is alliteration, where the initial sounds of words are the same (big black bug).
+
+When a poem has a pattern of end rhyme, we call it a rhyme scheme. Rhyme scheme frequently helps determine what is a stanza, or a poetry paragraph. For example, the following poem is broken up into four-line stanzas, called quatrains, by the pattern of the rhyme. Notice that every succeeding pair of phrases rhymes.
+
+William Blake (1757-1827) The Tiger
+
+Tiger, tiger, burning bright In the forests of the night, What immortal hand or eye Could frame thy fearful symmetry?
+
+In what distant deeps or skies Burnt the fire of thine eyes? On what wings dare he aspire? What the hand dare seize the fire?
+
+And what shoulder and what art Could twist the sinews of thy heart? And when thy heart began to beat, What dread hand and what dread feet?
+
+What the hammer? what the chain? In what furnace was thy brain? What the anvil? What dread grasp Dare its deadly terrors clasp?
+
+When the stars threw down their spears, And water'd heaven with their tears, Did He smile His work to see? Did He who made the lamb make thee?
+
+Tiger, tiger, burning bright In the forests of the night, What immortal hand or eye Dare frame thy fearful symmetry?
+
+Portrait of William Blake
+
+William Blake
+
+The rhythm in poetry is just like the rhythm in music-it's just a regular pattern or beat. When we have a specific type of rhythm that is repeated, we call it meter. In part, we label meter by the type of metrical foot or unit of stressed and unstressed syllables. While there are many varied combinations possible, five metrical feet prevail in poetry written in English:
+
+Rhythms
+Name	Pattern	Example
+Iambic	ˇ ∕ (soft-hard)	attempt, Michelle, awake
+Trochaic	∕ ˇ (hard-soft)	Russell, Henry, hammer
+Anapestic	ˇ ˇ ∕ (soft-soft-hard)	unabridged, contradict, understand
+Dactylic	∕ ˇ ˇ (hard-soft-soft)	Jessica, Jefferson, buffalo
+Spondaic	∕ ∕ (hard-hard)	Oh no!, shortcake, breakdown (this rarely occurs with a single word, but with two single-syllable words)
+To describe meter, we count how many specific feet occur in a line of poetry. If a line has only one foot (whether it be iambic, trochaic, anapestic, etc.), we call it monometer. A line with two feet is called dimeter. A line with three feet istrimeter; four feet is tetrameter; five feet pentameter; six feet hexameter; seven feet is heptameter; and eight feet isoctameter. We then put the two descriptors together to come up with the meter. Thus most of Shakespeare's plays, and Browning's My Last Duchess, is in iambic pentameter.
+
+A poet with a good ear for rhythm can create a veritable symphony from the rhymes and meters of his work. The following poem, like most poems, works much better if you read it aloud:
+
+Edgar Allan Poe (1809-1849) The Bells
+
+Hear the sledges with the bells,
+
+Silver bells!
+
+What a world of merriment their melody foretells!
+
+How they tinkle, tinkle, tinkle,
+
+In the icy air of night!
+
+While the stars, that oversprinkle.
+
+All the heavens, seem to twinkle
+
+With a crystalline delight;
+
+Keeping time, time, time,
+
+In a sort of Runic rhyme,
+
+To the tintinnabulation that so musically wells
+
+From the bells, bells, bells, bells, Bells, bells, bells-
+
+From the jingling and the tinkling of the bells.
+
+ 
+
+Hear the mellow wedding bells,
+
+Golden bells!
+
+What a world of happiness their harmony foretells!
+
+Through the balmy air of night
+
+How they ring out their delight!
+
+From the molten-golden notes,
+
+And all in tune,
+
+What a liquid ditty floats
+
+To the turtle-dove that listens, while she gloats
+
+On the moon! Oh, from out the sounding cells,
+
+What a gush of euphony voluminously wells!
+
+How it swells!
+
+How it dwells
+
+On the Future! how it tells
+
+Of the rapture that impels
+
+To the swinging and the ringing
+
+Of the bells, bells, bells,
+
+Of the bells, bells, bells, bells,
+
+Bells, bells, bells-
+
+To the rhyming and the chiming of the bells!
+
+ 
+
+Hear the loud alarum bells,
+
+Brazen bells!
+
+What a tale of terror, now, their turbulency tells!
+
+In the startled ear of night
+
+How they scream out their affright!
+
+Too much horrified to speak,
+
+They can only shriek, shriek,
+
+Out of tune,
+
+In a clamorous appealing to the mercy of the fire,
+
+In a mad expostulation with the deaf and frantic fire,
+
+Leaping higher, higher, higher,
+
+With a desperate desire,
+
+And a resolute endeavor
+
+Now-now to sit or never,
+
+By the side of the pale-faced moon.
+
+Oh, the bells, bells, bells!
+
+What a tale their terror tells
+
+Of Despair!
+
+How they clang, and clash, and roar!
+
+What a horror they outpour
+
+On the bosom of the palpitating air!
+
+Yet the ear it fully knows,
+
+By the twanging
+
+And the clanging,
+
+How the danger ebbs and flows;
+
+Yet the ear distinctly tells,
+
+In the jangling
+
+And the wrangling,
+
+How the danger sinks and swells,-
+
+By the sinking or the swelling in the anger of the bells,
+
+Of the bells,
+
+Of the bells, bells, bells, bells,
+
+Bells, bells, bells-
+
+In the clamor and the clangor of the bells!
+
+ 
+
+Hear the tolling of the bells,
+
+Iron bells!
+
+What a world of solemn thought their monody compels!
+
+In the silence of the nigh
+
+How we shiver with affright
+
+At the melancholy menace of their tone!
+
+For every sound that floats
+
+From the rust within their throats
+
+Is a groan.
+
+And the people-ah, the people-
+
+They that dwell up in the steeple,
+
+All alone,
+
+And who tolling, tolling, tolling,
+
+In that muffled monotone,
+
+Feel a glory in so rolling
+
+On the human heart a stone-
+
+They are neither man nor woman-
+
+They are neither brute nor human-
+
+They are Ghouls:
+
+And their king it is who tolls;
+
+And he rolls, rolls, rolls,
+
+Rolls A pæan from the bells;
+
+And his merry bosom swells
+
+With the pæan of the bells,
+
+And he dances, and he yells:
+
+Keeping time, time, time,
+
+In a sort of Runic rhyme,
+
+To the pæan of the bells,
+
+Of the bells:
+
+Keeping time, time, time,
+
+In a sort of Runic rhyme,
+
+To the throbbing of the bells,
+
+Of the bells, bells, bells-
+
+To the sobbing of the bells;
+
+Keeping time, time, time,
+
+As he knells, knells, knells,
+
+In a happy Runic rhyme,
+
+To the rolling of the bells,
+
+Of the bells, bells, bells:
+
+To the tolling of the bells,
+
+Of the bells, bells, bells, bells,
+
+Bells, bells, bells-
+
+To the moaning and the groaning of the bells.
+
+Portrait of Edgar Allan Poe
+
+Edgar Allen Poe
+
+In the icy air of night!
+
+While the stars that oversprinkle
+
+All the heavens, seem to twinkle
+
+With a crystalline delight;
+
+Keeping time, time, time,
+
+In a sort of Runic rhyme,
+
+To the tintinnabulation that so musically wells
+
+From the bells, bells, bells, bells,
+
+Bells, bells, bells--
+
+From the jingling and the tinkling of the bells. 
+
+See more at Poetry & the Creative Mind.
+
+We shall end with one of the most renowned poems from the Romantic age. You will notice that it is complex, both in its form and in its expressive language. Do not despair (in spite of what Ozymandias says). A careful, strenuous reading of this poem can yield insights throughout your life. In fact, this may be the most important thing about great poetry (and art, and music): because of its many possible meanings, there is meaning to be found every time you come back to it. Make a start now with Mr. Keats' poem. Read it strenuously and see what you can find. Then tuck it away somewhere and come back to it often throughout your life. You will be surprised how it increases in meaning as the years go by.
+
+John Keats (1795-1821)
+
+Ode O A Grecian Urn
+
+Thou still unravish'd bride of quietness,
+
+Thou foster-child of silence and slow time,
+
+Sylvan historian, who canst thus express
+
+A flowery tale more sweetly than our rhyme:
+
+What leaf-fringed legend haunts about thy shape
+
+Of deities or mortals, or of both,
+
+In Tempe or the dales of Arcady?
+
+What men or gods are these? what maidens loth?
+
+What mad pursuit? What struggle to escape?
+
+What pipes and timbrels? What wild ecstasy?
+
+ 
+
+Heard melodies are sweet, but those unheard
+
+Are sweeter; therefore, ye soft pipes, play on;
+
+Not to the sensual ear, but, more endear'd,
+
+Pipe to the spirit ditties of no tone:
+
+Fair youth, beneath the trees, thou canst not leave
+
+Thy song, nor ever can those trees be bare;
+
+Bold lover, never, never canst thou kiss,
+
+Though winning near the goal-yet, do not grieve;
+
+She cannot fade, though thou hast not thy bliss,
+
+For ever wilt thou love, and she be fair!
+
+ 
+
+Ah, happy, happy boughs! that cannot shed
+
+Your leaves, nor ever bid the Spring adieu;
+
+And, happy melodist, unwearied,
+
+For ever piping songs for ever new;
+
+More happy love! more happy, happy love!
+
+For ever warm and still to be enjoy'd,
+
+For ever panting, and for ever young;
+
+All breathing human passion far above,
+
+That leaves a heart high-sorrowful and cloy'd,
+
+A burning forehead, and a parching tongue.
+
+ 
+
+Who are these coming to the sacrifice?
+
+To what green altar, O mysterious priest,
+
+Lead'st thou that heifer lowing at the skies,
+
+And all her silken flanks with garlands drest?
+
+What little town by river or sea shore,
+
+Or mountain-built with peaceful citadel,
+
+Is emptied of this folk, this pious morn?
+
+And, little town, thy streets for evermore
+
+Will silent be; and not a soul to tell
+
+Why thou art desolate, can e'er return.
+
+ 
+
+O Attic shape! Fair attitude! with brede
+
+Of marble men and maidens overwrought,
+
+With forest branches and the trodden weed;
+
+Thou, silent form, dost tease us out of thought
+
+As doth eternity: Cold pastoral!
+
+When old age shall this generation waste,
+
+Thou shalt remain, in midst of other woe
+
+Than ours, a friend to man, to whom thou say'st,
+
+'Beauty is truth, truth beauty'-that is all
+
+Ye know on earth, and all ye need to know.'
+
+Portrait of John Keats
+
+John Keats
