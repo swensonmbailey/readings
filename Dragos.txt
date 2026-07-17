@@ -1,0 +1,1049 @@
+Arianism has been substantially re-evaluated in the last decades as contemporary scholars have unveiled several distinct alliances, theological
+positions, and their evolutions related to this fourth-century phenomenon.
+One of the classical hypotheses regarding its origins is due to Adolf von
+Harnack. He linked Arianism with Paul of Samosata and Lucian, whom
+he considered Paul’s disciple. Harnack developed this idea mainly based
+on Arius’ expression Sylloukianistês (fellow-Lucianist) addressed to Eusebius of Nicomedia in his letter to Eusebius. Thus, Harnack famously stated
+that the “Arian doctrine has its root in Adoptianism, in the doctrine of
+Lucian of Samosata”1
+. However, contemporary scholars have pointed out
+that, due to the scarcity of evidence, it is not possible to prove the connection between Arius and Lucian and to outline a common theological vision
+of the “Lucianists”2
+. At the moment, this position is largely accepted
+among the specialists in the field.
+As a contribution to the current re-evaluation of Arianism, the present
+study proposes a fundamentally new way of research by redirecting some
+of its theoretical roots back to the Council of Antioch 268, which condemned Paul of Samosata. However, instead of connecting Arius with
+Paul and the heretical side of the council, as Harnack did, the present study
+compares Arian views with those of the synodals who condemned Paul,
+and who were considered orthodox by all authors, and in all the texts, from
+the third and fourth centuries.
+It is worth adding that scholars after Harnack have, with reason, hesitated to associate Arianism and Antioch 268 due to the problems about
+the authenticity of the Acts of the Process, a topic abundantly discussed
+in the twentieth century. Nonetheless, to be clear from the very beginning,
+the present study does not make use of the Acts of the Process but only of the authentic testimonies associated with the Council of Antioch 268, in
+particular the Letter of Six Bishops, composed shortly after the meeting,
+and George of Laodicea’s Epistula dogmatica3
+.
+While the present study continues a previous investigation of the reception of the Council of Antioch 268 in the fourth century, the main argument
+of the present inquiry was not advanced in the previous one4
+. So I suggest
+that the entire spectrum of anti-Nicene authors – from Arius to Asterius,
+to Eusebius of Nicomedia, to Acacius, to the Homoians and Homoiousians,
+to Aetius, to Eunomius – cannot simply be regarded as a collection of
+Arians of different types. More specifically, the previous study – regarding
+the theology of Antioch 268 and its reception in the fourth century –
+argued that Eusebius of Caesarea, the Homoiousians, and the main Eastern
+councils from Antioch 341 to Sirmium 351 should be read through the
+theological view of Antioch 268 rather than that of Nicaea or Arianism.
+Hence, I did not assess their doctrines as Arian, but rather as fourthcentury re-articulations of the Antiochene conceptual framework, hence,
+as part of that trajectory. According to them, οὐσία is understood as an
+individual substance and a certain subordination of the Son is accepted.
+However, they definitely preserve the traditional Christological tenet
+according to which the Son is fully divine and eternally co-existent with
+the Father5
+.
+On the contrary, in the present article I intend to investigate the phenomenon of Arianism in its internal logic and origin, in the light of my
+earlier findings regarding Antioch 268 and its significant influence in the fourth century. By doing so, I intend to argue first that some of the central
+metaphysical and theological tenets of Arianism are part of the Antiochene
+paradigm: there is an unvarying commitment of all Arian authors – Arius,
+Asterius, Eusebius of Nicomedia, Aetius, and Eunomius – to the Anti ochene metaphysics of οὐσία and ὑπόστασις, both understood as individual
+substance, which logically implies a persistent rejection of the notion of
+ὁμοούσιος as well as the assumption of the Son’s subordination, conceived in different ways and degrees. This metaphysical background of
+the Antiochene trajectory is opposed to the metaphysics of the Nicene
+trend, which is based on an understanding of οὐσία as common nature or
+immaterial stuff, and implies the consubstantiality and identity of divine
+status between the Father and the Son.
+Secondly, I argue that Arians distanced themselves even from the Antiochene paradigm while embracing a radical version of subordinationism
+in which they portrayed the Son as a creature and denied his co-eternal
+existence with the Father. Consequently, I see Arianism as a new trajectory
+generated through a certain discontinuity and break with the Antiochene
+paradigm rather than as a new expression of the theology of Antioch 268,
+as I find this in Eusebius of Caesarea, the Homoiousians, and the Eastern
+councils between Antioch 341 and Sirmium 351. This fracture had already
+been manifested at the Council of Antioch 341, and becomes obvious in
+the internal Eastern debates of the late 350s.
+As for the reason which prompted this Arian distancing from the Antiochene paradigm, I will argue that it may be seen as the result of an accentuated philosophical and metaphysical reasoning which led the Antiochene
+premise of understanding οὐσία as individual substance to its ultimate
+consequences. In so doing, I argue that their thorough philosophical thinking
+within the metaphysical framework of the Antiochene paradigm actually
+unveiled its limits and inability to generate a logically consistent theological
+position able to simultaneously preserve the key tenets of monotheism and
+the genuine divinity of the Son.
+
+I. ARIANISM AND THE ANTIOCHENE LEGACY
+According to the theological framework of Antioch 268, the notions of
+οὐσία and ὑπόστασις were synonymous and denoted the individual substance7
+. For that reason, the term ὁμοούσιος was rejected because it
+would have implied that the Father and the Son were the same individual
+entity, as modalist Sabellians claimed. On the other hand, while the
+Antiochene concepts of οὐσία and ὑπόστασις were able to underline the
+individual existence of the divine persons, this metaphysical matrix lacked
+a notion capable of securing divine communality. Thus, since ditheism
+was always its main challenge, a certain subordination of the Son was
+constantly part of the Antiochene trajectory, as a strategy aimed precisely
+at avoiding ditheism8
+. However, the Son was not seen as a creature with
+a beginning but eternally generated from the Father before the ages. In
+that sense, the Letter of Six Bishops clearly states that the Son is truly
+(ἀληθῶς) Logos and God, and he is the Sophia, the Logos, and the Power
+of God “existent before times as God not in foreknowledge but in substance and hypostasis”9
+.
+This metaphysical-theological perspective was therefore largely conveyed in the third century in the Eastern, Greek-speaking part of the
+Roman Empire, and received its official confirmation at the Council of
+Antioch convened in 26810. One of Manlio Simonetti’s remarks reinforces
+this idea while pondering that the understanding of οὐσία as individual
+substance was the prevalent use in pre-Nicene Eastern theology11. Moreover, it was continued in the fourth century by Eusebius of Caesarea, the
+Homoiousians, and the synodals of such influential councils as Antioch 341
+(with its Dedication Creed), Philippopolis 343 (the Eastern counterpart of
+Serdica 343), Antioch 345 (with its Ekthesis Makrostichos), and Sirmium
+351. George of Laodicaea even upholds that this vocabulary actually represents the very “Eastern” parlance12
+.
+Consequently, it is most likely that the Antiochene trajectory, with its
+reformulations, dominated Eastern theology from 341 to 351. I would
+point out that Antioch 341 was a milestone in the evolution of the Arian
+debate. A first formula of the council – plausibly a letter redacted by some
+of the bishops who supported Arius – testifies that they examined Arius’
+“faith” and accepted “him”. However, the second formula, most likely the concluding document of the council, definitely and deliberately distances itself from some key Arian ideas, for instance that the Son might
+have a beginning of his existence. At the end of the creed, one may find
+a few anathemas against those who assert that the Son was a creature or
+that there was a time or age before his generation13. The councils of Philippopolis 343, Antioch 345 (in the Makrostich)
+14, and Sirmium 351 (in its
+first and third anathemas), will follow the same classical Antiochene trend
+and refute the same key Arian tenets15
+.
+The connection between Arianism and Antioch 268 may not seem obvious prima facie. However, it becomes evident if we take into account
+two aspects. Firstly, such central Arian figures as Arius, Asterius, Eusebius of Nicomedia, Acacius, Aetius, and Eunomius were an integral part
+of the Eastern ecclesiastic fabric, as various episodes of the history
+between Nicaea 325 and Constantinople 360 clearly show. While Eusebius
+of Caesarea and his disciple Acacius defended Asterius, we may also see
+that Eusebius of Nicomedia, Acacius, and Aetius were leading actors in
+the Eastern councils from Antioch 341 to Constantinople 360. Furthermore,
+the aforementioned first formula of Antioch 341 argues against the West,
+without much reflection on Arius’ new ideas, that the Eastern bishops do
+not follow a priest, but they investigated his faith and subsequently
+accepted him.
+Secondly, Arians share the same metaphysical matrix generated by the
+understanding of οὐσία and ὑπόστασις as individual substance. If the
+Father is an individual divine substance, the first-principle, and the unbegotten God, then the Son as a second divine substance definitely challenges the idea of monotheism and cannot be simultaneously first-principle
+and unbegotten. He has to be therefore ontologically subordinate. Additionally, he cannot be ὁμοούσιος with the Father because, if οὐσία is
+understood as individual substance, then ὁμοούσιος implies the ontological identity between the Father and the Son in a modalist Sabellian way. For that reason, subordination was generally assumed by all Antiochene
+authors in order to avoid ditheism. At the same time, it was equally a
+central Arian standpoint.
+However, it is worth emphasizing a key characteristic of the concept of
+subordination; it implies ontological degrees in the sense that the Son can
+be more or less subordinate to the Father. Thus, subordinationism is distinctly conceived in all theological visions stemming from the Antiochene
+matrix, from the Letter of Six Bishops to Origen himself, to Eusebius
+of Caesarea, to the councils convened between 341 and 351, to the
+Homoiousians and the Homoians, to the Arians themselves. Consequently,
+my argument in this study is that the Arians, while definitely sharing
+this metaphysical matrix, distance themselves from the classical Antiochene trend at the moment when they push subordinationism to the point
+where the Son becomes a creature bereft of existence before his generation from the Father16. This Arian assertion actually infringes the traditional Antiochene position regarding the Son’s eternal and genuine divine
+existence.
+Arianism, therefore, should be regarded as a new trajectory, a broken
+branch of the Antiochene metaphysical trend. The fracture, which is
+actually not clear before 341, implies afterwards a long and intense
+debate between the Arians and the traditional Antiochenes. Thus, what
+has been traditionally envisioned as Arian councils, from Antioch 341
+to Constantinople 360, at least can also be regarded as an internal debate
+between these two Eastern factions sharing a common metaphysical
+framework.
+
+II. ARIUS
+1. Οὐσία as Individual Substance: Continuity and Discontinuity with the
+Antiochene Trajectory
+In its relation to Antioch 268, Arius’ doctrine implies two aspects: one
+of continuity, and one of difference and distance; one that continues to
+interpret the metaphysics of οὐσία and ὑπόστασις as individual substance
+and its consequences (subordinationism and the refutation of the notion of
+ὁμοούσιος), and one of discontinuity in which the existence of the Son
+does not precede his generation from the Father.
+As far as Arius’ view on οὐσία is concerned, R.D. Williams has already
+demonstrated that Arius conceives of the Son of God as possessing an
+οὐσία understood as individual entity and a ὑπόστασις distinct from that of the Father. Williams emphasizes that, according to Arius, this position
+constituted a “traditional” Christian standpoint: “for Arius, traditional
+orthodoxy makes it quite clear that there is a pre-existent heavenly Son,
+existing καθ’ ὑπόστασιν; the Son is himself an οὐσία, a proper subject
+of predication”17. Regarding the meaning of ὑπόστασις, it is clear in the
+Confession of Faith which Arius and his fellows sent to Alexander of
+Alexandria that they asserted the existence of three hypostases (τρεῖς
+εἰσιν ὑποστάσεις)
+18
+.
+It is worth noting with Williams that the use of οὐσία as independent
+substance is directly related to Aristotelian logic. The imperial edict
+of 333, which condemned Arius and ordered his books to be burned,
+called him and his supporters “Porphyrians”, since they were “as much
+enemies of faith as Porphyry himself”19. As Williams further expounds,
+the meaning of this polemical title becomes clear in view of another
+polemical epithet equally applied to the same group of theologians,
+namely, “slaves of Aristotelianism”20. Arius and other anti-Nicene writers were indeed experts in Aristotelian logic, which they primarily
+acquired through Porphyry’s Isagoge. The Isagoge was, at that time, the
+standard commentary on the Categories and one of the main channels
+for conveying both Aristotelian logic and the understanding of οὐσία as
+individual substance.
+Williams concludes his argument by asserting that, according to Arius,
+and in strict Aristotelian logic, the Son “is himself an οὐσία or ὑπόστασις, an individual with individuating properties distinct from those of ‘the Father’ – the self-subsistent God”21. We can further state that, within the
+limits of Aristotelian philosophy, the ὁμοούσιος can have only two possible logical explanations depending on the meaning of οὐσία: Thus,
+1) if οὐσία denotes an individual substance (as Aristotle’s primary substance), then ὁμοούσιος implies the identity of substances or entities of
+predication, which means that the Father and the Son are the same entity,
+i.e., pure Sabellianism22; or 2) if οὐσία denotes the secondary substance,
+therefore the common essence or genre of the individuals belonging to a
+certain class or genre, then the Father and the Son have the same essential
+characteristics as the entities of a class or genus. In the latter case, ὁμοούσιος simply means “of the same genus” (ὁμογενής or ὁμοφυές), and
+implies the existence of a class of divine beings or gods23. In other words,
+when οὐσία is understood in Aristotelian terms, the two meanings of ὁμοούσιος cannot be applied to the Father and the Son, since they imply
+unacceptable theological propositions. Hence, the concept has to be definitely rejected. This was indeed the main reason why not only Arius, but
+the entire Antiochene tradition (except Eusebius of Caesarea) refused to
+apply the term ὁμοούσιος to the relationship between the Father and the
+Son. 3) Arius also rejects a third meaning of the concept of ὁμοούσιος,
+specific to the Manichean system, in which two material substances separated from the same material compound are said to be consubstantial
+parts24. However, this meaning was obviously rejected by all parties
+involved in the controversy.
+These observations concur with Athanasius’ claim that Arius stated that
+“the substances (αἱ οὐσίαι) of the Father, Son, and Holy Spirit are distinct
+in nature (μεμερισμέναι τῇ φύσει), and foreign to each other, separated,
+alien, and without mutual participation (ἀμέτοχοί εἰσιν ἀλλήλων)”.
+Hence, they are “totally unlike from each other (ἀνόμοιοι πάμπαν
+ἀλλήλων) in their substances (οὐσίαις) and glories, to infinity (ἐπ᾽ ἄπειρον)”25. One may conclude that Arius professed a theology of radical
+“unlikeness” between the Father and the Son, not only in substance but
+in any respect. To the extent he does not envision any likeness between
+Father and Son, the radical unlikeness professed in his writings actually
+makes him the first true Anomoian. We will further see that a similar radical
+position can be found only in Aetius.
+
+2. The Separation from the Antiochene Tradition: The Son as Creature Not
+Existing before Its Generation
+Concomitantly with the Antiochene idea that the Father and the Son
+are two distinct οὐσίαι, Arius carries on the traditional tenet of a unique
+unbegotten principle (also fundamental for the Antiochene view)26. Then,
+he ratiocinates as a philosopher by drawing the logical conclusions which
+these premises may entail. Thus, he argues that the two οὐσίαι (or ὑποστάσεις) cannot be simultaneously without beginning, and therefore fully
+divine, because this assumption would lead to two simultaneous eternal
+principles, therefore to two first-principles, which is a metaphysical impossibility27. Consequently, unlike Eusebius of Caesarea and the Homoiousians,
+Arius and his friends give up the eternal existence of the second οὐσία or
+ὑπόστασις, that of the Son. In this way, in order to secure the Father’s
+ontological singularity as the only-unbegotten, Arius assumes that the
+Son cannot be co-eternal with the Father28. In this way, he manifests his
+preference for a logically coherent theological discourse within the categorial frames of the Antiochene metaphysics (in which οὐσία and ὑπόστασις
+denote an individual substance) on the expanse of abandoning the traditional theological tenets regarding the eternity and genuine divinity of the
+Son.
+Concerning the divinity of the Son, one may observe that Arius does
+not call him God in the Confession sent to Alexander (ca. 320), but proclaims him “God the only-begotten” in the Letter addressed to Eusebius
+of Nicomedia (ca. 318), and “God the Word” in the Confession sent to
+the Emperor Constantine around 333. In spite of this aspect, we have to
+point out that the Son’s attributes are not genuinely divine. Mark DelCogliano has investigated the status of the divine names in Arius and
+characterized his approach, together with that of Asterius the Sophist, as
+“participative”. According to them, the Son is created and subsists as God or divine only “through his preeminent participation by grace in the divine
+attributes of the Father”29. However, such Nicene authors as Athanasius
+and Apollinarius expressly criticized the idea that Christ may be God by
+grace or participation30. Secondly, this language was highly problematic
+because some of the most prestigious pre-Nicene and even Nicene theologians had described human sanctified being, too, as a “god”31
+.
+According to Arius, the Son plays a central role in the act of creation,
+which is accomplished “through him”. Nonetheless, the Son is considered
+a mere “perfect creature” (κτίσμα τέλειον) and a “perfect offspring”
+(γέννημα)
+32. Furthermore, the generation of the Son before the moment
+of creation is a key Arian doctrine. Arius does not interpret the biblical
+expression “before ages and aeons” in the sense that the Son was begotten
+by God before time in an eternal generation, but in the sense that he was
+begotten before the first moment of creation. Hence, Arius straightforwardly
+claims that the Son did not exist (οὐκ ἦν, “was not”) before his generation
+(“before he was begotten”), a doctrine stated in both letters addressed to
+Eusebius of Nicomedia and Alexander33. Arius’ theology, therefore, does
+not consist only in an epistemic theory about the human possibility to
+know God, about the Son’s possibility to know the Father, or about the
+Father’s nature which surpasses any epistemic approach34. It rather encompasses an important ontological aspect, regarding the ontic condition of
+the Son, who is no longer eternal like the Father. This was, in fact, the
+aspect which actually triggered the whole controversy. It is a substantial metaphysical point which cannot be diminished to the status of a mere
+issue of oratory or ecclesiastical politics. However, as Alexander already
+noticed at the time, Arius’ position encompasses serious metaphysical
+problems, since the first moment of creation actually represents the very
+instant when time with its ages and aeons is created simultaneously with
+the entire universe35. Hence, if time begins with the creation, it is logically
+impossible to speak of time before creation, in particular about any
+moment “before ages and aeons”. Since there is no time, sequence of
+time, or temporality before creation, one cannot speak about any “moment”
+or “period” before it. As Alexander puts it, there is no interval or period
+(διάστημα) of time in God’s eternity, especially one preceding the Son’s
+generation36
+.
+One may conclude that this conception – according to which the preincarnate Christ, in his divine, or heavenly, condition, did not exist before
+his generation – actually represented Arius’ true theological innovation.
+Therefore, it was not subordinationism as such, which was widely accepted
+in pre-Nicene Christology, that was controversial. As for the roots of this
+Arian idea, while the Son is clearly reduced to a high angelic figure with
+creative capacities (encountered in Philo and some early Jewish and Christian traditions), Arius’ arguments and the language by means of which he
+construes them are not biblical but metaphysical. Hence, the main cause
+of his conception should rather be found in his metaphysical alacrity, and
+particularly in the aforementioned concern of securing the condition of the
+Father as the only unbegotten first-principle. For that reason, he preferred
+the solution of degrading the Son’s condition to that of a creature.
+Thus, unlike those anti-Nicene authors who continued the theological
+lines of the Antiochene legacy, Arius and his companions pushed the
+Antiochene paradigm to its logical limits. Their intellectual effort actually unveils to us the internal incoherence of the Antiochene theological
+paradigm which has to assume at the same time that οὐσία is an individual
+substance and that the Son co-exists from eternity with the Father.
+For someone who becomes aware of this incoherence and who does not
+envision that the term οὐσία may have a different meaning, the only logical
+possibility to solve the conundrum is to sacrifice the eternity of the Son,
+because his eternity would imply the metaphysical impossibility of a second first-principle.
+For this reason, Arius and his fellows opposed the Nicene expression
+“from the Father’s substance” and then the “consubstantial” (which,
+if one understands οὐσία as individual substance, implies modalist Sabellianism)37. It is worth noticing that this argument is logically valid
+only from the perspective of the metaphysical assumption that οὐσία
+denotes an individual substance. However, it is not valid in a Nicene
+metaphysical framework in which οὐσία is understood as the common
+substance or immaterial stuff which the divine persons simultaneously
+share or participate in. Within the Nicene trend there is no second divine
+οὐσία challenging the conditions of uniqueness and simplicity of the
+first-principle.
+Additionally, Arius even refuted the theology of “likeness” which was
+implied in, and conveyed by, the Antiochene legacy, as one may find it
+expressly articulated in Eusebius of Caesarea, Asterius, the Homoians,
+and the Homoiousians. Likeness, however, just as subordination, implies
+ontological degrees, as the Son may be conceived more or less alike with
+the Father. Thus, a high degree of likeness of the Son may turn him into
+a second first-principle. For that reason some later Arians perceived the
+theology of likeness as unable to ensure monotheism from the danger of
+there being a second eternal, divine οὐσία like the first one, in fact a
+ second first-principle.
+
+III. ASTERIUS THE SOPHIST
+The same Antiochene metaphysical background is clearly displayed in
+Asterius the Sophist who, together with Eusebius of Nicomedia, was one
+of Arius’ main supporters. Markus Vinzent has already argued that Asterius’ notion of οὐσία is synonymous with ὑπόστασις and πρόσωπον, all
+indicating “das reale, einzelne Seiende”
+38. It is clear in Asterius’ fragments that he does not conceive of the word ὑπόστασις as existence, like
+Athanasius, but as a subsisting individual, as in the Antiochene trend39
+.
+Furthermore, as in Arius’ case, Asterius’ language includes the expression
+“three hypostases”40. Likewise, the Son is described as a “work” or a
+“creature” (ποίημα), he is subordinate to the Father, and did not exist
+before his generation from the Father.
+
+Williams also comments that Asterius, following Aristotelian logic,
+argues that the Son is not the true and proper Power of the Father but a
+different one, since the Father has a unique power (δύναμις) proper to his
+own nature (ἰδία φύσει). The Son cannot be identified with this proper
+and true power of the Father, because, in this case, he would be only a
+quality of the Father and not a distinct individual substance42. As DelCogliano shows, Asterius’ doctrine of the divine names is very similar to
+Arius’, implying the same “participative” approach43
+.
+Following the same logic, Asterius asserts that the Son is neither naturally (φύσει) within the Father, nor the “Logos proper to his [i.e., the
+Father’s] substance (ἴδιος τῆς οὐσίας αὐτοῦ λόγος)”, nor the Father’s
+proper Wisdom44. On the contrary, as in Arius, the Son can be called
+Power, Logos, and Sophia only “by conceptualization” (κατ’ ἐπίνοιαν)
+45
+.
+He is also not a genuine God but only “by participation in grace” (μετοχῇ
+χάριτος)
+46. Once more we encounter the same distancing from the Antiochene theology by dropping the eternal and genuine divine existence of
+the Son.
+Denying that the Son is the “proper Logos” of the Father’s substance
+also represents an obvious reaction to Nicaea. It occurs a second time in
+a different passage. In this new context, Asterius argues – again within
+the framework of the Antiochene metaphysics and its Aristotelian categories – that the Nicene expression “proper to the Father’s substance” makes
+of the Son a mere property of the Father, and does not allow him to be a
+separate individual entity:
+Why do you imagine him [i.e., the Son] proper to and like the Father’s substance
+(ἴδιον καὶ ὅμοιον τῆς τοῦ πατρὸς οὐσίας) on the ground of his saying that,
+“I and the Father are one” (John 10,30) and “I am in the Father and the
+Father in me” (John 14,10), when he and the Father are one and he is in the
+Father in the way we are one in the Father? It is necessarily, therefore, either
+that we are also proper to the Father’s substance or that each is distinct as
+we are also distinct47
+.
+Since the first option is obviously impossible, it follows that the Son is
+in the Father as human beings are in the Father, as distinct individuals or
+substances. It is remarkable that, consistent with Arius, Asterius denies in
+this passage the “likeness” between the substances of the Father and the Son. Nevertheless, these lines contradict the text in which he actually
+argues that the Son is the “indistinguishable image of the Father’s substance, will, power, and glory” (οὐσίας τε καὶ βουλῆς καὶ δυνάμεως καὶ
+δόξης ἀπαράλλακτον εἰκόνα)
+48. Hence, as far as the substance is concerned, the Son is declared to be both “unlike” and “the indistinguishable
+image” of the Father.
+IV. EUSEBIUS OF NICOMEDIA
+Eusebius of Nicomedia is the other main defender of Arius and the
+author of a doctrine shaped in the same line of thought, as can be seen
+from his extant letter to Paulinus of Tyre49. I would equally argue that he
+understood οὐσία in an Antiochene way, using the term φύσις to denote
+the nature or essence of a certain entity, in the way everyone used the term
+at the time. Like Arius and Asterius, Eusebius envisions the Father and
+the Son as distinct both in individual substance (οὐσία) and nature
+(φύσις)
+50. Nonetheless, the Son is alike in terms of individual substance,
+since he is God’s image. An entity that differs in nature from the Father
+(as are all the Father’s creations), the Son is, however, a perfect image or
+likeness of the Father:
+My Lord, we have never heard that there are either two unbegottens (οὔτε
+δύο ἀγέννητα), or only one divided into two, and we have never learned or
+believed that it has ever suffered something corporeal, but only [that there
+is] one unbegotten (ἓν μὲν τὸ ἀγέννητον) and one who truly [exists] by him
+(ἓν δὲ τὸ ὑπ᾽ αὐτοῦ ἀληθῶς), neither made out of his substance (οὐκ ἐκ τῆς
+οὐσίας αὐτοῦ γεγονός), nor partaking at all in the nature of the unbegotten
+(τῆς φύσεως τῆς ἀγεννήτου μὴ μετέχον), nor being of his substance (ἢ ὂν
+ἐκ τῆς οὐσίας αὐτοῦ), but made entirely different in nature and in power
+(γεγονὸς ὁλοσχερῶς ἕτερον τῇ φύσει καὶ τῇ δυνάμει), to become a perfect
+likeness (τελείαν ὁμοιότητα) of the maker, both regarding his condition and
+power (διαθέσεώς τε καὶ δυνάμεως)
+51
+.
+The text includes the clear anti-Nicene stance that the Son “was not
+made out of His substance” (οὐκ ἐκ τῆς οὐσίας αὐτοῦ γεγονός). Asserting
+with Arius and Asterius the distinction of nature between the Father and the Son, Eusebius denies any participation of the Son in the nature of
+the unbegotten (τῆς φύσεως τῆς ἀγεννήτου μὴ μετέχον). While the
+Father and the Son are dissimilar in terms of nature and power, they are
+considered to be perfectly alike in terms of condition and (contradicting
+himself) of power. However, it is remarkable that, like Arius and Asterius,
+Eusebius seems to perceive two aspects of the relationship between the
+Father and the Son: namely, one of similarity or likeness and one of dissimilarity. Nevertheless, like Asterius, Eusebius does not systematically
+examine this double aspect, and his assertions sometimes contain obvious
+contradictions.
+The same passage continues by explaining the beginning of the Son as
+beyond the thoughts of humans and angels. Then, Eusebius provides an
+interpretation of the well-known Prov 8,22-23 (LXX): “God created (ἔκτισεν) me the beginning of his ways for his works; before the ages (πρὸ
+τοῦ αἰῶνος) he established (ἐθεμελίωσεν) me in the beginning; he fashioned (ποιῆσαι) me before the earth”. Following these three biblical
+verbs, Eusebius draws a conclusion about the substance and the nature of
+the Son, which actually include a certain likeness with the Father: “we
+have learned that the Son was created, established, and begotten according
+to the substance (κτιστὸν εἶναι καὶ θεμελιωτὸν καὶ γεννητὸν τῇ οὐσίᾳ),
+according to the immutable and inexpressible nature (τῇ ἀναλλοιώτῳ καὶ
+ἀρρήτῳ φύσει), and according to the likeness with the Maker (ὁμοιότητι
+τῇ πρὸς τὸν πεποιηκότα)”52
+.
+In the following paragraph, we can see that he does not use the term
+οὐσία as an abstract common essence but as a real (here, sensible) entity
+from which one may take a part, or an entity able to emanate something.
+On the other hand, according to Eusebius, if something comes from the
+substance of the Unbegotten it will be unbegotten, as he shows in the following passage:
+If [the Son] had been from him or of him (ἐξ αὐτοῦ, τουτέστιν ἀπ᾽ αὐτοῦ),
+like a part of him, or an emanation of his substance (ἐξ ἀπορροίας τῆς
+οὐσίας κτιστόν), it could not be asserted that He was created or established
+(κτιστὸν οὐδὲ θεμελιωτόν), as you, my lord, truly know it. Because that
+which exists from the unbegotten (τὸ γὰρ ἐκ τοῦ ἀγεννήτου ὑπάρχον) is
+unbegotten from the beginning (ἐξ ἀρχῆς ἀγέννητον ὑπάρχον) and cannot
+be called “created” or “founded” either by him or by another53
+.
+One may notice at the end of the passage that Eusebius adopts a key
+metaphysical principle: if an entity is begotten from the unbegotten principle, then that entity is also unbegotten. However, the Son is never called
+unbegotten but begotten, created, and established. If something is created and established, it is impossible, according to Eusebius, to assert that it
+comes “from”, or “of”, the unbegotten, as the Nicenes do. Moreover,
+while discussing the Son’s condition in his letter to Arius, Eusebius even
+claims that “it is clear to anyone that what was created did not exist before
+its generation (τὸ πεποιημένον οὐκ ἦν πρὶν γενέσθαι)”54
+.
+Eusebius continues his critique of the Nicene idea that the Son is of the
+substance (οὐσία) of the Father by arguing that, if one believes that being
+begotten can imply the identity of nature (φύσις), this would be completely wrong and contrary to scriptures:
+However, if being called the “begotten” (τὸ γεννητόν) may give any ground
+for the argument according to which the fact of being begotten of the Father’s
+substance (ἐκ τῆς οὐσίας τῆς πατρικῆς) may imply that his identity of
+nature (ἐκ τούτου τὴν ταυτότητα τῆς φύσεως), we have to know that the
+Scriptures have not predicated the “begotten” only of him, but also of those
+who are entirely unlike him according to the nature (ἐπὶ τῶν ἀνομοίων αὐτῷ
+κατὰ πάντα τῇ φύσει)
+55
+.
+Like Arius and Asterius, therefore, Eusebius classifies the Son as one
+of the creatures, despite the fact that he has secured a privileged status
+among them, as all things have been created through the Logos. According
+to Eusebius, all created and begotten things are completely different from
+the Father’s nature. Nonetheless, a crucial question should be raised: If the
+Son is different from the Father also in nature, is he divine? This is actually a conundrum for Eusebius, and in this letter, most likely prior to
+Nicaea 325, he never calls the Son a God. Later on, he will accept it while
+signing the documents of the Council of Antioch 341, a meeting following
+more closely the legacy of Antioch 268. 
+
+V. ACACIUS OF CAESAREA
+One of the most important anti-Nicene leaders in the 340s and 350s was
+Acacius of Caesarea, a pupil of Eusebius of Caesarea and successor to this
+see from 340 until his death in 365-36657. Acacius was a protagonist in
+the anti-Nicene councils starting with the Council of Antioch 341 and
+ending with the Councils of Seleucia 359 and Constantinople 359/360, in which he was, surprisingly, the leader of the anti-Homoiousian alliance,
+sometimes even labelled as the Acacian party58. Shortly after the death of
+his protector, Emperor Constantius, in 361, Acacius will change again his
+position and sign the Nicene formula reinstated at the Council of Antioch
+363, under Emperor Jovian. After Jovian’s death, however, he will rejoin
+the Homoian party, but will be deposed by the Council of Lampsacus in
+365/366, nevertheless dying before being removed. This constant change
+of parties in the last decade of his life prompted some commentators to
+describe him as “un unscrupulous opportunist”59
+.
+Being an educated man and student of Eusebius of Caesarea, it is
+expected that Acacius understood οὐσία in an Antiochene way, as we will
+see later. His book Against Marcellus was composed in the early years
+of the Arian debate. Around 327, Asterius the Sophist wrote a text in
+defence of Eusebius of Nicomedia, who was deposed at Nicaea for a letter
+produced before the council. A few years later, Marcellus composed his
+Contra Asterium. In reply, both Eusebius of Caesarea and his disciple,
+Acacius, published a defence of Asterius entitled Contra Marcellum.
+Acacius’ defence, delivered at the Council of Antioch 341, was presumably
+composed shortly before60
+.
+In Contra Marcellum he essentially conceives of the Son, in terms very
+similar to those of Asterius, as the “indistinguishable image of God’s
+being, will, power, and glory”61. Although Acacius’ early theological
+position cannot be identified with that of Asterius, it is comparable to
+that of Eusebius of Caesarea62. DelCogliano shows that Acacius conceived
+of the Son’s divine names in a constitutive way, like Eusebius, rather than
+in the participative way of Asterius63. Hence, he believed that the Son is
+like the Father by nature not by participation64. One may have, indeed, the
+impression of reading the Homoiousian position avant la lettre, as in Eusebius of Caesarea’s case65. However, instead of interpreting his position as
+Homoiousianism avant la lettre, I propose to consider him, together with
+Eusebius of Caesarea, a follower of the Antiochene legacy. In fact, at the
+end of the 350s, at the time the Homoiousian position emerges, Acacius
+firmly opposes Basil of Ancyra and his Homoiousian friends.
+Moreover, in order to avoid ditheism, Acacius takes a subordinationist
+position that clearly follows the Antiochene tradition. He expressly avows that the Son “gratefully asserts his subordination”66. Regarding the meaning of οὐσία, it is highly plausible that he also understood it in the terms
+of the Antiochene tradition, as individual substance. The Eusebian context
+of his education and his theological vision allow one to draw this conclusion
+which is also supported by the following passage preserved in Epiphanius’
+Panarion, a sentence rhetorically addressed to Marcellus: “You deny that
+God’s living image is living, and that the image of a substance is a substance (οὐσίαν), and that the indistinguishable image (ἀπαραλλάκτως
+εἰκόνα) of will, power, and glory is will, power, and glory”67. He further
+quotes Asterius’ expression and includes himself in a group defending
+Asterius’ position: “And simply put, we assert that he is the image of a
+substance (οὐσίας), will, power, and glory, not a lifeless and dead image,
+but substantial, and endowed with will, power, and glory (οὐσιώδη καὶ
+βουλητικὴν καὶ δυνατὴν καὶ ἔνδοξον). […] A substance does not beget
+a nonsubstance (ἀνούσιον), but a substance in itself (αὐτοούσιον)”68
+.
+For Acacius, the Son is the divine Logos subsisting as God’s Image, a
+distinct individual substance imitating, by its nature, the attributes of the
+Father:
+For God the Word who bestows life, beauty, and form (μορφήν) upon others
+cannot be envisioned without life, beauty, and form (ἄμορφος), as dead or
+lacking existence. But he is formed (μεμόρφωται) with the Father’s attributes
+(χαρακτῆρσι), not being different in the sense of having different attributes
+of his form (χαρακτῆρας τῆς μορφῆς), but in the sense that his attributes are
+present in his existence (ἐν τῷ εἶναι αὐτοῦ), and his existence is present in
+his attributes69
+.
+One may also recall Marcellus of Ancyra’s complaint that the Homoians
+use ὑπόστασις and οὐσία to denote an individual substance70. To conclude,
+Acacius’ early theology appears deeply indebted to his teacher, Eusebius
+of Caesarea, and to the Antiochene legacy which Eusebius continues.
+He does not seem to be an original author, and, as Hanson points out,
+“[h]is leadership was political rather than doctrinal”71. It is only in this
+way that one may explain his later erratic theological carrier, which is
+difficult to classify. He was certainly not one of the neo-Arians, as Aetius and Eunomius, and he fought against the Homoiousians who defended a
+doctrine similar to his early theology. After 357 he promoted a Homoian
+agenda refuting the use of any οὐσία vocabulary and claiming a vague
+“likeness” of the Father and the Son. As Hanson observed, “[h]e could
+stomach the statements of Sirmium II 357, though they can hardly have
+represented his true position”.
+
+VI. THE “BLASPHEMY” OF SIRMIUM 357
+In the aftermath of the Council of Nicaea 325, Antiochene theology
+prevailed in anti-Nicene circles until the early 350s, including in the key
+councils of the 340s in which the main Arian theses were dismissed.
+By the end of 350s, however, the anti-Nicenes will gradually be divided
+by the resurgence of a radical position very similar to that of Arius. Initiated by Aetius and Eunomius73, it was a trend carrying on Arius’ ideas
+that the Son is radically “unlike” (ἀνόμοιος) the Father and he did not
+exist (or, had a full existence) before his generation from the Father. It is
+unclear whether they defended an Anomoian position before their exile of
+358. Around 358, Eudoxius of Antioch was also supporting a similar view
+and Aetius was his priest in the same city74. I would argue, however, that
+the meaning of the concept of Anomoianism was unclear at the time. The
+surviving reports use it in different ways, and it is not clear if, before 360,
+Aetius and Eunomius claimed a radical unlikeness of the Father and the
+Son, similar to Arius’, or one regarding the substance only.
+On the other hand, a second alliance emerges in the late 350s in continuity with the Antiochene tradition of “likeness” as developed by Eusebius
+of Caesarea. So they emphasized an older feature of Antiochene theology
+present in Eusebius and further developed in the 340s and 350s, namely,
+that the Son is like the Father in substance (ὅμοιος κατ’ οὐσίαν). For this
+reason, they came to be called Homoiousians and gravitated around two
+key figures: Basil of Ancyra and George of Laodicea. Homoiousianism,
+therefore, continues the Antiochene legacy and can be seen as a reworking
+of Eusebius of Caesarea’s theological vision75
+.
+Moreover, as these two alliances articulate their identities and opposite
+visions and, therefore, collide with each other and with the Nicenes, a
+third theological position emerges among the anti-Nicenes, mostly as a
+compromise between neo-Arians and Homoiousians. It is usually called Homoianism, because its main tenet consists in the vague and comprehensive idea that the Son is simply “like” the Father. Historically, it is not a
+theological standpoint articulated by a certain author or party, but rather
+evolves alongside with Emperor Constantius’ effort to reconcile all parties.
+Thus, it gradually unfolds into a new alliance gravitating around the court
+bishops of Illyricum: Valens, Ursacius, and Germinius. Homoianism,
+therefore, finds its identity throughout the councils of Sirmium 357, 359,
+Ariminium 359, Seleucia 359, and Constantinople 359-360, a sequence of
+vigorous actions exerted by the imperial power.
+It should be noted that, in the early 350s, Constantius promoted an
+anti-Nicene agenda in the West, as shown by the councils of Arles (353),
+Milan (355), and Baeterae (today Beziers, in France, in 356), and the
+removal from their sees of such pro-Nicene bishops as Athanasius, Hilary
+of Poitiers, and Dionysius of Milan. The council held in 357 in Sirmium
+(one of the ancient tetrarchic capitals of the Empire), was actually a small
+meeting organized by some anti-Nicene Western bishops, including Valens,
+Ursacius, and Germinius of Sirmium, apparently in the presence of the
+Emperor Constantius76. Kopecek places the council of Sirmium in direct
+continuity with the previous councils and the imperial anti-Nicene
+agenda77. The relatively few synodals of Sirmium 357 drew up a formula of
+faith in Latin. Hossius of Cordoba, the venerable president of the Councils
+of Nicaea 325 and Serdica 343, was convoked to Sirmium twice, the second time being incarcerated and finally induced to sign the new creed.
+The formula of Sirmium 357, labelled by Hilary of Poitiers as the “blasphemy of Sirmium”, still does not contain any distinct language of
+“likeness” or Homoian vocabulary78. It was rather a first attempt to reach
+a compromise solution among the two sister anti-Nicene alliances (colliding
+in a kind of internal war) by giving up any mention of both the language
+of οὐσία (including the notions of ὁμοούσιος and ὁμοιούσιος) and the
+language of “likeness” and “unlikeness”. Thus, Homoianism was not
+the doctrine of any particular author or alliance until the Dated Creed
+produced at Sirmium two years later, in the spring of 359.
+The manifesto of Sirmium 357 reconfirms the divinity of the Son as
+well as his strict subordination to the Father. The emphasis on subordination
+and the rejection of the Nicene ὁμοούσιον made the pro-Nicenes see it as a blasphemy. Nevertheless, for the first time in the history of the Arian
+debate, this creed proposes the rejection of the term οὐσία and its derivatives ὁμοούσιος and ὁμοιούσιος, for the reason that they do not occur in
+the Bible but utterly stir up doctrinal disarray in all Christianity.
+To this extent, the council distanced itself from the οὐσία language of
+Antioch 268 and its metaphysical assumptions. Nevertheless, it preserved
+the Antiochene rejection of ὁμοούσιος (although for different reasons),
+the eternal existence of the Son, and emphasized his subordination to the
+Father. As these doctrines were more or less common in the pre-Nicene
+era, the council actually repositioned the debate within the limits of the
+generally accepted Biblical language. The new solution, however, did not
+solve the problems, but only avoided them, and allowed them to further
+persist.
+Regarding the term “like” and the central theological question on the
+likeness or unlikeness between the Father and the Son, the formula of
+Sirmium 357 makes no specification, apart from the fact that no one
+knows the way the Son is begotten of the Father. Consequently, there is
+no evidence to call this council either Homoian or Anomoian.
+Moreover, it is not accurate to classify this formula as Arian, since Arius’
+key theses with regard to the Son’s beginning in time and his unlikeness to
+the Father are not present in the “blasphemy”. Additionally, the notion
+of οὐσία plays a leading role firstly in Arius and secondly in Aetius and
+Eunomius. From a theological point of view, the Creed of Sirmium 357
+contains nothing remarkable, due to its simplicity and its attempt to solve
+the problems by avoiding them. It represents, nevertheless, a landmark in
+the Arian debate because the council rejected the Homoiousian position,
+exacerbated the internal division among the Eastern anti-Nicenes, and made
+the Homoiousians organize as a separate alliance and eventually lean toward
+the Nicenes. Eudoxius of Antioch convened a council in his city, either the
+same year or the next, in which the “blasphemy” was accepted. It is worth
+mentioning that Acacius of Caesarea was probably also present79
+.
+At the opposite side, Basil of Ancyra perceived this meeting as advancing a radical position with Arian tendencies, and summoned in response
+the first Homoiousian council to be held in his city in 358. The synodals
+condemned both those who rejected the likeness in substance as well as
+the Nicene theology80. In the aftermath of their assembly, Basil of Ancyra,
+Eustathius of Sebaste, and Eleusius of Cyzicus set up a delegation to travel
+to Sirmium for talks with Emperor Constantius. The meeting was so successful for Basil, that the Emperor not only agreed that the Homoiousian
+position was the most appropriate solution and became its defender, but
+he also exiled Eudoxius, Aetius, and Eunomius.
+
+The event also indicates that these three people were considered to be
+radicals even among the anti-Nicenes, and were in a direct dispute with
+the Homoiousians. Otherwise, Constantius’ act would make no sense. We
+do not know, however, whether the three people were supporting a radical
+unlikeness, or merely an unlikeness with regard to the substance. It is possible that Basil’s intrigues have caused Emperor Constantius, himself an
+anti-Nicene, to exile the three. In a letter sent to the community of Antioch, Constantius calls Aetius a sophist of evil and impious deeds, and his
+doctrine a heresy, but without specifically mentioning it82. Nevertheless,
+he will recall Aetius and Eunomius next year. They were also well
+accepted among the other anti-Nicenes, the people who convened at Sirmium in 357, and later will be accepted at the Council of Constantinople
+359-360 on the Homoian side. Aetius seems even to dominate theologically the first part of this council. However, we will see below that it is
+only Aetius’ writings that demonstrate a radical unlikeness as in Arius,
+while Eunomius was a Homoian Arian. Anomoianism was ambiguously
+defined at that time and still continues. If it refers only to the unlikeness
+of substance, then this definition is misleading or ambiguous, at least,
+because, in this case, all Homoians (except Homoiousians) were Anomoians. If it refers to a radical unlikeness, this position was articulated only
+by Arius and Aetius. Hence, we have to conclude that there is no clear
+evidence that Anomoianism actually existed as a trend, group, or alliance
+other than Arius and arguably Aetius83. As Acacius gradually becomes the
+leader of the Homoians at Seleucia 359 and Constantinople 359-360, the
+followers of the new doctrine may also be called “Acacians”, or “the
+party of Acacius”.
+
+VII. HOMOIANISM
+There is also a persisting ambiguity in what concerns Basil of Ancyra’s
+and the other Homoiousians’ stay in Sirmium in 358, particularly whether
+a council was organized on that occasion85. As Timothy Barnes argues,
+what George of Laodicea describes as a “council of the homoiousians at Sirmium in 358” may be overstated if one compares it with Sozomen’s
+report, which makes no mention of it (H.E. 4,15). Thus, it is plausible that
+the meeting consisted merely in the aforementioned activity of the
+Homoiousians at the court of Sirmium.
+In this general context, the Emperor further intended to reach a unique
+common solution, and, in view of that, to organize an ecumenical council
+at Nicomedia. As a severe earthquake made the project unattainable, he
+divided the assembly into a Western council held in Ariminum, in Italy,
+and an Eastern one eventually convened in Seleucia, in Cilicia, in the fall
+of 359. Making the effort to prepare things in advance even in terms of
+doctrine, and thus to avoid possible surprises, Constantius called a small
+number of bishops led by the same Ursacius, Valens, and Germinius,
+together with Basil of Ancyra, to Sirmium, in the spring of 359, in order
+to prepare a commonly accepted formula. Drawn up by Marcus of Arethusa,
+it was accepted on the 22nd of May 359. For this reason it is usually called
+the Dated Creed86. It is in this text that one may encounter, for the first
+time, a Homoian formula, which describes the Son like the Father, God of
+God, and explicitly rejects any οὐσία vocabulary. Subsequently, Constantius made the attempt to impose it throughout his empire87. Incepted on
+that day, Homoianism did not emerge as a theological doctrine belonging
+to a particular group or alliance, but rather as a theological compromise
+between the court bishops and the Homoiousians88. As Barnes observes,
+“its main feature is an attempt to mediate, to devise a formula which all
+might accept”89
+.
+In the West, the Council of Ariminium began in the summer of 359 with
+a clear defence of the Nicene position, but it was infiltrated by a minority
+of Homoians led by Ursacius, Germinius, and Valens, which changed the
+course of the entire assembly. Eventually, two distinct delegations – one
+representing the pro-Nicene majority and one the Homoian minority –
+were sent to Constantinople. Constantius, however, did not receive the
+delegation of the pro-Nicene majority, and, later that year, in Nike (Tracia),
+his agents eventually persuaded the delegation to sign a similar Homoian
+formula inspired by the Dated Creed90. The Council of Seleucia, held in
+the fall of 359, attempted to settle the same dispute between Acacians and
+Homoiousians, this time led by George of Laodicea. The result was a
+Homoian formula very similar to the Dated Creed, portraying the Son
+“like” the Father, and rejecting the use of οὐσία as non-scriptural.
+
+As a result, Homoianism became the empire’s new “orthodoxy”,
+accepted by all its subjects with the exception of such exiled pro-Nicene
+bishops as Athanasius and Hilary. Imperial will was imposed. Furthermore, Constantius intended to use this momentum and enforce the new
+theology at an ecumenical synod, which he summoned in Constantinople,
+in January 360. On that occasion, Aetius and Eunomius, recalled from
+their exile, apparently steered the discussions92. Aetius debated with Basil
+of Ancyra and allegedly defeated him. However, the Emperor banished
+the two of them from the palace and later even deposed them. On the
+contrary, Eunomius was appointed bishop of Cyzicus93. Kopecek suggests
+that Aetius was banished not because of supporting Anomoianism, but
+because, in a text circulating during the council, he defended that the
+Son is like the Father “without any difference” or “indistinguishably”
+(ἀπαραλλάκτως), as in the Creed of Antioch 341, which Basil of Ancyra
+also defended. Thus, this situation would have led them to reinstate the
+formula of Antioch, while Constantius wanted to impose the Homoian
+formula already accepted at Ariminium and Seleucia94. Most likely, the
+two intellectual leaders of the two opposing alliances (neo-Arians and
+Homoiousians) were able to stir up new discussions and problems during
+a meeting that was only meant to apply the Homoian position previously
+imposed in Ariminium and Seleucia.
+However, the few data relating to this incident are not clear, and Aetius
+actually rejected the Homoiousian indistinguishability (ἀπαράλλακτον) of
+substance in Synt. 3. It is therefore more plausible that they were dismissed
+because they were re-engaging the council in the previous endless discussions on οὐσία; and this would have undone all the Homoian effort which
+Constantius and his bishops had accomplished in the previous councils.
+Finally, the majority controlled by the Emperor and Acacius promulgated
+a Homoian creed similar to that of Nike 359, portraying the Son like the
+Father and rejecting now both notions of οὐσία and ὑπόστασις95
+.
+Despite of being universally imposed, Homoianism was, in fact, not a
+monolithic or unitary theological view, but a large conceptual umbrella
+covering a wide spectrum of anti-Nicene positions. Its main concept, the likeness, was left vague and ambiguous. Homoiousians, for example, will
+promote for a while the “likeness in everything” (hence, including also
+the substance). From a logical point of view, Homoiousianism is a type of
+Homoianism. At the other end of the spectrum, Acacians conceived of
+likeness, apparently, only in will96. To them, I will add Eunomius with his
+doctrine of likeness in activity (will being one of the activities). Furthermore, Ayres points out the existence of sensible theological differences
+between Western and Eastern Homoians97
+.
+In strict doctrinal terms, Homoians, and especially Acacians, were not
+really Arians. Unlike Arius, the Homoian creed of 360 accepted the eternal
+existence of the Son and envisioned him like the Father. Consequently,
+they were closer to the Antiochene legacy than to Arius: they preserved
+the rejection of the ὁμοούσιον, the Son’s existence before all ages and
+beginnings, his subordination to the Father, and his likeness to the Father,
+however, giving up the Antiochene metaphysics of οὐσία.
+
+VIII. AETIUS AS AN ANOMOIAN ARIAN
+As certain key features of the Antiochene paradigm were detectable in
+Arius’ doctrine, they can also be identified in the writings of Aetius and
+Eunomius, who continue – I would argue – his main ideas in the 350s
+and 360s. Typically, they have been labelled as Anomoians, neo-Arians,
+or Heteroousians. Regarding their doctrine as significantly distinct from
+Arius’ standpoint, Ayres considered it inappropriate to call them either
+neo-Arians (e.g., Kopecek), due to their doctrinal differences from Arius’
+views, or Anomoians (e.g., Dünzl), since they assume that there are certain
+ways in which Father and Son are alike98. Hence, Ayres preferred the term
+Heterousians, “because of its precision in indicating exactly where they
+saw the key difference between Father and Son”99. However, the same
+distinction between the individual substance of the Father and that of the
+Son is also specific to the Homoiousian vision100. So, the Homoiousians
+themselves are also perfect Heterousians. Consequently, confusion is inevitable, and, for this reason, I suggest that the category “Heterousian”
+should actually be avoided.
+Trying to label them, I would first notice that Eunomius clearly assumes
+a likeness in activity in Apol. 24, and specifies that human will represents
+an activity. Consequently, he actually can be classified as a Homoian.
+However, he also reshapes Arius’ doctrine on the Son as not existing
+before his generation, a doctrine which Aetius, among all the anti-Nicenes,
+shared likewise in a slightly modified way. On the contrary, there is no
+indication in Aetius’ Syntagmation of any doctrine of likeness; yet he
+clearly articulates a doctrine of radical incomparability, without analogy,
+with regard to the substance of the Father. Hence, because he actually
+ re-expresses Arius’ two main doctrines, one may call Aetius an Arian, or
+neo-Arian, who supported an Anomoian position. Unlike him, Eunomius
+may be categorized as a Homoian Arian.
+Aetius’ position on οὐσία can be found in his Syntagmation, which was
+possibly made public in December 359, at the council of Constantinople101
+.
+There he definitely envisions a nature (φύσις) as residing, or being instantiated, within an individual substance (οὐσία), when he confirms that,
+“[i]t is impossible for a begotten nature to exist in an unbegotten substance
+(γεννητὴν γὰρ φύσιν ἐν ἀγεννήτῳ οὐσίᾳ οὐκ ἐνδέχεται εἶναι)”102. Aetius
+clearly presupposes a radical ontological distance between the Father and
+the Son not only in terms of individual substance but also of nature
+(φύσις), as Arius, Asterius, and Eusebius of Nicomedia: while the Father
+is the only true God (Synt. 37), unbegotten, and unchanged, the Son is
+begotten, suffers affection, and is an offspring (τὸ γέννημα): “If one substance belonging to the unbegotten nature (φύσεως ἀγεννήτου) remains
+beyond quality and quantity, and, in a word, all transformation, while
+another substance is liable of suffering affections”, then one may call the
+former “active substance ‘unbegotten’ and the changing one ‘begotten’”103
+.
+It is evident that, as in an Aristotelian logic, he deals with a nature (here
+unbegotten) which may be instantiated in various individual entities, or
+substances.
+Another important issue concerns the way in which Aetius interprets
+the biblical expression according to which the Son “was begotten before
+the ages”. Although Aetius does not make a straightforward assertion on
+this topic, as Arius and Eunomius do, he states in Synt. 9 that, before his
+generation, the Son existed in the Father only in germ (σπερματικῶς), and
+he acquired all his real properties only subsequent to his generation. 
+
+Additionally, by corroborating Aetius’ view on the Son as offspring
+with his understanding of an “offspring” as “indicating the coming into
+being” (τὸ γέννημα παρόδου ἐστι δηλωτικόν)
+104, we realize that his
+ doctrine is not much different from the main Arian assertion that the Son
+did not exist before his generation. In this way, he also distances himself,
+under this aspect, from the Antiochene legacy.
+Another passage reveals the radical distinction between the unbegotten
+Father and all the begotten entities in terms of substance and causation.
+So, the Father’s hypostasis is active in all causes manifest in the world
+through the substance of his Son. The synonymy between the notions of
+ὑπόστασις and οὐσία also becomes clear:
+If the unbegotten hypostasis manifests itself as a cause (αἰτία) together with,
+and through, the substance of the begotten while being invariable (τὸ
+ἀπαράλλακτον ἔχουσα) in rapport to every cause, then its substance is without analogy (ἀσύγκριτος) and does not manifest outside the unapproachable
+(τὸ ἀπρόσιτον), but exists in itself without analogy and unapproachable
+(ἀσύγκριτος καὶ ἀπρόσιτος), since it is also unbegotten105
+.
+Additionally, we may see that the Father’s substance is “without analogy”, or “incomparable”, to any other substance, including the Son’s
+because their natures are radically different. From this premise of incomparability follows logically that likeness and identity cannot be applied to
+the relationship between their substances, and, for this reason, Aetius
+refutes both the ὁμοούσιον and the ὁμοιούσιον106:
+If God persists endlessly in an unbegotten nature, and the offspring is
+endlessly offspring, then the false doctrines of the homoousion and the
+homoiousion will be unveiled. The incomparability of substance (τὸ ἐν οὐσίᾳ
+ἀσύγκριτον) is set when each nature resides unceasingly in its own rank of
+nature107
+.
+This axiom of incomparability of substance and its refutation of any
+analogy further leads to a form of true Anomoianism, because it rejects
+any ontological analogy or likeness that may be predicated about the substances of the Father and the Son. In the aforementioned Synt. 3-4, the
+axiom of the incomparability of the Father’s substance also leads Aetius
+to refute the classical Antiochene doctrine regarding the indistinguishability of substance between the Father and the Son, articulated even by Asterius and the councils of 340s and 350s. Since the Father and Son are of
+different nature, the individual substances in which they are instantiated
+cannot be indistinguishable. Thus, the individual substance of the Father is always unbegotten and genuinely eternal and divine, while the substance
+of the Son is begotten, which, for Aetius, implies the changing attributes
+of an offspring:
+If he did not grant existence to himself – not because of incapacity of nature
+(τὸ ἀσθενὲς τῆς φύσεως) but because he transcends any cause – how could
+someone conceive that the hypostasized nature might be indistinguishable in
+substance (τὸ ἀπαράλλακτον εἰς οὐσίαν) from the hypostasizing one, when
+this hypostasis does not allow any generation (γένεσιν)
+108?
+The same rejection occurs in Synt. 22 in which Aetius elaborates a
+reductio ad absurdum argument to show that there is only one unbegotten
+substance, that of God the Father:
+If all substances were unbegotten like that of God Almighty, how would it
+then be possible to predicate one substance as impassible and another one as
+subject to passion? If one substance belonging to the unbegotten nature
+(φύσεως ἀγεννήτου) remains beyond quality and quantity, and, in a word,
+all transformation, while another substance is subject to passion and even
+possesses indistinguishability in substance (τὸ ἀπαράλλακτον εἰς οὐσίαν),
+we have either to assign these characteristics to chance, or, logically to call
+the active substance “unbegotten” and the changing one “begotten”109
+.
+We can therefore conclude that it is very unlikely that Aetius, during
+the council of Constantinople 360, in the discussion with Basil of Ancyra
+and the Emperor Constantius, defended the term ἀπαράλλακτον in connection with the substance. Hence, it is most likely that he was expelled from
+the council because he was reigniting, together with Basil of Ancyra, the
+old quarrels on divine οὐσία; or because of his Anomoian doctrine.
+Despite the fact that his text does not contain an Anomoian language, his
+doctrine of the radical incomparability of substance and the refutation of
+any analogy is simply another philosophical modality to express the same
+concept. Likewise, his doctrine about the Son’s pre-existence only “in
+germ”, before his generation, while the fullness of his existence was
+acquired subsequent to his generation, is also a distinct reformulation of
+Arius’ thesis regarding the non-existence of the Son prior to his generation
+from the Father. 
+
+IX. EUNOMIUS AS A HOMOIAN ARIAN
+Finally, I would like to argue that, in spite of the fact that Eunomius’
+theological position differs from Arius and Aetius as regards the knowledge of the divine substance and the likeness between the Father and the Son, he first shares with them some central metaphysical features of the
+Antiochene legacy: the individual understanding of οὐσία and ὑπόστασις
+(seen as synonyms), the rejection of ὁμοούσιος, and the subordination of
+the Son. Secondly, like Arius and his fellows, he envisions this subordination in a radical way, clearly asserting with Arius that the Son did not exist
+before his generation from the Father. As for the likeness, he distances
+himself from Arius’ and Asterius’ view of a radical dissimilarity (or
+Anomoianism), and assumes that the Father and the Son are alike in terms
+of activity. For this reason, his thought can actually be classified as Arian
+Homoianism. In fact, it is significant that he was promoted at the Homoian
+council of Constantinople held in 360, while Aetius was banished.
+Eunomius, therefore, preserves the Antiochene metaphysics of οὐσία
+and considers the terms οὐσία and ὑπόστασις as synonyms110. He becomes
+well known in the debate when he delivers his first book, the Apology111
+.
+In one of the passages, the word οὐσία refers to the Father and the Son as
+individual entities, not to their natures or essences:
+We do not consider that the substance (οὐσία) is different than that which is
+denoted through the designating word, but it is rather the same with the
+hypostasis signified by the name, when the notion properly refers to the
+substance (οὐσία). This substance was begotten, it was not before its own
+formation (οὐκ οὖσαν πρὸ τῆς ἰδίας συστάσεως), being begotten before all
+things by the will of God the Father112
+.
+It is also clear from this passage that Eunomius, like Arius, Asterius,
+and Eusebius of Nicomedia, thought that the Son did not exist prior to his
+coming into being113
+.
+Eunomius equates as well οὐσία and ὑπόστασις in his creed attached
+to the text of the Apology, while arguing that the Father’s ὑπόστασις or
+οὐσία cannot be shared:
+Nothing from his [i.e., Father’s] hypostasis (ὑπόστασις) is shared with the
+begotten, since God is incorruptible, undivided, and indivisible, and the
+incorruptible one does not share his own substance (οὐσία). There is no other
+thing hypostasized like himself (οὔτε καθ’ ἑαυτὸν ἄλλον ὑποστησάμενος), since he is the only unbegotten and, as unbegotten substance, it is impossible
+to be begotten. Likewise, he did not use his own substance to bring to existence, but only his will, since he did not beget anything according to his own
+substance, but rather, according to what he willed114
+.
+The individual understanding of οὐσία is also obvious in Apol. 17, a
+passage in which Eunomius avers that the Son shares with the generated
+things the names of “offspring” (γέννημα) and “work” or “creature”
+(ποίημα). In this way, he also incorporates the Son in the class of offsprings
+and creatures. He argues that his contenders should not be scandalized by
+this assertion, because the Son is actually a very unique and special element of this class, a very special work or offspring:
+Since we seek a good proportion in everything, we are not concerned to hear
+the Son called “work”, as if his substance could be wholly associated with
+something because of the association of names! While the Son is the offspring and work of the unbegotten and uncreated, heaven and angels and any
+other work are the works of this “work”, made “through him” at the Father’s
+command115
+.
+Eunomius classifies the Son with the creatures, and sees the difference
+between the Son and the creatures as a mere difference in the rank (ἀξίωμα) of generated or begotten substances116. He adds a second difference
+with respect to the source of their substances: while the Son is begotten
+from the Father, the other generated things arise out of nothing: “We do
+not see the substance (οὐσία) of the Only-begotten associated with the
+things begotten out of nothing, seeing that the nothing is not a substance”117
+.
+Like the other Arians, Eunomius envisions the Son as a creature not
+able to share the Father’s nature (φύσις) but obviously possessing a distinct
+one. In Apol. 25 Eunomius further asserts that even the Holy Spirit is third
+in nature (φύσις) and lacks godhead (θεότης). Yet, the hierarchy of the
+Father, Son, and Spirit is equally expressed in terms of subordination: the
+Spirit is subordinated to the Son, who created him, and the Son to the
+Father, who was his creator118
+.
+In view of all these supposed ontological differences between Father
+and Son, it is evident that Eunomius’ system of thought does not allow a
+likeness of substance between them. For this reason, Homoiousian theology becomes the main target of criticism in his Apology. In Apol. 24,
+Eunomius absolutely confirms that there can be no likeness of substance
+between the Father and the Son, but only of activity. Emphasizing that the will is a type of activity, Eunomius actually makes his position align with
+the official Homoian standpoint119. In the Confession of Faith, composed
+in 365, he further elaborates on this topic showing that the Son is not
+imitating the Father in an ontological similarity, as a second Father, a
+second unbegotten, etc., but as the image and seal of the Father’s activity
+and power, of his deeds, words, and councils. The Son is, therefore, a
+ created image which imitates the Father in terms of activity and doctrine.
+One of these similarities is that the Son is also called “God”120. The Son
+is indeed Wisdom, Truth, Power, Life, and Begotten Light not by participation in the Father’s condition or glory, but only as a reflection of his
+activity and teaching121. As in Arius’ view, the Father alone owns all these
+qualities by nature, and no other entity (including the Son) may partake of
+them, while the Father’s divinity and glory are incommunicable122
+.
+We can conclude that Eunomius – like Arius, Asterius, Eusebius of
+Nicomedia, and Aetius – envisions a significant ontological distance
+between the unbegotten Father and the created Son in order to guarantee
+the metaphysical condition of the Father as the only unbegotten and uncreated cause, the only first-principle of everything. In this way, he struggles
+to secure both a monotheist theological vision and a consistent metaphysical
+system. We have to observe, nonetheless, that this argument is only possible within the Antiochene metaphysical matrix in which οὐσία denotes
+an individual substance. Yet, it would not be necessary in a Nicene paradigm in which monotheism is ensured by a concept of divinity understood
+as the common nature or divine way of existence.
+
+X. CONCLUDING REMARKS
+The present article sheds new light on the roots and doctrines of Arianism by taking them back to the vision of the synodals of the Council of
+Antioch 268 who condemned Paul of Samosata. In terms of method, the
+present inquiry has not refreshed Harnack’s hypothesis according to which
+the roots of Arianism can be found in Paul of Samosata and his disciple
+Lucian. On the contrary, I have proposed a radically new thesis by comparing Arianism with the synodals who condemned Paul, and who were
+considered as orthodox by everyone in the third and fourth centuries.
+In light of this, the study has revealed two different dimensions in the
+Arian trend: one preserving certain metaphysical elements of the Antiochene trajectory, and one distancing itself from Antioch mainly for philosophical reasons. With regard to the first dimension, the current
+research is built on a previous investigation which maintained that the
+Antiochene view was not an isolated and solitary phenomenon, but rather
+the official confirmation of a position widely conveyed in the Eastern
+Roman Empire in the second half of the third century. Furthermore, in the
+aftermath of the Nicene council, the Antiochene trajectory represented the
+dominant paradigm which tied the vast majority of the Eastern bishops,
+such main theologians as Eusebius of Caesarea and the Homoiousians, and
+received further official confirmation in the key anti-Nicene Councils of
+Antioch 341, Philippopolis 343, Antioch 345, and Sirmium 351.
+In contrast, as argued in the present article, Arius, Asterius, Eusebius
+of Nicomedia, Aetius, and Eunomius will both maintain some ideas of the
+Antiochene trajectory and distance themselves from other aspects of it.
+For this reason, these five authors and their close followers create a new and
+specific theological trajectory, which may simply be labelled with the traditional term of Arianism. Firstly, they preserve three central Antiochene
+tenets: the understanding of οὐσία and ὑπόστασις as an individual substance and its two main consequences, the subordination of the Son, and
+the refutation of the notion of ὁμοούσιος. According to the Antiochene
+paradigm, if one understands οὐσία as individual substance, the ὁμοούσιον would imply a modalist Sabellian position, an ontological identity of
+the Father and Son. Likewise, the Antiochene authors pondered that the
+second οὐσία has to be lower in status, subordinated, in order to avoid
+ditheism and a second first-principle.
+Subordination, however, is a vague concept which implies different gradations: there is a certain understanding of subordination in Origen, a
+different one in other pre-Nicene writers, from Irenaeus, to Clement, to
+Tertullian, another one in Eusebius of Caesarea, or the Homoiousian theology, another view in the councils of Antioch 341 and 345, and yet others
+in the Arian authors. Thus, secondly, the Arian authors share the distinctive strategy of pushing the idea of subordination to the limit so that the
+Son is conceived of as a creature without existence before its generation
+from the Father and without a genuine divinity. These tenets actually distanced all of them from the Antiochene theological language and vision.
+We may conclude, therefore, that, beyond certain distinctive features
+specific to each system, such as the epistemology of the Father’s divine
+substance or its likeness to the Son’s οὐσία, there are several key metaphysical positions which Arius, Asterius, Eusebius of Nicomedia, Aetius,
+and Eunomius share: the conception of οὐσία and ὑπόστασις, the rejection
+of the ὁμοούσιον, the subordination of the Son to the level of a “creature”
+devoid of both genuine divinity and existence before his generation from
+the Father. All these common positions allow us to conceive them as a
+new theological trajectory in the intellectual landscape of the fourth century. That is why I think that the traditional label of Arianism fits perfectly
+to catalogue this trend, with the proviso that it should be limited to Arius, Asterius, Eusebius of Nicomedia, Aetius, and Eunomius, and their close
+followers.
+I also suggest that the Arians developed their maximalist concept of
+subordination, which separated them from the Antiochene trend, mainly
+on philosophical grounds. More specifically, they have drawn the final
+conclusions of the Antiochene metaphysics of οὐσία understood as an
+individual substance. The Antiochene paradigm, therefore, comprehends
+an internal conundrum within its premises or presuppositions. While
+assuming the understanding of οὐσία as an individual substance, Arians
+noticed that it is metaphysically impossible not only to assert with the
+Nicenes that the Father and the Son are of the same substance (because
+this would lead to modalism, to their ontological identity) but also to call
+them “similar” or “alike” in substance with the Homoiousians, because
+a second genuinely divine substance would also become a second firstprinciple, which is a pure metaphysical impossibility. For that reason
+Aetius and Eunomius even criticized their old friends, the Homoiousians.
+Hence, if the Father is a divine οὐσία (understood as an individual
+substance), then he has to be the only unbegotten and uncreated substance
+understood as the first-principle. A second unbegotten substance, as Eusebius of Nicomedia and Arius argued already before Nicaea, would imply
+a second first-principle, which is philosophically impossible, a metaphysical
+heresy. A consistent metaphysical reasoning within the Antiochene
+framework – in which the Son is a second οὐσία, a distinct individual
+substance – entails that this second οὐσία must not only be generated, but
+also possess a lower ontological status than the Father. With this realization, Arians deprived the Son of his eternal existence with the Father and
+assumed that the Son was not – had no existence (or full existence, in the
+case of Aetius) – before his generation. At the same time, the Son is also
+deprived of his genuine divinity and described as a “creature” and “offspring” participating in the Father’s singular genuine divinity.
+Nevertheless, we have to observe that this argument is logically valid
+only within the metaphysical framework of the Antiochene paradigm,
+articulated on its specific metaphysical premises that differ from the
+Nicene ones. On the contrary, these inferences are not valid within the
+Nicene paradigm, due to its metaphysical assumption according to which
+οὐσία denotes a common nature, immaterial stuff, or way of divine existence.
+If one considers οὐσία as common nature, with the Nicenes, ὁμοούσιος
+will no longer be understood through an Aristotelian lens (and imply either
+modalism or tritheism), but by means of a new vision which implies the
+simultaneous sharing of the divine substance.
+In fact, with their logical skills, Arians drew the conclusions which
+unveiled the metaphysical weaknesses and capacities of the Antiochene
+paradigm to secure the genuine divinity of the Son. By doing so, they
+actually delivered le coup de grâce to the Antiochene vision as a metaphysical language that could be applied to the field of theology. They revealed its internal philosophical conundrum from which there are only
+two logical outcomes: either to deny the traditional theological principle
+regarding the Son’s genuine divinity, or to give up the understanding of
+οὐσία as an individual substance and to assume a new meaning of οὐσία
+and a new paradigm. Instead of changing the understanding of οὐσία, they
+carried the first option to its ultimate consequences. But in doing so, they
+also unveiled the metaphysical boundaries of the Antiochene paradigm in
+its capacity to express the traditional Christian theological ideas.
